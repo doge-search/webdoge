@@ -1,0 +1,343 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Pieter Abbeel</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/abbeel.html</website>
+			<image>./ucb_images/abbeel.jpg</image>
+		</professor>
+		<professor>
+			<name>Maneesh Agrawala</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/agrawala.html</website>
+			<image>./ucb_images/agrawala.jpg</image>
+		</professor>
+		<professor>
+			<name>Krste AsanoviÄ‡</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/asanovic.html</website>
+			<image>./ucb_images/asanovic.jpg</image>
+		</professor>
+		<professor>
+			<name>Jonathan Bachrach</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/bachrach.html</website>
+			<image>./ucb_images/bachrach.jpg</image>
+		</professor>
+		<professor>
+			<name>Ruzena Bajcsy</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/bajcsy.html</website>
+			<image>./ucb_images/bajcsy.jpg</image>
+		</professor>
+		<professor>
+			<name>Brian A. Barsky</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/barsky.html</website>
+			<image>./ucb_images/barsky.jpg</image>
+		</professor>
+		<professor>
+			<name>Peter Bartlett</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/bartlett.html</website>
+			<image>./ucb_images/bartlett.jpg</image>
+		</professor>
+		<professor>
+			<name>Eric Brewer</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/brewer.html</website>
+			<image>./ucb_images/brewer.jpg</image>
+		</professor>
+		<professor>
+			<name>John F. Canny</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/canny.html</website>
+			<image>./ucb_images/canny.jpg</image>
+		</professor>
+		<professor>
+			<name>Alessandro Chiesa</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/alexch.html</website>
+			<image>./ucb_images/alexch.jpg</image>
+		</professor>
+		<professor>
+			<name>Phillip ColellaDavid E. Culler</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/culler.html</website>
+			<image>./ucb_images/culler.jpg</image>
+		</professor>
+		<professor>
+			<name>Trevor Darrell</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/darrell.html</website>
+			<image>./ucb_images/darrell.jpg</image>
+		</professor>
+		<professor>
+			<name>James Demmel</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/demmel.html</website>
+			<image>./ucb_images/demmel.jpg</image>
+		</professor>
+		<professor>
+			<name>John DeNero</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/denero.html</website>
+			<image>./ucb_images/denero.jpg</image>
+		</professor>
+		<professor>
+			<name>Anca Dragan</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/anca.html</website>
+			<image>./ucb_images/anca.jpg</image>
+		</professor>
+		<professor>
+			<name>Alexei (Alyosha) Efros</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/efros.html</website>
+			<image>./ucb_images/efros.jpg</image>
+		</professor>
+		<professor>
+			<name>Armando Fox</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/fox.html</website>
+			<image>./ucb_images/fox.jpg</image>
+		</professor>
+		<professor>
+			<name>Michael Franklin</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/franklin.html</website>
+			<image>./ucb_images/franklin.jpg</image>
+		</professor>
+		<professor>
+			<name>Gerald Friedland</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/friedland.html</website>
+			<image>./ucb_images/friedland.jpg</image>
+		</professor>
+		<professor>
+			<name>Jack GallantDan Garcia</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/garcia.html</website>
+			<image>./ucb_images/garcia.jpg</image>
+		</professor>
+		<professor>
+			<name>Sanjam Garg</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/sanjam.html</website>
+			<image>./ucb_images/sanjam.jpg</image>
+		</professor>
+		<professor>
+			<name>Ali GhodsiKen Goldberg</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/goldberg.html</website>
+			<image>./ucb_images/goldberg.jpg</image>
+		</professor>
+		<professor>
+			<name>Joseph Gonzalez</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/jegonzal.html</website>
+			<image>./ucb_images/jegonzal.jpg</image>
+		</professor>
+		<professor>
+			<name>Thomas Griffiths</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/griffiths.html</website>
+			<image>./ucb_images/griffiths.jpg</image>
+		</professor>
+		<professor>
+			<name>Björn Hartmann</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/hartmann.html</website>
+			<image>./ucb_images/hartmann.jpg</image>
+		</professor>
+		<professor>
+			<name>Marti Hearst</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/hearst.html</website>
+			<image>./ucb_images/hearst.jpg</image>
+		</professor>
+		<professor>
+			<name>Joseph M. Hellerstein</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/hellerstein.html</website>
+			<image>./ucb_images/hellerstein.jpg</image>
+		</professor>
+		<professor>
+			<name>Paul N. Hilfinger</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/hilfinger.html</website>
+			<image>./ucb_images/hilfinger.jpg</image>
+		</professor>
+		<professor>
+			<name>Joshua Hug</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/joshhug.html</website>
+			<image>./ucb_images/joshhug.jpg</image>
+		</professor>
+		<professor>
+			<name>Michael Jordan</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/jordan.html</website>
+			<image>./ucb_images/jordan.jpg</image>
+		</professor>
+		<professor>
+			<name>Anthony D. Joseph</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/joseph.html</website>
+			<image>./ucb_images/joseph.jpg</image>
+		</professor>
+		<professor>
+			<name>Richard M. Karp</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/karp.html</website>
+			<image>./ucb_images/karp.jpg</image>
+		</professor>
+		<professor>
+			<name>Randy H. Katz</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/katz.html</website>
+			<image>./ucb_images/katz.jpg</image>
+		</professor>
+		<professor>
+			<name>Daniel Klein</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/klein.html</website>
+			<image>./ucb_images/klein.jpg</image>
+		</professor>
+		<professor>
+			<name>John D. Kubiatowicz</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/kubiatowicz.html</website>
+			<image>./ucb_images/kubiatowicz.jpg</image>
+		</professor>
+		<professor>
+			<name>Jitendra Malik</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/malik.html</website>
+			<image>./ucb_images/malik.jpg</image>
+		</professor>
+		<professor>
+			<name>Elchanan Mossel</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/mossel.html</website>
+			<image>./ucb_images/mossel.jpg</image>
+		</professor>
+		<professor>
+			<name>George Necula</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/necula.html</website>
+			<image>./ucb_images/necula.jpg</image>
+		</professor>
+		<professor>
+			<name>Ren Ng</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/yirenng.html</website>
+			<image>./ucb_images/yirenng.jpg</image>
+		</professor>
+		<professor>
+			<name>James O'Brien</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/obrien.html</website>
+			<image>./ucb_images/obrien.jpg</image>
+		</professor>
+		<professor>
+			<name>Lior Pachter</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/pachter.html</website>
+			<image>./ucb_images/pachter.jpg</image>
+		</professor>
+		<professor>
+			<name>Christos Papadimitriou</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/papadimitriou.html</website>
+			<image>./ucb_images/papadimitriou.jpg</image>
+		</professor>
+		<professor>
+			<name>Tapan S. Parikh</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/tparikh.html</website>
+			<image>./ucb_images/tparikh.jpg</image>
+		</professor>
+		<professor>
+			<name>David A. Patterson</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/patterson.html</website>
+			<image>./ucb_images/patterson.jpg</image>
+		</professor>
+		<professor>
+			<name>Eric Paulos</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/paulos.html</website>
+			<image>./ucb_images/paulos.jpg</image>
+		</professor>
+		<professor>
+			<name>Vern Paxson</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/paxson.html</website>
+			<image>./ucb_images/paxson.jpg</image>
+		</professor>
+		<professor>
+			<name>Raluca Ada Popa</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/ralucap.html</website>
+			<image>./ucb_images/ralucap.jpg</image>
+		</professor>
+		<professor>
+			<name>Prasad Raghavendra</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/praghavendra.html</website>
+			<image>./ucb_images/praghavendra.jpg</image>
+		</professor>
+		<professor>
+			<name>Ravi Ramamoorthi</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/ravir.html</website>
+			<image>./ucb_images/ravir.jpg</image>
+		</professor>
+		<professor>
+			<name>Satish Rao</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/rao.html</website>
+			<image>./ucb_images/rao.jpg</image>
+		</professor>
+		<professor>
+			<name>Sylvia Ratnasamy</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/ratnasamy.html</website>
+			<image>./ucb_images/ratnasamy.jpg</image>
+		</professor>
+		<professor>
+			<name>Benjamin Recht</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/brecht.html</website>
+			<image>./ucb_images/brecht.jpg</image>
+		</professor>
+		<professor>
+			<name>Stuart J. Russell</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/russell.html</website>
+			<image>./ucb_images/russell.jpg</image>
+		</professor>
+		<professor>
+			<name>Koushik Sen</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/ksen.html</website>
+			<image>./ucb_images/ksen.jpg</image>
+		</professor>
+		<professor>
+			<name>Carlo H. Séquin</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/sequin.html</website>
+			<image>./ucb_images/sequin.jpg</image>
+		</professor>
+		<professor>
+			<name>Scott Shenker</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/shenker.html</website>
+			<image>./ucb_images/shenker.jpg</image>
+		</professor>
+		<professor>
+			<name>Jonathan Shewchuk</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/shewchuk.html</website>
+			<image>./ucb_images/shewchuk.jpg</image>
+		</professor>
+		<professor>
+			<name>Alistair Sinclair</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/sinclair.html</website>
+			<image>./ucb_images/sinclair.jpg</image>
+		</professor>
+		<professor>
+			<name>Dawn Song</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/song.html</website>
+			<image>./ucb_images/song.jpg</image>
+		</professor>
+		<professor>
+			<name>Yun S. Song</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/yssong.html</website>
+			<image>./ucb_images/yssong.jpg</image>
+		</professor>
+		<professor>
+			<name>Ion Stoica</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/stoica.html</website>
+			<image>./ucb_images/stoica.jpg</image>
+		</professor>
+		<professor>
+			<name>Bernd Sturmfels</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/sturmfels.html</website>
+			<image>./ucb_images/sturmfels.jpg</image>
+		</professor>
+		<professor>
+			<name>Luca Trevisan</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/trevisan.html</website>
+			<image>./ucb_images/trevisan.jpg</image>
+		</professor>
+		<professor>
+			<name>Doug Tygar</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/tygar.html</website>
+			<image>./ucb_images/tygar.gif</image>
+		</professor>
+		<professor>
+			<name>Umesh Vazirani</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/vazirani.html</website>
+			<image>./ucb_images/vazirani.jpg</image>
+		</professor>
+		<professor>
+			<name>David Wagner</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/wagner.html</website>
+			<image>./ucb_images/wagner.jpg</image>
+		</professor>
+		<professor>
+			<name>John Wawrzynek</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/wawrzynek.html</website>
+			<image>./ucb_images/wawrzynek.jpg</image>
+		</professor>
+		<professor>
+			<name>Katherine A. Yelick</name>
+			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/yelick.html</website>
+			<image>./ucb_images/yelick.jpg</image>
+		</professor>
+	</institution>
