@@ -105,14 +105,13 @@ institution = doc.createElement("institution")
 doc.appendChild(institution)
 #rootUrl = 'https://www.scs.cmu.edu/directory/all'
 #response = urllib2.urlopen(rootUrl)
-html_files = glob.glob('*.html')
+html_files = glob.glob('./factory/*.html')
 for html_file in html_files:
     f = open(html_file, 'r')
     html = f.read()
     my = MyParser()
     my.feed(html)
     f.close()
-    website_no = 0
     for i in range(len(my.infolist)):
         professor = doc.createElement("professor")
         institution.appendChild(professor)
