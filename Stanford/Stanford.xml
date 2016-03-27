@@ -1,0 +1,667 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Maneesh Agrawala</name>
+			<office>364</office>
+			<website>http://graphics.stanford.edu/~maneesh</website>
+			<image>./stanford_images/agrawala-macarthur3-head-square.jpg</image>
+		</professor>
+		<professor>
+			<name>Alex Aiken</name>
+			<office>411</office>
+			<phone>5-3359</phone>
+			<website>http://theory.stanford.edu/~aiken</website>
+			<image>./stanford_images/aiken2014a.jpg</image>
+		</professor>
+		<professor>
+			<name>Peter Bailis</name>
+			<website>http://bailis.org/</website>
+			<image>./stanford_images/pbailis-sm.jpg</image>
+		</professor>
+		<professor>
+			<name>Serafim Batzoglou</name>
+			<office>S266</office>
+			<phone>3-3334</phone>
+			<website>http://www.serafimb.org/people.html</website>
+			<image>./stanford_images/3556025.jpeg</image>
+		</professor>
+		<professor>
+			<name>Gill Bejerano</name>
+			<office>B321</office>
+			<phone>650 723-7666</phone>
+			<website>http://bejerano.stanford.edu/directions.html</website>
+		</professor>
+		<professor>
+			<name>Michael Bernstein</name>
+			<office>384</office>
+			<phone>4-1248</phone>
+			<website>http://hci.stanford.edu/msb/</website>
+			<image>./stanford_images/msb-hoover.jpg</image>
+		</professor>
+		<professor>
+			<name>Dan Boneh</name>
+			<office>475</office>
+			<phone>5-3897</phone>
+			<website>http://www.stanford.edu/~dabo/</website>
+		</professor>
+		<professor>
+			<name>Moses Charikar</name>
+			<office>462</office>
+			<website>http://www-cs-students.stanford.edu/~moses/</website>
+		</professor>
+		<professor>
+			<name>David Cheriton</name>
+			<office>439</office>
+			<phone>3-1131</phone>
+			<website>http://www.stanford.EDU/~cheriton</website>
+		</professor>
+		<professor>
+			<name>Bill Dally</name>
+			<office>301</office>
+			<phone>5-8945</phone>
+			<website>http://cva.stanford.edu/billd_webpage_new.html</website>
+		</professor>
+		<professor>
+			<name>David Dill</name>
+			<office>344</office>
+			<phone>5-3642</phone>
+			<website>http://verify.stanford.edu/dill</website>
+		</professor>
+		<professor>
+			<name>Ron Dror</name>
+			<office>204</office>
+			<phone>497-8586</phone>
+			<website>http://cs.stanford.edu/people/rondror/</website>
+		</professor>
+		<professor>
+			<name>Dawson Engler</name>
+			<office>314</office>
+			<phone>3-0762</phone>
+			<website>http://www.stanford.edu/~engler/</website>
+			<image>./stanford_images/pic2-www.jpg</image>
+		</professor>
+		<professor>
+			<name>Stefano Ermon</name>
+			<office>228</office>
+			<phone>498-9942</phone>
+			<website>http://cs.stanford.edu/~ermon/</website>
+			<image>./stanford_images/IMG_8217_s_1.jpg</image>
+		</professor>
+		<professor>
+			<name>Ron Fedkiw</name>
+			<office>207</office>
+			<website>http://physbam.stanford.edu/~fedkiw</website>
+			<image>./stanford_images/ron_photo_small.jpg</image>
+		</professor>
+		<professor>
+			<name>Hector Garcia-Molina</name>
+			<office>434</office>
+			<phone>3-0685</phone>
+			<website>http://www-db.stanford.edu/people/hector.html</website>
+			<image>./stanford_images/hectorLR.jpg</image>
+		</professor>
+		<professor>
+			<name>Mike Genesereth</name>
+			<office>220</office>
+			<phone>3-0934</phone>
+			<website>http://logic.stanford.edu/people/genesereth/</website>
+		</professor>
+		<professor>
+			<name>Leonidas Guibas</name>
+			<office>S293</office>
+			<phone>3-0304</phone>
+			<website>http://geometry.stanford.edu/member/guibas/index.html</website>
+		</professor>
+		<professor>
+			<name>Patrick Hanrahan</name>
+			<office>370</office>
+			<phone>3-8530</phone>
+			<website>http://www-graphics.stanford.edu/~hanrahan/</website>
+		</professor>
+		<professor>
+			<name>John Hennessy</name>
+			<office> </office>
+			<phone>3-2481</phone>
+			<website>http://hennessy-cube.stanford.edu/JohnHennessy.html</website>
+		</professor>
+		<professor>
+			<name>Mark Horowitz</name>
+			<office>306</office>
+			<phone>5-3707</phone>
+			<website>http://www-vlsi.stanford.edu/~horowitz/</website>
+			<image>./stanford_images/horowitz.jpg</image>
+		</professor>
+		<professor>
+			<name>Doug James</name>
+			<office>362</office>
+			<phone>650-723-0104</phone>
+			<website>http://www.cs.cornell.edu/~djames</website>
+			<image>./stanford_images/12.jpg</image>
+		</professor>
+		<professor>
+			<name>Dan Jurafsky</name>
+			<office>117</office>
+			<phone>723-4284</phone>
+			<website>http://www.stanford.edu/~jurafsky/</website>
+			<image>./stanford_images/danfall13.jpg</image>
+		</professor>
+		<professor>
+			<name>Sachin Katti</name>
+			<office>342</office>
+			<phone>650-724-8960</phone>
+			<website>http://www.stanford.edu/~skatti/</website>
+			<image>./stanford_images/port.jpg</image>
+		</professor>
+		<professor>
+			<name>Oussama Khatib</name>
+			<office>144</office>
+			<phone>3-9753</phone>
+			<website>http://robotics.Stanford.EDU/~ok/</website>
+		</professor>
+		<professor>
+			<name>Christos Kozyrakis</name>
+			<office>304</office>
+			<phone>5-3716</phone>
+			<website>http://csl.stanford.edu/~christos</website>
+			<image>./stanford_images/christos_2013b.jpg</image>
+		</professor>
+		<professor>
+			<name>Anshul Kundaje</name>
+			<office>L301</office>
+			<phone>650-723-2353</phone>
+			<website>http://anshul.kundaje.net</website>
+		</professor>
+		<professor>
+			<name>Monica Lam</name>
+			<office>307</office>
+			<phone>5-3714</phone>
+			<website>http://suif.stanford.edu/~lam</website>
+			<image>./stanford_images/monica-joel.jpg</image>
+		</professor>
+		<professor>
+			<name>James Landay</name>
+			<office>390</office>
+			<phone>498-8215</phone>
+			<website>https://profiles.stanford.edu/james-landay</website>
+		</professor>
+		<professor>
+			<name>Jure Leskovec</name>
+			<office>418</office>
+			<phone>725-3711</phone>
+			<website>http://cs.stanford.edu/people/jure</website>
+			<image>./stanford_images/jure-2b.jpg</image>
+		</professor>
+		<professor>
+			<name>Philip Levis</name>
+			<office>412</office>
+			<phone>5-9046</phone>
+			<website>http://csl.stanford.edu/~pal</website>
+		</professor>
+		<professor>
+			<name>Fei-Fei Li</name>
+			<office>246</office>
+			<phone>725-3860</phone>
+			<website>http://vision.stanford.edu</website>
+			<image>./stanford_images/group3.jpg</image>
+		</professor>
+		<professor>
+			<name>Percy Liang</name>
+			<office>250</office>
+			<phone>725-8797</phone>
+			<website>http://cs.stanford.edu/~pliang/</website>
+			<image>./stanford_images/percy.jpeg</image>
+		</professor>
+		<professor>
+			<name>Chris Manning</name>
+			<office>248</office>
+			<phone>3-7683</phone>
+			<website>http://nlp.stanford.edu/~manning/</website>
+			<image>./stanford_images/Christopher_Manning_027_132x132.jpg</image>
+		</professor>
+		<professor>
+			<name>David Mazieres</name>
+			<office>290</office>
+			<phone>(415) 490-9451</phone>
+			<website>http://www.scs.stanford.edu/~dm/addr/</website>
+		</professor>
+		<professor>
+			<name>Nick McKeown</name>
+			<office>340</office>
+			<phone>650-725-3641</phone>
+			<website>http://ee.stanford.edu/~nickm</website>
+		</professor>
+		<professor>
+			<name>John Mitchell</name>
+			<office>200</office>
+			<phone>3-8634</phone>
+			<website>http://theory.stanford.edu/people/jcm/home.html</website>
+		</professor>
+		<professor>
+			<name>Subhasish Mitra</name>
+			<office>334</office>
+			<phone>724-1915</phone>
+			<website>http://www.stanford.edu/~subh/</website>
+			<image>./stanford_images/image002.jpg</image>
+		</professor>
+		<professor>
+			<name>Andrew Ng</name>
+			<office>156</office>
+			<phone>5-2593</phone>
+			<website>http://www.andrewng.org</website>
+		</professor>
+		<professor>
+			<name>Kunle Olukotun</name>
+			<office>302</office>
+			<phone>5-3713</phone>
+			<website>http://ogun.stanford.edu/~kunle/</website>
+		</professor>
+		<professor>
+			<name>John Ousterhout</name>
+			<office>310</office>
+			<phone>721-6325</phone>
+			<website>http://www.stanford.edu/~ouster</website>
+		</professor>
+		<professor>
+			<name>Balaji Prabhakar</name>
+			<office>269</office>
+			<phone>3-6579</phone>
+			<website>http://www.stanford.edu/~balaji</website>
+			<image>./stanford_images/bpfoto4.jpg</image>
+		</professor>
+		<professor>
+			<name>Chris Re</name>
+			<office>408</office>
+			<phone>725-3331</phone>
+			<website>http://cs.stanford.edu/people/chrismre</website>
+			<image>./stanford_images/chrismre_headshot.jpg</image>
+		</professor>
+		<professor>
+			<name>Eric Roberts</name>
+			<office>202</office>
+			<phone>3-3642</phone>
+			<website>http://cs.Stanford.EDU/people/eroberts</website>
+		</professor>
+		<professor>
+			<name>Mendel Rosenblum</name>
+			<office>309</office>
+			<phone>3-0474</phone>
+			<website>http://www.stanford.edu/~mendel</website>
+			<image>./stanford_images/RosenblumLowRes.jpg</image>
+		</professor>
+		<professor>
+			<name>Tim Roughgarden</name>
+			<office>474</office>
+			<phone>650-724-9147</phone>
+			<website>http://theory.stanford.edu/~tim</website>
+			<image>./stanford_images/Badlands.jpeg</image>
+		</professor>
+		<professor>
+			<name>Mehran Sahami</name>
+			<office>180</office>
+			<phone>3-6059</phone>
+			<website>http://robotics.stanford.edu/users/sahami/bio.html</website>
+		</professor>
+		<professor>
+			<name>Kenneth Salisbury</name>
+			<office>138</office>
+			<phone>725-3358</phone>
+			<website>http://robotics.stanford.edu/~jks/</website>
+			<image>./stanford_images/image002.jpg</image>
+		</professor>
+		<professor>
+			<name>Silvio Savarese</name>
+			<office>154</office>
+			<phone>650-497-0360</phone>
+			<website>http://cvgl.stanford.edu/silvio/</website>
+			<image>./stanford_images/silvio.jpg</image>
+		</professor>
+		<professor>
+			<name>Sebastian Thrun</name>
+			<website>http://robots.stanford.edu</website>
+		</professor>
+		<professor>
+			<name>Greg Valiant</name>
+			<office>470</office>
+			<phone>650-723-1787</phone>
+			<website>http://theory.stanford.edu/~valiant/</website>
+			<image>./stanford_images/me.jpg</image>
+		</professor>
+		<professor>
+			<name>Jennifer Widom</name>
+			<office>422</office>
+			<phone>3-9745</phone>
+			<website>http://infolab.stanford.edu/~widom</website>
+			<image>./stanford_images/portrait.jpg</image>
+		</professor>
+		<professor>
+			<name>Ryan Williams</name>
+			<office>464</office>
+			<phone>650-723-6690</phone>
+			<website>http://www.stanford.edu/~rrwill/</website>
+		</professor>
+		<professor>
+			<name>Virginia Williams</name>
+			<office>468</office>
+			<website>http://theory.stanford.edu/~virgi</website>
+			<image>./stanford_images/virgi-pic.jpg</image>
+		</professor>
+		<professor>
+			<name>Keith Winstein</name>
+			<office>282</office>
+			<phone>617-388-2138</phone>
+			<website>http://cs.stanford.edu/~keithw/</website>
+			<image>./stanford_images/keithw-2013.jpeg</image>
+		</professor>
+		<professor>
+			<name>Jay Borenstein</name>
+			<office>255</office>
+			<phone>6-8242</phone>
+			<website>http://cs210.stanford.edu</website>
+			<image>./stanford_images/stanford.jpg</image>
+		</professor>
+		<professor>
+			<name>Jerry Cain	    	</name>
+			<office>192</office>
+			<phone>650-725-8597</phone>
+		</professor>
+		<professor>
+			<name>Michael Chang	    	</name>
+			<office>203</office>
+		</professor>
+		<professor>
+			<name>Cynthia Lee	    	</name>
+			<office>191</office>
+			<phone>497-3070</phone>
+		</professor>
+		<professor>
+			<name>Nick Parlante</name>
+			<office>189</office>
+			<phone>5-4727</phone>
+			<website>http://cs.Stanford.EDU/people/nick</website>
+			<image>./stanford_images/nick-headshot-smallest-2013.jpg</image>
+		</professor>
+		<professor>
+			<name>Chris Piech	    	</name>
+			<office>193</office>
+			<phone>650-736-6940</phone>
+		</professor>
+		<professor>
+			<name>Keith Schwarz	    	</name>
+			<office>178</office>
+			<phone>650-723-4350</phone>
+		</professor>
+		<professor>
+			<name>Marty Stepp</name>
+			<office>195</office>
+			<phone>723-6602</phone>
+			<website>http://www.martystepp.com/</website>
+		</professor>
+		<professor>
+			<name>Patrick Young</name>
+			<office>194</office>
+			<phone>3-6090</phone>
+			<website>http://www.stanford.edu/~psyoung/</website>
+			<image>./stanford_images/psyoung.jpg</image>
+		</professor>
+		<professor>
+			<name>Julie Zelenski	    	</name>
+			<office>188</office>
+			<phone>5-8596</phone>
+		</professor>
+		<professor>
+			<name>Edward Feigenbaum</name>
+			<office>237</office>
+			<website>http://cs.stanford.edu/people/eaf/wordpress/</website>
+			<image>./stanford_images/feigenbaum-225x300.jpg</image>
+		</professor>
+		<professor>
+			<name>Richard Fikes</name>
+			<phone>650-823-3429</phone>
+			<website>http://www-ksl.stanford.edu/people/bio/fikes.html</website>
+		</professor>
+		<professor>
+			<name>Don Knuth</name>
+			<office>477</office>
+			<website>https://cs.stanford.edu/content/contacting-donald-knuth</website>
+		</professor>
+		<professor>
+			<name>Jean-Claude Latombe</name>
+			<office>135</office>
+			<phone>3-0350</phone>
+			<website>http://robotics.Stanford.EDU/~latombe</website>
+			<image>./stanford_images/image004.jpg</image>
+		</professor>
+		<professor>
+			<name>Marc Levoy</name>
+			<office>366</office>
+			<phone>5-4089</phone>
+			<website>http://graphics.stanford.edu/~levoy/</website>
+			<image>./stanford_images/marc-kamikochi-jul06-cbalessh-shadow.jpg</image>
+		</professor>
+		<professor>
+			<name>Teresa Meng</name>
+			<office>CIS 209</office>
+			<phone>5-3636</phone>
+			<website>http://dualist.stanford.edu/~thm/</website>
+		</professor>
+		<professor>
+			<name>Nils Nilsson</name>
+			<website>http://robotics.stanford.edu/~nilsson</website>
+			<image>./stanford_images/Nils.jpg</image>
+		</professor>
+		<professor>
+			<name>Serge Plotkin</name>
+			<office>472</office>
+			<phone>650-723-0540</phone>
+			<website>http://www.stanford.edu/~plotkin</website>
+			<image>./stanford_images/OPUS_s_plotkin_001_b.jpg</image>
+		</professor>
+		<professor>
+			<name>Vaughan Pratt</name>
+			<office>478</office>
+			<website>http://boole.stanford.edu/pratt.html</website>
+		</professor>
+		<professor>
+			<name>Yoav Shoham</name>
+			<office>140</office>
+			<phone>3-3432</phone>
+			<website>http://robotics.Stanford.EDU/~shoham/</website>
+		</professor>
+		<professor>
+			<name>Jeff Ullman</name>
+			<office>425</office>
+			<website>http://i.stanford.edu/~ullman</website>
+			<image>./stanford_images/ULLMAN.jpg</image>
+		</professor>
+		<professor>
+			<name>Gio Wiederhold</name>
+			<office>410</office>
+			<phone>5-8363</phone>
+			<website>http://infolab.stanford.edu/people/gio.html</website>
+		</professor>
+		<professor>
+			<name>Terry Winograd</name>
+			<office>388</office>
+			<phone>3-2780</phone>
+			<website>http://hci.stanford.edu/winograd</website>
+			<image>./stanford_images/terry12.jpg</image>
+		</professor>
+		<professor>
+			<name>Russ Altman</name>
+			<phone>725-3394</phone>
+			<website>http://smi-web.stanford.edu/people/altman/</website>
+			<image>./stanford_images/jcr:content.thumbnail.140.100.jpg</image>
+		</professor>
+		<professor>
+			<name>Paulo Blikstein</name>
+			<website>http://www.blikstein.com/paulo</website>
+			<image>./stanford_images/resumeimag.jpg</image>
+		</professor>
+		<professor>
+			<name>Stephen Boyd</name>
+			<office>264</office>
+			<phone>650-723-0002</phone>
+			<website>http://www.stanford.edu/~boyd</website>
+			<image>./stanford_images/stephen_boyd2.jpg</image>
+		</professor>
+		<professor>
+			<name>John Duchi	    	</name>
+		</professor>
+		<professor>
+			<name>Martin Fischer</name>
+			<office>297</office>
+			<phone>725-4649</phone>
+			<website>http://www.stanford.edu/~fischer</website>
+			<image>./stanford_images/MartinBrandonKauai0308.jpg</image>
+		</professor>
+		<professor>
+			<name>Sean Follmer</name>
+			<website>http://stanford.edu/~sfollmer/</website>
+		</professor>
+		<professor>
+			<name>Ashish Goel</name>
+			<office>359</office>
+			<website>http://www.stanford.edu/~ashishg</website>
+			<image>./stanford_images/ashishg_medium.jpg</image>
+		</professor>
+		<professor>
+			<name>Noah Goodman</name>
+			<office>356</office>
+			<website>http://stanford.edu/~ngoodman/</website>
+			<image>./stanford_images/ndg-headshot2.jpg</image>
+		</professor>
+		<professor>
+			<name>Ramesh Johari	    	</name>
+			<office>311</office>
+		</professor>
+		<professor>
+			<name>Mykel Kochenderfer</name>
+			<office>255</office>
+			<phone>650-497-3574</phone>
+			<website>http://mykel.kochenderfer.com/</website>
+		</professor>
+		<professor>
+			<name>Michael Levitt	    	</name>
+			<office>D100</office>
+			<phone>276-0500</phone>
+		</professor>
+		<professor>
+			<name>Lester Mackey</name>
+			<website>http://www.stanford.edu/~lmackey</website>
+			<image>./stanford_images/lester_mackey.jpg</image>
+		</professor>
+		<professor>
+			<name>Stephen Montgomery</name>
+			<office>R248A</office>
+			<phone>725-9641</phone>
+			<website>http://montgomerylab.stanford.edu</website>
+			<image>./stanford_images/content_photo_1.jpg</image>
+		</professor>
+		<professor>
+			<name>Allison Okamura	    	</name>
+			<office>115</office>
+			<phone>721-1700</phone>
+		</professor>
+		<professor>
+			<name>Vijay Pande	    	</name>
+		</professor>
+		<professor>
+			<name>Roy Pea	    	</name>
+			<phone>724-3720</phone>
+		</professor>
+		<professor>
+			<name>Fouad Tobagi</name>
+			<office>339</office>
+			<phone>3-1708</phone>
+			<website>http://ee/ee/faculty/Tobagi_Fouad.html</website>
+		</professor>
+		<professor>
+			<name>Benjamin Van Roy	    	</name>
+			<phone>5-0544</phone>
+		</professor>
+		<professor>
+			<name>Ge Wang</name>
+			<office>212</office>
+			<website>http://ccrma.stanford.edu/~ge/</website>
+			<image>./stanford_images/chuck-logo.jpg</image>
+		</professor>
+		<professor>
+			<name>Pei Cao</name>
+			<phone>3-4381</phone>
+			<website>http://crypto.stanford.edu/~cao/</website>
+		</professor>
+		<professor>
+			<name>Stu Card	    	</name>
+			<office>374</office>
+		</professor>
+		<professor>
+			<name>Martin Casado</name>
+			<website>http://yuba.stanford.edu/~casado</website>
+			<image>./stanford_images/mc-jj2.jpg</image>
+		</professor>
+		<professor>
+			<name>Tom Dean	    	</name>
+		</professor>
+		<professor>
+			<name>Vladlen Koltun</name>
+			<office>374</office>
+			<website>http://graphics.stanford.edu/~vladlen</website>
+			<image>./stanford_images/vladlen2.jpg</image>
+		</professor>
+		<professor>
+			<name>Kurt Konolige	    	</name>
+			<phone>650 475 2808</phone>
+		</professor>
+		<professor>
+			<name>Bill MacCartney</name>
+			<website>http://nlp.stanford.edu/~wcmac</website>
+			<image>./stanford_images/office-small.jpg</image>
+		</professor>
+		<professor>
+			<name>Pandu Nayak	    	</name>
+		</professor>
+		<professor>
+			<name>Clark Barrett</name>
+			<office>343</office>
+			<website>http://www.cs.nyu.edu/~barrett</website>
+			<image>./stanford_images/ClarkBarrett.jpg</image>
+		</professor>
+		<professor>
+			<name>Jeff Heer</name>
+			<website>http://jheer.org/</website>
+		</professor>
+		<professor>
+			<name>Axel Hochstein</name>
+			<phone>(650) 209 6646</phone>
+			<website>http://logic.stanford.edu/~ahochstein/index.html</website>
+		</professor>
+		<professor>
+			<name>Scott Klemmer</name>
+			<phone>3-3692</phone>
+			<website>http://hci.stanford.edu/srk</website>
+		</professor>
+		<professor>
+			<name>Youngkeun Kwon	    	</name>
+			<office>337</office>
+		</professor>
+		<professor>
+			<name>Dominik Michels	    	</name>
+			<office>208</office>
+		</professor>
+		<professor>
+			<name>Norbert Pohlmann</name>
+			<office>Gates 201</office>
+			<website>http://www.stanford.edu/~pohlmann</website>
+		</professor>
+		<professor>
+			<name>Alex Russo</name>
+			<website>http://www.cse.chalmers.se/~russo/</website>
+			<image>./stanford_images/ale.jpg</image>
+		</professor>
+		<professor>
+			<name>Jidong Zhai</name>
+			<office>238</office>
+			<website>http://pacman.cs.tsinghua.edu.cn/~zjd/</website>
+			<image>./stanford_images/pacman.cs.tsinghua.edu.cn-~zjd--thumb.jpg</image>
+		</professor>
+	</institution>
