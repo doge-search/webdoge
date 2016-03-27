@@ -103,15 +103,13 @@ fout_xml = file('CMU.xml','w')
 doc = minidom.Document()
 institution = doc.createElement("institution")
 doc.appendChild(institution)
-#rootUrl = 'https://www.scs.cmu.edu/directory/all'
-#response = urllib2.urlopen(rootUrl)
-html_files = glob.glob('./factory/*.html')
-for html_file in html_files:
-    f = open(html_file, 'r')
-    html = f.read()
+
+for no in range(1, 11):
+    rootUrl = 'https://www.scs.cmu.edu/directory/all?term_node_tid_depth=10571&page='+str(no)
+    response = urllib2.urlopen(rootUrl)
+    html = response.read()
     my = MyParser()
     my.feed(html)
-    f.close()
     for i in range(len(my.infolist)):
         professor = doc.createElement("professor")
         institution.appendChild(professor)
