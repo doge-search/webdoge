@@ -490,7 +490,7 @@
 			<name>Russ Altman</name>
 			<phone>725-3394</phone>
 			<website>http://smi-web.stanford.edu/people/altman/</website>
-			<image>./stanford_images/jcr:content.thumbnail.140.100.jpg</image>
+			<!--<image>./stanford_images/jcr.jpg</image>-->
 		</professor>
 		<professor>
 			<name>Paulo Blikstein</name>
