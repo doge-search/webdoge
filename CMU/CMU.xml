@@ -1,12 +1,371 @@
 <?xml version="1.0" ?>
 	<institution>
 		<professor>
+			<name>Umut Acar</name>
+			<title>Associate Professor</title>
+			<office>8205 Gates and Hillman Centers</office>
+			<email>umut@cs.cmu.edu</email>
+			<phone>412-268-6791</phone>
+			<website>https://www.scs.cmu.edu/directory/uacar</website>
+		</professor>
+		<professor>
+			<name>Anil Ada</name>
+			<title>Assistant Teaching Professor</title>
+			<office>6215 Gates and Hillman Centers</office>
+			<email>aada@cs.cmu.edu</email>
+			<phone>(412) 268-3835</phone>
+			<website>https://www.scs.cmu.edu/directory/aada</website>
+			<image>./cmu_images/me3.jpg</image>
+		</professor>
+		<professor>
+			<name>Victor Adamchik</name>
+			<title>Associate Teaching Professor</title>
+			<office>7719 Gates and Hillman Centers</office>
+			<email>adamchik@cs.cmu.edu</email>
+			<phone>(412) 268-8121</phone>
+			<website>https://www.scs.cmu.edu/directory/adamchik</website>
+			<image>./cmu_images/me10.jpg</image>
+		</professor>
+		<professor>
+			<name>Yuvraj Agarwal</name>
+			<title>Assistant Professor</title>
+			<office>5313 Wean Hall</office>
+			<email>yuvraja@cs.cmu.edu</email>
+			<phone>(412) 268-7328</phone>
+			<website>https://www.scs.cmu.edu/directory/yuvraja</website>
+			<image>./cmu_images/yuvraj.jpg</image>
+		</professor>
+		<professor>
+			<name>Jonathan Aldrich</name>
+			<title>Associate Professor; Director, Software Engineering Ph.D. Program</title>
+			<office>4216 Wean Hall</office>
+			<email>aldrich@cs.cmu.edu</email>
+			<phone>(412) 268-7278</phone>
+			<website>https://www.scs.cmu.edu/directory/aldrich</website>
+			<image>./cmu_images/aldrich-mug3.jpg</image>
+		</professor>
+		<professor>
+			<name>Vincent Aleven</name>
+			<title>Associate Professor; Director, Bhci Program</title>
+			<office>3531 Newell-Simon Hall</office>
+			<email>aleven@cs.cmu.edu</email>
+			<phone>(412) 268-5475</phone>
+			<website>https://www.scs.cmu.edu/directory/va0e</website>
+			<image>./cmu_images/vincentoutdoors.jpeg</image>
+		</professor>
+		<professor>
+			<name>Tevfik Oytun Aloglu</name>
+			<title>Visitor</title>
+			<email>taloglu@andrew.cmu.edu</email>
+		</professor>
+		<professor>
+			<name>Mary Amasia</name>
+			<title>Instructor - Portugal</title>
+			<email>mamasia@andrew.cmu.edu</email>
+		</professor>
+		<professor>
+			<name>Omead Amidi</name>
+			<title>Adjunct Faculty</title>
+			<office>4000B Newell-Simon Hall</office>
+			<email>oa02@andrew.cmu.edu</email>
+			<phone>(412) 268-3818</phone>
+			<website>https://www.scs.cmu.edu/directory/oa02</website>
+		</professor>
+		<professor>
+			<name>David Andersen</name>
+			<title>Associate Professor</title>
+			<office>9109 Gates and Hillman Centers</office>
+			<email>dga@cs.cmu.edu</email>
+			<phone>(412) 268-3064</phone>
+			<website>https://www.scs.cmu.edu/directory/dga2</website>
+			<image>./cmu_images/dga-headshot-sm.jpg</image>
+		</professor>
+		<professor>
+			<name>Mads Andersen</name>
+			<title>Visiting Researcher</title>
+			<office>4111 Wean Hall</office>
+			<email>manderse@andrew.cmu.edu</email>
+		</professor>
+		<professor>
+			<name>Ann Anderson</name>
+			<title>Lecturer</title>
+			<email>apa@cs.cmu.edu</email>
+			<phone>(412) 268-2000</phone>
+		</professor>
+		<professor>
+			<name>Eric Anderson</name>
+			<title>Systems Scientist</title>
+			<office>6005 Gates and Hillman Centers</office>
+			<email>andersoe@cs.cmu.edu</email>
+			<phone>(412) 268-1908</phone>
+			<website>https://www.scs.cmu.edu/directory/andersoe</website>
+			<image>./cmu_images/me-pigeon-cropped.jpg</image>
+		</professor>
+		<professor>
+			<name>Dimitrios Apostolopoulos</name>
+			<title>Senior Systems Scientist; Special Faculty-Senior Researcher</title>
+			<office>205 National Robotics Engineering Center</office>
+			<email>da1v@cs.cmu.edu</email>
+			<phone>(412) 681-5901</phone>
+			<website>https://www.scs.cmu.edu/directory/da1v</website>
+		</professor>
+		<professor>
+			<name>Vasilii Artemev</name>
+			<title>Visiting Scholar</title>
+			<email>vartemev@andrew.cmu.edu</email>
+		</professor>
+		<professor>
+			<name>Simone Ashby</name>
+			<title>Instructor - Portugal</title>
+			<email>sashby@andrew.cmu.edu</email>
+		</professor>
+		<professor>
+			<name>Christopher Atkeson</name>
+			<title>Professor</title>
+			<office>A527 Newell-Simon Hall</office>
+			<email>cga@cs.cmu.edu</email>
+			<phone>(412) 268-5544</phone>
+			<website>https://www.scs.cmu.edu/directory/cga</website>
+			<image>./cmu_images/bill10ss.jpg</image>
+		</professor>
+		<professor>
+			<name>James Auger</name>
+			<title>Instructor - Portugal</title>
+			<email>jauger@andrew.cmu.edu</email>
+		</professor>
+		<professor>
+			<name>Ruhan Azad</name>
+			<title>Adjunct Associate Teaching Professor</title>
+			<office>300 South Craig Street</office>
+			<email>ruhana@andrew.cmu.edu</email>
+		</professor>
+		<professor>
+			<name>Amos Azaria</name>
+			<title>Post Doctoral Fellow</title>
+			<office>8114 Gates and Hillman Centers</office>
+			<email>azariaa@cs.cmu.edu</email>
+		</professor>
+		<professor>
+			<name>Sang Won Bae</name>
+			<title>Post Doctoral Fellow</title>
+			<office>2502 Newell-Simon Hall</office>
+			<email>gracebae@andrew.cmu.edu</email>
+		</professor>
+		<professor>
+			<name>James Bagnell</name>
+			<title>Associate Professor; Tenure Track Faculty</title>
+			<office>219 Smith Hall</office>
+			<email>dbagnell@cs.cmu.edu</email>
+			<phone>(412) 681-8669</phone>
+			<website>https://www.scs.cmu.edu/directory/bagnell2</website>
+		</professor>
+		<professor>
+			<name>Zhen Bai</name>
+			<title>Post Doctoral Fellow</title>
+			<office>4604 Newell-Simon Hall</office>
+		</professor>
+		<professor>
+			<name>Zhen Bai</name>
+			<title>Post Doctoral Fellow</title>
+			<office>4604 Newell-Simon Hall</office>
+			<email>zhenb@andrew.cmu.edu</email>
+		</professor>
+		<professor>
+			<name>James Baker</name>
+			<title>Distinguished Career Professor</title>
+			<office>6705 Gates and Hillman Centers</office>
+			<email>jkbaker@andrew.cmu.edu</email>
+			<phone>(412) 268-9859</phone>
+		</professor>
+		<professor>
+			<name>Christopher Baker</name>
+			<title>Commercialization Specialist</title>
+			<office>256 National Robotics Engineering Center</office>
+			<email>cbaker@cs.cmu.edu</email>
+			<phone>(412) 681-6900</phone>
+			<website>https://www.scs.cmu.edu/directory/cbaker</website>
+		</professor>
+		<professor>
+			<name>Maria Balcan</name>
+			<title>Associate Professor</title>
+			<office>8017 Gates and Hillman Centers</office>
+			<email>ninamf@cs.cmu.edu</email>
+			<phone>(412) 268-5295</phone>
+			<website>https://www.scs.cmu.edu/directory/mbalcan</website>
+			<image>./cmu_images/nina_small2.jpg</image>
+		</professor>
+		<professor>
+			<name>Laura Ballay</name>
+			<title>Director of MHCI</title>
+			<office>238 300 South Craig Street</office>
+			<email>lballay@cs.cmu.edu</email>
+			<phone>(412) 268-4229</phone>
+		</professor>
+		<professor>
+			<name>Miguel Ballesteros</name>
+			<title>Visiting Research Scholar</title>
+			<office>5413 Gates and Hillman Centers</office>
+			<email>mballest@andrew.cmu.edu</email>
+		</professor>
+		<professor>
+			<name>Tadas Baltrusaitis</name>
+			<title>Post Doctoral Associate</title>
+			<office>5413 Gates and Hillman Centers</office>
+			<email>tb346@cam.ac.uk</email>
+		</professor>
+		<professor>
+			<name>Stephanie Balzer</name>
+			<title>Lecturer</title>
+			<office>7225 Gates and Hillman Centers</office>
+			<email>balzers@andrew.cmu.edu</email>
+			<phone>(412) 268-7823</phone>
+			<website>https://www.scs.cmu.edu/directory/balzers</website>
+			<image>./cmu_images/stephanie_balzer.jpg</image>
+		</professor>
+		<professor>
+			<name>Ziv Bar-Joseph</name>
+			<title>Professor</title>
+			<office>8006 Gates and Hillman Centers</office>
+			<email>zivbj@cs.cmu.edu</email>
+			<phone>(412) 268-8595</phone>
+			<website>https://www.scs.cmu.edu/directory/zivbj</website>
+			<image>./cmu_images/zivPic.jpg</image>
+		</professor>
+		<professor>
+			<name>Matthew Bass</name>
+			<title>Assistant Teaching Professor</title>
+			<office>267 300 South Craig Street</office>
+			<email>mbass@cs.cmu.edu</email>
+			<phone>(412) 268-6163</phone>
+		</professor>
+		<professor>
+			<name>Ljudevit Bauer</name>
+			<title>Associate Professor</title>
+			<email>lbauer@andrew.cmu.edu</email>
+			<phone>(412) 268-9745</phone>
+		</professor>
+		<professor>
+			<name>Darrin Bentivegna</name>
+			<title>Adjunct Faculty</title>
+			<office>4000B Newell-Simon Hall</office>
+			<email>darrinb@andrew.cmu.edu</email>
+			<phone>(412) 268-3818</phone>
+		</professor>
+		<professor>
+			<name>Taylor Berg-Kirkpatrick</name>
+			<title>Affiliated Faculty</title>
+			<office>Gates and Hillman Centers</office>
+			<email>tbergkir@andrew.cmu.edu</email>
+		</professor>
+		<professor>
+			<name>Hans Berliner</name>
+			<title>Principal Research Scientist, Emeritus</title>
+			<office>4212 Wean Hall</office>
+			<email>berliner@andrew.cmu.edu</email>
+			<phone>(412) 268-2565</phone>
+		</professor>
+		<professor>
+			<name>Sergi Bermudez Badia</name>
+			<title>Instructor - Portugal</title>
+			<office>Newell-Simon Hall</office>
+			<email>sber5438@andrew.cmu.edu</email>
+		</professor>
+		<professor>
+			<name>Karen Berntsen</name>
+			<title>Associate Teaching Professor</title>
+			<office>3613 Newell-Simon Hall</office>
+			<email>berntsen@cs.cmu.edu</email>
+			<phone>(412) 268-8353</phone>
+		</professor>
+		<professor>
+			<name>Jeffrey Bigham</name>
+			<title>Associate Professor</title>
+			<office>3525 Newell-Simon Hall</office>
+			<email>jbigham@cs.cmu.edu</email>
+			<phone>(412) 945-0708</phone>
+			<website>https://www.scs.cmu.edu/directory/jbigham</website>
+		</professor>
+		<professor>
+			<name>Lidong Bing</name>
+			<title>Post Doctoral Fellow</title>
+			<office>Gates and Hillman Centers</office>
+			<email>lbing@andrew.cmu.edu</email>
+		</professor>
+		<professor>
+			<name>William Bishop</name>
+			<title>Post Doctoral Associate</title>
+			<office>8114 Gates and Hillman Centers</office>
+			<email>wbishop@andrew.cmu.edu</email>
+			<phone>(412) 268-2022</phone>
+		</professor>
+		<professor>
+			<name>Alan Black</name>
+			<title>Professor</title>
+			<office>5701 Gates and Hillman Centers</office>
+			<email>awb@cs.cmu.edu</email>
+			<phone>(412) 268-6299</phone>
+		</professor>
+		<professor>
+			<name>Guy Blelloch</name>
+			<title>Professor</title>
+			<office>9211 Gates and Hillman Centers</office>
+			<email>guyb@cs.cmu.edu</email>
+			<phone>(412) 268-6245</phone>
+			<website>https://www.scs.cmu.edu/directory/gb1y</website>
+			<image>./cmu_images/guySmall.jpg</image>
+		</professor>
+		<professor>
+			<name>Joshua Bloch</name>
+			<title>Professor of The Practice</title>
+			<office>4213 Wean Hall</office>
+			<email>jbloch@andrew.cmu.edu</email>
+		</professor>
+		<professor>
+			<name>Lenore Blum</name>
+			<title>Distinguished Career Professor of CS</title>
+			<office>7105 Gates and Hillman Centers</office>
+			<email>lblum@cs.cmu.edu</email>
+			<phone>(412) 268-8139</phone>
+			<website>https://www.scs.cmu.edu/directory/lblum</website>
+			<image>./cmu_images/image001.jpg</image>
+		</professor>
+		<professor>
+			<name>Manuel Blum</name>
+			<title>Bruce J. Nelson University Professor</title>
+			<office>7205 Gates and Hillman Centers</office>
+			<email>mblum@cs.cmu.edu</email>
+			<phone>(412) 268-3742</phone>
+			<website>https://www.scs.cmu.edu/directory/mblum</website>
+		</professor>
+		<professor>
+			<name>Avrim Blum</name>
+			<title>Professor</title>
+			<office>8111 Gates and Hillman Centers</office>
+			<email>avrim@cs.cmu.edu</email>
+			<phone>(412) 268-6452</phone>
+			<website>https://www.scs.cmu.edu/directory/avrim</website>
+		</professor>
+		<professor>
+			<name>Christopher Bogart</name>
+			<title>Post-Doctoral Research Associate</title>
+			<office>4128 Wean Hall</office>
+			<email>cbogart@cs.cmu.edu</email>
+			<phone>(412) 268-8059</phone>
+		</professor>
+		<professor>
+			<name>Houda Bouamor</name>
+			<title>Visiting Assistant Teaching Professor, Computer Science</title>
+			<office>1015 Carnegie Mellon Qatar</office>
+			<email>hbouamor@qatar.cmu.edu</email>
+		</professor>
+		<professor>
 			<name>Travis Breaux</name>
 			<title>Assistant Professor</title>
 			<office>5103 Wean Hall</office>
 			<email>breaux@cs.cmu.edu</email>
 			<phone>(412) 268-7334</phone>
 			<website>https://www.scs.cmu.edu/directory/tdbreaux</website>
+			<image>./cmu_images/travis-breaux.jpg</image>
 		</professor>
 		<professor>
 			<name>Bambi Brewer</name>
@@ -14,7 +373,6 @@
 			<office>4000B Newell-Simon Hall</office>
 			<email>bambi@andrew.cmu.edu</email>
 			<phone>(412) 268-3818</phone>
-			<website>https://www.scs.cmu.edu/directory/bambi</website>
 		</professor>
 		<professor>
 			<name>Stephen Brookes</name>
@@ -23,6 +381,7 @@
 			<email>brookes@cs.cmu.edu</email>
 			<phone>(412) 268-8820</phone>
 			<website>https://www.scs.cmu.edu/directory/sb21</website>
+			<image>./cmu_images/steve_thumb.jpg</image>
 		</professor>
 		<professor>
 			<name>Ralf Brown</name>
@@ -39,6 +398,7 @@
 			<email>browning@andrew.cmu.edu</email>
 			<phone>(412) 721-6889</phone>
 			<website>https://www.scs.cmu.edu/directory/browning</website>
+			<image>./cmu_images/browning_brett.jpg</image>
 		</professor>
 		<professor>
 			<name>Clifford Brubaker</name>
@@ -46,7 +406,6 @@
 			<office>4000B Newell-Simon Hall</office>
 			<email>cliffb@andrew.cmu.edu</email>
 			<phone>(412) 268-3818</phone>
-			<website>https://www.scs.cmu.edu/directory/cliffb</website>
 		</professor>
 		<professor>
 			<name>David Brumley</name>
@@ -54,7 +413,6 @@
 			<office>2202 Collaborative Innovation Center</office>
 			<email>dbrumley@cs.cmu.edu</email>
 			<phone>(412) 268-3851</phone>
-			<website>https://www.scs.cmu.edu/directory/dbrumley</website>
 		</professor>
 		<professor>
 			<name>Emma Brunskill</name>
@@ -62,7 +420,6 @@
 			<office>7217 Gates and Hillman Centers</office>
 			<email>ebrun@cs.cmu.edu</email>
 			<phone>(412) 268-3621</phone>
-			<website>https://www.scs.cmu.edu/directory/ebrun</website>
 		</professor>
 		<professor>
 			<name>Peter Brusilovsky</name>
@@ -71,6 +428,7 @@
 			<email>plb@andrew.cmu.edu</email>
 			<phone>(412) 268-3537</phone>
 			<website>https://www.scs.cmu.edu/directory/plb</website>
+			<image>./cmu_images/PBrusilovsky.jpg</image>
 		</professor>
 		<professor>
 			<name>Randal Bryant</name>
@@ -79,6 +437,7 @@
 			<email>bryant@cs.cmu.edu</email>
 			<phone>(412) 268-8821</phone>
 			<website>https://www.scs.cmu.edu/directory/rb3l</website>
+			<image>./cmu_images/reb-portrait10.jpg</image>
 		</professor>
 		<professor>
 			<name>James Callan</name>
@@ -87,6 +446,7 @@
 			<email>callan@cs.cmu.edu</email>
 			<phone>(412) 268-4525</phone>
 			<website>https://www.scs.cmu.edu/directory/callan</website>
+			<image>./cmu_images/JPC-May24-14.jpg</image>
 		</professor>
 		<professor>
 			<name>Javier Camara Moreno</name>
@@ -99,20 +459,17 @@
 			<name>Monica da Silva Cameirao</name>
 			<title>Instructor - Portugal</title>
 			<email>monicad@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/monicad</website>
 		</professor>
 		<professor>
 			<name>Pedro Campos</name>
 			<title>Instructor - Portugal</title>
 			<office>Newell-Simon Hall</office>
 			<email>pfcampos@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/pfcampos</website>
 		</professor>
 		<professor>
 			<name>Ioannis Caragiannis</name>
 			<title>Visiting Faculty</title>
 			<email>iannis@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/iannis</website>
 		</professor>
 		<professor>
 			<name>Jaime Carbonell</name>
@@ -121,6 +478,7 @@
 			<email>jgc@cs.cmu.edu</email>
 			<phone>(412) 268-7279</phone>
 			<website>https://www.scs.cmu.edu/directory/jc6o</website>
+			<image>./cmu_images/jaimepic.jpg</image>
 		</professor>
 		<professor>
 			<name>Kathleen Carley</name>
@@ -128,7 +486,6 @@
 			<office>5130 Wean Hall</office>
 			<email>carley@cs.cmu.edu</email>
 			<phone>(412) 268-6016</phone>
-			<website>https://www.scs.cmu.edu/directory/carley</website>
 		</professor>
 		<professor>
 			<name>Jacobo Carrasquel</name>
@@ -137,6 +494,7 @@
 			<email>jxc@cs.cmu.edu</email>
 			<phone>(412) 268-6729</phone>
 			<website>https://www.scs.cmu.edu/directory/jacobo</website>
+			<image>./cmu_images/summer-Pict.jpg</image>
 		</professor>
 		<professor>
 			<name>Justine Cassell</name>
@@ -145,20 +503,19 @@
 			<email>justine@cs.cmu.edu</email>
 			<phone>(412) 204-6268</phone>
 			<website>https://www.scs.cmu.edu/directory/jcassell</website>
+			<image>./cmu_images/jc_pressPage.jpg</image>
 		</professor>
 		<professor>
 			<name>Iliano Cervesato</name>
 			<title>Teaching Professor of Computer Science</title>
 			<office>1008 Carnegie Mellon Qatar</office>
 			<email>iliano@qatar.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/iliano</website>
 		</professor>
 		<professor>
 			<name>Chu Sern Joel Chan</name>
 			<title>Post Doctoral Fellow</title>
 			<office>2504B Newell-Simon Hall</office>
 			<email>joelchuc@cs.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/joelchuc</website>
 		</professor>
 		<professor>
 			<name>Xiaojun Chang</name>
@@ -166,7 +523,6 @@
 			<office>5404 Gates and Hillman Centers</office>
 			<email>uqxchan1@cs.cmu.edu</email>
 			<phone>(412) 268-6591</phone>
-			<website>https://www.scs.cmu.edu/directory/uqxchan1</website>
 		</professor>
 		<professor>
 			<name>Kai-Min Chang</name>
@@ -175,6 +531,7 @@
 			<email>kkchang@cs.cmu.edu</email>
 			<phone>(412) 268-1810</phone>
 			<website>https://www.scs.cmu.edu/directory/kkchang</website>
+			<image>./cmu_images/kobe.jpg</image>
 		</professor>
 		<professor>
 			<name>Steven Chase</name>
@@ -182,49 +539,42 @@
 			<office>115N Mellon Institute</office>
 			<email>schase@andrew.cmu.edu</email>
 			<phone>(412) 268-5512</phone>
-			<website>https://www.scs.cmu.edu/directory/schase</website>
 		</professor>
 		<professor>
 			<name>Ming Chen</name>
 			<title>Visiting Research Scholar</title>
 			<office>5510 Gates and Hillman Centers</office>
 			<email>mingc1@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/mingc1</website>
 		</professor>
 		<professor>
 			<name>Qiang Alex Chen</name>
 			<title>Post Doctoral Fellow</title>
 			<office>3612 Newell-Simon Hall</office>
 			<email>alexqiac@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/alexqiac</website>
 		</professor>
 		<professor>
 			<name>De Cheng</name>
 			<title>Visiting Research Scholar</title>
 			<office>4204 Wean Hall</office>
 			<email>dcheng1@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/dcheng1</website>
 		</professor>
 		<professor>
 			<name>Lakshmi Chinna Thambi</name>
 			<title>Adjunct Associate Teaching Professor</title>
 			<office>300 South Craig Street</office>
 			<email>lakshmic@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/lakshmic</website>
 		</professor>
 		<professor>
 			<name>Yoram Chisik</name>
 			<title>Instructor - Portugal</title>
 			<office>Newell-Simon Hall</office>
 			<email>ychisik@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/ychisik</website>
 		</professor>
 		<professor>
 			<name>Sunyoung Cho</name>
 			<title>Post Doctoral Fellow</title>
 			<office>2502 Newell-Simon Hall</office>
 			<email>sunyounc@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/sunyounc</website>
 		</professor>
 		<professor>
 			<name>Howard Choset</name>
@@ -240,14 +590,12 @@
 			<office>4121 Wean Hall</office>
 			<email>panos@andrew.cmu.edu</email>
 			<phone>(412) 268-4751</phone>
-			<website>https://www.scs.cmu.edu/directory/panos</website>
 		</professor>
 		<professor>
 			<name>Jaemin Chun</name>
 			<title>Visiting Scholar In HCII</title>
 			<office>2502 Newell-Simon Hall</office>
 			<email>jaemchun@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/jaemchun</website>
 		</professor>
 		<professor>
 			<name>Abdullah Cicek</name>
@@ -274,7 +622,6 @@
 			<name>Marisa Cohn</name>
 			<title>Instructor - Portugal</title>
 			<email>mcohn@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/mcohn</website>
 		</professor>
 		<professor>
 			<name>Jeffrey Cohn</name>
@@ -290,14 +637,12 @@
 			<office>316 Scaife Hall</office>
 			<email>shc17@andrew.cmu.edu</email>
 			<phone>(412) 268-5222</phone>
-			<website>https://www.scs.cmu.edu/directory/shc17</website>
 		</professor>
 		<professor>
 			<name>Phillip Compeau</name>
 			<title>Assistant Teaching Professor</title>
 			<office>7403 Gates and Hillman Centers</office>
 			<email>pcompeau@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/pcompeau</website>
 		</professor>
 		<professor>
 			<name>Rory Cooper</name>
@@ -305,7 +650,6 @@
 			<office>4000B Newell-Simon Hall</office>
 			<email>roryc@andrew.cmu.edu</email>
 			<phone>(412) 268-3818</phone>
-			<website>https://www.scs.cmu.edu/directory/roryc</website>
 		</professor>
 		<professor>
 			<name>Albert Corbett</name>
@@ -313,7 +657,6 @@
 			<office>3605 Newell-Simon Hall</office>
 			<email>ac21@cs.cmu.edu</email>
 			<phone>(412) 268-8808</phone>
-			<website>https://www.scs.cmu.edu/directory/corbett</website>
 		</professor>
 		<professor>
 			<name>Stelian Coros</name>
@@ -321,7 +664,6 @@
 			<office>229 Smith Hall</office>
 			<email>scoros@cs.cmu.edu</email>
 			<phone>(412) 268-3997</phone>
-			<website>https://www.scs.cmu.edu/directory/scoros</website>
 		</professor>
 		<professor>
 			<name>Thomas Cortina</name>
@@ -330,6 +672,7 @@
 			<email>tcortina@cs.cmu.edu</email>
 			<phone>(412) 268-3514</phone>
 			<website>https://www.scs.cmu.edu/directory/tcortina</website>
+			<image>./cmu_images/tcortina_cycle.jpg</image>
 		</professor>
 		<professor>
 			<name>Keenan Crane</name>
@@ -337,7 +680,6 @@
 			<office>215 Smith Hall</office>
 			<email>keenanc@andrew.cmu.edu</email>
 			<phone>(412) 268-1120</phone>
-			<website>https://www.scs.cmu.edu/directory/keenanc</website>
 		</professor>
 		<professor>
 			<name>Lorrie Cranor</name>
@@ -346,6 +688,7 @@
 			<email>lorrie@cs.cmu.edu</email>
 			<phone>(412) 268-7534</phone>
 			<website>https://www.scs.cmu.edu/directory/lorrie</website>
+			<image>./cmu_images/lorrie-oct2013pwquilt-small.jpg</image>
 		</professor>
 		<professor>
 			<name>Karl Crary</name>
@@ -359,7 +702,6 @@
 			<name>Chris Csikszentmihalyi</name>
 			<title>Instructor - Portugal</title>
 			<email>ccsiksze@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/ccsiksze</website>
 		</professor>
 		<professor>
 			<name>Laura Dabbish</name>
@@ -376,6 +718,7 @@
 			<email>rbd@cs.cmu.edu</email>
 			<phone>(412) 268-3827</phone>
 			<website>https://www.scs.cmu.edu/directory/rbd</website>
+			<image>./cmu_images/rbd-lab-small.jpg</image>
 		</professor>
 		<professor>
 			<name>Gautam Dasarathy</name>
@@ -390,21 +733,18 @@
 			<office>2118 Collaborative Innovation Center</office>
 			<email>danupam@andrew.cmu.edu</email>
 			<phone>(412) 268-4254</phone>
-			<website>https://www.scs.cmu.edu/directory/danupam</website>
 		</professor>
 		<professor>
 			<name>Aynur Dayanik</name>
 			<title>Visiting Faculty</title>
 			<office>Gates and Hillman Centers</office>
 			<email>adayanik@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/adayanik</website>
 		</professor>
 		<professor>
 			<name>David De Aveiro</name>
 			<title>Instructor - Portugal</title>
 			<office>Newell-Simon Hall</office>
 			<email>davidsda@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/davidsda</website>
 		</professor>
 		<professor>
 			<name>Fernando De La Torre Frade</name>
@@ -413,20 +753,19 @@
 			<email>ftorre@cs.cmu.edu</email>
 			<phone>(412) 268-4706</phone>
 			<website>https://www.scs.cmu.edu/directory/ftorre</website>
+			<image>./cmu_images/icon_fernando.png</image>
 		</professor>
 		<professor>
 			<name>Joao De Sousa</name>
 			<title>Adjunct Instructor</title>
 			<office>2305 Wean Hall</office>
 			<email>joaod@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/joaod</website>
 		</professor>
 		<professor>
 			<name>Gokul Krishnaa Devaraju</name>
 			<title>Visiting Researcher</title>
 			<office>2502 Newell-Simon Hall</office>
 			<email>gokulk@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/gokulk</website>
 		</professor>
 		<professor>
 			<name>Anind Dey</name>
@@ -435,6 +774,7 @@
 			<email>anind@cs.cmu.edu</email>
 			<phone>---</phone>
 			<website>https://www.scs.cmu.edu/directory/anind</website>
+			<image>./cmu_images/dey.big.jpg</image>
 		</professor>
 		<professor>
 			<name>M Dias</name>
@@ -450,7 +790,6 @@
 			<office>4000B Newell-Simon Hall</office>
 			<email>digioia@andrew.cmu.edu</email>
 			<phone>(412) 268-3818</phone>
-			<website>https://www.scs.cmu.edu/directory/digioia</website>
 		</professor>
 		<professor>
 			<name>John Dolan</name>
@@ -465,7 +804,6 @@
 			<title>Systems Scientist</title>
 			<office>2502A Newell-Simon Hall</office>
 			<email>adoryab@cs.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/adoryab</website>
 		</professor>
 		<professor>
 			<name>Artur Dubrawski</name>
@@ -482,13 +820,13 @@
 			<email>cdyer@cs.cmu.edu</email>
 			<phone>(412) 268-2894</phone>
 			<website>https://www.scs.cmu.edu/directory/cjdyer</website>
+			<image>./cmu_images/dyer.jpg</image>
 		</professor>
 		<professor>
 			<name>Michael Eagle</name>
 			<title>Post Doctoral Fellow</title>
 			<office>2602C Newell-Simon Hall</office>
 			<email>meagle@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/meagle</website>
 		</professor>
 		<professor>
 			<name>David Eckhardt</name>
@@ -497,6 +835,7 @@
 			<email>davide@cs.cmu.edu</email>
 			<phone>(412) 268-6720</phone>
 			<website>https://www.scs.cmu.edu/directory/de0u</website>
+			<image>./cmu_images/2009-09-01.4_sub_square_100.png</image>
 		</professor>
 		<professor>
 			<name>Alexei Efros</name>
@@ -504,7 +843,6 @@
 			<office>4000B Newell-Simon Hall</office>
 			<email>efros@andrew.cmu.edu</email>
 			<phone>(412) 268-3818</phone>
-			<website>https://www.scs.cmu.edu/directory/efros</website>
 		</professor>
 		<professor>
 			<name>Jeffrey Eppinger</name>
@@ -513,6 +851,7 @@
 			<email>jle@cs.cmu.edu</email>
 			<phone>(412) 268-7688</phone>
 			<website>https://www.scs.cmu.edu/directory/je0k</website>
+			<image>./cmu_images/jle-2007.jpg</image>
 		</professor>
 		<professor>
 			<name>Michael Erdmann</name>
@@ -521,6 +860,7 @@
 			<email>me@cs.cmu.edu</email>
 			<phone>(412) 268-7883</phone>
 			<website>https://www.scs.cmu.edu/directory/me51</website>
+			<image>./cmu_images/KayakS.jpg</image>
 		</professor>
 		<professor>
 			<name>Maxine Eskenazi</name>
@@ -528,14 +868,12 @@
 			<office>6413 Gates and Hillman Centers</office>
 			<email>max@cs.cmu.edu</email>
 			<phone>(412) 268-3858</phone>
-			<website>https://www.scs.cmu.edu/directory/max</website>
 		</professor>
 		<professor>
 			<name>Poovammal Eswaran</name>
 			<title>Adjunct Faculty Member</title>
 			<office>300 South Craig Street</office>
 			<email>peswaran@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/peswaran</website>
 		</professor>
 		<professor>
 			<name>Scott Fahlman</name>
@@ -543,7 +881,6 @@
 			<office>6417 Gates and Hillman Centers</office>
 			<email>sef@cs.cmu.edu</email>
 			<phone>(412) 268-2575</phone>
-			<website>https://www.scs.cmu.edu/directory/sef</website>
 		</professor>
 		<professor>
 			<name>Christos Faloutsos</name>
@@ -552,13 +889,13 @@
 			<email>christos@cs.cmu.edu</email>
 			<phone>(412) 268-1457</phone>
 			<website>https://www.scs.cmu.edu/directory/christos</website>
+			<image>./cmu_images/cf2014-tn.jpg</image>
 		</professor>
 		<professor>
 			<name>David Farber</name>
 			<title>Adjunct Professor of Internet Studies</title>
 			<office>Wean Hall</office>
 			<email>farber@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/farber</website>
 		</professor>
 		<professor>
 			<name>Kayvon Fatahalian</name>
@@ -567,6 +904,7 @@
 			<email>kayvonf@cs.cmu.edu</email>
 			<phone>(412) 268-1234</phone>
 			<website>https://www.scs.cmu.edu/directory/kayvonf</website>
+			<image>./cmu_images/kayvonf_photo2.jpg</image>
 		</professor>
 		<professor>
 			<name>Gary Fedder</name>
@@ -574,7 +912,6 @@
 			<office>2215 Hamburg Hall</office>
 			<email>fedder@cs.cmu.edu</email>
 			<phone>(412) 268-8443</phone>
-			<website>https://www.scs.cmu.edu/directory/fedder</website>
 		</professor>
 		<professor>
 			<name>Oliver Ferschke</name>
@@ -582,6 +919,7 @@
 			<office>6601 Gates and Hillman Centers</office>
 			<email>oliverf@cs.cmu.edu</email>
 			<website>https://www.scs.cmu.edu/directory/oliverf</website>
+			<image>./cmu_images/of2_mid.jpg</image>
 		</professor>
 		<professor>
 			<name>Stephen Fienberg</name>
@@ -589,7 +927,6 @@
 			<office>132G Baker Porter Hall</office>
 			<email>fienberg@andrew.cmu.edu</email>
 			<phone>(412) 268-2723</phone>
-			<website>https://www.scs.cmu.edu/directory/fienberg</website>
 		</professor>
 		<professor>
 			<name>Jodi Forlizzi</name>
@@ -605,14 +942,12 @@
 			<office>6515 Gates and Hillman Centers</office>
 			<email>ref@cs.cmu.edu</email>
 			<phone>(412) 268-6656</phone>
-			<website>https://www.scs.cmu.edu/directory/bf1h</website>
 		</professor>
 		<professor>
 			<name>Edward Fredkin</name>
 			<title>Courtesy Faculty Member; Distinguished Career Professor, Robotics</title>
 			<email>fredkin@cs.cmu.edu</email>
 			<phone>(617) 277-4444</phone>
-			<website>https://www.scs.cmu.edu/directory/fredkin</website>
 		</professor>
 		<professor>
 			<name>Matthew Fredrikson</name>
@@ -620,7 +955,13 @@
 			<office>2126 Collaborative Innovation Center</office>
 			<email>mfredrik@andrew.cmu.edu</email>
 			<phone>(608) 262-6628</phone>
-			<website>https://www.scs.cmu.edu/directory/mfredrik</website>
+		</professor>
+		<professor>
+			<name>Alan Frieze</name>
+			<title>Affiliated Faculty</title>
+			<office>7130 Wean Hall</office>
+			<email>af1p@andrew.cmu.edu</email>
+			<phone>(412) 268-8476</phone>
 		</professor>
 		<professor>
 			<name>Carol Frieze</name>
@@ -631,19 +972,10 @@
 			<website>https://www.scs.cmu.edu/directory/cfrieze</website>
 		</professor>
 		<professor>
-			<name>Alan Frieze</name>
-			<title>Affiliated Faculty</title>
-			<office>7130 Wean Hall</office>
-			<email>af1p@andrew.cmu.edu</email>
-			<phone>(412) 268-8476</phone>
-			<website>https://www.scs.cmu.edu/directory/af1p</website>
-		</professor>
-		<professor>
 			<name>Soniya Gadgil</name>
 			<title>Post Doctoral Associate With Benefits</title>
 			<office>3602 Newell-Simon Hall</office>
 			<email>soniyag@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/soniyag</website>
 		</professor>
 		<professor>
 			<name>John Galeotti</name>
@@ -651,7 +983,6 @@
 			<office>A525 Newell-Simon Hall</office>
 			<email>galeotti@cs.cmu.edu</email>
 			<phone>(412) 559-9351</phone>
-			<website>https://www.scs.cmu.edu/directory/jgaleott</website>
 		</professor>
 		<professor>
 			<name>Madhavi Ganapathiraju</name>
@@ -659,7 +990,6 @@
 			<office>6607 Gates and Hillman Centers</office>
 			<email>gvns@andrew.cmu.edu</email>
 			<phone>(412) 268-6591</phone>
-			<website>https://www.scs.cmu.edu/directory/gvns</website>
 		</professor>
 		<professor>
 			<name>Gregory Ganger</name>
@@ -667,14 +997,12 @@
 			<office>2208 Collaborative Innovation Center</office>
 			<email>ganger@cs.cmu.edu</email>
 			<phone>(412) 268-1297</phone>
-			<website>https://www.scs.cmu.edu/directory/ganger</website>
 		</professor>
 		<professor>
 			<name>Praveen Garimella</name>
 			<title>Visiting Scholar</title>
 			<email>praveeng@andrew.cmu.edu</email>
 			<phone>(412) 268-7170</phone>
-			<website>https://www.scs.cmu.edu/directory/praveeng</website>
 		</professor>
 		<professor>
 			<name>David Garlan</name>
@@ -690,7 +1018,6 @@
 			<office>5101 Wean Hall</office>
 			<email>charlie@cs.cmu.edu</email>
 			<phone>(412) 268-5176</phone>
-			<website>https://www.scs.cmu.edu/directory/cgarrod</website>
 		</professor>
 		<professor>
 			<name>Wolfgang Gatterbauer</name>
@@ -698,7 +1025,6 @@
 			<office>354 Tepper School of Business</office>
 			<email>gatt@andrew.cmu.edu</email>
 			<phone>(412) 268-8642</phone>
-			<website>https://www.scs.cmu.edu/directory/gatt</website>
 		</professor>
 		<professor>
 			<name>Orhan Gencaga</name>
@@ -714,7 +1040,6 @@
 			<office>279 National Robotics Engineering Center</office>
 			<email>mgeorge@cs.cmu.edu</email>
 			<phone>(412) 692-0851</phone>
-			<website>https://www.scs.cmu.edu/directory/mgeorge</website>
 		</professor>
 		<professor>
 			<name>Anatole Gershman</name>
@@ -722,7 +1047,6 @@
 			<office>6415 Gates and Hillman Centers</office>
 			<email>anatoleg@cs.cmu.edu</email>
 			<phone>(412) 268-8259</phone>
-			<website>https://www.scs.cmu.edu/directory/anatoleg</website>
 		</professor>
 		<professor>
 			<name>Hartmut Geyer</name>
@@ -731,6 +1055,7 @@
 			<email>hgeyer@cs.cmu.edu</email>
 			<phone>(412) 268-1724</phone>
 			<website>https://www.scs.cmu.edu/directory/hgeyer</website>
+			<image>./cmu_images/hgeyer.jpg</image>
 		</professor>
 		<professor>
 			<name>Phillip Gibbons</name>
@@ -738,7 +1063,6 @@
 			<office>7221 Gates and Hillman Centers</office>
 			<email>pgibbons@andrew.cmu.edu</email>
 			<phone>(412) 297-4114</phone>
-			<website>https://www.scs.cmu.edu/directory/pgibbons</website>
 		</professor>
 		<professor>
 			<name>Garth Gibson</name>
@@ -747,6 +1071,7 @@
 			<email>garth@cs.cmu.edu</email>
 			<phone>(412) 268-5890</phone>
 			<website>https://www.scs.cmu.edu/directory/garth</website>
+			<image>./cmu_images/gibson.jpg</image>
 		</professor>
 		<professor>
 			<name>Virgil Gligor</name>
@@ -754,7 +1079,6 @@
 			<office>2123 Collaborative Innovation Center</office>
 			<email>virgil@andrew.cmu.edu</email>
 			<phone>(412) 268-9833</phone>
-			<website>https://www.scs.cmu.edu/directory/virgil</website>
 		</professor>
 		<professor>
 			<name>Seth Goldstein</name>
@@ -763,6 +1087,7 @@
 			<email>seth@cs.cmu.edu</email>
 			<phone>(412) 268-3828</phone>
 			<website>https://www.scs.cmu.edu/directory/sethg</website>
+			<image>./cmu_images/seth_goldstein.jpg</image>
 		</professor>
 		<professor>
 			<name>Jose Gonzalez-Mora</name>
@@ -770,7 +1095,6 @@
 			<office>278 National Robotics Engineering Center</office>
 			<email>jgmora@cs.cmu.edu</email>
 			<phone>(412) 681-6900</phone>
-			<website>https://www.scs.cmu.edu/directory/jgmora</website>
 		</professor>
 		<professor>
 			<name>Geoffrey Gordon</name>
@@ -779,41 +1103,30 @@
 			<email>ggordon@cs.cmu.edu</email>
 			<phone>(412) 268-7399</phone>
 			<website>https://www.scs.cmu.edu/directory/gg25</website>
+			<image>./cmu_images/geoff-lexi.jpg</image>
 		</professor>
 		<professor>
 			<name>Matthew Gormley</name>
 			<title>Assistant Teaching Professor</title>
 			<email>mgormley@cs.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/mgormley</website>
 		</professor>
 		<professor>
 			<name>Jay Gowdy</name>
 			<title>Commercialization Specialist</title>
 			<office>283 National Robotics Engineering Center</office>
 			<email>jg2k@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/jg2k</website>
 		</professor>
 		<professor>
 			<name>Matthias Grabmair</name>
 			<title>Visiting Research Professional</title>
 			<office>6709 Gates and Hillman Centers</office>
 			<email>mgrabmair@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/mgrabmai</website>
 		</professor>
 		<professor>
 			<name>Ananda Gunawardena</name>
 			<title>Adjunct Faculty</title>
 			<email>guna@andrew.cmu.edu</email>
 			<phone>(412) 268-2565</phone>
-			<website>https://www.scs.cmu.edu/directory/guna</website>
-		</professor>
-		<professor>
-			<name>Abhinav Gupta</name>
-			<title>Assistant Professor</title>
-			<office>213 Smith Hall</office>
-			<email>abhinavg@cs.cmu.edu</email>
-			<phone>(412) 268-2067</phone>
-			<website>https://www.scs.cmu.edu/directory/gabhinav</website>
 		</professor>
 		<professor>
 			<name>Anupam Gupta</name>
@@ -822,6 +1135,16 @@
 			<email>anupamg@cs.cmu.edu</email>
 			<phone>(412) 268-7127</phone>
 			<website>https://www.scs.cmu.edu/directory/ag</website>
+			<image>./cmu_images/miro-chanteur.jpg</image>
+		</professor>
+		<professor>
+			<name>Abhinav Gupta</name>
+			<title>Assistant Professor</title>
+			<office>213 Smith Hall</office>
+			<email>abhinavg@cs.cmu.edu</email>
+			<phone>(412) 268-2067</phone>
+			<website>https://www.scs.cmu.edu/directory/gabhinav</website>
+			<image>./cmu_images/me.jpg</image>
 		</professor>
 		<professor>
 			<name>Venkatesan Guruswami</name>
@@ -830,6 +1153,7 @@
 			<email>venkatg@cs.cmu.edu</email>
 			<phone>(412) 268-4899</phone>
 			<website>https://www.scs.cmu.edu/directory/venkatg</website>
+			<image>./cmu_images/venkat2014.jpg</image>
 		</professor>
 		<professor>
 			<name>Bernhard Haeupler</name>
@@ -837,7 +1161,6 @@
 			<office>7005 Gates and Hillman Centers</office>
 			<email>haeupler@cs.cmu.edu</email>
 			<phone>(412) 268-3984</phone>
-			<website>https://www.scs.cmu.edu/directory/haeupler</website>
 		</professor>
 		<professor>
 			<name>Jessica Hammer</name>
@@ -845,20 +1168,17 @@
 			<office>3529 Newell-Simon Hall</office>
 			<email>hammerj@cs.cmu.edu</email>
 			<phone>(412) 463-4875</phone>
-			<website>https://www.scs.cmu.edu/directory/hammerj</website>
 		</professor>
 		<professor>
 			<name>Mohammad Hammoud</name>
 			<title>Assistant Teaching Professor of Computer Science</title>
 			<office>1006 Carnegie Mellon Qatar</office>
 			<email>mhhammou@qatar.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/mhhammou</website>
 		</professor>
 		<professor>
 			<name>Julian Hanna</name>
 			<title>Instructor - Portugal</title>
 			<email>jhanna@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/jhanna</website>
 		</professor>
 		<professor>
 			<name>Mor Harchol-Balter</name>
@@ -867,6 +1187,7 @@
 			<email>harchol@cs.cmu.edu</email>
 			<phone>(412) 268-7893</phone>
 			<website>https://www.scs.cmu.edu/directory/harchol</website>
+			<image>./cmu_images/8051-2.jpg</image>
 		</professor>
 		<professor>
 			<name>Robert Harper</name>
@@ -881,7 +1202,6 @@
 			<title>Associate Teaching Professor of Computer Science</title>
 			<office>1020 Carnegie Mellon Qatar</office>
 			<email>kharras@qatar.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/kharras</website>
 		</professor>
 		<professor>
 			<name>Christopher Harrison</name>
@@ -905,7 +1225,6 @@
 			<office>2609 Newell-Simon Hall</office>
 			<email>ehayashi@cs.cmu.edu</email>
 			<phone>(412) 268-7351</phone>
-			<website>https://www.scs.cmu.edu/directory/ehayashi</website>
 		</professor>
 		<professor>
 			<name>Martial Hebert</name>
@@ -914,6 +1233,7 @@
 			<email>hebert@cs.cmu.edu</email>
 			<phone>(412) 268-2585</phone>
 			<website>https://www.scs.cmu.edu/directory/mhebert</website>
+			<image>./cmu_images/image002.jpg</image>
 		</professor>
 		<professor>
 			<name>James Herbsleb</name>
@@ -922,6 +1242,7 @@
 			<email>jdh@cs.cmu.edu</email>
 			<phone>(412) 268-8933</phone>
 			<website>https://www.scs.cmu.edu/directory/herbsleb</website>
+			<image>./cmu_images/Jim-hands-cr170.jpg</image>
 		</professor>
 		<professor>
 			<name>Herman Herman</name>
@@ -929,13 +1250,11 @@
 			<office>226 National Robotics Engineering Center</office>
 			<email>herman@cs.cmu.edu</email>
 			<phone>(412) 576-9020</phone>
-			<website>https://www.scs.cmu.edu/directory/hh11</website>
 		</professor>
 		<professor>
 			<name>Jeronimo Hernandez Gonzalez</name>
 			<title>Visiting Research Scholar</title>
 			<email>jeronimh@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/jeronimh</website>
 		</professor>
 		<professor>
 			<name>Veronica Hinman</name>
@@ -943,7 +1262,6 @@
 			<office>634A Mellon Institute</office>
 			<email>vhinman@andrew.cmu.edu</email>
 			<phone>(412) 268-9348</phone>
-			<website>https://www.scs.cmu.edu/directory/vhinman</website>
 		</professor>
 		<professor>
 			<name>Jessica Hodgins</name>
@@ -952,13 +1270,13 @@
 			<email>jkh@cs.cmu.edu</email>
 			<phone>(412) 268-6795</phone>
 			<website>https://www.scs.cmu.edu/directory/jkh</website>
+			<image>./cmu_images/jkh.jpg</image>
 		</professor>
 		<professor>
 			<name>Jan Hoffmann</name>
 			<title>Assistant Professor</title>
 			<office>9105 Gates and Hillman Centers</office>
 			<email>janh@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/janh</website>
 		</professor>
 		<professor>
 			<name>Ralph Hollis</name>
@@ -966,7 +1284,6 @@
 			<office>121 Smith Hall</office>
 			<email>rhollis@cs.cmu.edu</email>
 			<phone>(412) 268-8264</phone>
-			<website>https://www.scs.cmu.edu/directory/rhollis</website>
 		</professor>
 		<professor>
 			<name>Jason Hong</name>
@@ -975,6 +1292,7 @@
 			<email>jasonh@cs.cmu.edu</email>
 			<phone>(412) 268-1251</phone>
 			<website>https://www.scs.cmu.edu/directory/jasonhon</website>
+			<image>./cmu_images/jason.jpg</image>
 		</professor>
 		<professor>
 			<name>Eduard Hovy</name>
@@ -982,7 +1300,6 @@
 			<office>5413 Gates and Hillman Centers</office>
 			<email>hovy@cs.cmu.edu</email>
 			<phone>(412) 268-6592</phone>
-			<website>https://www.scs.cmu.edu/directory/ehovy</website>
 		</professor>
 		<professor>
 			<name>Daniel Huber</name>
@@ -990,6 +1307,7 @@
 			<email>dhuber@cs.cmu.edu</email>
 			<phone>(412) 268-2991</phone>
 			<website>https://www.scs.cmu.edu/directory/huber</website>
+			<image>./cmu_images/huber_daniel.jpg</image>
 		</professor>
 		<professor>
 			<name>Scott Hudson</name>
@@ -1004,7 +1322,6 @@
 			<title>Voting Faculty</title>
 			<office>2011 Carnegie Mellon Qatar</office>
 			<email>vilyin@qatar.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/vilyin</website>
 		</professor>
 		<professor>
 			<name>Farnam Jahanian</name>
@@ -1012,7 +1329,6 @@
 			<office>609A Warner Hall</office>
 			<email>farnam@andrew.cmu.edu</email>
 			<phone>(412) 268-3363</phone>
-			<website>https://www.scs.cmu.edu/directory/farnam</website>
 		</professor>
 		<professor>
 			<name>Branislav Jaramaz</name>
@@ -1026,7 +1342,6 @@
 			<name>Susana Bong-Keum Jeong</name>
 			<title>Instructor - Portugal</title>
 			<email>bongj@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/bongj</website>
 		</professor>
 		<professor>
 			<name>Sophie Jeong</name>
@@ -1034,7 +1349,6 @@
 			<office>202 417 South Craig Street</office>
 			<email>saeyoung@cs.cmu.edu</email>
 			<phone>(412) 268-1476</phone>
-			<website>https://www.scs.cmu.edu/directory/saeyoung</website>
 		</professor>
 		<professor>
 			<name>Ran Ji</name>
@@ -1042,21 +1356,18 @@
 			<office>9008 Gates and Hillman Centers</office>
 			<email>rj82cnus@cs.cmu.edu</email>
 			<phone>412-268-4447</phone>
-			<website>https://www.scs.cmu.edu/directory/rj82cnus</website>
 		</professor>
 		<professor>
 			<name>Xinyang Jiang</name>
 			<title>Visiting Research Scholar</title>
 			<office>Gates and Hillman Centers</office>
 			<email>xinyangj@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/xinyangj</website>
 		</professor>
 		<professor>
 			<name>Bonnie John</name>
 			<title>Adjunct Professor</title>
 			<office>Newell-Simon Hall</office>
 			<email>bj07@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/bj07</website>
 		</professor>
 		<professor>
 			<name>Michael Kaess</name>
@@ -1072,7 +1383,6 @@
 			<office>Collaborative Innovation Center</office>
 			<email>mk9@andrew.cmu.edu</email>
 			<phone>(412) 297-4100</phone>
-			<website>https://www.scs.cmu.edu/directory/mk9</website>
 		</professor>
 		<professor>
 			<name>Takeo Kanade</name>
@@ -1086,7 +1396,6 @@
 			<title>Research Associate</title>
 			<office>Gates and Hillman Centers</office>
 			<email>jkangas@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/jkangas</website>
 		</professor>
 		<professor>
 			<name>George Kantor</name>
@@ -1101,21 +1410,18 @@
 			<title>Assistant Teaching Professor of Computer Science</title>
 			<office>1017 Carnegie Mellon Qatar</office>
 			<email>cak@qatar.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/cak</website>
 		</professor>
 		<professor>
 			<name>Levent Kara</name>
 			<title>Adjunct Faculty Member</title>
 			<email>lkara@andrew.cmu.edu</email>
 			<phone>(412) 268-2509</phone>
-			<website>https://www.scs.cmu.edu/directory/lkara</website>
 		</professor>
 		<professor>
 			<name>Evangelos Karapanos</name>
 			<title>Instructor - Portugal</title>
 			<office>Newell-Simon Hall</office>
 			<email>ekar@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/ekar</website>
 		</professor>
 		<professor>
 			<name>Robert Kass</name>
@@ -1123,7 +1429,6 @@
 			<office>229H Baker Porter Hall</office>
 			<email>kass@andrew.cmu.edu</email>
 			<phone>(412) 268-8723</phone>
-			<website>https://www.scs.cmu.edu/directory/kass</website>
 		</professor>
 		<professor>
 			<name>Christian Kastner</name>
@@ -1131,14 +1436,12 @@
 			<office>5122 Wean Hall</office>
 			<email>ckaestne@cs.cmu.edu</email>
 			<phone>(412) 268-5254</phone>
-			<website>https://www.scs.cmu.edu/directory/ckaestne</website>
 		</professor>
 		<professor>
 			<name>Geoff Kaufman</name>
 			<title>Assistant Professor</title>
 			<office>3611 Newell-Simon Hall</office>
 			<email>gfk@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/gfk</website>
 		</professor>
 		<professor>
 			<name>Zeliha Dilsun Kaynar</name>
@@ -1147,13 +1450,13 @@
 			<email>dilsun@cs.cmu.edu</email>
 			<phone>(412) 268-9297</phone>
 			<website>https://www.scs.cmu.edu/directory/dilsunk</website>
+			<image>./cmu_images/DilsunonWeb.jpg</image>
 		</professor>
 		<professor>
 			<name>Aisling Kelliher</name>
 			<title>Adjunct</title>
 			<email>aislingk@andrew.cmu.edu</email>
 			<phone>(412) 268-9472</phone>
-			<website>https://www.scs.cmu.edu/directory/aislingk</website>
 		</professor>
 		<professor>
 			<name>Alonzo Kelly</name>
@@ -1162,6 +1465,7 @@
 			<email>alonzo@cs.cmu.edu</email>
 			<phone>(412) 268-5330</phone>
 			<website>https://www.scs.cmu.edu/directory/ak3h</website>
+			<image>./cmu_images/al.jpg</image>
 		</professor>
 		<professor>
 			<name>Gregory Kesden</name>
@@ -1176,7 +1480,6 @@
 			<office>110 Scaife Hall</office>
 			<email>khosla@andrew.cmu.edu</email>
 			<phone>(412) 268-5090</phone>
-			<website>https://www.scs.cmu.edu/directory/khosla</website>
 		</professor>
 		<professor>
 			<name>Sara Kiesler</name>
@@ -1187,21 +1490,6 @@
 			<website>https://www.scs.cmu.edu/directory/kiesler</website>
 		</professor>
 		<professor>
-			<name>Se Young Kim</name>
-			<title>Assistant Professor</title>
-			<office>7721 Gates and Hillman Centers</office>
-			<email>sssykim@cs.cmu.edu</email>
-			<phone>(412) 268-6851</phone>
-			<website>https://www.scs.cmu.edu/directory/sssykim</website>
-		</professor>
-		<professor>
-			<name>Kyung-Joong Kim</name>
-			<title>Visiting Scholar</title>
-			<office>2502 Newell-Simon Hall</office>
-			<email>kyungjok@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/kyungjok</website>
-		</professor>
-		<professor>
 			<name>Seungjun Kim</name>
 			<title>Systems Scientist</title>
 			<office>2502 Newell-Simon Hall</office>
@@ -1210,12 +1498,26 @@
 			<website>https://www.scs.cmu.edu/directory/zizone</website>
 		</professor>
 		<professor>
+			<name>Kyung-Joong Kim</name>
+			<title>Visiting Scholar</title>
+			<office>2502 Newell-Simon Hall</office>
+			<email>kyungjok@andrew.cmu.edu</email>
+		</professor>
+		<professor>
+			<name>Se Young Kim</name>
+			<title>Assistant Professor</title>
+			<office>7721 Gates and Hillman Centers</office>
+			<email>sssykim@cs.cmu.edu</email>
+			<phone>(412) 268-6851</phone>
+		</professor>
+		<professor>
 			<name>Carl Kingsford</name>
 			<title>Associate Professor</title>
 			<office>7415 Gates and Hillman Centers</office>
 			<email>ckingsf@cs.cmu.edu</email>
 			<phone>(412) 268-1769</phone>
 			<website>https://www.scs.cmu.edu/directory/ckingsf</website>
+			<image>./cmu_images/CarlKingsford.jpg</image>
 		</professor>
 		<professor>
 			<name>Kris Kitani</name>
@@ -1224,6 +1526,7 @@
 			<email>kkitani@cs.cmu.edu</email>
 			<phone>(412) 268-3818</phone>
 			<website>https://www.scs.cmu.edu/directory/kmkitani</website>
+			<image>./cmu_images/kitani_kris.jpg</image>
 		</professor>
 		<professor>
 			<name>Aniket Kittur</name>
@@ -1231,7 +1534,6 @@
 			<office>2504D Newell-Simon Hall</office>
 			<email>nkittur@cs.cmu.edu</email>
 			<phone>(412) 268-7505</phone>
-			<website>https://www.scs.cmu.edu/directory/nkittur</website>
 		</professor>
 		<professor>
 			<name>Kenneth Koedinger</name>
@@ -1255,7 +1557,6 @@
 			<office>5321 Wean Hall</office>
 			<email>rk@cs.cmu.edu</email>
 			<phone>(412) 268-9847</phone>
-			<website>https://www.scs.cmu.edu/directory/charan</website>
 		</professor>
 		<professor>
 			<name>David Kosbie</name>
@@ -1264,6 +1565,7 @@
 			<email>koz@cs.cmu.edu</email>
 			<phone>(412) 268-8034</phone>
 			<website>https://www.scs.cmu.edu/directory/koz</website>
+			<image>./cmu_images/dkosbie.jpg</image>
 		</professor>
 		<professor>
 			<name>Ioannis Koutis</name>
@@ -1271,7 +1573,6 @@
 			<office>Gates and Hillman Centers</office>
 			<email>ikoutis@andrew.cmu.edu</email>
 			<phone>(412) 268-2000</phone>
-			<website>https://www.scs.cmu.edu/directory/ikoutis</website>
 		</professor>
 		<professor>
 			<name>Robert Kraut</name>
@@ -1287,14 +1588,12 @@
 			<office>4000B Newell-Simon Hall</office>
 			<email>kuffner@andrew.cmu.edu</email>
 			<phone>(412) 268-3818</phone>
-			<website>https://www.scs.cmu.edu/directory/kuffner</website>
 		</professor>
 		<professor>
 			<name>Chinmay Kulkarni</name>
 			<title>Assistant Professor</title>
 			<office>2504D Newell-Simon Hall</office>
 			<email>chinmayk@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/chinmayk</website>
 		</professor>
 		<professor>
 			<name>Alexandros Labrinidis</name>
@@ -1303,6 +1602,7 @@
 			<email>labrinid@andrew.cmu.edu</email>
 			<phone>(412) 624-8843</phone>
 			<website>https://www.scs.cmu.edu/directory/labrinid</website>
+			<image>./cmu_images/small-labrinidis1.jpg</image>
 		</professor>
 		<professor>
 			<name>Christopher Langmead</name>
@@ -1318,7 +1618,6 @@
 			<office>278 300 South Craig Street</office>
 			<email>lattanze@cs.cmu.edu</email>
 			<phone>(412) 268-4736</phone>
-			<website>https://www.scs.cmu.edu/directory/al45</website>
 		</professor>
 		<professor>
 			<name>Michel Laverne</name>
@@ -1326,7 +1625,6 @@
 			<office>280 National Robotics Engineering Center</office>
 			<email>mlaverne@cs.cmu.edu</email>
 			<phone>(412) 613-1386</phone>
-			<website>https://www.scs.cmu.edu/directory/mlaverne</website>
 		</professor>
 		<professor>
 			<name>Alon Lavie</name>
@@ -1334,13 +1632,13 @@
 			<email>alavie@cs.cmu.edu</email>
 			<phone>(412) 268-5655</phone>
 			<website>https://www.scs.cmu.edu/directory/alon</website>
+			<image>./cmu_images/alon-face-Apr02.jpg</image>
 		</professor>
 		<professor>
 			<name>Marc Law</name>
 			<title>Visiting Research Scholar</title>
 			<office>8018 Gates and Hillman Centers</office>
 			<email>mlaw@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/mlaw</website>
 		</professor>
 		<professor>
 			<name>Claire Le Goues</name>
@@ -1351,12 +1649,23 @@
 			<website>https://www.scs.cmu.edu/directory/clegoues</website>
 		</professor>
 		<professor>
+			<name>Heewook Lee</name>
+			<title>Lane Fellow</title>
+			<office>7603 Gates and Hillman Centers</office>
+			<email>heewookl@andrew.cmu.edu</email>
+		</professor>
+		<professor>
+			<name>Kyusong Lee</name>
+			<title>Visiting Research Scholar</title>
+			<office>6409 Gates and Hillman Centers</office>
+			<email>kyusongl@andrew.cmu.edu</email>
+		</professor>
+		<professor>
 			<name>Min Kyung Lee</name>
 			<title>Special Faculty-Senior Researcher</title>
 			<office>2614 Newell-Simon Hall</office>
 			<email>mklee@cs.cmu.edu</email>
 			<phone>(412) 527-7396</phone>
-			<website>https://www.scs.cmu.edu/directory/mklee</website>
 		</professor>
 		<professor>
 			<name>Tai-Sing Lee</name>
@@ -1365,20 +1674,13 @@
 			<email>tai@cs.cmu.edu</email>
 			<phone>(412) 268-1060</phone>
 			<website>https://www.scs.cmu.edu/directory/taislee</website>
+			<image>./cmu_images/taising_big.jpg</image>
 		</professor>
 		<professor>
-			<name>Heewook Lee</name>
-			<title>Lane Fellow</title>
-			<office>7603 Gates and Hillman Centers</office>
-			<email>heewookl@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/heewookl</website>
-		</professor>
-		<professor>
-			<name>Kyusong Lee</name>
-			<title>Visiting Research Scholar</title>
-			<office>6409 Gates and Hillman Centers</office>
-			<email>kyusongl@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/kyusongl</website>
+			<name>Kyung-Taek Lee</name>
+			<title>Visiting Scholar</title>
+			<office>2502B Newell-Simon Hall</office>
+			<email>kyungtal@andrew.cmu.edu</email>
 		</professor>
 		<professor>
 			<name>Terry Eun Sun Lee</name>
@@ -1386,14 +1688,6 @@
 			<office>4126 Wean Hall</office>
 			<email>terrylee@cs.cmu.edu</email>
 			<phone>(412) 268-1078</phone>
-			<website>https://www.scs.cmu.edu/directory/eunsunl</website>
-		</professor>
-		<professor>
-			<name>Kyung-Taek Lee</name>
-			<title>Visiting Scholar</title>
-			<office>2502B Newell-Simon Hall</office>
-			<email>kyungtal@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/kyungtal</website>
 		</professor>
 		<professor>
 			<name>Jill Fain Lehman</name>
@@ -1401,7 +1695,6 @@
 			<office>4212 Wean Hall</office>
 			<email>jfl@andrew.cmu.edu</email>
 			<phone>(412) 268-2565</phone>
-			<website>https://www.scs.cmu.edu/directory/jfl</website>
 		</professor>
 		<professor>
 			<name>Philip Lehman</name>
@@ -1409,7 +1702,6 @@
 			<office>5113 Gates and Hillman Centers</office>
 			<email>pll@cs.cmu.edu</email>
 			<phone>(412) 268-9962</phone>
-			<website>https://www.scs.cmu.edu/directory/pll</website>
 		</professor>
 		<professor>
 			<name>Golan Levin</name>
@@ -1417,7 +1709,6 @@
 			<office>405 College of Fine Arts</office>
 			<email>golan@andrew.cmu.edu</email>
 			<phone>(917) 520-7456</phone>
-			<website>https://www.scs.cmu.edu/directory/golan</website>
 		</professor>
 		<professor>
 			<name>Lorraine Levin</name>
@@ -1432,28 +1723,24 @@
 			<title>Visiting Research Scholar</title>
 			<office>8018 Gates and Hillman Centers</office>
 			<email>jinl1@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/jinl1</website>
 		</professor>
 		<professor>
 			<name>Jiajia Li</name>
 			<title>Visiting Research Scholar</title>
 			<office>4604 Newell-Simon Hall</office>
 			<email>jiajial1@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/jiajial1</website>
 		</professor>
 		<professor>
 			<name>Jianxin Li</name>
 			<title>Visiting Research Scholar</title>
 			<office>8112 Gates and Hillman Centers</office>
 			<email>jianxinl@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/jianxinl</website>
 		</professor>
 		<professor>
 			<name>Ari Lightman</name>
 			<title>Commercialization Advisor</title>
 			<email>aligh@andrew.cmu.edu</email>
 			<phone>(412) 268-9312</phone>
-			<website>https://www.scs.cmu.edu/directory/aligh</website>
 		</professor>
 		<professor>
 			<name>Maxim Likhachev</name>
@@ -1462,6 +1749,7 @@
 			<email>maxim@cs.cmu.edu</email>
 			<phone>(412) 268-5581</phone>
 			<website>https://www.scs.cmu.edu/directory/mlikhach</website>
+			<image>./cmu_images/maxRobotics.jpg</image>
 		</professor>
 		<professor>
 			<name>Hyeontaek Lim</name>
@@ -1476,21 +1764,18 @@
 			<title>Post Doctoral Associate</title>
 			<office>6416 Gates and Hillman Centers</office>
 			<email>pwl@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/pwl</website>
-		</professor>
-		<professor>
-			<name>Mengyi Liu</name>
-			<title>Visiting Research Professional</title>
-			<office>6416 Gates and Hillman Centers</office>
-			<email>mengyil1@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/mengyil1</website>
 		</professor>
 		<professor>
 			<name>Ziqi Liu</name>
 			<title>Visiting Researcher</title>
 			<office>8018 Gates and Hillman Centers</office>
 			<email>ziqiliu@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/ziqiliu</website>
+		</professor>
+		<professor>
+			<name>Mengyi Liu</name>
+			<title>Visiting Research Professional</title>
+			<office>6416 Gates and Hillman Centers</office>
+			<email>mengyil1@andrew.cmu.edu</email>
 		</professor>
 		<professor>
 			<name>Antonio-Javier Lopez</name>
@@ -1498,14 +1783,12 @@
 			<office>239 Mellon Institute</office>
 			<email>jlaa@andrew.cmu.edu</email>
 			<phone>(412) 268-3400</phone>
-			<website>https://www.scs.cmu.edu/directory/jlaa</website>
 		</professor>
 		<professor>
 			<name>Marti Louw</name>
 			<title>Director of The Learning Media Design Center of SCS HCII</title>
 			<office>3602 Newell-Simon Hall</office>
 			<email>mrlouw@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/mrlouw</website>
 		</professor>
 		<professor>
 			<name>Simon Lucey</name>
@@ -1513,40 +1796,28 @@
 			<office>219 Smith Hall</office>
 			<email>slucey@cs.cmu.edu</email>
 			<phone>(412) 268-3818</phone>
-			<website>https://www.scs.cmu.edu/directory/slucey</website>
 		</professor>
 		<professor>
 			<name>Brandon Lucia</name>
 			<title>Faculty</title>
 			<email>blucia@andrew.cmu.edu</email>
 			<phone>(412) 268-9192</phone>
-			<website>https://www.scs.cmu.edu/directory/blucia</website>
 		</professor>
 		<professor>
 			<name>Minnan Luo</name>
 			<title>Post Doctoral Associate With Benefits</title>
 			<email>minnanl@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/minnanl</website>
 		</professor>
 		<professor>
 			<name>Ioanna Lykourentzou</name>
 			<title>Visitor</title>
 			<office>Newell-Simon Hall</office>
 			<email>ilykoure@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/ilykoure</website>
 		</professor>
 		<professor>
 			<name>Olga Lyra</name>
 			<title>Instructor - Portugal</title>
 			<email>olga.lyra@m-iti.org</email>
-			<website>https://www.scs.cmu.edu/directory/cwk_0000676</website>
-		</professor>
-		<professor>
-			<name>Jian Ma</name>
-			<title>Associate Professor</title>
-			<office>7705 Gates and Hillman Centers</office>
-			<email>jianma@cs.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/jianma</website>
 		</professor>
 		<professor>
 			<name>Zhigang Ma</name>
@@ -1554,13 +1825,19 @@
 			<office>4629 Newell-Simon Hall</office>
 			<email>kevinma@cs.cmu.edu</email>
 			<website>https://www.scs.cmu.edu/directory/kevinma</website>
+			<image>./cmu_images/LA.jpg</image>
+		</professor>
+		<professor>
+			<name>Jian Ma</name>
+			<title>Associate Professor</title>
+			<office>7705 Gates and Hillman Centers</office>
+			<email>jianma@cs.cmu.edu</email>
 		</professor>
 		<professor>
 			<name>Carmel Majidi</name>
 			<title>Adjunct Faculty Member</title>
 			<email>cmajidi@andrew.cmu.edu</email>
 			<phone>(412) 268-2492</phone>
-			<website>https://www.scs.cmu.edu/directory/cmajidi</website>
 		</professor>
 		<professor>
 			<name>Ganesh Mani</name>
@@ -1568,7 +1845,6 @@
 			<office>5325 Wean Hall</office>
 			<email>ganeshm@andrew.cmu.edu</email>
 			<phone>(412) 401-0121</phone>
-			<website>https://www.scs.cmu.edu/directory/ganeshm</website>
 		</professor>
 		<professor>
 			<name>Jennifer Mankoff</name>
@@ -1582,7 +1858,6 @@
 			<name>Guillaume Marcais</name>
 			<title>Project Scientist</title>
 			<email>gmarcais@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/gmarcais</website>
 		</professor>
 		<professor>
 			<name>Richard Martin</name>
@@ -1590,7 +1865,6 @@
 			<office>4000B Newell-Simon Hall</office>
 			<email>rmartin@andrew.cmu.edu</email>
 			<phone>(412) 268-7617</phone>
-			<website>https://www.scs.cmu.edu/directory/rmartin</website>
 		</professor>
 		<professor>
 			<name>Matthew Mason</name>
@@ -1599,6 +1873,7 @@
 			<email>mason@cs.cmu.edu</email>
 			<phone>(412) 268-8804</phone>
 			<website>https://www.scs.cmu.edu/directory/mm3x</website>
+			<image>./cmu_images/matt.jpg</image>
 		</professor>
 		<professor>
 			<name>Pyry Matikainen</name>
@@ -1606,14 +1881,12 @@
 			<office>4519 Newell-Simon Hall</office>
 			<email>pmatikai@cs.cmu.edu</email>
 			<phone>(412) 268-3818</phone>
-			<website>https://www.scs.cmu.edu/directory/pmatikai</website>
 		</professor>
 		<professor>
 			<name>Yoichi Matsuyama</name>
 			<title>Post Doctoral Fellow</title>
 			<office>2620C Newell-Simon Hall</office>
 			<email>yoichim@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/yoichim</website>
 		</professor>
 		<professor>
 			<name>Iain Matthews</name>
@@ -1630,6 +1903,7 @@
 			<email>maxion@cs.cmu.edu</email>
 			<phone>(412) 268-7556</phone>
 			<website>https://www.scs.cmu.edu/directory/rmaxion</website>
+			<image>./cmu_images/roy.jpg</image>
 		</professor>
 		<professor>
 			<name>James Mccann</name>
@@ -1637,14 +1911,12 @@
 			<office>4000B Newell-Simon Hall</office>
 			<email>jmccann@andrew.cmu.edu</email>
 			<phone>(412) 268-3818</phone>
-			<website>https://www.scs.cmu.edu/directory/jmccann</website>
 		</professor>
 		<professor>
 			<name>David Mckeown</name>
 			<title>Adjunct Research Scientist</title>
 			<office>Gates and Hillman Centers</office>
 			<email>dmm@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/dmm</website>
 		</professor>
 		<professor>
 			<name>Bruce Mclaren</name>
@@ -1653,6 +1925,7 @@
 			<email>bmclaren@cs.cmu.edu</email>
 			<phone>(412) 268-8278</phone>
 			<website>https://www.scs.cmu.edu/directory/bmclaren</website>
+			<image>./cmu_images/bruce_header_photo2.jpg</image>
 		</professor>
 		<professor>
 			<name>Charles Mcmanus</name>
@@ -1660,7 +1933,6 @@
 			<office>255 Mellon Institute</office>
 			<email>mcmanus@andrew.cmu.edu</email>
 			<phone>(412) 268-9407</phone>
-			<website>https://www.scs.cmu.edu/directory/mcmanus</website>
 		</professor>
 		<professor>
 			<name>Florian Metze</name>
@@ -1685,6 +1957,7 @@
 			<email>glmiller@cs.cmu.edu</email>
 			<phone>(412) 268-2631</phone>
 			<website>https://www.scs.cmu.edu/directory/gm2f</website>
+			<image>./cmu_images/bust.jpg</image>
 		</professor>
 		<professor>
 			<name>Eduardo Miranda</name>
@@ -1692,7 +1965,6 @@
 			<office>268 300 South Craig Street</office>
 			<email>emiranda@cs.cmu.edu</email>
 			<phone>(412) 268-8450</phone>
-			<website>https://www.scs.cmu.edu/directory/mirandae</website>
 		</professor>
 		<professor>
 			<name>Teruko Mitamura</name>
@@ -1701,6 +1973,7 @@
 			<email>teruko@cs.cmu.edu</email>
 			<phone>(412) 268-6596</phone>
 			<website>https://www.scs.cmu.edu/directory/teruko</website>
+			<image>./cmu_images/terukolg3.jpg</image>
 		</professor>
 		<professor>
 			<name>Tom Mitchell</name>
@@ -1709,6 +1982,7 @@
 			<email>mitchell@cs.cmu.edu</email>
 			<phone>(412) 268-2611</phone>
 			<website>https://www.scs.cmu.edu/directory/mitchell</website>
+			<image>./cmu_images/Tom_Provence_July2010_v2_lowres.jpg</image>
 		</professor>
 		<professor>
 			<name>Andrew Moore</name>
@@ -1717,6 +1991,7 @@
 			<email>awm@cs.cmu.edu</email>
 			<phone>(412) 334-2063</phone>
 			<website>https://www.scs.cmu.edu/directory/awm</website>
+			<image>./cmu_images/andrewmoore-201x201-02.jpg</image>
 		</professor>
 		<professor>
 			<name>Hans Moravec</name>
@@ -1725,6 +2000,7 @@
 			<email>hpm@andrew.cmu.edu</email>
 			<phone>(412) 621-4305</phone>
 			<website>https://www.scs.cmu.edu/directory/hpm</website>
+			<image>./cmu_images/HPM1995-small.jpg</image>
 		</professor>
 		<professor>
 			<name>Edward Morehouse</name>
@@ -1732,7 +2008,6 @@
 			<office>9004 Gates and Hillman Centers</office>
 			<email>edmo@cs.cmu.edu</email>
 			<phone>(412) 268-2000</phone>
-			<website>https://www.scs.cmu.edu/directory/edmo</website>
 		</professor>
 		<professor>
 			<name>Louis-Philippe Morency</name>
@@ -1740,12 +2015,12 @@
 			<office>5411 Gates and Hillman Centers</office>
 			<email>lmorency@andrew.cmu.edu</email>
 			<website>https://www.scs.cmu.edu/directory/lmorency</website>
+			<image>./cmu_images/image001.jpg</image>
 		</professor>
 		<professor>
 			<name>Fernando Morgado Dias</name>
 			<title>Instructor - Portugal</title>
 			<email>fmorgado@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/fmorgado</website>
 		</professor>
 		<professor>
 			<name>James Morris</name>
@@ -1760,7 +2035,6 @@
 			<title>Research Scientist</title>
 			<office>5413 Gates and Hillman Centers</office>
 			<email>davidmortensen@gmail.com</email>
-			<website>https://www.scs.cmu.edu/directory/dmortens</website>
 		</professor>
 		<professor>
 			<name>Jack Mostow</name>
@@ -1769,6 +2043,7 @@
 			<email>mostow@cs.cmu.edu</email>
 			<phone>(412) 268-1330</phone>
 			<website>https://www.scs.cmu.edu/directory/jmostow</website>
+			<image>./cmu_images/image019.jpg</image>
 		</professor>
 		<professor>
 			<name>Todd Mowry</name>
@@ -1777,6 +2052,7 @@
 			<email>tcm@cs.cmu.edu</email>
 			<phone>(412) 268-3725</phone>
 			<website>https://www.scs.cmu.edu/directory/mowry</website>
+			<image>./cmu_images/tcm-red-shirt-thumb.jpg</image>
 		</professor>
 		<professor>
 			<name>Robert Murphy</name>
@@ -1792,7 +2068,6 @@
 			<office>202 417 South Craig Street</office>
 			<email>jmussits@cs.cmu.edu</email>
 			<phone>(412) 268-4875</phone>
-			<website>https://www.scs.cmu.edu/directory/jmussits</website>
 		</professor>
 		<professor>
 			<name>Onur Mutlu</name>
@@ -1800,14 +2075,12 @@
 			<office>Collaborative Innovation Center</office>
 			<email>omutlu@cs.cmu.edu</email>
 			<phone>(412) 268-1186</phone>
-			<website>https://www.scs.cmu.edu/directory/omutlu</website>
 		</professor>
 		<professor>
 			<name>Eben Myers</name>
 			<title>Adjunct</title>
 			<office>Newell-Simon Hall</office>
 			<email>emyers@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/emyers</website>
 		</professor>
 		<professor>
 			<name>Brad Myers</name>
@@ -1823,14 +2096,12 @@
 			<office>4000B Newell-Simon Hall</office>
 			<email>bcn@andrew.cmu.edu</email>
 			<phone>(415) 704-1806</phone>
-			<website>https://www.scs.cmu.edu/directory/bcn</website>
 		</professor>
 		<professor>
 			<name>Armaghan Naik</name>
 			<title>Lane Fellow</title>
 			<office>7715 Gates and Hillman Centers</office>
 			<email>awn@cs.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/awn</website>
 		</professor>
 		<professor>
 			<name>Ndapandula Nakashole</name>
@@ -1839,13 +2110,11 @@
 			<email>ndapa@cs.cmu.edu</email>
 			<phone>(412) 268-9338</phone>
 			<website>https://www.scs.cmu.edu/directory/ndapa</website>
-		</professor>
 		<professor>
 			<name>Shu Nakayama</name>
 			<title>Visiting Research Scholar</title>
 			<office>Gates and Hillman Centers</office>
 			<email>snakayam@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/snakayam</website>
 		</professor>
 		<professor>
 			<name>Srinivasa Narasimhan</name>
@@ -1854,47 +2123,42 @@
 			<email>srinivas@cs.cmu.edu</email>
 			<phone>(412) 268-1199</phone>
 			<website>https://www.scs.cmu.edu/directory/srinivas</website>
+			<image>./cmu_images/photo-2014-crop.jpg</image>
 		</professor>
 		<professor>
 			<name>Swaprava Nath</name>
 			<title>Visiting Scholar</title>
 			<email>swapravn@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/swapravn</website>
 		</professor>
 		<professor>
 			<name>Graham Neubig</name>
 			<title>Visiting Scholar</title>
 			<office>5715 Gates and Hillman Centers</office>
 			<email>gneubig@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/gneubig</website>
 		</professor>
 		<professor>
 			<name>Hongbo Ni</name>
 			<title>Visitor</title>
 			<office>3612A Newell-Simon Hall</office>
 			<email>hongbon@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/hongbon</website>
 		</professor>
 		<professor>
 			<name>Kamal Nigam</name>
 			<title>Adjunct Faculty</title>
 			<office>Wean Hall</office>
 			<email>nigam@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/nigam</website>
 		</professor>
 		<professor>
 			<name>Yuuki Nishiyama</name>
 			<title>Visitor</title>
 			<office>2502 Newell-Simon Hall</office>
 			<email>ynishiya@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/ynishiya</website>
 		</professor>
 		<professor>
 			<name>Valentina Nisi</name>
 			<title>Instructor - Portugal</title>
 			<office>Newell-Simon Hall</office>
 			<email>valnisi@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/valnisi</website>
 		</professor>
 		<professor>
 			<name>Illah Nourbakhsh</name>
@@ -1909,7 +2173,6 @@
 			<title>Instructor - Portugal</title>
 			<office>Newell-Simon Hall</office>
 			<email>nunon@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/nunon</website>
 		</professor>
 		<professor>
 			<name>Stephen Nuske</name>
@@ -1917,7 +2180,6 @@
 			<office>1105 Newell-Simon Hall</office>
 			<email>snuske@cs.cmu.edu</email>
 			<phone>(412) 268-5901</phone>
-			<website>https://www.scs.cmu.edu/directory/snuske</website>
 		</professor>
 		<professor>
 			<name>Eric Nyberg</name>
@@ -1926,6 +2188,7 @@
 			<email>ehn@cs.cmu.edu</email>
 			<phone>(412) 268-7281</phone>
 			<website>https://www.scs.cmu.edu/directory/en09</website>
+			<image>./cmu_images/Eric-Nyberg_150.jpg</image>
 		</professor>
 		<professor>
 			<name>Ryan O'Donnell</name>
@@ -1933,7 +2196,6 @@
 			<office>7213 Gates and Hillman Centers</office>
 			<email>odonnell@cs.cmu.edu</email>
 			<phone>(412) 268-3041</phone>
-			<website>https://www.scs.cmu.edu/directory/ryanod</website>
 		</professor>
 		<professor>
 			<name>David O'Hallaron</name>
@@ -1942,13 +2204,13 @@
 			<email>droh@cs.cmu.edu</email>
 			<phone>(412) 268-8199</phone>
 			<website>https://www.scs.cmu.edu/directory/droh</website>
+			<image>./cmu_images/droh.jpg</image>
 		</professor>
 		<professor>
 			<name>Kemal Oflazer</name>
 			<title>Associate Dean, Research;  Teaching Professor of Computer Science</title>
 			<office>1009 Carnegie Mellon Qatar</office>
 			<email>ko@qatar.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/ko</website>
 		</professor>
 		<professor>
 			<name>Amy Ogan</name>
@@ -1956,26 +2218,22 @@
 			<office>3527 Newell-Simon Hall</office>
 			<email>aeo@cs.cmu.edu</email>
 			<phone>(626) 600-6426</phone>
-			<website>https://www.scs.cmu.edu/directory/aeo</website>
 		</professor>
 		<professor>
 			<name>Dulce Pacheco</name>
 			<title>Instructor - Portugal</title>
 			<email>dpacheco@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/dpacheco</website>
 		</professor>
 		<professor>
 			<name>Rui Manuel Pacheco Meireles</name>
 			<title>Post Doctoral Fellow</title>
 			<email>rmeirele@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/rmeirele</website>
 		</professor>
 		<professor>
 			<name>Pingbo Pan</name>
 			<title>Visiting Research Professional</title>
 			<office>Gates and Hillman Centers</office>
 			<email>lighnt@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/lighnt</website>
 		</professor>
 		<professor>
 			<name>Yong-Lae Park</name>
@@ -1990,7 +2248,6 @@
 			<title>Visiting Scholar In HCII</title>
 			<office>2502 Newell-Simon Hall</office>
 			<email>jungwoop@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/jungwoop</website>
 		</professor>
 		<professor>
 			<name>Eric Paulos</name>
@@ -1999,6 +2256,7 @@
 			<email>paulos@andrew.cmu.edu</email>
 			<phone>(412) 268-3467</phone>
 			<website>https://www.scs.cmu.edu/directory/paulos</website>
+			<image>./cmu_images/ericRound.png</image>
 		</professor>
 		<professor>
 			<name>Andrew Pavlo</name>
@@ -2007,6 +2265,7 @@
 			<email>pavlo@cs.cmu.edu</email>
 			<phone>(412) 268-3057</phone>
 			<website>https://www.scs.cmu.edu/directory/apavlo</website>
+			<image>./cmu_images/photo-2014-small.jpg</image>
 		</professor>
 		<professor>
 			<name>Adrian Perrig</name>
@@ -2014,7 +2273,6 @@
 			<office>2107 Collaborative Innovation Center</office>
 			<email>adrian@andrew.cmu.edu</email>
 			<phone>(412) 268-2242</phone>
-			<website>https://www.scs.cmu.edu/directory/adrian</website>
 		</professor>
 		<professor>
 			<name>Juergen Pfeffer</name>
@@ -2031,20 +2289,19 @@
 			<email>fp@cs.cmu.edu</email>
 			<phone>(412) 268-6343</phone>
 			<website>https://www.scs.cmu.edu/directory/fp</website>
+			<image>./cmu_images/fp.jpg</image>
 		</professor>
 		<professor>
 			<name>Andreas Pfenning</name>
 			<title>Assistant Professor</title>
 			<office>7711 Gates and Hillman Centers</office>
 			<email>apfenning@cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/apfennin</website>
 		</professor>
 		<professor>
 			<name>Padmanabhan Pillai</name>
 			<title>Lecturer</title>
 			<email>pspillai@andrew.cmu.edu</email>
 			<phone>(412) 268-2565</phone>
-			<website>https://www.scs.cmu.edu/directory/pspillai</website>
 		</professor>
 		<professor>
 			<name>Andre Platzer</name>
@@ -2069,6 +2326,7 @@
 			<email>nsp@cs.cmu.edu</email>
 			<phone>(412) 268-1479</phone>
 			<website>https://www.scs.cmu.edu/directory/npollard</website>
+			<image>./cmu_images/photo.jpg</image>
 		</professor>
 		<professor>
 			<name>Ariel Procaccia</name>
@@ -2083,21 +2341,18 @@
 			<title>Assistant Teaching Professor</title>
 			<office>6025 Gates and Hillman Centers</office>
 			<email>bpr@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/bpr</website>
 		</professor>
 		<professor>
 			<name>Annieuthra Rajan</name>
 			<title>Adjunct Associate Teaching Professor</title>
 			<office>300 South Craig Street</office>
 			<email>aerajan@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/aerajan</website>
 		</professor>
 		<professor>
 			<name>Ashok Rajaraman</name>
 			<title>Post Doctoral Associate</title>
 			<office>7715 Gates and Hillman Centers</office>
 			<email>ashokr@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/ashokr</website>
 		</professor>
 		<professor>
 			<name>Bhiksha Ramakrishnan</name>
@@ -2113,6 +2368,7 @@
 			<email>deva@andrew.cmu.edu</email>
 			<phone>(412) 268-6966</phone>
 			<website>https://www.scs.cmu.edu/directory/deva</website>
+			<image>./cmu_images/headshot_thumbnail.jpg</image>
 		</professor>
 		<professor>
 			<name>Ramamoorthi Ravi</name>
@@ -2120,21 +2376,18 @@
 			<office>348C Tepper School of Business</office>
 			<email>ravi@andrew.cmu.edu</email>
 			<phone>(412) 268-3694</phone>
-			<website>https://www.scs.cmu.edu/directory/ravi</website>
 		</professor>
 		<professor>
 			<name>Ankit Rawat</name>
 			<title>Post Doctoral Fellow</title>
 			<office>7225 Gates and Hillman Centers</office>
 			<email>asrawat@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/asrawat</website>
 		</professor>
 		<professor>
 			<name>Saquib Razak</name>
 			<title>Assistant Teaching Professor of Computer Science</title>
 			<office>1018 Carnegie Mellon Qatar</office>
 			<email>srazak@qatar.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/srazak</website>
 		</professor>
 		<professor>
 			<name>Raj Reddy</name>
@@ -2142,6 +2395,7 @@
 			<email>reddy@cs.cmu.edu</email>
 			<phone>(412) 268-2597</phone>
 			<website>https://www.scs.cmu.edu/directory/rr0s</website>
+			<image>./cmu_images/image001.jpg</image>
 		</professor>
 		<professor>
 			<name>Margaret Reid-Miller</name>
@@ -2150,6 +2404,7 @@
 			<email>mrmiller@cs.cmu.edu</email>
 			<phone>(412) 268-4630</phone>
 			<website>https://www.scs.cmu.edu/directory/mr54</website>
+			<image>./cmu_images/mrmiller2008.jpg</image>
 		</professor>
 		<professor>
 			<name>Maria Luz Rello Sanchez</name>
@@ -2165,14 +2420,12 @@
 			<office>417 South Craig Street</office>
 			<email>jriel@andrew.cmu.edu</email>
 			<phone>(412) 268-4156</phone>
-			<website>https://www.scs.cmu.edu/directory/jriel</website>
 		</professor>
 		<professor>
 			<name>Marvin Ritter</name>
 			<title>Visiting Student Intern</title>
 			<office>407 South Craig Street</office>
 			<email>mritter@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/mritter</website>
 		</professor>
 		<professor>
 			<name>Cameron Riviere</name>
@@ -2181,12 +2434,12 @@
 			<email>camr@cs.cmu.edu</email>
 			<phone>(412) 268-3083</phone>
 			<website>https://www.scs.cmu.edu/directory/criviere</website>
+			<image>./cmu_images/riviere_cam.jpg</image>
 		</professor>
 		<professor>
 			<name>Gemma Francisca Rodrigues</name>
 			<title>Instructor - Portugal</title>
 			<email>gemmafrr@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/gemmafrr</website>
 		</professor>
 		<professor>
 			<name>Kathryn Roeder</name>
@@ -2194,7 +2447,6 @@
 			<office>228B Baker Porter Hall</office>
 			<email>roeder@andrew.cmu.edu</email>
 			<phone>(412) 268-2513</phone>
-			<website>https://www.scs.cmu.edu/directory/roeder</website>
 		</professor>
 		<professor>
 			<name>Gustavo Rohde</name>
@@ -2202,7 +2454,6 @@
 			<office>Hamerschlag Hall</office>
 			<email>gustavor@andrew.cmu.edu</email>
 			<phone>(412) 268-3684</phone>
-			<website>https://www.scs.cmu.edu/directory/gustavor</website>
 		</professor>
 		<professor>
 			<name>Oscar Romero Lopez</name>
@@ -2210,7 +2461,6 @@
 			<office>8108 Gates and Hillman Centers</office>
 			<email>oscarr@cs.cmu.edu</email>
 			<phone>(412) 320-6682</phone>
-			<website>https://www.scs.cmu.edu/directory/oscarr</website>
 		</professor>
 		<professor>
 			<name>David Root</name>
@@ -2218,7 +2468,6 @@
 			<office>272 300 South Craig Street</office>
 			<email>droot@cs.cmu.edu</email>
 			<phone>(412) 268-5198</phone>
-			<website>https://www.scs.cmu.edu/directory/droot</website>
 		</professor>
 		<professor>
 			<name>Carolyn Rose</name>
@@ -2227,6 +2476,7 @@
 			<email>cprose@cs.cmu.edu</email>
 			<phone>(412) 268-7130</phone>
 			<website>https://www.scs.cmu.edu/directory/cp3a</website>
+			<image>./cmu_images/Carolyn1.jpg</image>
 		</professor>
 		<professor>
 			<name>Roni Rosenfeld</name>
@@ -2235,6 +2485,7 @@
 			<email>roni@cs.cmu.edu</email>
 			<phone>(412) 268-7678</phone>
 			<website>https://www.scs.cmu.edu/directory/rr2l</website>
+			<image>./cmu_images/image002.jpg</image>
 		</professor>
 		<professor>
 			<name>Manuel Rosso-Llopart</name>
@@ -2242,7 +2493,6 @@
 			<office>270 300 South Craig Street</office>
 			<email>rosso@cs.cmu.edu</email>
 			<phone>(412) 268-4629</phone>
-			<website>https://www.scs.cmu.edu/directory/rosso</website>
 		</professor>
 		<professor>
 			<name>Steven Rudich</name>
@@ -2250,7 +2500,6 @@
 			<office>7219 Gates and Hillman Centers</office>
 			<email>rudich@cs.cmu.edu</email>
 			<phone>(412) 268-7885</phone>
-			<website>https://www.scs.cmu.edu/directory/rudich</website>
 		</professor>
 		<professor>
 			<name>Alexander Rudnicky</name>
@@ -2264,21 +2513,18 @@
 			<title>Post Doctoral Associate</title>
 			<office>7715 Gates and Hillman Centers</office>
 			<email>mruffalo@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/mruffalo</website>
 		</professor>
 		<professor>
 			<name>Nikol Rummel</name>
 			<title>Adjunct Assistant Professor</title>
 			<office>Newell-Simon Hall</office>
 			<email>nrummel@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/nrummel</website>
 		</professor>
 		<professor>
 			<name>Olga Russakovsky</name>
 			<title>Postdoctoral Fellow</title>
 			<office>216 Smith Hall</office>
 			<email>orussako@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/orussako</website>
 		</professor>
 		<professor>
 			<name>Norman Sadeh-Koniecpol</name>
@@ -2293,7 +2539,6 @@
 			<title>Visiting Research Scholar</title>
 			<office>5510 Gates and Hillman Centers</office>
 			<email>ksakamot@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/ksakamot</website>
 		</professor>
 		<professor>
 			<name>Majd Sakr</name>
@@ -2302,6 +2547,7 @@
 			<email>msakr@cs.cmu.edu</email>
 			<phone>(412) 268-1161</phone>
 			<website>https://www.scs.cmu.edu/directory/msakr</website>
+			<image>./cmu_images/majd_sakr_bws.jpg</image>
 		</professor>
 		<professor>
 			<name>Raja Sambasivan</name>
@@ -2310,6 +2556,7 @@
 			<email>rajas@cs.cmu.edu</email>
 			<phone>(412) 268-2000</phone>
 			<website>https://www.scs.cmu.edu/directory/rajas</website>
+			<image>./cmu_images/Raja_phd_grad.jpg</image>
 		</professor>
 		<professor>
 			<name>Tuomas Sandholm</name>
@@ -2318,20 +2565,19 @@
 			<email>sandholm@cs.cmu.edu</email>
 			<phone>(412) 268-8216</phone>
 			<website>https://www.scs.cmu.edu/directory/sandholm</website>
+			<image>./cmu_images/image002.jpg</image>
 		</professor>
 		<professor>
 			<name>Thierry Sans</name>
 			<title>Assistant Teaching Professor of Computer Science</title>
 			<office>1019 Carnegie Mellon Qatar</office>
 			<email>tsans@qatar.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/tsans</website>
 		</professor>
 		<professor>
 			<name>James Sargent</name>
 			<title>Adjunct Faculty Member</title>
 			<email>rsargent@cs.cmu.edu</email>
 			<phone>(650) 575-1612</phone>
-			<website>https://www.scs.cmu.edu/directory/rsargent</website>
 		</professor>
 		<professor>
 			<name>Mahadev Satyanarayanan</name>
@@ -2340,6 +2586,7 @@
 			<email>satya@cs.cmu.edu</email>
 			<phone>(412) 268-3743</phone>
 			<website>https://www.scs.cmu.edu/directory/satya</website>
+			<image>./cmu_images/satyaphoto-small.jpg</image>
 		</professor>
 		<professor>
 			<name>Florian Schaub</name>
@@ -2363,6 +2610,7 @@
 			<email>wls@cs.cmu.edu</email>
 			<phone>(412) 268-8741</phone>
 			<website>https://www.scs.cmu.edu/directory/scherlis</website>
+			<image>./cmu_images/wls4.jpg</image>
 		</professor>
 		<professor>
 			<name>Bradley Schmerl</name>
@@ -2371,6 +2619,7 @@
 			<email>schmerl@cs.cmu.edu</email>
 			<phone>(412) 268-5889</phone>
 			<website>https://www.scs.cmu.edu/directory/schmerl</website>
+			<image>./cmu_images/schmerl-mugshot.jpg</image>
 		</professor>
 		<professor>
 			<name>Jeff Schneider</name>
@@ -2386,15 +2635,6 @@
 			<office>5404 Gates and Hillman Centers</office>
 			<email>tanjas@andrew.cmu.edu</email>
 			<phone>(412) 268-5480</phone>
-			<website>https://www.scs.cmu.edu/directory/tanjas</website>
-		</professor>
-		<professor>
-			<name>Andrew Schwartz</name>
-			<title>Adjunct Faculty</title>
-			<office>4000B Newell-Simon Hall</office>
-			<email>andrewbs@andrew.cmu.edu</email>
-			<phone>(412) 268-3818</phone>
-			<website>https://www.scs.cmu.edu/directory/andrewbs</website>
 		</professor>
 		<professor>
 			<name>Russell Schwartz</name>
@@ -2402,7 +2642,13 @@
 			<office>654B Mellon Institute</office>
 			<email>russells@andrew.cmu.edu</email>
 			<phone>(412) 268-3971</phone>
-			<website>https://www.scs.cmu.edu/directory/russells</website>
+		</professor>
+		<professor>
+			<name>Andrew Schwartz</name>
+			<title>Adjunct Faculty</title>
+			<office>4000B Newell-Simon Hall</office>
+			<email>andrewbs@andrew.cmu.edu</email>
+			<phone>(412) 268-3818</phone>
 		</professor>
 		<professor>
 			<name>Dana Scott</name>
@@ -2417,7 +2663,6 @@
 			<office>2122 Collaborative Innovation Center</office>
 			<email>vyass@cs.cmu.edu</email>
 			<phone>(412) 268-2853</phone>
-			<website>https://www.scs.cmu.edu/directory/vsekar</website>
 		</professor>
 		<professor>
 			<name>Srinivasan Seshan</name>
@@ -2426,13 +2671,13 @@
 			<email>srini@cs.cmu.edu</email>
 			<phone>(412) 268-8734</phone>
 			<website>https://www.scs.cmu.edu/directory/srini</website>
+			<image>./cmu_images/Srini-small.jpg</image>
 		</professor>
 		<professor>
 			<name>Rajeeva Shah</name>
 			<title>Adjunct Professor of The Practice</title>
 			<email>rrshah@andrew.cmu.edu</email>
 			<phone>(412) 268-7170</phone>
-			<website>https://www.scs.cmu.edu/directory/rrshah</website>
 		</professor>
 		<professor>
 			<name>Michael Shamos</name>
@@ -2447,7 +2692,6 @@
 			<title>Lane Fellow</title>
 			<office>7603 Gates and Hillman Centers</office>
 			<email>mingfus@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/mingfus</website>
 		</professor>
 		<professor>
 			<name>Mary Shaw</name>
@@ -2464,6 +2708,7 @@
 			<email>yaser@cs.cmu.edu</email>
 			<phone>(412) 268-1138</phone>
 			<website>https://www.scs.cmu.edu/directory/yaser</website>
+			<image>./cmu_images/tomas.jpg</image>
 		</professor>
 		<professor>
 			<name>Kenji Shimada</name>
@@ -2471,7 +2716,6 @@
 			<office>314 Scaife Hall</office>
 			<email>shimada@andrew.cmu.edu</email>
 			<phone>(412) 268-3614</phone>
-			<website>https://www.scs.cmu.edu/directory/shimada</website>
 		</professor>
 		<professor>
 			<name>Douglas Sicker</name>
@@ -2479,7 +2723,6 @@
 			<office>129H Baker Porter Hall</office>
 			<email>sicker@andrew.cmu.edu</email>
 			<phone>(412) 268-2838</phone>
-			<website>https://www.scs.cmu.edu/directory/sicker</website>
 		</professor>
 		<professor>
 			<name>Mel Siegel</name>
@@ -2488,6 +2731,7 @@
 			<email>mws@cs.cmu.edu</email>
 			<phone>(412) 983-2626</phone>
 			<website>https://www.scs.cmu.edu/directory/mws</website>
+			<image>./cmu_images/image002.jpg</image>
 		</professor>
 		<professor>
 			<name>Daniel Siewiorek</name>
@@ -2509,7 +2753,6 @@
 			<name>Jose Luis Cardoso Silva</name>
 			<title>Instructor - Portugal</title>
 			<email>joseluis@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/joseluis</website>
 		</professor>
 		<professor>
 			<name>Reid Simmons</name>
@@ -2518,6 +2761,7 @@
 			<email>reids@cs.cmu.edu</email>
 			<phone>(412) 268-2621</phone>
 			<website>https://www.scs.cmu.edu/directory/rsimmons</website>
+			<image>./cmu_images/simmons_reid.small.jpg</image>
 		</professor>
 		<professor>
 			<name>Robert Simmons</name>
@@ -2531,15 +2775,13 @@
 			<name>Peter Simon</name>
 			<title>Visitor</title>
 			<email>pasimon@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/pasimon</website>
 		</professor>
 		<professor>
-			<name>Aarti Singh</name>
-			<title>A. Nico Habermann Associate Professor</title>
-			<office>8207 Gates and Hillman Centers</office>
-			<email>aarti@cs.cmu.edu</email>
-			<phone>(412) 268-4266</phone>
-			<website>https://www.scs.cmu.edu/directory/aarti</website>
+			<name>Rita Singh</name>
+			<title>Senior Systems Scientist</title>
+			<office>6703 Gates and Hillman Centers</office>
+			<email>rsingh@cs.cmu.edu</email>
+			<phone>(412) 268-9859</phone>
 		</professor>
 		<professor>
 			<name>Sanjiv Singh</name>
@@ -2550,12 +2792,13 @@
 			<website>https://www.scs.cmu.edu/directory/js89</website>
 		</professor>
 		<professor>
-			<name>Rita Singh</name>
-			<title>Senior Systems Scientist</title>
-			<office>6703 Gates and Hillman Centers</office>
-			<email>rsingh@cs.cmu.edu</email>
-			<phone>(412) 268-9859</phone>
-			<website>https://www.scs.cmu.edu/directory/ritasing</website>
+			<name>Aarti Singh</name>
+			<title>A. Nico Habermann Associate Professor</title>
+			<office>8207 Gates and Hillman Centers</office>
+			<email>aarti@cs.cmu.edu</email>
+			<phone>(412) 268-4266</phone>
+			<website>https://www.scs.cmu.edu/directory/aarti</website>
+			<image>./cmu_images/AS_single.png</image>
 		</professor>
 		<professor>
 			<name>Metin Sitti</name>
@@ -2563,7 +2806,6 @@
 			<office>307 Scaife Hall</office>
 			<email>msitti@andrew.cmu.edu</email>
 			<phone>(412) 268-3632</phone>
-			<website>https://www.scs.cmu.edu/directory/msitti</website>
 		</professor>
 		<professor>
 			<name>Kiron Skinner</name>
@@ -2571,7 +2813,6 @@
 			<office>223F Baker Porter Hall</office>
 			<email>kskinner@andrew.cmu.edu</email>
 			<phone>(412) 268-3238</phone>
-			<website>https://www.scs.cmu.edu/directory/kskinner</website>
 		</professor>
 		<professor>
 			<name>Daniel Sleator</name>
@@ -2580,6 +2821,7 @@
 			<email>sleator@cs.cmu.edu</email>
 			<phone>(412) 268-7563</phone>
 			<website>https://www.scs.cmu.edu/directory/ds5l</website>
+			<image>./cmu_images/pic2-crop-50.jpg</image>
 		</professor>
 		<professor>
 			<name>Noah Smith</name>
@@ -2595,6 +2837,7 @@
 			<email>sfs@cs.cmu.edu</email>
 			<phone>(412) 268-8811</phone>
 			<website>https://www.scs.cmu.edu/directory/ssmith</website>
+			<image>./cmu_images/sfs_300dpi.jpg</image>
 		</professor>
 		<professor>
 			<name>Alexander Smola</name>
@@ -2603,6 +2846,7 @@
 			<email>smola@cs.cmu.edu</email>
 			<phone>(408) 759-1044</phone>
 			<website>https://www.scs.cmu.edu/directory/smola</website>
+			<image>./cmu_images/alexshanghai.jpg</image>
 		</professor>
 		<professor>
 			<name>Koushil Sreenath</name>
@@ -2610,7 +2854,6 @@
 			<office>310 Scaife Hall</office>
 			<email>koushils@andrew.cmu.edu</email>
 			<phone>(412) 268-2501</phone>
-			<website>https://www.scs.cmu.edu/directory/koushils</website>
 		</professor>
 		<professor>
 			<name>Siddhartha Srinivasa</name>
@@ -2619,6 +2862,7 @@
 			<email>siddh@cs.cmu.edu</email>
 			<phone>(412) 268-5529</phone>
 			<website>https://www.scs.cmu.edu/directory/ss5</website>
+			<image>./cmu_images/Srinivasa.jpg</image>
 		</professor>
 		<professor>
 			<name>John Stamper</name>
@@ -2626,7 +2870,6 @@
 			<office>2602D Newell-Simon Hall</office>
 			<email>jstamper@cs.cmu.edu</email>
 			<phone>(412) 268-9690</phone>
-			<website>https://www.scs.cmu.edu/directory/jstamper</website>
 		</professor>
 		<professor>
 			<name>Ravi Starzl</name>
@@ -2643,13 +2886,13 @@
 			<email>prs@cs.cmu.edu</email>
 			<phone>(412) 268-3261</phone>
 			<website>https://www.scs.cmu.edu/directory/peter2</website>
+			<image>./cmu_images/prs-new.jpg</image>
 		</professor>
 		<professor>
 			<name>Mark Stehlik</name>
 			<title>Assistant Dean for Outreach; Teaching Professor</title>
 			<office>6205 Gates and Hillman Centers</office>
 			<email>mjs@cs.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/mjs</website>
 		</professor>
 		<professor>
 			<name>Aaron Steinfeld</name>
@@ -2665,7 +2908,6 @@
 			<office>211 National Robotics Engineering Center</office>
 			<email>axs@cs.cmu.edu</email>
 			<phone>(412) 268-8155</phone>
-			<website>https://www.scs.cmu.edu/directory/stentz</website>
 		</professor>
 		<professor>
 			<name>George Stetten</name>
@@ -2674,20 +2916,19 @@
 			<email>stetten@andrew.cmu.edu</email>
 			<phone>(412) 624-7762</phone>
 			<website>https://www.scs.cmu.edu/directory/stetten</website>
+			<image>./cmu_images/george.jpeg</image>
 		</professor>
 		<professor>
 			<name>Lingyun Sun</name>
 			<title>Visiting Research Scholar</title>
 			<office>5311 Wean Hall</office>
 			<email>lingyuns@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/lingyuns</website>
 		</professor>
 		<professor>
 			<name>Jiande Sun</name>
 			<title>Visiting Research Scholar</title>
 			<office>4206 Wean Hall</office>
 			<email>jiandes@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/jiandes</website>
 		</professor>
 		<professor>
 			<name>Joshua Sunshine</name>
@@ -2696,6 +2937,7 @@
 			<email>jssunshi@cs.cmu.edu</email>
 			<phone>(412) 268-1097</phone>
 			<website>https://www.scs.cmu.edu/directory/jssunshi</website>
+			<image>./cmu_images/Headshot_20151101_cropped_small.png</image>
 		</professor>
 		<professor>
 			<name>Subra Suresh</name>
@@ -2703,7 +2945,6 @@
 			<office>Gates and Hillman Centers</office>
 			<email>president@cmu.edu</email>
 			<phone>(412) 268-2200</phone>
-			<website>https://www.scs.cmu.edu/directory/suresh</website>
 		</professor>
 		<professor>
 			<name>Klaus Sutner</name>
@@ -2719,7 +2960,6 @@
 			<office>1602D Newell-Simon Hall</office>
 			<email>katia@cs.cmu.edu</email>
 			<phone>(412) 268-8825</phone>
-			<website>https://www.scs.cmu.edu/directory/sycara</website>
 		</professor>
 		<professor>
 			<name>Sujata Telang</name>
@@ -2727,7 +2967,6 @@
 			<office>209 417 South Craig Street</office>
 			<email>stelang@cs.cmu.edu</email>
 			<phone>(412) 268-4644</phone>
-			<website>https://www.scs.cmu.edu/directory/stelang</website>
 		</professor>
 		<professor>
 			<name>Philip Thomas</name>
@@ -2735,7 +2974,6 @@
 			<office>7225 Gates and Hillman Centers</office>
 			<email>philipt@andrew.cmu.edu</email>
 			<phone>(413) 545-1596</phone>
-			<website>https://www.scs.cmu.edu/directory/philipt</website>
 		</professor>
 		<professor>
 			<name>Charles Thorpe</name>
@@ -2749,13 +2987,11 @@
 			<name>Dechao Tian</name>
 			<title>Post Doctoral Associate</title>
 			<email>dechaot@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/dechaot</website>
 		</professor>
 		<professor>
 			<name>Anthony Tomasic</name>
 			<title>Associate Director of Integrative Media Program; Senior Systems Scientist</title>
 			<email>tomasic@cs.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/tomasic</website>
 		</professor>
 		<professor>
 			<name>David Touretzky</name>
@@ -2764,6 +3000,7 @@
 			<email>dst@cs.cmu.edu</email>
 			<phone>(412) 268-7561</phone>
 			<website>https://www.scs.cmu.edu/directory/dst</website>
+			<image>./cmu_images/dave-deck-cropped.jpg</image>
 		</professor>
 		<professor>
 			<name>Erik Trainer</name>
@@ -2787,7 +3024,6 @@
 			<office>236 National Robotics Engineering Center</office>
 			<email>cvalles@andrew.cmu.edu</email>
 			<phone>(412) 216-4195</phone>
-			<website>https://www.scs.cmu.edu/directory/cvalles</website>
 		</professor>
 		<professor>
 			<name>Jean-Sebastien Valois</name>
@@ -2795,7 +3031,6 @@
 			<office>226 National Robotics Engineering Center</office>
 			<email>valois@andrew.cmu.edu</email>
 			<phone>(412) 687-9085</phone>
-			<website>https://www.scs.cmu.edu/directory/valois</website>
 		</professor>
 		<professor>
 			<name>Helmut Veith</name>
@@ -2803,7 +3038,6 @@
 			<office>4117 Wean Hall</office>
 			<email>veith@andrew.cmu.edu</email>
 			<phone>(412) 268-3789</phone>
-			<website>https://www.scs.cmu.edu/directory/veith</website>
 		</professor>
 		<professor>
 			<name>Prasanna Velagapudi</name>
@@ -2811,7 +3045,6 @@
 			<office>4000B Newell-Simon Hall</office>
 			<email>pkv@andrew.cmu.edu</email>
 			<phone>(412) 268-3818</phone>
-			<website>https://www.scs.cmu.edu/directory/pkv</website>
 		</professor>
 		<professor>
 			<name>Manuela M. Veloso</name>
@@ -2820,6 +3053,7 @@
 			<email>mmv@cs.cmu.edu</email>
 			<phone>(412) 268-1474</phone>
 			<website>https://www.scs.cmu.edu/directory/mv10</website>
+			<image>./cmu_images/Veloso2012.jpg</image>
 		</professor>
 		<professor>
 			<name>Stephan Vogel</name>
@@ -2827,7 +3061,6 @@
 			<office>Gates and Hillman Centers</office>
 			<email>stvogel@andrew.cmu.edu</email>
 			<phone>(412) 268-5480</phone>
-			<website>https://www.scs.cmu.edu/directory/stvogel</website>
 		</professor>
 		<professor>
 			<name>Luis Von Ahn</name>
@@ -2858,14 +3091,12 @@
 			<office>205 407 South Craig Street</office>
 			<email>ahw@cs.cmu.edu</email>
 			<phone>(412) 268-7676</phone>
-			<website>https://www.scs.cmu.edu/directory/waibel</website>
 		</professor>
 		<professor>
 			<name>Peter Wardrip</name>
 			<title>Visiting Scholar</title>
 			<office>3602B Newell-Simon Hall</office>
 			<email>pwardrip@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/pwardrip</website>
 		</professor>
 		<professor>
 			<name>Larry Wasserman</name>
@@ -2873,7 +3104,6 @@
 			<office>228A Baker Porter Hall</office>
 			<email>larry@andrew.cmu.edu</email>
 			<phone>(412) 268-8727</phone>
-			<website>https://www.scs.cmu.edu/directory/larry</website>
 		</professor>
 		<professor>
 			<name>Lee Weiss</name>
@@ -2887,7 +3117,6 @@
 			<name>Florian Wenninger</name>
 			<title>Visiting Research Fellow</title>
 			<email>fwenning@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/fwenning</website>
 		</professor>
 		<professor>
 			<name>David Wettergreen</name>
@@ -2904,6 +3133,7 @@
 			<email>red@cs.cmu.edu</email>
 			<phone>(412) 268-6559</phone>
 			<website>https://www.scs.cmu.edu/directory/ww0t</website>
+			<image>./cmu_images/whittaker.jpg</image>
 		</professor>
 		<professor>
 			<name>John Wilkes</name>
@@ -2911,14 +3141,12 @@
 			<office>4212 Wean Hall</office>
 			<email>wilkes@andrew.cmu.edu</email>
 			<phone>(412) 268-2565</phone>
-			<website>https://www.scs.cmu.edu/directory/wilkes</website>
 		</professor>
 		<professor>
 			<name>Andrew Wilson</name>
 			<title>Post Doctoral Fellow</title>
 			<office>8110 Gates and Hillman Centers</office>
 			<email>andrewgw@cs.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/andrewgw</website>
 		</professor>
 		<professor>
 			<name>Mary Wootters</name>
@@ -2926,7 +3154,6 @@
 			<office>7103 Gates and Hillman Centers</office>
 			<email>marykw@andrew.cmu.edu</email>
 			<phone>(412) 268-2000</phone>
-			<website>https://www.scs.cmu.edu/directory/marykw</website>
 		</professor>
 		<professor>
 			<name>Monika Woszczyna</name>
@@ -2934,14 +3161,12 @@
 			<office>5404 Gates and Hillman Centers</office>
 			<email>monikaw@andrew.cmu.edu</email>
 			<phone>(412) 268-6591</phone>
-			<website>https://www.scs.cmu.edu/directory/monikaw</website>
 		</professor>
 		<professor>
 			<name>Hyrum Wright</name>
 			<title>Lecturer</title>
 			<email>hwright@andrew.cmu.edu</email>
 			<phone>(412) 268-2565</phone>
-			<website>https://www.scs.cmu.edu/directory/hwright</website>
 		</professor>
 		<professor>
 			<name>Wei Wu</name>
@@ -2950,6 +3175,7 @@
 			<email>weiwu2@cs.cmu.edu</email>
 			<phone>412-268-1866</phone>
 			<website>https://www.scs.cmu.edu/directory/weiwu2</website>
+			<image>./cmu_images/profile-pic.jpg</image>
 		</professor>
 		<professor>
 			<name>Eric Xing</name>
@@ -2958,6 +3184,7 @@
 			<email>epxing@cs.cmu.edu</email>
 			<phone>(412) 268-2559</phone>
 			<website>https://www.scs.cmu.edu/directory/epxing</website>
+			<image>./cmu_images/xing2015.jpg</image>
 		</professor>
 		<professor>
 			<name>Yiming Yang</name>
@@ -2966,6 +3193,18 @@
 			<email>yiming@cs.cmu.edu</email>
 			<phone>(412) 268-1364</phone>
 			<website>https://www.scs.cmu.edu/directory/yiming</website>
+			<image>./cmu_images/image002.jpg</image>
+		</professor>
+		<professor>
+			<name>Bishan Yang</name>
+			<title>Post Doctoral Fellow</title>
+			<office>8133 Gates and Hillman Centers</office>
+			<email>bishany@andrew.cmu.edu</email>
+		</professor>
+		<professor>
+			<name>Jean Yang</name>
+			<title>Assistant Professor</title>
+			<email>jyang2@andrew.cmu.edu</email>
 		</professor>
 		<professor>
 			<name>Ge Yang</name>
@@ -2973,76 +3212,54 @@
 			<office>403 Mellon Institute</office>
 			<email>geyang@andrew.cmu.edu</email>
 			<phone>(412) 268-3186</phone>
-			<website>https://www.scs.cmu.edu/directory/geyang</website>
-		</professor>
-		<professor>
-			<name>Bishan Yang</name>
-			<title>Post Doctoral Fellow</title>
-			<office>8133 Gates and Hillman Centers</office>
-			<email>bishany@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/bishany</website>
-		</professor>
-		<professor>
-			<name>Jean Yang</name>
-			<title>Assistant Professor</title>
-			<email>jyang2@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/jyang2</website>
 		</professor>
 		<professor>
 			<name>Yaoliang Yu</name>
 			<title>Research Scientist</title>
 			<office>8110 Gates and Hillman Centers</office>
 			<email>yaoliang@cs.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/yaoliang</website>
 		</professor>
 		<professor>
 			<name>Weiren Yu</name>
 			<title>Visiting Research Scholar</title>
 			<office>8018 Gates and Hillman Centers</office>
 			<email>weireny@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/weireny</website>
 		</professor>
 		<professor>
 			<name>Hui Zhang</name>
 			<title>Adjunct Faculty</title>
 			<email>hzhang@andrew.cmu.edu</email>
 			<phone>(412) 268-2000</phone>
-			<website>https://www.scs.cmu.edu/directory/hzhang</website>
 		</professor>
 		<professor>
 			<name>Sha Zhao</name>
 			<title>Visitor</title>
 			<office>2502 Newell-Simon Hall</office>
 			<email>shaz@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/shaz</website>
 		</professor>
 		<professor>
 			<name>Zhicheng Zhao</name>
 			<title>Visiting Research Scholar</title>
 			<office>Gates and Hillman Centers</office>
 			<email>zhichenz@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/zhichenz</website>
 		</professor>
 		<professor>
 			<name>Yu Zhong</name>
 			<title>Visitor</title>
 			<office>Newell-Simon Hall</office>
 			<email>zyu05@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/zyu05</website>
 		</professor>
 		<professor>
 			<name>Yi Zhou</name>
 			<title>Visiting Research Scholar</title>
 			<office>8116 Gates and Hillman Centers</office>
 			<email>yzhou2@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/yzhou2</website>
 		</professor>
 		<professor>
 			<name>Jun Zhu</name>
 			<title>Adjunct Faculty</title>
 			<office>8110 Gates and Hillman Centers</office>
 			<email>junzhu@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/junzhu</website>
 		</professor>
 		<professor>
 			<name>Yair Zick</name>
@@ -3051,6 +3268,7 @@
 			<email>yairzick@cs.cmu.edu</email>
 			<phone>(412) 268-2000</phone>
 			<website>https://www.scs.cmu.edu/directory/yairzick</website>
+			<image>./cmu_images/profile_pic.jpg</image>
 		</professor>
 		<professor>
 			<name>John Zimmerman</name>
@@ -3059,19 +3277,18 @@
 			<email>johnz@cs.cmu.edu</email>
 			<phone>(412) 608-8181</phone>
 			<website>https://www.scs.cmu.edu/directory/johnz</website>
+			<image>./cmu_images/face.jpg</image>
 		</professor>
 		<professor>
 			<name>Ales Zivkovic</name>
 			<title>Visiting Scholar</title>
 			<office>300 South Craig Street</office>
 			<email>alesz@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/alesz</website>
 		</professor>
 		<professor>
 			<name>Andrey Zykov</name>
 			<title>Visiting Scholar</title>
 			<office>300 South Craig Street</office>
 			<email>azykov@andrew.cmu.edu</email>
-			<website>https://www.scs.cmu.edu/directory/azykov</website>
 		</professor>
 	</institution>

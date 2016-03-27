@@ -357,7 +357,6 @@
 			<office>255</office>
 			<phone>6-8242</phone>
 			<website>http://cs210.stanford.edu</website>
-			<image>./stanford_images/stanford.jpg</image>
 		</professor>
 		<professor>
 			<name>Jerry Cain	    	</name>
@@ -429,7 +428,6 @@
 			<office>135</office>
 			<phone>3-0350</phone>
 			<website>http://robotics.Stanford.EDU/~latombe</website>
-			<image>./stanford_images/image004.jpg</image>
 		</professor>
 		<professor>
 			<name>Marc Levoy</name>
@@ -495,7 +493,6 @@
 		<professor>
 			<name>Paulo Blikstein</name>
 			<website>http://www.blikstein.com/paulo</website>
-			<image>./stanford_images/resumeimag.jpg</image>
 		</professor>
 		<professor>
 			<name>Stephen Boyd</name>
@@ -555,7 +552,6 @@
 			<office>R248A</office>
 			<phone>725-9641</phone>
 			<website>http://montgomerylab.stanford.edu</website>
-			<image>./stanford_images/content_photo_1.jpg</image>
 		</professor>
 		<professor>
 			<name>Allison Okamura	    	</name>
@@ -583,7 +579,6 @@
 			<name>Ge Wang</name>
 			<office>212</office>
 			<website>http://ccrma.stanford.edu/~ge/</website>
-			<image>./stanford_images/chuck-logo.jpg</image>
 		</professor>
 		<professor>
 			<name>Pei Cao</name>
@@ -662,6 +657,5 @@
 			<name>Jidong Zhai</name>
 			<office>238</office>
 			<website>http://pacman.cs.tsinghua.edu.cn/~zjd/</website>
-			<image>./stanford_images/pacman.cs.tsinghua.edu.cn-~zjd--thumb.jpg</image>
 		</professor>
 	</institution>
