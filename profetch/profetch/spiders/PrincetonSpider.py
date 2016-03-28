@@ -20,7 +20,13 @@ class PrincetonSpider(CrawlSpider):
         theItem['email'] = ''
         theItem['phone'] = ''
         theItem['office'] = ''
+        theItem['picture'] = ''
         basic = sel.xpath('//div[@class="faculty-bio-basics"]')
+        pic = sel.xpath('//div[@class="faculty-bio-picture"]')
+        img_lst = pic.xpath('.//img/@src').extract()
+        if(len(img_lst) > 0):
+            theItem['picture'] = "https://www.cs.princeton.edu" + img_lst[0]
+
         for row in basic.xpath('div[@class="faculty-bio-row"]'):
             label = row.xpath('div[@class="faculty-bio-label"]/text()').extract()
             if(len(label) > 0 and 'Homepage' in label[0]):

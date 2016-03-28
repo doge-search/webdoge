@@ -4,7 +4,8 @@
 #
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
-
+import os
+import urllib
 import xml.dom.minidom as minidom
 
 class writePipeline(object):
@@ -14,6 +15,9 @@ class writePipeline(object):
         self.institution = self.doc.createElement("institution")
         self.doc.appendChild(self.institution)
         self.cnt = 0
+        if(not os.path.exists('d:/PYPJ/pictures')):
+            os.mkdir('d:/PYPJ/pictures')
+
 
     def process_item(self, item, spider):
             professor = self.doc.createElement("professor")
@@ -33,6 +37,12 @@ class writePipeline(object):
             officenode = self.doc.createElement("office")
             officenode.appendChild(self.doc.createTextNode(item['office'].encode('utf-8')))
             professor.appendChild(officenode)
+
+            # piclocal = "d:/PYPJ/pictures/" + item['name'].encode('utf-8') + ".jpg"
+            # urllib.urlretrieve(item['picture'], piclocal)
+            picnode = self.doc.createElement("image")
+            picnode.appendChild(self.doc.createTextNode("./images/" + item['name'].encode('utf-8') + ".jpg"))
+            professor.appendChild(picnode)
 
             self.cnt += 1
     def close_spider(self, spider):
