@@ -1,0 +1,543 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Gregory Abowd</name>
+		</professor>
+		<professor>
+			<name>Mustaque Ahamad</name>
+		</professor>
+		<professor>
+			<name>Srinivas Aluru</name>
+		</professor>
+		<professor>
+			<name>Mostafa Ammar</name>
+		</professor>
+		<professor>
+			<name> Annie Antón</name>
+		</professor>
+		<professor>
+			<name>Ronald Arkin</name>
+		</professor>
+		<professor>
+			<name>Rosa Arriaga</name>
+		</professor>
+		<professor>
+			<name>David A. Bader</name>
+		</professor>
+		<professor>
+			<name>Albert Badre</name>
+		</professor>
+		<professor>
+			<name>Mohammad Taha Bahadori</name>
+		</professor>
+		<professor>
+			<name>Tucker Balch</name>
+		</professor>
+		<professor>
+			<name>Rahul Basole</name>
+		</professor>
+		<professor>
+			<name>Michael Best</name>
+		</professor>
+		<professor>
+			<name>Ian Bogost</name>
+		</professor>
+		<professor>
+			<name>Alexandra Boldyreva</name>
+		</professor>
+		<professor>
+			<name>Byron Boots</name>
+		</professor>
+		<professor>
+			<name>Mark Borodovsky</name>
+		</professor>
+		<professor>
+			<name>Mark Braunstein</name>
+		</professor>
+		<professor>
+			<name>Sean Brennan</name>
+		</professor>
+		<professor>
+			<name>Ken Brown</name>
+		</professor>
+		<professor>
+			<name>Carrie Bruce</name>
+		</professor>
+		<professor>
+			<name>Amy Bruckman</name>
+		</professor>
+		<professor>
+			<name>Elijah Cameron</name>
+		</professor>
+		<professor>
+			<name>Richard Catrambone</name>
+		</professor>
+		<professor>
+			<name>Jan Thomas Cederborg</name>
+		</professor>
+		<professor>
+			<name>Min Changwoo</name>
+		</professor>
+		<professor>
+			<name>Polo Chau</name>
+		</professor>
+		<professor>
+			<name>Sonia Chernova</name>
+		</professor>
+		<professor>
+			<name>Edmond Chow</name>
+		</professor>
+		<professor>
+			<name>Henrik I. Christensen</name>
+		</professor>
+		<professor>
+			<name>Pak Ho Chung</name>
+		</professor>
+		<professor>
+			<name>Russell Clark</name>
+		</professor>
+		<professor>
+			<name>James Clawson</name>
+		</professor>
+		<professor>
+			<name>Tai Cohen</name>
+		</professor>
+		<professor>
+			<name>Thomas Conte</name>
+		</professor>
+		<professor>
+			<name>George Cox</name>
+		</professor>
+		<professor>
+			<name>Stephen Cross</name>
+		</professor>
+		<professor>
+			<name>David Dagon</name>
+		</professor>
+		<professor>
+			<name>Kaya De Barbaro</name>
+		</professor>
+		<professor>
+			<name>Munmun DeChoudhury</name>
+		</professor>
+		<professor>
+			<name>Frank Dellaert</name>
+		</professor>
+		<professor>
+			<name>Richard DeMillo</name>
+		</professor>
+		<professor>
+			<name>Bistra Dilkina</name>
+		</professor>
+		<professor>
+			<name>Betsy DiSalvo</name>
+		</professor>
+		<professor>
+			<name>Ellen Do</name>
+		</professor>
+		<professor>
+			<name>Constantine Dovrolis</name>
+		</professor>
+		<professor>
+			<name>Barry Drake</name>
+		</professor>
+		<professor>
+			<name>Charles Eastman</name>
+		</professor>
+		<professor>
+			<name>Ashley Rose Edgar</name>
+		</professor>
+		<professor>
+			<name>Keith Edwards</name>
+		</professor>
+		<professor>
+			<name>Charilaos Efthymiou</name>
+		</professor>
+		<professor>
+			<name>Greg Eisenhauer</name>
+		</professor>
+		<professor>
+			<name>Jacob Eisenstein</name>
+		</professor>
+		<professor>
+			<name>Alex Endert</name>
+		</professor>
+		<professor>
+			<name>Philip Enslow</name>
+		</professor>
+		<professor>
+			<name>Barbara Ericson</name>
+		</professor>
+		<professor>
+			<name>Hadi Esmaeilzadeh</name>
+		</professor>
+		<professor>
+			<name>Irfan Essa</name>
+		</professor>
+		<professor>
+			<name>James Foley</name>
+		</professor>
+		<professor>
+			<name>Daniel Forsyth</name>
+		</professor>
+		<professor>
+			<name>Lance Fortnow</name>
+		</professor>
+		<professor>
+			<name>Peter Freeman</name>
+		</professor>
+		<professor>
+			<name>Richard Fujimoto</name>
+		</professor>
+		<professor>
+			<name>Merrick Furst</name>
+		</professor>
+		<professor>
+			<name>Zvi Galil</name>
+		</professor>
+		<professor>
+			<name>Christina Gardner</name>
+		</professor>
+		<professor>
+			<name>Ada Gavrilovska</name>
+		</professor>
+		<professor>
+			<name>Eric Gilbert</name>
+		</professor>
+		<professor>
+			<name>John Goda</name>
+		</professor>
+		<professor>
+			<name>Ashok Goel</name>
+		</professor>
+		<professor>
+			<name>Eric Gold</name>
+		</professor>
+		<professor>
+			<name>Seymour Goodman</name>
+		</professor>
+		<professor>
+			<name>Oded Green</name>
+		</professor>
+		<professor>
+			<name>Beki Grinter</name>
+		</professor>
+		<professor>
+			<name>Concettina Guerra</name>
+		</professor>
+		<professor>
+			<name>Mark Guzdial</name>
+		</professor>
+		<professor>
+			<name>James Haagans</name>
+		</professor>
+		<professor>
+			<name>Harley Hamilton</name>
+		</professor>
+		<professor>
+			<name>William Harris</name>
+		</professor>
+		<professor>
+			<name>Brent Harrison</name>
+		</professor>
+		<professor>
+			<name>James Hays</name>
+		</professor>
+		<professor>
+			<name>Michael Helms</name>
+		</professor>
+		<professor>
+			<name>Richard Henneman</name>
+		</professor>
+		<professor>
+			<name>Kenneth Honea</name>
+		</professor>
+		<professor>
+			<name>Mary Hudachek-Buswell</name>
+		</professor>
+		<professor>
+			<name>Charles Isbell, Jr.</name>
+		</professor>
+		<professor>
+			<name>Melody Jackson</name>
+		</professor>
+		<professor>
+			<name>Surya Kalidindi</name>
+		</professor>
+		<professor>
+			<name>Sing-Bing Kang</name>
+		</professor>
+		<professor>
+			<name>Ramakrishan Kannan</name>
+		</professor>
+		<professor>
+			<name>Charlie Kemp</name>
+		</professor>
+		<professor>
+			<name>Hyesoon Kim</name>
+		</professor>
+		<professor>
+			<name>Taesoo Kim</name>
+		</professor>
+		<professor>
+			<name>Robert Kolodner</name>
+		</professor>
+		<professor>
+			<name>Janet Kolodner</name>
+		</professor>
+		<professor>
+			<name>Tushar Krishna</name>
+		</professor>
+		<professor>
+			<name>Neha Kumar</name>
+		</professor>
+		<professor>
+			<name>Maithilee Kunda</name>
+		</professor>
+		<professor>
+			<name>Pablo Laguna</name>
+		</professor>
+		<professor>
+			<name>William Leahy</name>
+		</professor>
+		<professor>
+			<name>Guy Lebanon</name>
+		</professor>
+		<professor>
+			<name>Rich LeBlanc</name>
+		</professor>
+		<professor>
+			<name>Sangho Lee</name>
+		</professor>
+		<professor>
+			<name>Wenke Lee</name>
+		</professor>
+		<professor>
+			<name>Hsein-Hsin Lee</name>
+		</professor>
+		<professor>
+			<name>Dave Lillethun</name>
+		</professor>
+		<professor>
+			<name>Richard Lipton</name>
+		</professor>
+		<professor>
+			<name>Michael Littman</name>
+		</professor>
+		<professor>
+			<name>Karen Liu</name>
+		</professor>
+		<professor>
+			<name>Ling Liu</name>
+		</professor>
+		<professor>
+			<name>Yongchao Liu</name>
+		</professor>
+		<professor>
+			<name>Rhonda Lowery</name>
+		</professor>
+		<professor>
+			<name>Blair MacIntyre</name>
+		</professor>
+		<professor>
+			<name>Brian Magerko</name>
+		</professor>
+		<professor>
+			<name>Leo Mark</name>
+		</professor>
+		<professor>
+			<name>Kristin Marsicano</name>
+		</professor>
+		<professor>
+			<name>Guilherme Grillo Martins</name>
+		</professor>
+		<professor>
+			<name>W. Michael McCracken</name>
+		</professor>
+		<professor>
+			<name>Melinda McDaniel</name>
+		</professor>
+		<professor>
+			<name>Keith McGreggor</name>
+		</professor>
+		<professor>
+			<name>Milena Mihail</name>
+		</professor>
+		<professor>
+			<name>Vincent J. Mooney III</name>
+		</professor>
+		<professor>
+			<name>Jillian Morn</name>
+		</professor>
+		<professor>
+			<name>Mark Moss</name>
+		</professor>
+		<professor>
+			<name>Elizabeth Mynatt</name>
+		</professor>
+		<professor>
+			<name>Mayur Naik</name>
+		</professor>
+		<professor>
+			<name>Shamkant Navathe</name>
+		</professor>
+		<professor>
+			<name>Nancy Nersessian</name>
+		</professor>
+		<professor>
+			<name>Edward Omiecinski</name>
+		</professor>
+		<professor>
+			<name>Olufisayo Omojokun</name>
+		</professor>
+		<professor>
+			<name>Alessandro Orso</name>
+		</professor>
+		<professor>
+			<name>Santosh Pande</name>
+		</professor>
+		<professor>
+			<name>Haesun Park</name>
+		</professor>
+		<professor>
+			<name>Troy Peace</name>
+		</professor>
+		<professor>
+			<name>Chris Peikert</name>
+		</professor>
+		<professor>
+			<name>Richard Peng</name>
+		</professor>
+		<professor>
+			<name>Roberto Perdisci</name>
+		</professor>
+		<professor>
+			<name>Chip Phillips</name>
+		</professor>
+		<professor>
+			<name>Colin Potts</name>
+		</professor>
+		<professor>
+			<name>Benjamin Pritchard</name>
+		</professor>
+		<professor>
+			<name>Milos Prvulovic</name>
+		</professor>
+		<professor>
+			<name>Calton Pu</name>
+		</professor>
+		<professor>
+			<name>Moin Qureshi</name>
+		</professor>
+		<professor>
+			<name>Ashwin Ram</name>
+		</professor>
+		<professor>
+			<name>Umakishore Ramachandran</name>
+		</professor>
+		<professor>
+			<name>Dana Randall</name>
+		</professor>
+		<professor>
+			<name>Anup Rao </name>
+		</professor>
+		<professor>
+			<name>Anup Rao</name>
+		</professor>
+		<professor>
+			<name>James Rehg</name>
+		</professor>
+		<professor>
+			<name>Mark Riedl</name>
+		</professor>
+		<professor>
+			<name>Jason Riedy</name>
+		</professor>
+		<professor>
+			<name>Jarek Rossignac</name>
+		</professor>
+		<professor>
+			<name>Agata Rozga</name>
+		</professor>
+		<professor>
+			<name>Spencer Rugaber</name>
+		</professor>
+		<professor>
+			<name>Jennifer Salazar</name>
+		</professor>
+		<professor>
+			<name>Howard Schmidt</name>
+		</professor>
+		<professor>
+			<name>Nikhil Lalit Shah</name>
+		</professor>
+		<professor>
+			<name>C. David Sherrill</name>
+		</professor>
+		<professor>
+			<name>Deirdre Shoemaker</name>
+		</professor>
+		<professor>
+			<name>Christopher Simpkins</name>
+		</professor>
+		<professor>
+			<name>David Smith</name>
+		</professor>
+		<professor>
+			<name>Le Song</name>
+		</professor>
+		<professor>
+			<name>Cedric Stallworth</name>
+		</professor>
+		<professor>
+			<name>Thad Starner</name>
+		</professor>
+		<professor>
+			<name>John Stasko</name>
+		</professor>
+		<professor>
+			<name>Mani Subramanian</name>
+		</professor>
+		<professor>
+			<name>Jay Summet</name>
+		</professor>
+		<professor>
+			<name>Jimeng Sun</name>
+		</professor>
+		<professor>
+			<name>Monica Sweat</name>
+		</professor>
+		<professor>
+			<name>Larry Sweet</name>
+		</professor>
+		<professor>
+			<name>Prasad Tetali</name>
+		</professor>
+		<professor>
+			<name>Sharma Thankachan</name>
+		</professor>
+		<professor>
+			<name>Andrea Thomaz</name>
+		</professor>
+		<professor>
+			<name>Sebastian Thrun</name>
+		</professor>
+		<professor>
+			<name>Greg Turk</name>
+		</professor>
+		<professor>
+			<name>James Tyson</name>
+		</professor>
+		<professor>
+			<name>Swaroop Vattam</name>
+		</professor>
+		<professor>
+			<name>Vijay Vazirani</name>
+		</professor>
+		<professor>
+			<name>Santosh Vempala</name>
+		</professor>
+		<professor>
+			<name>H. Venkateswaran</name>
+		</professor>
+	</institution>
