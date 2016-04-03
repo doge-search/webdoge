@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+ï»¿<?xml version="1.0" ?>
 	<institution>
 		<professor>
 			<name>Pieter Abbeel</name>
@@ -121,7 +121,7 @@
 			<image>./ucb_images/griffiths.jpg</image>
 		</professor>
 		<professor>
-			<name>Björn Hartmann</name>
+			<name>BjÃ¶rn Hartmann</name>
 			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/hartmann.html</website>
 			<image>./ucb_images/hartmann.jpg</image>
 		</professor>
@@ -271,7 +271,7 @@
 			<image>./ucb_images/ksen.jpg</image>
 		</professor>
 		<professor>
-			<name>Carlo H. Séquin</name>
+			<name>Carlo H. SÃ©quin</name>
 			<website>http://www.eecs.berkeley.edu/Faculty/Homepages/sequin.html</website>
 			<image>./ucb_images/sequin.jpg</image>
 		</professor>
