@@ -1,0 +1,309 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Leman Akoglu</name>
+		</professor>
+		<professor>
+			<name>Leo Bachmair</name>
+		</professor>
+		<professor>
+			<name>Aruna Balasubramanian</name>
+		</professor>
+		<professor>
+			<name>Niranjan Balasubramanian</name>
+		</professor>
+		<professor>
+			<name>Ritwik Banerjee</name>
+		</professor>
+		<professor>
+			<name>Michael Bender</name>
+		</professor>
+		<professor>
+			<name>Xiaojun Bi</name>
+		</professor>
+		<professor>
+			<name>Barbara Chapman</name>
+		</professor>
+		<professor>
+			<name>Jing Chen</name>
+		</professor>
+		<professor>
+			<name>Rezaul Chowdhury</name>
+		</professor>
+		<professor>
+			<name>Samir R. Das</name>
+		</professor>
+		<professor>
+			<name>Ahmad Esmaili</name>
+		</professor>
+		<professor>
+			<name>Michael Ferdman</name>
+		</professor>
+		<professor>
+			<name>Paul Fodor</name>
+		</professor>
+		<professor>
+			<name>Anshul Gandhi</name>
+		</professor>
+		<professor>
+			<name>Jie Gao</name>
+		</professor>
+		<professor>
+			<name>Phillipa Gill</name>
+		</professor>
+		<professor>
+			<name>Xianfeng Gu</name>
+		</professor>
+		<professor>
+			<name>Himanshu Gupta</name>
+		</professor>
+		<professor>
+			<name>Nima Honarmand</name>
+		</professor>
+		<professor>
+			<name>Rob Johnson</name>
+		</professor>
+		<professor>
+			<name>Arie Kaufman</name>
+		</professor>
+		<professor>
+			<name>Robert F. Kelly</name>
+		</professor>
+		<professor>
+			<name>Michael Kifer</name>
+		</professor>
+		<professor>
+			<name>Y. Annie Liu</name>
+		</professor>
+		<professor>
+			<name>Yanni Ellen Liu</name>
+		</professor>
+		<professor>
+			<name>Long Lu</name>
+		</professor>
+		<professor>
+			<name>Kevin McDonnell</name>
+		</professor>
+		<professor>
+			<name>Richard McKenna</name>
+		</professor>
+		<professor>
+			<name>Klaus Mueller</name>
+		</professor>
+		<professor>
+			<name>Minh Hoai Nguyen</name>
+		</professor>
+		<professor>
+			<name>Nick Nikiforakis</name>
+		</professor>
+		<professor>
+			<name>Robert Patro</name>
+		</professor>
+		<professor>
+			<name>Michalis Polychronakis</name>
+		</professor>
+		<professor>
+			<name>Donald Porter</name>
+		</professor>
+		<professor>
+			<name>Hong Qin</name>
+		</professor>
+		<professor>
+			<name>C.R. Ramakrishnan</name>
+		</professor>
+		<professor>
+			<name>I.V. Ramakrishnan</name>
+		</professor>
+		<professor>
+			<name>Dimitris Samaras</name>
+		</professor>
+		<professor>
+			<name>Tony Scarlatos</name>
+		</professor>
+		<professor>
+			<name>H. Andrew Schwartz</name>
+		</professor>
+		<professor>
+			<name>R. Sekar</name>
+		</professor>
+		<professor>
+			<name>Roy Shilkrot</name>
+		</professor>
+		<professor>
+			<name>Radu Sion</name>
+		</professor>
+		<professor>
+			<name>Steven Skiena</name>
+		</professor>
+		<professor>
+			<name>Scott Smolka</name>
+		</professor>
+		<professor>
+			<name>Eugene Stark</name>
+		</professor>
+		<professor>
+			<name>Scott Stoller</name>
+		</professor>
+		<professor>
+			<name>Allen Tannenbaum</name>
+		</professor>
+		<professor>
+			<name>Michael Tashbook</name>
+		</professor>
+		<professor>
+			<name>Fusheng Wang</name>
+		</professor>
+		<professor>
+			<name>Anita Wasilewska</name>
+		</professor>
+		<professor>
+			<name>Jennifer Wong-Ma</name>
+		</professor>
+		<professor>
+			<name>Erez Zadok</name>
+		</professor>
+		<professor>
+			<name>Rong Zhao</name>
+		</professor>
+		<professor>
+			<name>Tamara Berg</name>
+		</professor>
+		<professor>
+			<name>Yevgen Borodin</name>
+		</professor>
+		<professor>
+			<name>Tzi-cker Chiueh</name>
+		</professor>
+		<professor>
+			<name>Bong Jun Choi</name>
+		</professor>
+		<professor>
+			<name>Yejin Choi</name>
+		</professor>
+		<professor>
+			<name>Brian J. d</name>
+		</professor>
+		<professor>
+			<name>Auriol</name>
+		</professor>
+		<professor>
+			<name>Pradipta De</name>
+		</professor>
+		<professor>
+			<name>Radu Grosu</name>
+		</professor>
+		<professor>
+			<name>Haeng Woo Lee</name>
+		</professor>
+		<professor>
+			<name>Sael Lee (Lee Sael)</name>
+		</professor>
+		<professor>
+			<name>Masoud Rouhizadeh</name>
+		</professor>
+		<professor>
+			<name>Michael Schatz</name>
+		</professor>
+		<professor>
+			<name>Vyas Sekar</name>
+		</professor>
+		<professor>
+			<name>Hyeon-Cheol Shin</name>
+		</professor>
+		<professor>
+			<name>Adam C. Siepel</name>
+		</professor>
+		<professor>
+			<name>Alexander Spirov</name>
+		</professor>
+		<professor>
+			<name>Tuncay Tekle</name>
+		</professor>
+		<professor>
+			<name>Wei Xu</name>
+		</professor>
+		<professor>
+			<name>Ilchul Yoon</name>
+		</professor>
+		<professor>
+			<name>Esther Arkin</name>
+		</professor>
+		<professor>
+			<name>Susan Brennan</name>
+		</professor>
+		<professor>
+			<name>David Ferguson</name>
+		</professor>
+		<professor>
+			<name>Yi Gao</name>
+		</professor>
+		<professor>
+			<name>Sangjin Hong</name>
+		</professor>
+		<professor>
+			<name>Chuan Huang</name>
+		</professor>
+		<professor>
+			<name>Xiangmin Jiao</name>
+		</professor>
+		<professor>
+			<name>Tahsin M. Kurc</name>
+		</professor>
+		<professor>
+			<name>Zhenhua Liu</name>
+		</professor>
+		<professor>
+			<name>Joseph S.B. Mitchell</name>
+		</professor>
+		<professor>
+			<name>Joel Saltz</name>
+		</professor>
+		<professor>
+			<name>Lori Scarlatos</name>
+		</professor>
+		<professor>
+			<name>Margaret Schedel</name>
+		</professor>
+		<professor>
+			<name>Xin Wang</name>
+		</professor>
+		<professor>
+			<name>Yuanyuan Yang</name>
+		</professor>
+		<professor>
+			<name>Gregory Zelinsky</name>
+		</professor>
+		<professor>
+			<name>Wei Zhu</name>
+		</professor>
+		<professor>
+			<name>Hussein Badr</name>
+		</professor>
+		<professor>
+			<name>Arthur Bernstein</name>
+		</professor>
+		<professor>
+			<name>Herbert Gelernter</name>
+		</professor>
+		<professor>
+			<name>Jack Heller</name>
+		</professor>
+		<professor>
+			<name>Ker-I Ko</name>
+		</professor>
+		<professor>
+			<name>Philip Lewis</name>
+		</professor>
+		<professor>
+			<name>Theo Pavlidis</name>
+		</professor>
+		<professor>
+			<name>David Smith</name>
+		</professor>
+		<professor>
+			<name>David Warren</name>
+		</professor>
+		<professor>
+			<name>Larry Wittie</name>
+		</professor>
+	</institution>

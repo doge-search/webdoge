@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Gregory R. Andrews</name>
+		</professor>
+		<professor>
+			<name>Kobus Barnard</name>
+		</professor>
+		<professor>
+			<name>Christian Collberg</name>
+		</professor>
+		<professor>
+			<name>Saumya Debray</name>
+		</professor>
+		<professor>
+			<name>Peter J. Downey</name>
+		</professor>
+		<professor>
+			<name>Alon Efrat</name>
+		</professor>
+		<professor>
+			<name>Chris Gniady</name>
+		</professor>
+		<professor>
+			<name>John H. Hartman</name>
+		</professor>
+		<professor>
+			<name>Patrick Homer</name>
+		</professor>
+		<professor>
+			<name>Kate Isaacs</name>
+		</professor>
+		<professor>
+			<name>John Kececioglu</name>
+		</professor>
+		<professor>
+			<name>Stephen Kobourov</name>
+		</professor>
+		<professor>
+			<name>Russell Lewis</name>
+		</professor>
+		<professor>
+			<name>David Lowenthal</name>
+		</professor>
+		<professor>
+			<name>Lester I. McCann</name>
+		</professor>
+		<professor>
+			<name>Rick Mercer</name>
+		</professor>
+		<professor>
+			<name>Larry Peterson</name>
+		</professor>
+		<professor>
+			<name>Todd Proebsting</name>
+		</professor>
+		<professor>
+			<name>Carlos Scheidegger</name>
+		</professor>
+		<professor>
+			<name>Ravi Sethi</name>
+		</professor>
+		<professor>
+			<name>Richard T. Snodgrass</name>
+		</professor>
+		<professor>
+			<name>Michelle Strout</name>
+		</professor>
+		<professor>
+			<name>Mihai Surdeanu</name>
+		</professor>
+		<professor>
+			<name>Beichuan Zhang</name>
+		</professor>
+	</institution>

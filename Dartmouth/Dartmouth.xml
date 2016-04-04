@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Chris Bailey-Kellogg</name>
+		</professor>
+		<professor>
+			<name>Devin J. Balkcom</name>
+		</professor>
+		<professor>
+			<name>Andrew Thomas Campbell</name>
+		</professor>
+		<professor>
+			<name>Michael A. Casey</name>
+		</professor>
+		<professor>
+			<name>Amit Chakrabarti</name>
+		</professor>
+		<professor>
+			<name>Thomas H. Cormen</name>
+		</professor>
+		<professor>
+			<name>Robert Lewis (Scot) Drysdale, III</name>
+		</professor>
+		<professor>
+			<name>Hany Farid</name>
+		</professor>
+		<professor>
+			<name>Gevorg Grigoryan</name>
+		</professor>
+		<professor>
+			<name>Wojciech Jarosz</name>
+		</professor>
+		<professor>
+			<name>Prasad Jayanti</name>
+		</professor>
+		<professor>
+			<name>David Kotz</name>
+		</professor>
+		<professor>
+			<name>Qiang Liu</name>
+		</professor>
+		<professor>
+			<name>Daniel Rockmore</name>
+		</professor>
+		<professor>
+			<name>Sean W. Smith</name>
+		</professor>
+		<professor>
+			<name>Lorenzo Torresani</name>
+		</professor>
+		<professor>
+			<name>Emily Whiting</name>
+		</professor>
+		<professor>
+			<name>Peter Winkler</name>
+		</professor>
+		<professor>
+			<name>Xing-Dong Yang</name>
+		</professor>
+		<professor>
+			<name>Xia Zhou</name>
+		</professor>
+	</institution>
