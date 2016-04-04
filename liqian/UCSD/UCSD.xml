@@ -1,0 +1,237 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Alvarado, Christine J.</name>
+		</professor>
+		<professor>
+			<name>Baden, Scott B.</name>
+		</professor>
+		<professor>
+			<name>Bafna, Vineet</name>
+		</professor>
+		<professor>
+			<name>Bandeira, Nuno F.</name>
+		</professor>
+		<professor>
+			<name>Bellare, Mihir</name>
+		</professor>
+		<professor>
+			<name>Belongie, Serge J.</name>
+		</professor>
+		<professor>
+			<name>Burkhard, Walter A.</name>
+		</professor>
+		<professor>
+			<name>Buss, Samuel R.</name>
+		</professor>
+		<professor>
+			<name>Carter, Larry</name>
+		</professor>
+		<professor>
+			<name>Chaudhuri, Kamalika</name>
+		</professor>
+		<professor>
+			<name>Cheng, Chung K.</name>
+		</professor>
+		<professor>
+			<name>Claffy, Kimberly</name>
+		</professor>
+		<professor>
+			<name>Cottrell, Garrison W.</name>
+		</professor>
+		<professor>
+			<name>Dasgupta, Sanjoy</name>
+		</professor>
+		<professor>
+			<name>Deutsch, Alin</name>
+		</professor>
+		<professor>
+			<name>Elkan, Charles</name>
+		</professor>
+		<professor>
+			<name>Esener, Sadik C.</name>
+		</professor>
+		<professor>
+			<name>Ferrante, Jeanne</name>
+		</professor>
+		<professor>
+			<name>Freund, Yoav S.</name>
+		</professor>
+		<professor>
+			<name>Graham, Fan C.</name>
+		</professor>
+		<professor>
+			<name>Graham, Ronald</name>
+		</professor>
+		<professor>
+			<name>Griswold, William G.</name>
+		</professor>
+		<professor>
+			<name>Gupta, Rajesh</name>
+		</professor>
+		<professor>
+			<name>Hollan, James D.</name>
+		</professor>
+		<professor>
+			<name>Howden, William E.</name>
+		</professor>
+		<professor>
+			<name>Hu, Te</name>
+		</professor>
+		<professor>
+			<name>Ideker, Trey</name>
+		</professor>
+		<professor>
+			<name>Impagliazzo, Russell</name>
+		</professor>
+		<professor>
+			<name>Jensen, Henrik W.</name>
+		</professor>
+		<professor>
+			<name>Jhala, Ranjit</name>
+		</professor>
+		<professor>
+			<name>Kahng, Andrew B.</name>
+		</professor>
+		<professor>
+			<name>Kane, Daniel M.</name>
+		</professor>
+		<professor>
+			<name>Karin, Sidney</name>
+		</professor>
+		<professor>
+			<name>Kastner, Ryan</name>
+		</professor>
+		<professor>
+			<name>Khosla, Pradeep K.</name>
+		</professor>
+		<professor>
+			<name>Klemmer, Scott R.</name>
+		</professor>
+		<professor>
+			<name>Kriegman, David</name>
+		</professor>
+		<professor>
+			<name>Krueger, Ingolf</name>
+		</professor>
+		<professor>
+			<name>Kuester, Falko</name>
+		</professor>
+		<professor>
+			<name>Lerner, Sorin</name>
+		</professor>
+		<professor>
+			<name>Lin, Bill</name>
+		</professor>
+		<professor>
+			<name>Lovett, Shachar</name>
+		</professor>
+		<professor>
+			<name>McAuley, Julian J.</name>
+		</professor>
+		<professor>
+			<name>Micciancio, Daniele</name>
+		</professor>
+		<professor>
+			<name>Minnes Kemp, Mia</name>
+		</professor>
+		<professor>
+			<name>Orailoglu, Alex</name>
+		</professor>
+		<professor>
+			<name>Ord, Richard C.</name>
+		</professor>
+		<professor>
+			<name>Orlitsky, Alon</name>
+		</professor>
+		<professor>
+			<name>Papakonstantinou, Yannis</name>
+		</professor>
+		<professor>
+			<name>Pasquale, Joseph</name>
+		</professor>
+		<professor>
+			<name>Paturi, Ramamohan</name>
+		</professor>
+		<professor>
+			<name>Pevzner, Pavel A.</name>
+		</professor>
+		<professor>
+			<name>Porter, George M.</name>
+		</professor>
+		<professor>
+			<name>Porter, Leonard E.</name>
+		</professor>
+		<professor>
+			<name>Ramamoorthi, Ravi</name>
+		</professor>
+		<professor>
+			<name>Remmel, Jeffrey</name>
+		</professor>
+		<professor>
+			<name>Rosing, Tajana S.</name>
+		</professor>
+		<professor>
+			<name>Saul, Lawrence K.</name>
+		</professor>
+		<professor>
+			<name>Savage, Stefan</name>
+		</professor>
+		<professor>
+			<name>Savitch, Walter</name>
+		</professor>
+		<professor>
+			<name>Schulze, Jurgen P.</name>
+		</professor>
+		<professor>
+			<name>Sejnowski, Terrence J.</name>
+		</professor>
+		<professor>
+			<name>Shacham, Hovav</name>
+		</professor>
+		<professor>
+			<name>Simon, Elizabeth A.</name>
+		</professor>
+		<professor>
+			<name>Smarr, Larry L.</name>
+		</professor>
+		<professor>
+			<name>Snoeren, Alex C.</name>
+		</professor>
+		<professor>
+			<name>Sorenson, Harold</name>
+		</professor>
+		<professor>
+			<name>Subramaniam, Shankar</name>
+		</professor>
+		<professor>
+			<name>Swanson, Steven J.</name>
+		</professor>
+		<professor>
+			<name>Taylor, Michael B.</name>
+		</professor>
+		<professor>
+			<name>Tu, Zhuowen</name>
+		</professor>
+		<professor>
+			<name>Tullsen, Dean</name>
+		</professor>
+		<professor>
+			<name>Vahdat, Mohammed A.</name>
+		</professor>
+		<professor>
+			<name>Vardy, Alexander</name>
+		</professor>
+		<professor>
+			<name>Vianu, Victor D.</name>
+		</professor>
+		<professor>
+			<name>Voelker, Geoffrey M.</name>
+		</professor>
+		<professor>
+			<name>Williamson, Stanley</name>
+		</professor>
+		<professor>
+			<name>Zhou, Yuanyuan</name>
+		</professor>
+	</institution>

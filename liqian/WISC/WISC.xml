@@ -1,0 +1,219 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Aditya Akella</name>
+			<title>Associate Professor</title>
+			<phone>Phone: (608) 890-0122</phone>
+			<email>akella@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Aws Albarghouthi</name>
+			<title>Assistant Professor</title>
+			<phone>Phone: (608) 262-7946</phone>
+			<email>aws@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Andrea Arpaci-Dusseau</name>
+			<title>Professor</title>
+			<phone>Phone: (608) 265-6013</phone>
+			<email>dusseau@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Remzi Arpaci-Dusseau</name>
+			<title>Professor</title>
+			<phone>Phone: (608) 263-7764</phone>
+			<email>remzi@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Eric Bach</name>
+			<title>Professor</title>
+			<phone>Phone: (608) 262-7997</phone>
+			<email>bach@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Suman Banerjee</name>
+			<title>Professor</title>
+			<phone>Phone: (608) 262-7387</phone>
+			<email>suman@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Paul Barford</name>
+			<title>Professor</title>
+			<phone>Phone: (608) 262-6609</phone>
+			<email>pb@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Jin-Yi Cai</name>
+			<title>Professor</title>
+			<phone>Phone: (608) 262-3158</phone>
+			<email>jyc@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Shuchi Chawla</name>
+			<title>Associate Professor</title>
+			<phone>Phone: (608) 890-0027</phone>
+			<email>shuchi@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Loris D</name>
+			<title>Assistant Professor</title>
+			<phone>Phone: (608) 263-0475</phone>
+			<email>loris@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>AnHai Doan</name>
+			<title>Professor</title>
+			<phone>Phone: (608) 262-9759</phone>
+			<email>anhai@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Charles Dyer</name>
+			<title>Professor</title>
+			<phone>Phone: (608) 262-1965</phone>
+			<email>dyer@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Michael Ferris</name>
+			<title>Professor</title>
+			<phone>Phone: (608) 262-4281</phone>
+			<email>ferris@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Michael Gleicher</name>
+			<title>Professor</title>
+			<phone>Phone: (608) 263-2874</phone>
+			<email>gleicher@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Mohit Gupta</name>
+			<title>Assistant Professor</title>
+			<phone>Phone: (608) 890-0124</phone>
+			<email>mohitg@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Mark D. Hill</name>
+			<title>Department Chair</title>
+			<phone>Phone: (608) 262-2196</phone>
+			<email>markhill@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Somesh Jha</name>
+			<title>Professor</title>
+			<phone>Phone: (608) 262-9519</phone>
+			<email>jha@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Deborah Joseph</name>
+			<title>Associate Professor</title>
+			<phone>Phone: (608) 262-8022</phone>
+			<email>joseph@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Paris Koutris</name>
+			<title>Assistant Professor</title>
+			<phone>null</phone>
+			<email>paris@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Ben Liblit</name>
+			<title>Associate Professor</title>
+			<phone>Phone: (608) 262-6617</phone>
+			<email>liblit@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Miron Livny</name>
+			<title>Professor</title>
+			<phone>Phone: (608) 262-0856</phone>
+			<email>miron@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Barton Miller</name>
+			<title>Professor</title>
+			<phone>Phone: (608) 263-3378</phone>
+			<email>bart@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Bilge Mutlu</name>
+			<title>Associate Professor</title>
+			<phone>Phone: (608) 262-6635</phone>
+			<email>bilge@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Jeffrey Naughton</name>
+			<title>Professor</title>
+			<phone>Phone: (608) 262-8737</phone>
+			<email>naughton@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Jignesh Patel</name>
+			<title>Professor</title>
+			<phone>Phone: (608) 263-7308</phone>
+			<email>jignesh@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Thomas Reps</name>
+			<title>Professor</title>
+			<phone>Phone: (608) 262-2091</phone>
+			<email>reps@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Amos Ron</name>
+			<title>Professor</title>
+			<phone>Phone: (608) 262-6621</phone>
+			<email>amos@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Karthikeyan Sankaralingam</name>
+			<title>Associate Professor</title>
+			<phone>Phone: (608) 890-0121</phone>
+			<email>karu@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Jude Shavlik</name>
+			<title>Professor</title>
+			<phone>Phone: (608) 262-7784</phone>
+			<email>shavlik@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Eftychios Sifakis</name>
+			<title>Assistant Professor</title>
+			<phone>Phone: (608) 263-0475</phone>
+			<email>sifakis@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Gurindar Sohi</name>
+			<title>Professor</title>
+			<phone>Phone: (608) 262-7985</phone>
+			<email>sohi@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Michael Swift</name>
+			<title>Associate Chair</title>
+			<phone>Phone: (608) 890-0131</phone>
+			<email>swift@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Dieter van Melkebeek</name>
+			<title>Professor</title>
+			<phone>Phone: (608) 262-4196</phone>
+			<email>dieter@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>David Wood</name>
+			<title>Professor</title>
+			<phone>Phone: (608) 263-7463</phone>
+			<email>david@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Stephen Wright</name>
+			<title>Professor</title>
+			<phone>Phone: (608) 262-4838</phone>
+			<email>swright@cs.wisc.edu</email>
+		</professor>
+		<professor>
+			<name>Jerry Zhu</name>
+			<title>Professor</title>
+			<phone>Phone: (608) 890-0129</phone>
+			<email>jerryzhu@cs.wisc.edu</email>
+		</professor>
+	</institution>

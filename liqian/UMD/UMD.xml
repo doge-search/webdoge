@@ -1,0 +1,463 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Ashok Agrawala  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>John Aloimonos  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Ben Bederson  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Bobby Bhattacharjee  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Marine Carpuat  </name>
+			<title>Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>Andrew Childs  </name>
+			<title>Associate Professor</title>
+		</professor>
+		<professor>
+			<name>Rance Cleaveland  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Hector Corrada Bravo  </name>
+			<title>Associate Professor</title>
+		</professor>
+		<professor>
+			<name>Hal Daume III  </name>
+			<title>Associate Professor</title>
+		</professor>
+		<professor>
+			<name>Larry Davis  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Amol Deshpande  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Ramani Duraiswami  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Howard Elman  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Fawzi Emad  </name>
+			<title>Lecturer</title>
+		</professor>
+		<professor>
+			<name>Jeffrey Foster  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Jon Froehlich  </name>
+			<title>Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>William Gasarch  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Tom Goldstein  </name>
+			<title>Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>Evan Golub  </name>
+			<title>Senior Lecturer</title>
+		</professor>
+		<professor>
+			<name>Mohammad Hajiaghayi  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Larry Herman  </name>
+			<title>Lecturer</title>
+		</professor>
+		<professor>
+			<name>Michael Hicks  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Jeffrey K. Hollingsworth  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Michelle Hugue  </name>
+			<title>Lecturer</title>
+		</professor>
+		<professor>
+			<name>David Jacobs  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Jonathan Katz  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Pete Keleher  </name>
+			<title>Associate Professor</title>
+		</professor>
+		<professor>
+			<name>Zia Khan  </name>
+			<title>Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>Samir Khuller  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Clyde Kruskal  </name>
+			<title>Associate Professor</title>
+		</professor>
+		<professor>
+			<name>Anwar Mamat  </name>
+			<title>Lecturer</title>
+		</professor>
+		<professor>
+			<name>Michelle Mazurek  </name>
+			<title>Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>Atif Memon  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>David Mount  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Dana Nau  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Nelson Padua-Perez  </name>
+			<title>Lecturer</title>
+		</professor>
+		<professor>
+			<name>Don Perlis  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Jandelyn Plane  </name>
+			<title>Senior Lecturer</title>
+		</professor>
+		<professor>
+			<name>Mihai Pop  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Adam Porter  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>James Purtilo  </name>
+			<title>Associate Professor</title>
+		</professor>
+		<professor>
+			<name>James Reggia  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Tom Reinhardt  </name>
+			<title>Lecturer</title>
+		</professor>
+		<professor>
+			<name>Nicholas Roussopoulos  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Eytan Ruppin  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Pedram Sadeghian  </name>
+			<title>Lecturer</title>
+		</professor>
+		<professor>
+			<name>Hanan Samet  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Vibha  Sazawal  </name>
+			<title>Lecturer</title>
+		</professor>
+		<professor>
+			<name>A. Udaya Shankar  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Ben Shneiderman  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Neil Spring  </name>
+			<title>Associate Professor</title>
+		</professor>
+		<professor>
+			<name>Aravind Srinivasan  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>V.S. Subrahmanian  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Alan Sussman  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>David Van Horn  </name>
+			<title>Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>Amitabh Varshney  </name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>William Arbaugh  </name>
+			<title>Associate Professor Emeritus</title>
+		</professor>
+		<professor>
+			<name>Victor Basili  </name>
+			<title>Professor Emeritus</title>
+		</professor>
+		<professor>
+			<name>Bonnie Dorr  </name>
+			<title>Professor Emeritus</title>
+		</professor>
+		<professor>
+			<name>Laveen Kanal  </name>
+			<title>Professor Emeritus</title>
+		</professor>
+		<professor>
+			<name>Raymond Miller  </name>
+			<title>Professor Emeritus</title>
+		</professor>
+		<professor>
+			<name>Jack Minker  </name>
+			<title>Professor Emeritus</title>
+		</professor>
+		<professor>
+			<name>Dianne O</name>
+			<title>Professor Emeritus</title>
+		</professor>
+		<professor>
+			<name>William Pugh  </name>
+			<title>Professor Emeritus</title>
+		</professor>
+		<professor>
+			<name>G.W. (Pete) Stewart  </name>
+			<title>Professor Emeritus</title>
+		</professor>
+		<professor>
+			<name>Marvin Zelkowitz  </name>
+			<title>Professor Emeritus</title>
+		</professor>
+		<professor>
+			<name>Alexander Barg  </name>
+			<title>Affiliate Professor</title>
+		</professor>
+		<professor>
+			<name>Rajeev Barua  </name>
+			<title>Affiliate Associate Professor</title>
+		</professor>
+		<professor>
+			<name>Ramalingam Chellappa  </name>
+			<title>Affiliate Professor</title>
+		</professor>
+		<professor>
+			<name>Marshini Chetty  </name>
+			<title>Affiliate Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>Michel Cukier  </name>
+			<title>Affiliate Associate Professor</title>
+		</professor>
+		<professor>
+			<name>Michael Cummings  </name>
+			<title>Affiliate Associate Professor</title>
+		</professor>
+		<professor>
+			<name>Dana Dachman-Soled  </name>
+			<title>Affiliate Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>Nicholas Diakopoulos  </name>
+			<title>Affiliate Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>David Doermann  </name>
+			<title>Affiliate Senior Research Scientist</title>
+		</professor>
+		<professor>
+			<name>Tudor Dumitras  </name>
+			<title>Affiliate Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>Niklas Elmqvist  </name>
+			<title>Affiliate Associate Professor</title>
+		</professor>
+		<professor>
+			<name>Naomi Feldman  </name>
+			<title>Affiliate Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>Leah Findlater  </name>
+			<title>Affiliate Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>Vanessa Frias-Martinez  </name>
+			<title>Affiliate Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>Jennifer Golbeck  </name>
+			<title>Affiliate Associate Professor</title>
+		</professor>
+		<professor>
+			<name>Babak Hamidzadeh  </name>
+			<title>Affiliate Associate Professor</title>
+		</professor>
+		<professor>
+			<name>Sridhar Hannenhalli  </name>
+			<title>Affiliate Associate Professor</title>
+		</professor>
+		<professor>
+			<name>John Horty  </name>
+			<title>Affiliate Professor</title>
+		</professor>
+		<professor>
+			<name>Joseph Ja</name>
+			<title>Affiliate Professor</title>
+		</professor>
+		<professor>
+			<name>Bruce Jacob  </name>
+			<title>Affiliate Associate Professor</title>
+		</professor>
+		<professor>
+			<name>Richard Marciano  </name>
+			<title>Affiliate Professor</title>
+		</professor>
+		<professor>
+			<name>ThanhVu Nguyen  </name>
+			<title>Research Associate</title>
+		</professor>
+		<professor>
+			<name>Douglas Oard  </name>
+			<title>Affiliate Professor</title>
+		</professor>
+		<professor>
+			<name>Charalampos (Babis) Papamanthou  </name>
+			<title>Affiliate Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>William Rand  </name>
+			<title>Affiliate Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>Louiqa Raschid  </name>
+			<title>Affiliate Professor</title>
+		</professor>
+		<professor>
+			<name>Philip Resnik  </name>
+			<title>Affiliate Professor</title>
+		</professor>
+		<professor>
+			<name>Andre Tits  </name>
+			<title>Affiliate Professor</title>
+		</professor>
+		<professor>
+			<name>Uzi Vishkin  </name>
+			<title>Affiliate Professor</title>
+		</professor>
+		<professor>
+			<name>Donald Yeung  </name>
+			<title>Affiliate Associate Professor</title>
+		</professor>
+		<professor>
+			<name>Leila DeFloriani  </name>
+			<title>Adjunct Professor</title>
+		</professor>
+		<professor>
+			<name>Lise Getoor  </name>
+			<title>Adjunct Professor</title>
+		</professor>
+		<professor>
+			<name>John Grant  </name>
+			<title>Adjunct Professor</title>
+		</professor>
+		<professor>
+			<name>Mikael Lindvall  </name>
+			<title>Adjunct Professor</title>
+		</professor>
+		<professor>
+			<name>Arnab Ray  </name>
+			<title>Adjunct Associate Professor</title>
+		</professor>
+		<professor>
+			<name>Colin Dixon  </name>
+			<title>Visiting Research Associate</title>
+		</professor>
+		<professor>
+			<name>Dov Gordon  </name>
+			<title>Visiting Senior Research Scientist</title>
+		</professor>
+		<professor>
+			<name>Hai Huang  </name>
+			<title>Visting Assistant Research Scientist</title>
+		</professor>
+		<professor>
+			<name>Tae Wook Kwon  </name>
+			<title>Visiting Associate Professor</title>
+		</professor>
+		<professor>
+			<name>Namachivayam Thirumazhusai  </name>
+			<title>Visting Assistant Research Scientist</title>
+		</professor>
+		<professor>
+			<name>Jacob Alperin-Sherrif  </name>
+			<title>Faculty Research Assistant</title>
+		</professor>
+		<professor>
+			<name>Ray Chen  </name>
+			<title>Faculty Research Assistant</title>
+		</professor>
+		<professor>
+			<name>Ricardo Fellegara  </name>
+			<title>Faculty Research Assistant</title>
+		</professor>
+		<professor>
+			<name>Yan  Huang  </name>
+			<title>Research Associate</title>
+		</professor>
+		<professor>
+			<name>Dave Levin  </name>
+			<title>Assistant Research Scientist</title>
+		</professor>
+		<professor>
+			<name>Feng-Hao Liu  </name>
+			<title>Research Associate</title>
+		</professor>
+		<professor>
+			<name>Ravindra Passan  </name>
+			<title>Faculty Research Assistant</title>
+		</professor>
+		<professor>
+			<name>Sukhyun Song  </name>
+			<title>Research Associate</title>
+		</professor>
+		<professor>
+			<name>Lei Zhang  </name>
+			<title>Visiting Research Associate</title>
+		</professor>
+	</institution>
