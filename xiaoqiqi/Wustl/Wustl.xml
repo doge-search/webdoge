@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Department Chair</name>
+		</professor>
+		<professor>
+			<name>Roch Guérin</name>
+		</professor>
+		<professor>
+			<name>Kunal Agrawal</name>
+		</professor>
+		<professor>
+			<name>Aaron Bobick</name>
+		</professor>
+		<professor>
+			<name>Michael Brent</name>
+		</professor>
+		<professor>
+			<name>Jeremy Buhler</name>
+		</professor>
+		<professor>
+			<name>Shantanu  Chakrabartty</name>
+		</professor>
+		<professor>
+			<name>Roger Chamberlain</name>
+		</professor>
+		<professor>
+			<name>Yixin Chen</name>
+		</professor>
+		<professor>
+			<name>Patrick Crowley</name>
+		</professor>
+		<professor>
+			<name>Ron Cytron</name>
+		</professor>
+		<professor>
+			<name>Sanmay Das</name>
+		</professor>
+		<professor>
+			<name>Yasutaka  Furukawa</name>
+		</professor>
+		<professor>
+			<name>Roman Garnett</name>
+		</professor>
+		<professor>
+			<name>Christopher Gill</name>
+		</professor>
+		<professor>
+			<name>Viktor Gruev</name>
+		</professor>
+		<professor>
+			<name>Raj Jain</name>
+		</professor>
+		<professor>
+			<name>Tao Ju</name>
+		</professor>
+		<professor>
+			<name>Brendan Juba</name>
+		</professor>
+		<professor>
+			<name>Caitlin   Kelleher</name>
+		</professor>
+		<professor>
+			<name>I-Ting Angelina Lee</name>
+		</professor>
+		<professor>
+			<name>Chenyang Lu</name>
+		</professor>
+		<professor>
+			<name>Benjamin Moseley </name>
+		</professor>
+		<professor>
+			<name>Robert Pless</name>
+		</professor>
+		<professor>
+			<name>William Richard</name>
+		</professor>
+		<professor>
+			<name>Weixiong Zhang</name>
+		</professor>
+	</institution>
