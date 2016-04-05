@@ -1,0 +1,245 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Agarwal, Pankaj K.</name>
+			<title>Professor of Computer Science and Mathematics</title>
+		</professor>
+		<professor>
+			<name>Astrachan, Owen</name>
+			<title>Professor of the Practice of Computer Science, Associate DUS</title>
+		</professor>
+		<professor>
+			<name>Babu, Shivnath</name>
+			<title>Associate Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Benson, Theo</name>
+			<title>Assistant Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Board Jr., John A.</name>
+			<title>Associate Professor of Electrical and Computer Engineering and Computer Science</title>
+		</professor>
+		<professor>
+			<name>Bryant, Robert L.</name>
+			<title>Professor of Math and Computer Science</title>
+		</professor>
+		<professor>
+			<name>Calderbank, Robert</name>
+			<title>Professor of Computer Science, Mathematics, and Electrical and Computer Engineering</title>
+		</professor>
+		<professor>
+			<name>Chakrabarty, Krishnendu</name>
+			<title>Professor of Electrical and Computer Engineering and Computer Science</title>
+		</professor>
+		<professor>
+			<name>Chase, Jeffrey S.</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Conitzer, Vincent</name>
+			<title>Professor of Computer Science, Economics, and Philosophy</title>
+		</professor>
+		<professor>
+			<name>Cox, Landon</name>
+			<title>Associate Professor of Computer Science and Electrical and Computer Engineering, DGS</title>
+		</professor>
+		<professor>
+			<name>Donald, Bruce R.</name>
+			<title>Professor of Computer Science and Biochemistry</title>
+		</professor>
+		<professor>
+			<name>Duvall, Robert C.</name>
+			<title>Lecturer of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Dwyer, Chris</name>
+			<title>Associate Professor of Electrical and Computer Engineering and Computer Science</title>
+		</professor>
+		<professor>
+			<name>Farsiu, Sina</name>
+			<title>Assistant Professor of Ophthalmology, Biomedical Engineering, Electrical </title>
+			<title> Computer Engineering, and Computer Science</title>
+		</professor>
+		<professor>
+			<name>Forbes, Jeffrey R. N.</name>
+			<title>Associate Professor of the Practice of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Ge, Rong</name>
+			<title>Assistant Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Gordan, Raluca-Mihaela</name>
+			<title>Assistant Professor of Biostatistics </title>
+			<title> Bioinformatics and Computer Science</title>
+		</professor>
+		<professor>
+			<name>Hartemink, Alexander J.</name>
+			<title>Professor of Computer Science, Statistical Science, and Biology</title>
+		</professor>
+		<professor>
+			<name>Hauser, Kris</name>
+			<title>Associate Professor of Electrical and Computer Engineering, Mechanical Engineering and Materials Science, and Computer Science</title>
+		</professor>
+		<professor>
+			<name>Heller, Katherine</name>
+			<title>Assistant Professor of Statistical Science and Computer Science</title>
+		</professor>
+		<professor>
+			<name>Hilton, Andrew</name>
+			<title>Assistant Professor of the Practice of Electrical and Computer Engineering and Computer Science</title>
+		</professor>
+		<professor>
+			<name>Kim, Jungsang</name>
+			<title>Professor of Electrical and Computer Engineering, Computer Science, and Physics</title>
+		</professor>
+		<professor>
+			<name>Konidaris, George</name>
+			<title>Assistant Professor of Computer Science and Electrical and Computer Engineering</title>
+		</professor>
+		<professor>
+			<name>Lebeck, Alvin R.</name>
+			<title>Professor of Computer Science and Electrical and Computer Engineering</title>
+		</professor>
+		<professor>
+			<name>Lee, Benjamin C.</name>
+			<title>Associate Professor of Electrical and Computer Engineering and Computer Science</title>
+		</professor>
+		<professor>
+			<name>Lucic, Richard A.</name>
+			<title>Associate Professor of the Practice of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Machanavajjhala, Ashwin</name>
+			<title>Assistant Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Maggioni, Mauro</name>
+			<title>Professor of Mathematics and Computer Science</title>
+		</professor>
+		<professor>
+			<name>Maggs, Bruce</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Mukherjee, Sayan</name>
+			<title>Professor of Statistical Science and Computer Science</title>
+		</professor>
+		<professor>
+			<name>Munagala, Kamesh</name>
+			<title>Associate Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Panigrahi, Debmalya</name>
+			<title>Assistant Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Parr, Ronald E.</name>
+			<title>Professor of Computer Science, Chair</title>
+		</professor>
+		<professor>
+			<name>Reif, John H.</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Rodger, Susan H.</name>
+			<title>Professor of the Practice of Computer Science, DUS</title>
+		</professor>
+		<professor>
+			<name>Roy, Sudeepa</name>
+			<title>Assistant Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Sapiro, Guillermo</name>
+			<title>Professor of Electrical and Computer Engineering, Computer Science, and Biomedical Engineering</title>
+		</professor>
+		<professor>
+			<name>Schmidler, Scott C.</name>
+			<title>Associate Professor of Statistical Science and Computer Science</title>
+		</professor>
+		<professor>
+			<name>Sorin, Daniel J.</name>
+			<title>Professor of Electrical and Computer Engineering and Computer Science</title>
+		</professor>
+		<professor>
+			<name>Sun, Xiaobai</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Tomasi, Carlo</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Trivedi, Kishor S.</name>
+			<title>Professor of Electrical and Computer Engineering and Computer Science</title>
+		</professor>
+		<professor>
+			<name>Yang, Jun</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Yang, Xiaowei</name>
+			<title>Associate Professor of Computer Science and Electrical and Computer Engineering</title>
+		</professor>
+		<professor>
+			<name>Azhar, Salman</name>
+			<title>Visiting Associate Professor</title>
+		</professor>
+		<professor>
+			<name>Baldin, Ilya</name>
+			<title>Adjunct Faculty</title>
+		</professor>
+		<professor>
+			<name>Edelsbrunner, Herbert</name>
+			<title>Adjunct Faculty</title>
+		</professor>
+		<professor>
+			<name>Hsu, Lisa R.</name>
+			<title>Adjunct Faculty</title>
+		</professor>
+		<professor>
+			<name>LaBean, Thomas H.</name>
+			<title>Adjunct Faculty</title>
+		</professor>
+		<professor>
+			<name>M鴏have, Thomas</name>
+			<title>Adjunct Faculty</title>
+		</professor>
+		<professor>
+			<name>Pitsianis, Nikos</name>
+			<title>Adjunct Faculty</title>
+		</professor>
+		<professor>
+			<name>Biermann, Alan W.</name>
+			<title>Professor Emeritus</title>
+		</professor>
+		<professor>
+			<name>Ellis, Carla Schlatter</name>
+			<title>Professor Emeritus</title>
+		</professor>
+		<professor>
+			<name>Gallie, Thomas</name>
+			<title>Professor Emeritus</title>
+		</professor>
+		<professor>
+			<name>Loveland, Donald W.</name>
+			<title>Professor Emeritus</title>
+		</professor>
+		<professor>
+			<name>Patrick, Merrell</name>
+			<title>Professor Emeritus</title>
+		</professor>
+		<professor>
+			<name>Ramm, Dietolf</name>
+			<title>Professor Emeritus</title>
+		</professor>
+		<professor>
+			<name>Starmer, C. Frank</name>
+			<title>Professor Emeritus</title>
+		</professor>
+		<professor>
+			<name>Wagner, Robert A.</name>
+			<title>Professor Emeritus</title>
+		</professor>
+	</institution>

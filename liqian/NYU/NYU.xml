@@ -1,0 +1,195 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Anasse Bari</name>
+			<title>Clinical Assistant Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Clark  Barrett</name>
+			<title>Associate Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Marsha Berger</name>
+			<title>Silver Professor of Computer Science and Mathematics</title>
+		</professor>
+		<professor>
+			<name>Amos Bloomberg</name>
+			<title>Clinical Assistant Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Richard Bonneau</name>
+			<title>Associate Professor of Biology and Computer Science</title>
+		</professor>
+		<professor>
+			<name>Kyunghyun Cho</name>
+			<title>Assistant Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Joshua Clayton</name>
+			<title>Clinical Assistant Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Richard  Cole</name>
+			<title>Silver Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Patrick  Cousot</name>
+			<title>Silver Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Ernest Davis</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Yevgeniy Dodis</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Deena Engel</name>
+			<title>Clinical Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Rob Fergus</name>
+			<title>Associate Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Jean-Claude Franchitti</name>
+			<title>Clinical Associate Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Davi Geiger</name>
+			<title>Associate Professor of Computer Science and Neural Science</title>
+		</professor>
+		<professor>
+			<name>Benjamin Goldberg</name>
+			<title>Associate Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Allan Gottlieb</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Ralph Grishman</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Nathan Hull</name>
+			<title>Clinical Associate Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Craig Kapp</name>
+			<title>Clinical Assistant Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Zvi Kedem</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Subhash Khot</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Joanna Klukowska</name>
+			<title>Clinical Assistant Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Evan Korth</name>
+			<title>Clinical Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Yann LeCun</name>
+			<title>Silver Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Jinyang Li</name>
+			<title>Associate Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Bhubaneswar Mishra</name>
+			<title>Professor of Computer Science and Mathematics</title>
+		</professor>
+		<professor>
+			<name>Mehryar Mohri</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Sana Odeh</name>
+			<title>Clinical Associate Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Michael Overton</name>
+			<title>Professor of Computer Science and Mathematics</title>
+		</professor>
+		<professor>
+			<name>Daniele Panozzo</name>
+			<title>Assistant Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Kenneth Perlin</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Theodore Rappaport</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Oded Regev</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Dennis  Shasha</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Randy Shepherd</name>
+			<title>Clinical Assistant Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Alan  Siegel</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>David Sontag</name>
+			<title>Associate Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Joel Spencer</name>
+			<title>Assistant Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Lakshminarayanan Subramanian</name>
+			<title>Professor of Mathematics and Computer Science</title>
+		</professor>
+		<professor>
+			<name>Lloyd N. Trefethen</name>
+			<title>Associate Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Joseph Versoza</name>
+			<title>Global Distinguished Professor of Computer Science and Mathematics</title>
+		</professor>
+		<professor>
+			<name>Michael Walfish</name>
+			<title>Clinical Assistant Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Thomas Wies</name>
+			<title>Associate Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Margaret Wright</name>
+			<title>Assistant Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Chee Yap</name>
+			<title>Silver Professor of Computer Science and Mathematics</title>
+		</professor>
+		<professor>
+			<name>Mohamed Zahran</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Denis Zorin</name>
+			<title>Clinical Associate Professor of Computer Science</title>
+		</professor>
+	</institution>

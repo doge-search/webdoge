@@ -1,0 +1,211 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Gagan Agrawal</name>
+			<title>Professor</title>
+			<email>agrawal.28@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Anish Arora</name>
+			<title>Professor</title>
+			<email>arora.9@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Mikhail Belkin</name>
+			<title>Associate Professor</title>
+			<email>belkin.8@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Spyros Blanas</name>
+			<title>Assistant Professor</title>
+			<email>blanas.2@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Michael Bond</name>
+			<title>Assistant Professor</title>
+			<email>bond.213@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Roger Crawfis</name>
+			<title>Associate Professor</title>
+			<email>crawfis.3@osu.edu</email>
+		</professor>
+		<professor>
+			<name>James Davis</name>
+			<title>Professor</title>
+			<email>davis.1719@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Tamal Dey</name>
+			<title>Professor</title>
+			<email>dey.8@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Eric Fosler-Lussier</name>
+			<title>Associate Professor</title>
+			<title>Courtesy Associate Professor</title>
+			<email>fosler-lussier.1@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Ten-Hwang Lai</name>
+			<title>Professor</title>
+			<email>lai.1@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Raghu Machiraju</name>
+			<title>Professor</title>
+			<email>machiraju.1@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Facundo Memoli</name>
+			<title>Assistant Professor</title>
+			<email>memolitechera.1@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Arnab Nandi</name>
+			<title>Assistant Professor</title>
+			<title>Adjunct Assistant Professor</title>
+			<email>nandi.9@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Dhabaleswar Panda</name>
+			<title>Professor</title>
+			<email>panda.2@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Srinivasan Parthasarathy</name>
+			<title>Professor</title>
+			<email>parthasarathy.2@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Chunyi Peng</name>
+			<title>Assistant Professor</title>
+			<email>peng.377@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Feng Qin</name>
+			<title>Associate Professor</title>
+			<email>qin.34@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Luis Rademacher</name>
+			<title>Assistant Professor</title>
+			<email>rademacher.10@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Alan Ritter</name>
+			<title>Assistant Professor</title>
+			<email>ritter.1492@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Nicoleta Roman</name>
+			<title>Assistant Professor - Comp Sci</title>
+			<email>roman.45@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Atanas (Nasko) Rountev</name>
+			<title>Professor</title>
+			<email>rountev.1@osu.edu</email>
+		</professor>
+		<professor>
+			<name>P Sadayappan</name>
+			<title>Professor</title>
+			<email>sadayappan.1@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Han-Wei Shen</name>
+			<title>Professor</title>
+			<email>shen.94@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Ness Shroff</name>
+			<title>Ohio Eminent Scholar</title>
+			<email>shroff.11@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Anastasios (Tasos) Sidiropoulos</name>
+			<title>Assistant Professor</title>
+			<email>sidiropoulos.1@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Prasun Sinha</name>
+			<title>Professor</title>
+			<email>sinha.43@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Paul Sivilotti</name>
+			<title>Associate Professor</title>
+			<email>sivilotti.1@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Neelam Soundarajan</name>
+			<title>Associate Professor</title>
+			<title>Associate Chair</title>
+			<email>soundarajan.1@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Kannan Srinivasan</name>
+			<title>Assistant Professor</title>
+			<email>srinivasan.115@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Christopher Stewart</name>
+			<title>Assistant Professor</title>
+			<email>stewart.962@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Huan Sun</name>
+			<title>Assistant Professor</title>
+			<email>huansun@cs.ucsb.edu</email>
+		</professor>
+		<professor>
+			<name>Kenneth Supowit</name>
+			<title>Associate Professor</title>
+			<email>supowit.1@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Mircea-Radu Teodorescu</name>
+			<title>Associate Professor</title>
+			<email>teodorescu.1@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Deliang Wang</name>
+			<title>Professor</title>
+			<email>wang.77@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Huamin Wang</name>
+			<title>Assistant Professor</title>
+			<email>wang.3602@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Yang Wang</name>
+			<title>Assistant Professor</title>
+			<email>wang.7564@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Yusu Wang</name>
+			<title>Associate Professor</title>
+			<email>wang.1016@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Rephael Wenger</name>
+			<title>Associate Professor</title>
+			<email>wenger.4@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Dong Xuan</name>
+			<title>Professor</title>
+			<email>xuan.3@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Xiaodong Zhang</name>
+			<title>Critchfield Endowed Chair</title>
+			<email>zhang.574@osu.edu</email>
+		</professor>
+		<professor>
+			<name>Yinqian Zhang</name>
+			<title>Assistant Professor</title>
+			<email>zhang.834@osu.edu</email>
+		</professor>
+	</institution>

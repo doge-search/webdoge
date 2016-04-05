@@ -1,0 +1,259 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>R. Iris Bahar</name>
+			<title>Professor of Engineering and Computer Science</title>
+		</professor>
+		<professor>
+			<name>Ugur Cetintemel</name>
+			<title>Professor of Computer Science and Chair</title>
+		</professor>
+		<professor>
+			<name>Eugene Charniak</name>
+			<title>University Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Tom Doeppner</name>
+			<title>Associate Professor (Research) of Computer Science and Vice Chair</title>
+		</professor>
+		<professor>
+			<name>Pedro Felipe Felzenszwalb</name>
+			<title>Associate Professor of Engineering and Computer Science</title>
+		</professor>
+		<professor>
+			<name>Rodrigo Fonseca</name>
+			<title>Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>Amy Greenwald</name>
+			<title>Associate Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Maurice Herlihy</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Jeff Huang</name>
+			<title>Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>John Hughes</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Sorin Istrail</name>
+			<title>Julie Nguyen Brown Professor of Computational and Mathematical Sciences and Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Seny Kamara</name>
+			<title>Associate Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Vasileios Kemerlis</name>
+			<title>Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>Philip Klein</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Caroline Klivans</name>
+			<title>Lecturer</title>
+		</professor>
+		<professor>
+			<name>Tim Kraska</name>
+			<title>Assistant Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Shriram Krishnamurthi</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>David H. Laidlaw</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Michael L. Littman</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Anna Lysyanskaya</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Barbara J. Meier</name>
+			<title>Senior Lecturer</title>
+		</professor>
+		<professor>
+			<name>Bernardo Palazzi</name>
+			<title>Assistant Professor of the Practice of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Ravindra Pendse</name>
+			<title>Professor of the Practice of Engineering and Computer Science</title>
+		</professor>
+		<professor>
+			<name>Ben Raphael</name>
+			<title>Associate Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Steve Reiss</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>John Savage</name>
+			<title>An Wang Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Erik Sudderth</name>
+			<title>Assistant Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Roberto Tamassia</name>
+			<title>Plastech Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Stefanie Tellex</name>
+			<title>Assistant Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Eli Upfal</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Paul Valiant</name>
+			<title>Assistant Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Peter Wegner</name>
+			<title>Professor Emeritus of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Stan Zdonik</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Andy van Dam</name>
+			<title>Thomas J. Watson, Jr., University Professor of Technology and Education and Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Carsten Binnig</name>
+			<title>Adjunct Associate Professor (Research)</title>
+		</professor>
+		<professor>
+			<name>Michael Black</name>
+			<title>Adjunct Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Roger Blumberg</name>
+			<title>Adjunct Lecturer in Computer Science</title>
+		</professor>
+		<professor>
+			<name>Tom Dean</name>
+			<title>Adjunct Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Kathi Fisler</name>
+			<title>Adjunct Associate Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Linn Freedman</name>
+			<title>Adjunct Professor of the Practice of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Ian Gonsher</name>
+			<title>Adjunct Lecturer in Engineering</title>
+		</professor>
+		<professor>
+			<name>James Hays</name>
+			<title>Adjunct Associate Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Deborah Hurley</name>
+			<title>Adjunct Professor of the Practice of Computer Science</title>
+		</professor>
+		<professor>
+			<name>John Jannotti</name>
+			<title>Adjunct Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>Joseph LaViola</name>
+			<title>Adjunct Associate Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Dan Potter</name>
+			<title>Adjunct Associate Professor</title>
+		</professor>
+		<professor>
+			<name>Franco Preparata</name>
+			<title>Adjunct Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Don Stanford</name>
+			<title>Adjunct Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Alan Usas</name>
+			<title>Adjunct Professor of the Practice of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Fabio Vandin</name>
+			<title>Adjunct Associate Professor (Research)</title>
+		</professor>
+		<professor>
+			<name>Mohammed El-Kebir</name>
+			<title>Post Doc</title>
+		</professor>
+		<professor>
+			<name>Alessandro Epasto</name>
+			<title>Post Doc</title>
+		</professor>
+		<professor>
+			<name>Dora Erdos</name>
+			<title>Post Doc</title>
+		</professor>
+		<professor>
+			<name>James MacGlashan</name>
+			<title>Post Doc</title>
+		</professor>
+		<professor>
+			<name>Tim Nelson</name>
+			<title>Postdoctoral Research Associate</title>
+		</professor>
+		<professor>
+			<name>Matthew Reyna</name>
+			<title>Post Doc</title>
+		</professor>
+		<professor>
+			<name>Lawson L.S. Wong</name>
+			<title>Postdoctoral Fellow</title>
+		</professor>
+		<professor>
+			<name>Bruce Donald Campbell</name>
+			<title>Visiting Faculty</title>
+		</professor>
+		<professor>
+			<name>Timothy Edgar</name>
+			<title>Visiting Fellow in International Studies</title>
+		</professor>
+		<professor>
+			<name>Gunnar Klau</name>
+			<title>Visiting Faculty</title>
+		</professor>
+		<professor>
+			<name>Benjamin Lerner</name>
+			<title>Visiting Assistant Professor (Research)</title>
+		</professor>
+		<professor>
+			<name>Mark Nadel</name>
+			<title>Visiting Faculty</title>
+		</professor>
+		<professor>
+			<name>Mr. Matteo Riondato</name>
+			<title>Visiting Faculty</title>
+		</professor>
+		<professor>
+			<name>Erika Sudderth</name>
+			<title>Visiting Scholar</title>
+		</professor>
+	</institution>

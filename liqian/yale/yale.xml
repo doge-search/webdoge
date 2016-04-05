@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Daniel Abadi</name>
+		</professor>
+		<professor>
+			<name>Dana Angluin</name>
+		</professor>
+		<professor>
+			<name>James Aspnes</name>
+		</professor>
+		<professor>
+			<name>Mahesh Balakrishnan</name>
+		</professor>
+		<professor>
+			<name>Julie Dorsey</name>
+		</professor>
+		<professor>
+			<name>Stanley Eisenstat</name>
+		</professor>
+		<professor>
+			<name>Joan Feigenbaum</name>
+		</professor>
+		<professor>
+			<name>Michael Fischer</name>
+		</professor>
+		<professor>
+			<name>David Gelernter</name>
+		</professor>
+		<professor>
+			<name>Drew McDermott</name>
+		</professor>
+		<professor>
+			<name>Ruzica Piskac</name>
+		</professor>
+		<professor>
+			<name>Mariana Raykova</name>
+		</professor>
+		<professor>
+			<name>Vladimir Rokhlin</name>
+		</professor>
+		<professor>
+			<name>Holly Rushmeier</name>
+		</professor>
+		<professor>
+			<name>Brian Scassellati</name>
+		</professor>
+		<professor>
+			<name>Zhong Shao</name>
+		</professor>
+		<professor>
+			<name>Abraham Silberschatz</name>
+		</professor>
+		<professor>
+			<name>Daniel Spielman</name>
+		</professor>
+		<professor>
+			<name>Yang Yang</name>
+		</professor>
+		<professor>
+			<name>Steven Zucker</name>
+		</professor>
+	</institution>

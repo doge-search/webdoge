@@ -15,85 +15,78 @@ class MyParser(HTMLParser.HTMLParser):
 		self.hasname = False
 		self.hastitle = False
 		self.hasemail = False
-		self.hasphone = False
 		self.namelist = []
 		self.titlelist = []
-		self.phonelist = []
 		self.emaillist = []
 		self.tempname = []
 		self.temptitle = []
-		self.tempphone = []
 		self.tempemail = []
 
 	def handle_starttag(self, tag, attrs):
-		if tag == 'div':
+		if tag == 'h2':
 			for name, value in attrs:
-				if name == 'class':
-					if value == 'views-field views-field-field-full-name':
-						self.hasname = True
-					if value == 'views-field views-field-field-title':
-						self.hastitle = True
-					if value == 'views-field views-field-mail':
-						self.hasemail = True
-					if value == 'views-field views-field-field-phone':
-						self.hasphone = True
+				if name == 'class' and value == 'person-name':
+					self.hasname = True
+		if tag == 'li':
+			for name, value in attrs:
+				if name == 'class' and value == 'appointment':
+					self.hastitle = True
+
+		if tag == 'span':
+			for name, value in attrs:
+				if name == 'class' and value == 'km-email':
+					self.hasemail = True
 			
 	def handle_data(self, text):
 		if self.hasname and text.isspace() == False:
 			self.tempname.append(text)
+			#print text
 		if self.hastitle and text.isspace() == False:
 			self.temptitle.append(text)
+			#print text
 		if self.hasemail and text.isspace() == False:
 			self.tempemail.append(text)
-		if self.hasphone and text.isspace() == False:
-			self.tempphone.append(text)
+			print text
 
 	def handle_endtag(self, tag):
-		if tag == 'div':
+		if tag == 'a':
 			if self.hasname:
 				self.namelist.append(self.tempname)
 				self.hasname = False
 				self.tempname = []
 			# else:
 			# 	self.namelist.append(['null'])
+		if tag == 'ul':
 			if self.hastitle:
 				self.titlelist.append(self.temptitle)
 				self.hastitle = False
 				self.temptitle = []
 			# else:
 			# 	self.titlelist.append(['null'])
+		if tag == 'span':
 			if self.hasemail:
 				self.emaillist.append(self.tempemail)
 				self.hasemail = False
 				self.tempemail = []
 			# else:
 			# 	self.emaillist.append(['null'])
-			if self.hasphone:
-				if not self.tempphone:
-					self.tempphone.append('null')
-				self.phonelist.append(self.tempphone)
-				self.hasphone = False
-				self.tempphone = []
-			# else:
-			# 	self.phonelist.append(['null'])
 
-fout_xml = file('WISC.xml', 'w')
+fout_xml = file('OSU.xml', 'w')
 doc = minidom.Document()
 institution = doc.createElement("institution")
 doc.appendChild(institution)
 
 if True:
-	rootUrl = 'https://www.cs.wisc.edu/people/faculty'
+	rootUrl = 'https://cse.osu.edu/about-us/faculty'
 	response = urllib2.urlopen(rootUrl)
 	html = response.read()
 	my = MyParser()
-	my.feed(html)
+	my.feed(my.unescape(html))
 	for i in range(len(my.namelist)):
 		professor = doc.createElement("professor")
 
 		name = my.namelist[i][0]
 		titles = my.titlelist[i]
-		phone = my.phonelist[i][0]
 		email = my.emaillist[i][0]
 
 		namenode = doc.createElement("name")
@@ -104,10 +97,6 @@ if True:
 			titlenode = doc.createElement("title")
 			titlenode.appendChild(doc.createTextNode(title))
 			professor.appendChild(titlenode)
-
-		phonenode = doc.createElement("phone")
-		phonenode.appendChild(doc.createTextNode(phone))
-		professor.appendChild(phonenode)
 
 		emailnode = doc.createElement("email")
 		emailnode.appendChild(doc.createTextNode(email))

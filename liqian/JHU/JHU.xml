@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Yanif Ahmad</name>
+			<title>Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>Yair Amir</name>
+			<title>Professor AND CHAIR</title>
+		</professor>
+		<professor>
+			<name>Raman Arora</name>
+			<title>ASSISTANT PROFESSOR</title>
+		</professor>
+		<professor>
+			<name>Alexis Battle</name>
+			<title>ASSISTANT PROFESSOR</title>
+		</professor>
+		<professor>
+			<name>Vladimir Braverman</name>
+			<title>Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>Randal Burns</name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Michael Dinitz</name>
+			<title>ASSISTANT PROFESSOR</title>
+		</professor>
+		<professor>
+			<name>Mark Dredze</name>
+			<title>Assistant Research Professor</title>
+		</professor>
+		<professor>
+			<name>Jason Eisner</name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Peter H. Froehlich</name>
+			<title>Senior Lecturer</title>
+		</professor>
+		<professor>
+			<name>Matthew D. Green</name>
+			<title>assistant professor</title>
+		</professor>
+		<professor>
+			<name>Gregory D. Hager</name>
+			<title>Mandell Bellmore Professor</title>
+		</professor>
+		<professor>
+			<name>Susan Hohenberger</name>
+			<title>Associate Research Professor</title>
+		</professor>
+		<professor>
+			<name>Abhishek Jain</name>
+			<title> ASSISTANT PROFESSOR</title>
+		</professor>
+		<professor>
+			<name>Peter Kazanzides</name>
+			<title>RESEARCH PROFESSOR</title>
+		</professor>
+		<professor>
+			<name>Michael Kazhdan</name>
+			<title>Associate Professor</title>
+		</professor>
+		<professor>
+			<name>Philipp Koehn</name>
+			<title>PROFESSOR</title>
+		</professor>
+		<professor>
+			<name>S. Rao Kosaraju</name>
+			<title>Edward J. Schaefer Professor</title>
+		</professor>
+		<professor>
+			<name>Benjamin Langmead</name>
+			<title>Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>Simon Leonard</name>
+			<title>ASSISTANT RESEARCH PROFESSOR</title>
+		</professor>
+		<professor>
+			<name>Xin Li</name>
+			<title>Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>Gerald Masson</name>
+			<title>Professor EMERITUS</title>
+		</professor>
+		<professor>
+			<name>Sara Miner More</name>
+			<title>Associate Teaching Professor</title>
+		</professor>
+		<professor>
+			<name>Nassir Navab</name>
+			<title>Research Professor</title>
+		</professor>
+		<professor>
+			<name>Austin Reiter</name>
+			<title>Assistant Research Professor</title>
+		</professor>
+		<professor>
+			<name>Aviel Rubin</name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Steven Salzberg</name>
+			<title>BLOOMBERG DISTINGUISHED PROFESSOR</title>
+		</professor>
+		<professor>
+			<name>Suchi Saria</name>
+			<title>Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>Michael Schatz</name>
+			<title>associate research professor</title>
+		</professor>
+		<professor>
+			<name>Joanne Selinski</name>
+			<title>Associate Teaching Professor</title>
+		</professor>
+		<professor>
+			<name>Ilya Shpitser</name>
+			<title>John C. Malone Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>Scott Smith</name>
+			<title>PROFESSOR</title>
+		</professor>
+		<professor>
+			<name>Alex Szalay</name>
+			<title>BLOOMBERG DISTINGUISHED PROFESSOR</title>
+		</professor>
+		<professor>
+			<name>Russell H. Taylor</name>
+			<title>John C. Malone Professor</title>
+		</professor>
+		<professor>
+			<name>Andreas Terzis</name>
+			<title>Associate RESEARCH Professor</title>
+		</professor>
+		<professor>
+			<name>Benjamin Van Durme</name>
+			<title>Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>David Yarowsky</name>
+			<title>Professor</title>
+		</professor>
+		<professor>
+			<name>Alan Yuille</name>
+			<title>Bloomberg Distinguished Professor</title>
+		</professor>
+	</institution>

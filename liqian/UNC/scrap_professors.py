@@ -15,11 +15,8 @@ class MyParser(HTMLParser.HTMLParser):
 		self.hasname = False
 		self.namelist = []
 	def handle_starttag(self, tag, attrs):
-		if tag == 'strong':
-			for key, value in attrs:
-				if key == 'class':
-					if value == "name":
-						self.hasname = True
+		if tag == 'h3':
+			self.hasname = True
 	def handle_data(self, text):
 		if self.hasname and text.isspace() == False:
 			self.namelist.append(text)
@@ -27,13 +24,13 @@ class MyParser(HTMLParser.HTMLParser):
 		if tag == 'a' and self.hasname == True:
 			self.hasname = False
 
-fout_xml = file('Caltech.xml', 'w')
+fout_xml = file('UNC.xml', 'w')
 doc = minidom.Document()
 institution = doc.createElement("institution")
 doc.appendChild(institution)
 
 if True:
-	rootUrl = 'http://www.cms.caltech.edu/people'
+	rootUrl = 'http://cs.unc.edu/people-page/faculty/'
 	response = urllib2.urlopen(rootUrl)
 	html = response.read()
 	my = MyParser()

@@ -1,0 +1,600 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Daniel Aliaga</name>
+			<title>Associate Professor</title>
+			<phone>49-46010</phone>
+			<office>LWSN 3177</office>
+		</professor>
+		<professor>
+			<name>Walid Aref</name>
+			<title>Professor</title>
+			<phone>49-41997</phone>
+			<office>LWSN 2142E</office>
+		</professor>
+		<professor>
+			<name>Mikhail Atallah</name>
+			<title>Distinguished Professor</title>
+			<phone>49-46010</phone>
+			<office>LWSN 2116D</office>
+		</professor>
+		<professor>
+			<name>Elias Bareinboim</name>
+			<title>Assistant Professor</title>
+			<phone>49-69370</phone>
+			<office>LWSN 2142L</office>
+		</professor>
+		<professor>
+			<name>Saugata Basu</name>
+			<title>Professor</title>
+			<phone>49-48798</phone>
+			<office>MATH 742</office>
+		</professor>
+		<professor>
+			<name>Elisa Bertino</name>
+			<title>Professor</title>
+			<phone>49-62399</phone>
+			<office>LWSN 2142G</office>
+		</professor>
+		<professor>
+			<name>Bharat Bhargava</name>
+			<title>Professor</title>
+			<phone>49-46013</phone>
+			<office>LWSN 2116F</office>
+		</professor>
+		<professor>
+			<name>Chris Clifton</name>
+			<title>Professor</title>
+			<phone>49-46005</phone>
+			<office>LWSN 2142F</office>
+		</professor>
+		<professor>
+			<name>Douglas Comer</name>
+			<title>Distinguished Professor</title>
+			<phone>49-46009</phone>
+			<office>LWSN 1171</office>
+		</professor>
+		<professor>
+			<name>Buster Dunsmore</name>
+			<title>Associate Professor</title>
+			<phone>49-41996</phone>
+			<office>LWSN 1189</office>
+		</professor>
+		<professor>
+			<name>Ahmed Elmagarmid</name>
+			<title>Professor</title>
+			<phone>49-60456</phone>
+			<office>LWSN 1187</office>
+		</professor>
+		<professor>
+			<name>Patrick Eugster</name>
+			<title>Associate Professor</title>
+			<phone>49-46010</phone>
+			<office>LWSN 3154N</office>
+		</professor>
+		<professor>
+			<name>Sonia Fahmy</name>
+			<title>Professor</title>
+			<phone>49-46183</phone>
+			<office>LWSN 2142H</office>
+		</professor>
+		<professor>
+			<name>Greg Frederickson</name>
+			<title>Professor</title>
+			<phone>49-46016</phone>
+			<office>LWSN 2116E</office>
+		</professor>
+		<professor>
+			<name>David Gleich</name>
+			<title>Assistant Professor</title>
+			<phone>49-67300</phone>
+			<office>LWSN 1207</office>
+		</professor>
+		<professor>
+			<name>Dan Goldwasser</name>
+			<title>Assistant Professor</title>
+			<phone>49-60332</phone>
+			<office>LWSN 2142A</office>
+		</professor>
+		<professor>
+			<name>Ananth Grama</name>
+			<title>Professor</title>
+			<phone>49-46964</phone>
+			<office>LWSN 3154G</office>
+		</professor>
+		<professor>
+			<name>Elena Grigorescu</name>
+			<title>Assistant Professor</title>
+			<phone>49-61185</phone>
+			<office>LWSN 1209</office>
+		</professor>
+		<professor>
+			<name>Susanne Hambrusch</name>
+			<title>Professor</title>
+			<phone>49-41831</phone>
+			<office>LWSN 1179</office>
+		</professor>
+		<professor>
+			<name>Chris Hoffmann</name>
+			<title>Professor</title>
+			<phone>49-46185</phone>
+			<office>LWSN 3183</office>
+		</professor>
+		<professor>
+			<name>Jean Honorio</name>
+			<title>Assistant Professor</title>
+			<phone>49-66757</phone>
+			<office>LWSN 2142J</office>
+		</professor>
+		<professor>
+			<name>Tony Hosking</name>
+			<title>Associate Professor</title>
+			<phone>765-416-3068</phone>
+			<office>LWSN 3154L</office>
+		</professor>
+		<professor>
+			<name>Suresh Jagannathan</name>
+			<title>Professor</title>
+			<phone>49-40971</phone>
+			<office>LWSN 3154J</office>
+		</professor>
+		<professor>
+			<name>Aniket Kate</name>
+			<title>Assistant Professor</title>
+			<phone>49-62763</phone>
+			<office>LWSN 1169</office>
+		</professor>
+		<professor>
+			<name>Daisuke Kihara</name>
+			<title>Professor</title>
+			<phone>49-45004</phone>
+			<office>LWSN 1208</office>
+		</professor>
+		<professor>
+			<name>Ninghui Li</name>
+			<title>Professor</title>
+			<phone>49-66756</phone>
+			<office>LWSN 2142K</office>
+		</professor>
+		<professor>
+			<name>Zhiyuan Li</name>
+			<title>Professor</title>
+			<phone>49-47822</phone>
+			<office>LWSN 3154H</office>
+		</professor>
+		<professor>
+			<name>Bradley Lucier</name>
+			<title>Professor</title>
+			<phone>49-41979</phone>
+			<office>MATH 400</office>
+		</professor>
+		<professor>
+			<name>Hemanta Maji</name>
+			<title>Assistant Professor</title>
+			<phone>49-46184</phone>
+			<office>LWSN 1177</office>
+		</professor>
+		<professor>
+			<name>Aditya Mathur</name>
+			<title>Professor</title>
+			<phone>49-46008</phone>
+			<office>HAAS 104</office>
+		</professor>
+		<professor>
+			<name>Jennifer Neville</name>
+			<title>Associate Professor</title>
+			<phone>49-69387</phone>
+			<office>LWSN 2142D</office>
+		</professor>
+		<professor>
+			<name>Kihong Park</name>
+			<title>Associate Professor</title>
+			<phone>49-47821</phone>
+			<office>LWSN 1211</office>
+		</professor>
+		<professor>
+			<name>Mathias Payer</name>
+			<title>Assistant Professor</title>
+			<phone>49-46010</phone>
+			<office>LWSN 3154M</office>
+		</professor>
+		<professor>
+			<name>Voicu Popescu</name>
+			<title>Associate Professor</title>
+			<phone>49-46010</phone>
+			<office>LWSN 3179</office>
+		</professor>
+		<professor>
+			<name>Alex Pothen</name>
+			<title>Professor</title>
+			<phone>49-69376</phone>
+			<office>LWSN 2116G</office>
+		</professor>
+		<professor>
+			<name>Sunil Prabhakar</name>
+			<title>Department Head and Professor</title>
+			<phone>49-46003</phone>
+			<office>LWSN 3144F</office>
+		</professor>
+		<professor>
+			<name>Yuan (Alan) Qi</name>
+			<title>Associate Professor</title>
+			<phone>49-69370</phone>
+			<office>HAAS 146</office>
+		</professor>
+		<professor>
+			<name>Vernon Rego</name>
+			<title>Professor</title>
+			<phone>49-47835</phone>
+			<office>LWSN 1175</office>
+		</professor>
+		<professor>
+			<name>Bruno Ribeiro</name>
+			<title>Assistant Professor</title>
+			<phone>49-62331</phone>
+			<office>LWSN 2142C</office>
+		</professor>
+		<professor>
+			<name>Tiark Rompf</name>
+			<title>Assistant Professor</title>
+			<phone>49-49027</phone>
+			<office>LWSN 1165</office>
+		</professor>
+		<professor>
+			<name>Elisha Sacks</name>
+			<title>Professor</title>
+			<phone>49-49026</phone>
+			<office>LWSN 3181</office>
+		</professor>
+		<professor>
+			<name>Ahmed Sameh</name>
+			<title>Conte Professor</title>
+			<phone>49-41559</phone>
+			<office>LWSN 3154F</office>
+		</professor>
+		<professor>
+			<name>Luo Si</name>
+			<title>Associate Professor</title>
+			<phone>49-69381</phone>
+			<office>LWSN 2142B</office>
+		</professor>
+		<professor>
+			<name>Robert D. Skeel</name>
+			<title>Professor</title>
+			<phone>49-49025</phone>
+			<office>LWSN 1205</office>
+		</professor>
+		<professor>
+			<name>Eugene Spafford</name>
+			<title>Professor</title>
+			<phone>49-47825 49-47825</phone>
+			<office>REC 216C/LWSN 1183 LWSN 1183</office>
+		</professor>
+		<professor>
+			<name>Wojciech Szpankowski</name>
+			<title>Saul Rosen Distinguished Professor of Computer Science</title>
+			<phone>49-46703</phone>
+			<office>LWSN 1201</office>
+		</professor>
+		<professor>
+			<name>Xavier Tricoche</name>
+			<title>Associate Professor</title>
+			<phone>49-69416</phone>
+			<office>LWSN 3154P</office>
+		</professor>
+		<professor>
+			<name>Samuel Wagstaff</name>
+			<title>Professor</title>
+			<phone>49-46022</phone>
+			<office>LWSN 1167</office>
+		</professor>
+		<professor>
+			<name>Dongyan Xu</name>
+			<title>Professor</title>
+			<phone>49-46182</phone>
+			<office>LWSN 1173</office>
+		</professor>
+		<professor>
+			<name>Xiangyu Zhang</name>
+			<title>Associate Professor</title>
+			<phone>49-69415</phone>
+			<office>LWSN 3154K</office>
+		</professor>
+		<professor>
+			<name>Jan Allebach</name>
+			<title>Professor (Electrical and Computer Engineering )</title>
+			<office>MSEE 350</office>
+		</professor>
+		<professor>
+			<name>Saurabh Bagchi</name>
+			<title>Professor (Electrical and Computer Engineering)</title>
+			<phone>49-43362</phone>
+			<office>EE 329</office>
+		</professor>
+		<professor>
+			<name>Alok Chaturvedi</name>
+			<title>Professor (School of Management)</title>
+			<phone>49-49048</phone>
+			<office>KRAN 745</office>
+		</professor>
+		<professor>
+			<name>William Cleveland</name>
+			<title>Distinguished Professor (Statistics)</title>
+			<phone>49-46045</phone>
+			<office>MATH 500</office>
+		</professor>
+		<professor>
+			<name>Melissa Dark</name>
+			<title>Professor (W.C. Furnas Professor in the College of Technology)</title>
+			<phone>49-47661</phone>
+			<office>KNOY 467A</office>
+		</professor>
+		<professor>
+			<name>David Ebert</name>
+			<title>Professor (Electrical and Computer Engineering)</title>
+			<phone>49-49064</phone>
+			<office>MSEE 274</office>
+		</professor>
+		<professor>
+			<name>Michael Gribskov</name>
+			<title>Professor (Biological Sciences)</title>
+			<phone>49-46933</phone>
+			<office>LILY G-233</office>
+		</professor>
+		<professor>
+			<name>Y. Charlie Hu</name>
+			<title>Professor (Electrical and Computer Engineering)</title>
+			<phone>49-49143</phone>
+			<office>MSEE 226</office>
+		</professor>
+		<professor>
+			<name>Sabre Kais</name>
+			<title>Professor (Chemistry)</title>
+			<phone>49-45965</phone>
+			<office>WTHR 265G</office>
+		</professor>
+		<professor>
+			<name>Charles Killian</name>
+			<title>Adjunct Assistant Professor</title>
+		</professor>
+		<professor>
+			<name>Ramana Kompella</name>
+			<title>Adjunct Associate Professor</title>
+		</professor>
+		<professor>
+			<name>Leszek Lilien</name>
+			<title>Adjunct Associate Professor</title>
+		</professor>
+		<professor>
+			<name>Yung-Hsiang Lu</name>
+			<title>Associate Professor (Electrical and Computer Engineering)</title>
+			<phone>49-42668</phone>
+			<office>MSEE 222</office>
+		</professor>
+		<professor>
+			<name>Cristina Nita-Rotaru</name>
+			<title>Adjunct Professor</title>
+		</professor>
+		<professor>
+			<name>Sanjay Rao</name>
+			<title>Associate Professor (Electrical and Computer Engineering)</title>
+			<office>EE 322A</office>
+		</professor>
+		<professor>
+			<name>Victor Raskin</name>
+			<title>Distinguished Professor (English and Linguistics)</title>
+			<phone>49-43782</phone>
+			<office>HEAV 441</office>
+		</professor>
+		<professor>
+			<name>Jeffrey Siskind</name>
+			<title>Associate Professor (Electrical and Computer Engineering)</title>
+			<phone>49-63197</phone>
+			<office>EE 330</office>
+		</professor>
+		<professor>
+			<name>T N Vijaykumar</name>
+			<title>Professor (Electrical and Computer Engineering)</title>
+			<phone>49-40592</phone>
+			<office>EE 334B</office>
+		</professor>
+		<professor>
+			<name>S.V.N. Vishwanathan</name>
+			<title>Adjunct Associate Professor</title>
+		</professor>
+		<professor>
+			<name>Olga Vitek</name>
+			<title>Adjunct Associate Professor of Statistics and Computer Science</title>
+		</professor>
+		<professor>
+			<name>Jeff Vitter</name>
+			<title>Adjunct Professor</title>
+		</professor>
+		<professor>
+			<name>Jianlin Xia</name>
+			<title>Associate Professor (Math)</title>
+			<office>MATH 442</office>
+		</professor>
+		<professor>
+			<name>David Yau</name>
+			<title>Adjunct Associate Professor</title>
+		</professor>
+		<professor>
+			<name>Walter Gautschi</name>
+			<title>Professor Emeritus</title>
+			<phone>49-41995</phone>
+			<office>LWSN 2116A</office>
+		</professor>
+		<professor>
+			<name>Elias Houstis</name>
+			<title>Professor Emeritus</title>
+		</professor>
+		<professor>
+			<name>Robert Lynch</name>
+			<title>Professor Emeritus</title>
+		</professor>
+		<professor>
+			<name>John Rice</name>
+			<title>Distinguished Professor Emeritus</title>
+		</professor>
+		<professor>
+			<name>John Steele</name>
+			<title>Professor Emeritus</title>
+		</professor>
+		<professor>
+			<name>Nadia Abdu</name>
+			<title>Visiting Scholar</title>
+			<phone>49-69390</phone>
+			<office>LWSN 2142V</office>
+		</professor>
+		<professor>
+			<name>Saleh Basalamah</name>
+			<title>Visiting Faculty</title>
+			<phone>49-42486</phone>
+			<office>LWSN 2142W</office>
+		</professor>
+		<professor>
+			<name>Umesh Bellur</name>
+			<title>Visiting Faculty</title>
+			<phone>49-60454</phone>
+			<office>HAAS 124</office>
+		</professor>
+		<professor>
+			<name>Lorenzo Bossi</name>
+			<title>Post Doctoral Research Associate</title>
+			<phone>49-69385</phone>
+			<office>LWSN 2142N</office>
+		</professor>
+		<professor>
+			<name>Siarhei Bykau</name>
+			<title>Post Doctoral Research Associate</title>
+			<phone>49-69414</phone>
+			<office>LWSN 3154C</office>
+		</professor>
+		<professor>
+			<name>Somali Chaterji</name>
+			<title>Visiting Assistant Professor</title>
+			<phone>49-69371</phone>
+			<office>LWSN 1185</office>
+		</professor>
+		<professor>
+			<name>Omar Chowdhury</name>
+			<title>Post Doctoral Researcher</title>
+			<phone>49-69388</phone>
+			<office>LWSN 2142R</office>
+		</professor>
+		<professor>
+			<name>Xi Huang</name>
+			<title>Visiting Scholar</title>
+			<phone>49-69418</phone>
+			<office>LWSN 3154R</office>
+		</professor>
+		<professor>
+			<name>Yauheni Kryvasheyeu</name>
+			<title>GoBoiler Student</title>
+			<phone>49-69419</phone>
+			<office>LWSN 3154S</office>
+		</professor>
+		<professor>
+			<name>Peng Liu</name>
+			<title>Post Doctoral Research Associate</title>
+			<phone>49-69413</phone>
+			<office>LWSN 3154B</office>
+		</professor>
+		<professor>
+			<name>Tinghuai Ma</name>
+			<title>Visiting Scholar</title>
+			<phone>49-69390</phone>
+			<office>LWSN 2142V</office>
+		</professor>
+		<professor>
+			<name>Srivatsan Ravi</name>
+			<title>Post Doctoral Research Assistant</title>
+			<phone>49-69365</phone>
+			<office>LWSN 1202</office>
+		</professor>
+		<professor>
+			<name>Antonino Rullo</name>
+			<title>Visiting Scholar</title>
+			<phone>49-69479</phone>
+			<office>LWSN 2142U</office>
+		</professor>
+		<professor>
+			<name>Vinai Sundaram</name>
+			<title>Post Doctoral Research Associate</title>
+			<phone>49-69413</phone>
+			<office>LWSN 3154S</office>
+		</professor>
+		<professor>
+			<name>Chonghua Wang</name>
+			<title>Visiting Scholar</title>
+			<phone>49-69419</phone>
+			<office>LWSN 3154S</office>
+		</professor>
+		<professor>
+			<name>Qian (Kasey) Xiao</name>
+			<title>Post Doctoral Research Asscociate</title>
+			<phone>49-69385</phone>
+			<office>LWSN 2142N</office>
+		</professor>
+		<professor>
+			<name>Haoran Xu</name>
+			<title>Visiting Scholar</title>
+			<phone>49-69479</phone>
+			<office>LWSN 2142U</office>
+		</professor>
+		<professor>
+			<name>Zhaogui Xu</name>
+			<title>Visiting Scholar</title>
+			<phone>49-69418</phone>
+			<office>LWSN 3154R</office>
+		</professor>
+		<professor>
+			<name>Shi Zhang</name>
+			<title>Visiting Scholar</title>
+			<phone>49-69412</phone>
+			<office>LWSN 3154A</office>
+		</professor>
+		<professor>
+			<name>Wei Zhang</name>
+			<title>Visiting Scholar</title>
+			<phone>49-69386</phone>
+			<office>LWSN 2142P</office>
+		</professor>
+		<professor>
+			<name>Hongfei Zhu</name>
+			<title>Visiting Scholar</title>
+			<phone>49-69386</phone>
+			<office>LWSN 2142P</office>
+		</professor>
+		<professor>
+			<name>Alan Bunning</name>
+			<title>Continuing Lecturer</title>
+			<phone>49-60245</phone>
+			<office>HAAS G024</office>
+		</professor>
+		<professor>
+			<name>Marta Crowe</name>
+			<title>Continuing Lecturer</title>
+			<phone>49-60457</phone>
+			<office>HAAS 142</office>
+		</professor>
+		<professor>
+			<name>Bill Crum</name>
+			<title>Continuing Lecturer</title>
+			<phone>49-46027</phone>
+			<office>HAAS G026</office>
+		</professor>
+		<professor>
+			<name>Gary McFall</name>
+			<title>Continuing Lecturer</title>
+			<phone>49-47804</phone>
+			<office>HAAS G022</office>
+		</professor>
+		<professor>
+			<name>Gustavo Rodriguez-Rivera</name>
+			<title>Continuing Lecturer</title>
+			<phone>49-49161</phone>
+			<office>LWSN 1210</office>
+		</professor>
+	</institution>

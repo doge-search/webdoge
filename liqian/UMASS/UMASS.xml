@@ -1,0 +1,610 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name> Adrion, W. Richards </name>
+			<title>Professor Emeritus</title>
+			<phone>(413) 545-2475</phone>
+			<office>CS310</office>
+			<email>adrion@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name> Allan, James </name>
+			<title>Professor and Chair of the Faculty </title>
+			<phone>(413) 545-2742</phone>
+			<office>CS202</office>
+			<email>allan@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name> Barrington, David A. Mix </name>
+			<title>Professor</title>
+			<phone>(413) 545-4329</phone>
+			<office>CS210</office>
+			<email>barring@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Berger, Emery D.</name>
+			<title>Professor</title>
+			<phone>(413) 577-4211</phone>
+			<office>CS344</office>
+			<email>emery@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Biswas, Joydeep </name>
+			<title>Assistant Professor</title>
+			<phone>(413) 545-3403</phone>
+			<office>CS238</office>
+			<email>joydeepb@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Brun, Yuriy </name>
+			<title>Assistant Professor</title>
+			<phone>(413) 577-0233</phone>
+			<office>CS346</office>
+			<email>brun@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Clarke, Lori A.</name>
+			<title>Emeritus Professor</title>
+			<phone>(413) 545-1328</phone>
+			<office>CS304</office>
+			<email>clarke@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Corner, Mark D.</name>
+			<title>Associate Professor</title>
+			<phone>(413) 545-2744</phone>
+			<office>CS338</office>
+			<email>mcorner@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Croft, W. Bruce </name>
+			<title>Interim Dean and Distinguished University Professor</title>
+			<phone>(413) 545-0463</phone>
+			<office>CS370</office>
+			<email>croft@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Diao, Yanlei </name>
+			<title>Associate Professor</title>
+			<phone>(413) 545-1135</phone>
+			<office>CS232</office>
+			<email>yanlei@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Ganesan, Deepak K.</name>
+			<title>Associate Professor</title>
+			<phone>(413) 545-2450</phone>
+			<office>CS272</office>
+			<email>dganesan@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Grupen, Roderic A.</name>
+			<title>Professor</title>
+			<phone>(413) 545-3280</phone>
+			<office>LGRC A337</office>
+			<email>grupen@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Guha, Arjun </name>
+			<title>Assistant Professor</title>
+			<phone>(413) 545-2447</phone>
+			<office>CS230</office>
+			<email>arjun@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Houmansadr, Amir </name>
+			<title>Assistant Professor</title>
+			<phone>(413) 577-2580</phone>
+			<office>CS206</office>
+			<email>amir@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Immerman, Neil </name>
+			<title>Professor</title>
+			<phone>(413) 545-1862</phone>
+			<office>CS374</office>
+			<email>immerman@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Jensen, David D.</name>
+			<title>Professor</title>
+			<phone>(413) 545-9677</phone>
+			<office>CS308</office>
+			<email>jensen@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Just, René </name>
+			<title>Assistant Professor</title>
+			<office>CS358</office>
+			<email>rjust@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Kalogerakis, Evangelos </name>
+			<title>Assistant Professor</title>
+			<phone>(413) 545-1952</phone>
+			<office>CS250</office>
+			<email>kalo@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Kurose, James F.</name>
+			<title>Distinguished Professor</title>
+			<phone>(413) 545-1585</phone>
+			<office>CS376</office>
+			<email>kurose@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Learned-Miller, Erik G.</name>
+			<title>Associate Professor</title>
+			<phone>(413) 545-2993</phone>
+			<office>CS248</office>
+			<email>elm@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Levine, Brian Neil</name>
+			<title>Professor</title>
+			<phone>(413) 577-0238</phone>
+			<office>CS306</office>
+			<email>brian@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Mahadevan, Sridhar </name>
+			<title>Professor</title>
+			<phone>(413) 545-3140</phone>
+			<office>CS204</office>
+			<email>mahadeva@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Maji, Subhransu </name>
+			<title>Assistant Professor</title>
+			<phone>(413) 577-2570</phone>
+			<office>CS274</office>
+			<email>smaji@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Manmatha, R. </name>
+			<title>Research Associate Professor</title>
+			<phone>(413) 545-2744</phone>
+			<email>manmatha@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Marlin, Benjamin M.</name>
+			<title>Assistant Professor</title>
+			<phone>(413) 545-4493</phone>
+			<office>CS234</office>
+			<email>marlin@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Mazumdar, Arya  </name>
+			<title>Assistant Professor </title>
+			<phone>(413) 545-2744</phone>
+			<office>CS 222</office>
+			<email>arya@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>McCallum, Andrew K.</name>
+			<title>Professor</title>
+			<phone>(413) 545-1323</phone>
+			<office>CS244</office>
+			<email>mccallum@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>McGregor, Andrew </name>
+			<title>Associate Professor</title>
+			<phone>(413) 545-6867</phone>
+			<office>CS334</office>
+			<email>mcgregor@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Meliou, Alexandra </name>
+			<title>Assistant Professor</title>
+			<phone>(413) 545-3788</phone>
+			<office>CS330</office>
+			<email>ameli@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Miklau, Gerome </name>
+			<title>Associate Professor</title>
+			<phone>(413) 545-4032</phone>
+			<office>CS208</office>
+			<email>miklau@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Moll, Robert N.</name>
+			<title>Professor Emeritus</title>
+			<phone>(413) 545-4315</phone>
+			<office>LGRC A351B</office>
+			<email>moll@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Moss, J. Eliot B. </name>
+			<title>Professor</title>
+			<phone>(413) 545-4206</phone>
+			<office>CS372</office>
+			<email>moss@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>O</name>
+			<title>Assistant Professor</title>
+			<phone>(413) 577-2503</phone>
+			<office>CS348</office>
+			<email>brenocon@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Osterweil, Leon J.</name>
+			<title>Professor Emeritus</title>
+			<phone>(413) 545-4228</phone>
+			<office>CS302</office>
+			<email>ljo@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Saha, Barna </name>
+			<title>Assistant Professor</title>
+			<phone>(413) 577-2510</phone>
+			<office>CS322</office>
+			<email>barna@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Sheldon, Dan </name>
+			<title>Assistant Professor</title>
+			<phone>(413) 545-4843</phone>
+			<office>CS246</office>
+			<email>sheldon@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Shenoy, Prashant </name>
+			<title>Professor</title>
+			<phone>(413) 577-0850</phone>
+			<office>CS336</office>
+			<email>shenoy@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Siegelmann, Hava T.</name>
+			<title>Professor</title>
+			<phone>(413) 545-4315</phone>
+			<office>CS276</office>
+			<email>hava@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Sitaraman, Ramesh K.</name>
+			<title>Professor</title>
+			<phone>(413) 545-3279</phone>
+			<office>CS332</office>
+			<email>ramesh@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Towsley, Donald F.</name>
+			<title>Distinguished University Professor</title>
+			<phone>(413) 545-0207</phone>
+			<office>CS378</office>
+			<email>towsley@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Venkataramani, Arun </name>
+			<title>Associate Professor</title>
+			<phone>(413) 545-3651</phone>
+			<office>CS236</office>
+			<email>arun@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Wang, Rui </name>
+			<title>Associate Professor</title>
+			<phone>(413) 545-3147</phone>
+			<office>CS270</office>
+			<email>ruiwang@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Weems, Charles C.</name>
+			<title>Associate Professor</title>
+			<phone>(413) 545-3163</phone>
+			<office>CS342</office>
+			<email>weems@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Wileden, Jack C.</name>
+			<title>Professor</title>
+			<phone>(413) 545-0289</phone>
+			<office>CS242</office>
+			<email>jack@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Woolf, Beverly P.</name>
+			<title>Research Professor</title>
+			<phone>(413) 545-4265</phone>
+			<office>LGRC A353B</office>
+			<email>bev@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Zilberstein, Shlomo </name>
+			<title>Professor</title>
+			<phone>(413) 545-4189</phone>
+			<office>CS278</office>
+			<email>shlomo@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Barto, Andrew G.</name>
+			<title>Professor Emeritus</title>
+			<phone>(413) 545-2744</phone>
+			<office>LGRC A359</office>
+			<email>barto@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Graham, Robert  M.</name>
+			<title>Professor Emeritus</title>
+			<phone>(413) 545-2744</phone>
+			<office>Off Campus</office>
+			<email>bob@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Hanson, Allen R.</name>
+			<title>Professor Emeritus</title>
+			<phone>(413) 545-3442</phone>
+			<office>LGRC A351A</office>
+			<email>hanson@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Lehnert, Wendy G.</name>
+			<title>Professor Emerita</title>
+			<phone>(413) 545-2744</phone>
+			<office>Off Campus</office>
+			<email>lehnert@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Lesser, Victor R.</name>
+			<title>Distinguished Professor Emeritus</title>
+			<phone>(413) 545-2744</phone>
+			<office>Off campus</office>
+			<email>lesser@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Rissland, Edwina L.</name>
+			<title>Professor Emerita</title>
+			<phone>(413) 545-2744</phone>
+			<office>Off Campus</office>
+			<email>rissland@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Rosenberg, Arnold L.</name>
+			<title>Distinguished University Professor Emeritus</title>
+			<phone>(413) 545-2744</phone>
+			<office>Off Campus</office>
+			<email>rsnbrg@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Wogrin, Conrad A.</name>
+			<title>Professor Emeritus</title>
+			<phone>(413) 545-2744</phone>
+			<office>Off Campus</office>
+			<email>wogrin@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name> Avrunin, George S.</name>
+			<title>Adjunct Professor</title>
+			<phone>(413) 545-2744</phone>
+			<office>CS316A</office>
+			<email>avrunin@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Albrecht, Jeannie </name>
+			<title>Adjunct Assistant Professor</title>
+			<phone>(413) 545-2744</phone>
+			<office>Off-Campus</office>
+			<email>jeannie@cs.williams.edu</email>
+		</professor>
+		<professor>
+			<name>Anderson, Gordon </name>
+			<title>Lecturer</title>
+			<phone>(413) 545-4747</phone>
+			<office>LGRC A349B</office>
+			<email>gordon@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Arroyo, Ivon </name>
+			<title>Research Scientist</title>
+			<phone>(413) 545-4265</phone>
+			<office>LGRC A353B</office>
+			<email>ivon@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Cecchet, Emmanuel </name>
+			<title>Research Scientist</title>
+			<phone>(413) 545-3787</phone>
+			<office>CS216A</office>
+			<email>cecchet@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Corkill, Daniel D.</name>
+			<title>Senior Research Scientist</title>
+			<phone>(413) 545-0675</phone>
+			<office>CS324A</office>
+			<email>corkill@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Foulkes, Andrea S.</name>
+			<title>Adjunct Associate Professor</title>
+			<phone>(413) 545-1881</phone>
+			<office>Arnold House</office>
+			<email>foulkes@schoolph.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Fountain, Jane E. </name>
+			<title>Adjunct Professor</title>
+			<phone>(413) 545-1007</phone>
+			<office>Thompson Hall 414</office>
+			<email>fountain@polsci.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Fu, Kevin </name>
+			<title>Adjunct Associate Professor</title>
+			<phone>(413)545-2744</phone>
+			<office>Off-Campus</office>
+			<email>kevinfu@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Gong, Weibo </name>
+			<title>Adjunct Professor</title>
+			<phone>(413) 545-0384</phone>
+			<office>ECE</office>
+			<email>gong@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Hudlicka, Eva </name>
+			<title>Instructor</title>
+			<phone>(413) 577-2127</phone>
+			<office>LGRC A359</office>
+			<email>hudlicka@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Irwin, David </name>
+			<title>Adjunct Assistant Professor</title>
+			<phone>(413) 545-5822</phone>
+			<office>KEB 211D</office>
+			<email>irwin@ecs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Kaplan, Scott F.</name>
+			<title>Adjunct Professor</title>
+			<phone>(413) 545-2744</phone>
+			<office>Off-Campus</office>
+			<email>sfkaplan@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Kulp, David </name>
+			<title>Adjunct Assistant Professor</title>
+			<phone>N/A</phone>
+			<office>Off-Campus</office>
+			<email>dkulp@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Liberatore, Marc D.</name>
+			<title>Research Scientist</title>
+			<phone>(413) 545-3061</phone>
+			<office>CS356A</office>
+			<email>liberato@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Marquard, Jenna L.</name>
+			<title>Adjunct Associate Professor</title>
+			<phone>(413) 545-0646</phone>
+			<office>Marston 120G</office>
+			<email>jlmarquard@ecs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>McGeoch, Catherine </name>
+			<title>Adjunct Professor</title>
+			<phone>(413) 545-2744</phone>
+			<office>Off-Campus</office>
+			<email>ccm@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>McGeoch, Lyle A.</name>
+			<title>Adjunct Professor</title>
+			<phone>(413) 545-2744</phone>
+			<office>Off-Campus</office>
+			<email>lam@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Pon-Barry, Heather </name>
+			<title>Adjunct Assistant Professor</title>
+			<phone>(413) 545-2744</phone>
+			<office>Off-Campus</office>
+			<email> ponbarry@cics.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Ramamritham, Krithivasan </name>
+			<title>Adjunct Professor</title>
+			<phone>(413) 545-2744</phone>
+			<office>Off-Campus</office>
+			<email>krithi@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Richards, Tim </name>
+			<title>Lecturer</title>
+			<phone>(413) 545-4704</phone>
+			<office>CS258</office>
+			<email>richards@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Smaragdakis, Yannis </name>
+			<title>Adjunct Associate Professor</title>
+			<phone>(413) 545-2744</phone>
+			<office>Off-Campus</office>
+			<email>yannis@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Smith, David A.</name>
+			<title>Adjunct Assistant Professor</title>
+			<phone>(617) 373 8526</phone>
+			<office>Off Campus</office>
+			<email>dasmith@ccs.neu.edu</email>
+		</professor>
+		<professor>
+			<name>Sondheimer, Norman K.</name>
+			<title>co-Director Electronic Enterprise Institute </title>
+			<phone>(860) 539-9335</phone>
+			<office>Off-Campus</office>
+			<email>sondheimer@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Spector, Lee </name>
+			<title>Adjunct Professor</title>
+			<phone>N/A</phone>
+			<office>Off-Campus</office>
+			<email>lspector@hampshire.edu</email>
+		</professor>
+		<professor>
+			<name>Sproull, Bob </name>
+			<title>Adjunct Professor</title>
+			<phone>N/A</phone>
+			<office>Off-Campus</office>
+			<email>rfsproull@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Streinu, Ileana </name>
+			<title>Adjunct Professor</title>
+			<phone>(413) 545-1381</phone>
+			<office>CS358B</office>
+			<email>streinu@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Thorup, Mikkel </name>
+			<title>Adjunct Associate Professor</title>
+			<phone>(413)  345-2713</phone>
+			<office>Off-Campus</office>
+			<email>mikkel2thorup@gmail.com</email>
+		</professor>
+		<professor>
+			<name>Trim, Michelle </name>
+			<title>Lecturer</title>
+			<phone>(413) 545-4450</phone>
+			<office>LGRC A347</office>
+			<email>mtrim@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Verts, William T.</name>
+			<title>Senior Lecturer</title>
+			<phone>(413) 545-1719</phone>
+			<office>LGRC A357</office>
+			<email>verts@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Wallach, Hanna M.</name>
+			<title>Adjunct Associate Professor</title>
+			<phone>N/A</phone>
+			<office>Off Campus</office>
+			<email>wallach@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Yu, Hong </name>
+			<title>Adjunct Professor</title>
+			<phone>(413) 545-1381</phone>
+			<office>CS358</office>
+			<email>hongyu@cs.umass.edu</email>
+		</professor>
+		<professor>
+			<name>Zink, Michael </name>
+			<title>Adjunct Assistant Professor</title>
+			<phone>(413) 545-4465</phone>
+			<office>113B Knowles Engineering </office>
+			<email>zink@ecs.umass.edu</email>
+		</professor>
+	</institution>

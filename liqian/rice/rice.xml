@@ -1,0 +1,206 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Robert "Corky" Cartwright</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Swarat Chaudhuri</name>
+			<title>Associate Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Keith D. Cooper</name>
+			<title>L. John and Ann H. Doerr Chair in Computational Engineering</title>
+			<title>Professor of Computer Science and of Electrical and Computer Engineering</title>
+			<title>Associate Dean for Research, George R. Brown School of Engineering</title>
+			<title>Co-Director, Ken Kennedy Institute for Information Technology</title>
+		</professor>
+		<professor>
+			<name>Alan L. Cox</name>
+			<title>Professor of Computer Science and of Electrical and Computer Engineering</title>
+		</professor>
+		<professor>
+			<name>Scott Cutler</name>
+			<title>Professor in the Practice of Computer Technology in Computer Science and in Electrical and Computer Engineering</title>
+		</professor>
+		<professor>
+			<name>Ronald N. Goldman</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>John Greiner</name>
+			<title>Lecturer in Computer Science</title>
+		</professor>
+		<professor>
+			<name>Christopher M.  Jermaine</name>
+			<title>Associate Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>David B. Johnson</name>
+			<title>Professor of Computer Science and of Electrical and Computer Engineering</title>
+		</professor>
+		<professor>
+			<name>Lydia E. Kavraki</name>
+			<title>Noah Harding Professor of Computer Science</title>
+			<title>Professor of Bioengineering</title>
+		</professor>
+		<professor>
+			<name>John Mellor-Crummey</name>
+			<title>Professor of Computer Science and of Electrical and Computer Engineering</title>
+		</professor>
+		<professor>
+			<name>Luay Nakhleh</name>
+			<title>Associate Professor of Computer Science, of Ecology and Evolutionary Biology, and of Biochemistry and Cell Biology</title>
+		</professor>
+		<professor>
+			<name>T. S. Eugene Ng</name>
+			<title>Associate Professor of Computer Science and of Electrical and Computer Engineering</title>
+		</professor>
+		<professor>
+			<name>Krishna V. Palem</name>
+			<title>Ken and Audrey Kennedy Professor of Computer Science</title>
+			<title>Professor of Electrical and Computer Engineering</title>
+		</professor>
+		<professor>
+			<name>Scott Rixner</name>
+			<title>Professor of Computer Science and of Electrical and Computer Engineering</title>
+		</professor>
+		<professor>
+			<name>Vivek Sarkar</name>
+			<title>Chair, Department of Computer Science</title>
+			<title>E.D. Butcher Chair in Engineering</title>
+			<title>Professor of Computer Science and of Electrical and Computer Engineering</title>
+		</professor>
+		<professor>
+			<name>Anshumali Shrivastava</name>
+			<title>Assistant Professor of Computer Science, of Electrical and Computer Engineering, and of Statistics</title>
+		</professor>
+		<professor>
+			<name>Devika Subramanian</name>
+			<title>Professor of Computer Science and of Electrical and Computer Engineering</title>
+		</professor>
+		<professor>
+			<name>Linda Torczon</name>
+			<title>Assistant Chair, Department of Computer Science</title>
+			<title>Senior Research Scientist</title>
+			<title>Lecturer in Computer Science</title>
+		</professor>
+		<professor>
+			<name>Moshe Y. Vardi</name>
+			<title>Karen Ostrum George Distinguished Service Professor in Computational Engineering</title>
+			<title>Co-Director, Ken Kennedy Institute for Information Technology</title>
+		</professor>
+		<professor>
+			<name>Dan S. Wallach</name>
+			<title>Professor of Computer Science and of Electrical and Computer Engineering</title>
+		</professor>
+		<professor>
+			<name>Joe D. Warren</name>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Stephen Wong</name>
+			<title>Lecturer in Computer Science</title>
+		</professor>
+		<professor>
+			<name>Michael Byrne</name>
+			<title>Professor of Psychology and of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Joseph R. Cavallaro</name>
+			<title>Professor of Electrical and Computer Engineering and of Computer Science</title>
+			<title>Director of the Center for Multimedia Communication</title>
+		</professor>
+		<professor>
+			<name>G. Anthony Gorry</name>
+			<title>Friedkin Chair of Management</title>
+			<title>Professor of Computer Science</title>
+			<title>Director of the Center for Technology in Teaching and Learning</title>
+		</professor>
+		<professor>
+			<name>Edward W. Knightly</name>
+			<title>Department Chair and Professor of Electrical and Computer Engineering</title>
+			<title>Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Marcia K. O’Malley</name>
+			<title>Associate Professor of Mechanical Engineering and of Computer Science</title>
+		</professor>
+		<professor>
+			<name>James M. Tour</name>
+			<title>T. T. and W. F. Chao Professor of Chemistry</title>
+			<title>Professor of Computer Science and of Materials Science and NanoEngineering</title>
+		</professor>
+		<professor>
+			<name>Peter J. Varman</name>
+			<title>Professor of Electrical and Computer Engineering and of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Ashok Veeraraghavan</name>
+			<title>Assistant Professor of Electrical and Computer Engineering and of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Lin Zhong</name>
+			<title>Associate Professor of Electrical and Computer Engineering and of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Weiwei Zhong</name>
+			<title>Assistant Professor of Biochemistry and Cell Biology and of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Erez Lieberman Aiden</name>
+			<title>Adjunct Assistant Professor of Computer Science and of Computational and Applied Mathematics</title>
+		</professor>
+		<professor>
+			<name>Eric Allen</name>
+			<title>Adjunct Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Fayé Briggs</name>
+			<title>Adjunct Professor of Computer Science and of Electrical and Computer Engineering</title>
+		</professor>
+		<professor>
+			<name>Robert C. Bronk</name>
+			<title>Adjunct Associate Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Ken Chen</name>
+			<title>Adjunct Assistant Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Wah Chiu</name>
+			<title>Adjunct Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Jack Dongarra</name>
+			<title>Adjunct Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Mike Fagan</name>
+			<title>Research Scientist</title>
+			<title>Adjunct Lecturer in Computer Science</title>
+		</professor>
+		<professor>
+			<name>Mark Moll</name>
+			<title>Research Scientist</title>
+			<title>Adjunct Assistant Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Dung (Zung) Nguyen</name>
+			<title>Senior Research Programmer</title>
+			<title>Adjunct Lecturer in Computer Science</title>
+		</professor>
+		<professor>
+			<name>Walid Taha</name>
+			<title>Adjunct Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Steve Wallach</name>
+			<title>Adjunct Professor of Computer Science</title>
+		</professor>
+		<professor>
+			<name>Scott Warren</name>
+			<title>Senior Research Scientist</title>
+			<title>Adjunct Assistant Professor of Computer Science</title>
+		</professor>
+	</institution>

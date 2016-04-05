@@ -1,0 +1,232 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Ryan P. Adams</name>
+			<title>Assistant Professor of Computer Science</title>
+			<phone>(617) 495-3311</phone>
+			<office>327 Maxwell Dworkin</office>
+			<email>rpa@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Boaz Barak</name>
+			<title>Gordon McKay Professor of Computer Science</title>
+			<phone>(617) 496-6257</phone>
+			<office>329 Maxwell Dworkin</office>
+			<email>boaz@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>David M. Brooks</name>
+			<title>Haley Family Professor of Computer Science</title>
+			<phone>(617) 495-3989</phone>
+			<office>141 Maxwell Dworkin</office>
+			<email>dbrooks@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Yiling Chen</name>
+			<title>Gordan McKay Professor of Computer Science</title>
+			<phone>(617) 495-3298</phone>
+			<office>233 Maxwell Dworkin</office>
+			<email>yiling@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Stephen Chong</name>
+			<title>Associate Professor of Computer Science</title>
+			<phone>(617) 496-6382</phone>
+			<office>145 Maxwell Dworkin</office>
+			<email>chong@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>David Cox</name>
+			<title>Assistant Professor of Molecular and Cellular Biology and of Computer Science</title>
+			<office>219.40 North West Building</office>
+			<email>davidcox@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Finale Doshi-Velez</name>
+			<title>Assistant Professor in Computer Science</title>
+			<office>219 Maxwell Dworkin</office>
+			<email>finale@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Krzysztof Gajos</name>
+			<title>Associate Professor of Computer Science</title>
+			<phone>(617) 496-1876</phone>
+			<office>251 Maxwell Dworkin</office>
+			<email>kgajos@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Steven J. Gortler</name>
+			<title>Robert I. Goldman Professor of Computer Science</title>
+			<phone>(617) 495-3751</phone>
+			<office>243 Maxwell Dworkin Building</office>
+			<email>sjg@cs.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Barbara J. Grosz</name>
+			<title>Higgins Professor of Natural Sciences</title>
+			<phone>(617) 495-3673</phone>
+			<office>249 Maxwell Dworkin Building</office>
+			<email>grosz@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Stratos Idreos</name>
+			<title>Assistant Professor in Computer Science</title>
+			<phone>(617) 495-4316</phone>
+			<office>139 Maxwell Dworkin</office>
+			<email>stratos@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Eddie Kohler</name>
+			<title>Microsoft Professor of Computer Science</title>
+			<phone>(617) 496-2630</phone>
+			<office>327 Maxwell Dworkin</office>
+			<email>kohler@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Scott Kuindersma</name>
+			<title>Assistant Professor of Engineering and Computer Science</title>
+			<phone>(617) 495-9526</phone>
+			<office>151 Maxwell Dworkin</office>
+			<email>scottk@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>H.T. Kung</name>
+			<title>William H. Gates Professor of Computer Science and Electrical Engineering</title>
+			<phone>(617) 496-6211</phone>
+			<office>225 Maxwell Dworkin Building</office>
+			<email>htk@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Henry H. Leitner</name>
+			<title>Senior Lecturer on Computer Science</title>
+			<phone>(617) 495-9096</phone>
+			<office>51 Brattle St, Rm. W725</office>
+			<email>leitner@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Harry R. Lewis</name>
+			<title>Gordon McKay Professor of Computer Science</title>
+			<phone>(617) 496-2424</phone>
+			<office>237 Maxwell Dworkin</office>
+			<email>lewis@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>David J. Malan</name>
+			<title>Gordon McKay Professor of the Practice of Computer Science</title>
+			<email>malan@harvard.edu</email>
+		</professor>
+		<professor>
+			<name>James Mickens</name>
+			<title>Associate Professor of Computer Science</title>
+			<phone>(617) 384-8132</phone>
+			<office>335 Maxwell Dworkin</office>
+			<email>mickens@g.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Michael D. Mitzenmacher</name>
+			<title>Thomas J. Watson, Sr. Professor of Computer Science</title>
+			<phone>(617) 496-7172</phone>
+			<office>331 Maxwell Dworkin</office>
+			<email>michaelm@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Radhika Nagpal</name>
+			<title>Fred Kavli Professor of Computer Science</title>
+			<phone>(617) 496-6434</phone>
+			<office>235 Maxwell Dworkin</office>
+			<email>rad@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Jelani Nelson</name>
+			<title>Assistant Professor of Computer Science</title>
+			<office>125 Maxwell Dworkin</office>
+			<email>minilek@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>David C. Parkes</name>
+			<title>George F. Colony Professor of Computer Science; Harvard College Professor</title>
+			<phone>(617) 384-8130</phone>
+			<office>229 Maxwell Dworkin</office>
+			<email>parkes@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Hanspeter Pfister</name>
+			<title>An Wang Professor of Computer Science</title>
+			<phone>(617) 496-8269</phone>
+			<office>227 Maxwell Dworkin</office>
+			<email>pfister@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Michael O. Rabin</name>
+			<title>Thomas J. Watson, Sr. Research Professor of Computer Science</title>
+			<phone>(617) 496-6294</phone>
+			<office>349 Maxwell Dworkin Building</office>
+			<email>rabin@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Alexander Sasha Rush</name>
+			<title>Assistant Professor of Computer Science</title>
+			<office>217 Maxwell Dworkin</office>
+			<email>srush@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Margo I. Seltzer</name>
+			<title>Herchel Smith Professor of Computer Science</title>
+			<phone>(617) 496-5663</phone>
+			<office>241 Maxwell Dworkin</office>
+			<email>seltzer@g.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Stuart M. Shieber</name>
+			<title>James O. Welch, Jr. and Virginia B. Welch Professor of Computer Science</title>
+			<phone>(617) 495-2344</phone>
+			<office>245 Maxwell Dworkin Building</office>
+			<email>shieber@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Yaron Singer</name>
+			<title>Assistant Professor of Computer Science</title>
+			<phone>(617) 496-9271</phone>
+			<office>239 Maxwell Dworkin</office>
+			<email>yaron@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Michael D. Smith</name>
+			<title>Edgerley Family Dean of the Faculty of Arts and Sciences; John H. Finley, Jr. Professor of Engineering and Applied Sciences</title>
+			<phone>(617) 495-1566</phone>
+			<office>2nd Floor University Hall</office>
+			<email>mike.smith@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Madhu Sudan</name>
+			<title>Gordon McKay Professor of Computer Science</title>
+			<email>madhu@cs.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Salil P. Vadhan</name>
+			<title>Vicky Joseph Professor of Computer Science and Applied Mathematics</title>
+			<phone>(617) 496-0439</phone>
+			<office>337 Maxwell Dworkin</office>
+			<email>salil@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Leslie Valiant</name>
+			<title>T. Jefferson Coolidge Professor of Computer Science and Applied Mathematics</title>
+			<phone>(617) 495-5817</phone>
+			<office>351 Maxwell Dworkin Building</office>
+			<email>valiant@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>James H. Waldo</name>
+			<title>Gordon McKay Professor of the Practice of Computer Science</title>
+			<phone>(617) 496-5661</phone>
+			<office>127 Maxwell Dworkin</office>
+			<email>waldo@seas.harvard.edu</email>
+		</professor>
+		<professor>
+			<name>Jonathan Zittrain</name>
+			<title>Professor of Computer Science (SEAS); George Bemis Professor of Law (Harvard Law School); Professor (Harvard Kennedy School)</title>
+			<phone>(617) 495-4643</phone>
+			<email>a2jz@law.harvard.edu</email>
+		</professor>
+	</institution>
