@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Theory of Computation</groupname>
+			<professorname>Venkat Chandrasekaran</professorname>
+			<professorname>Federico Echenique</professorname>
+			<professorname>Babak Hassibi</professorname>
+			<professorname>Alexei Kitaev</professorname>
+			<professorname>John Ledyard</professorname>
+			<professorname>Katrina Ligett</professorname>
+			<professorname>John Preskill</professorname>
+			<professorname>Lulu Qian</professorname>
+			<professorname>Leonard Schulman</professorname>
+			<professorname>Joel Tropp</professorname>
+			<professorname>Chris Umans</professorname>
+			<professorname>Thomas Vidick</professorname>
+			<professorname>Adam Wierman</professorname>
+			<professorname>Erik Winfree</professorname>
+		</research>
+		<research>
+			<groupname>Scientific Computing</groupname>
+			<professorname>Jim Beck</professorname>
+			<professorname>Guillaume Blanquart</professorname>
+			<professorname>Oscar Bruno</professorname>
+			<professorname>Tim Colonius</professorname>
+			<professorname>Mathieu Desbrun</professorname>
+			<professorname>Tom Hou</professorname>
+			<professorname>Dennis Kochmann</professorname>
+			<professorname>Dan Meiron</professorname>
+			<professorname>Houman Owhadi</professorname>
+			<professorname>Niles Pierce</professorname>
+			<professorname>Dale Pullin</professorname>
+			<professorname>Peter Schroeder</professorname>
+			<professorname>Joel Tropp</professorname>
+		</research>
+		<research>
+			<groupname>Mathematical Signal Processing</groupname>
+			<professorname>Venkat Chandrasekaran</professorname>
+			<professorname>Babak Hassibi</professorname>
+			<professorname>Tom Hou</professorname>
+			<professorname>Pietro Perona</professorname>
+			<professorname>Peter Schroeder</professorname>
+			<professorname>Joel Tropp</professorname>
+			<professorname>PP Vaidyanathan</professorname>
+		</research>
+		<research>
+			<groupname>Quantum Information &amp; Computation</groupname>
+			<professorname>Alexei Kitaev</professorname>
+			<professorname>John Preskill</professorname>
+			<professorname>Gil Refael</professorname>
+			<professorname>Leonard Schulman</professorname>
+			<professorname>Thomas Vidick</professorname>
+		</research>
+		<research>
+			<groupname>Molecular Programming</groupname>
+			<professorname>Jehoshua (Shuki) Bruck</professorname>
+			<professorname>Richard Murray</professorname>
+			<professorname>Niles Pierce</professorname>
+			<professorname>Lulu Qian</professorname>
+			<professorname>Paul Rothemund</professorname>
+			<professorname>Erik Winfree</professorname>
+		</research>
+		<research>
+			<groupname>Networked Systems</groupname>
+			<professorname>Jehoshua (Shuki) Bruck</professorname>
+			<professorname>K. Mani Chandy</professorname>
+			<professorname>John Doyle</professorname>
+			<professorname>Michelle Effros</professorname>
+			<professorname>Matt Elliot</professorname>
+			<professorname>Babak Hassibi</professorname>
+			<professorname>Gerard Holzmann</professorname>
+			<professorname>John Ledyard</professorname>
+			<professorname>Steven Low</professorname>
+			<professorname>Katrina Ligett</professorname>
+			<professorname>Richard Murray</professorname>
+			<professorname>Leeat Yariv</professorname>
+			<professorname>Adam Wierman</professorname>
+		</research>
+		<research>
+			<groupname>Robotics &amp; Autonomous Systems</groupname>
+			<professorname>Yaser Abu-Mostafa</professorname>
+			<professorname>Joel Burdick</professorname>
+			<professorname>K. Mani Chandy</professorname>
+			<professorname>Michael Dickinson</professorname>
+			<professorname>Babak Hassibi</professorname>
+			<professorname>Steven Low</professorname>
+			<professorname>Richard Murray</professorname>
+			<professorname>Pietro Perona</professorname>
+			<professorname>Adam Wierman</professorname>
+			<professorname>Yisong Yue</professorname>
+		</research>
+		<research>
+			<groupname>Optimization</groupname>
+			<professorname>Venkat Chandrasekaran</professorname>
+			<professorname>Babak Hassibi</professorname>
+			<professorname>Katrina Ligett</professorname>
+			<professorname>Steven Low</professorname>
+			<professorname>Houman Owhadi</professorname>
+			<professorname>Joel Tropp</professorname>
+			<professorname>Thomas Vidick</professorname>
+			<professorname>Adam Wierman</professorname>
+			<professorname>Yisong Yue</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning &amp; Vision</groupname>
+			<professorname>Yaser Abu-Mostafa</professorname>
+			<professorname>Venkat Chandrasekaran</professorname>
+			<professorname>Frederick Eberhardt</professorname>
+			<professorname>Katrina Ligett</professorname>
+			<professorname>Pietro Perona</professorname>
+			<professorname>Joel Tropp</professorname>
+			<professorname>Yisong Yue</professorname>
+		</research>
+		<research>
+			<groupname>Graphics &amp; Geometry</groupname>
+			<professorname>Alan H. Barr</professorname>
+			<professorname>Mathieu Desbrun</professorname>
+			<professorname>Peter Schroeder</professorname>
+		</research>
+		<research>
+			<groupname>Formal Methods &amp; Verification</groupname>
+			<professorname>Joel Burdick</professorname>
+			<professorname>K. Mani Chandy</professorname>
+			<professorname>Gerard Holzmann (Caltech/JPL)</professorname>
+			<professorname>Steven Low</professorname>
+			<professorname>Richard Murray</professorname>
+			<professorname>Adam Wierman</professorname>
+		</research>
+		<research>
+			<groupname>Applied Probability and Stochastic Analysis</groupname>
+			<professorname>Jim Beck</professorname>
+			<professorname>Venkat Chandrasekaran</professorname>
+			<professorname>Victoria Kostina</professorname>
+			<professorname>Katrina Ligett</professorname>
+			<professorname>Houman Owhadi</professorname>
+			<professorname>Leonard Schulman</professorname>
+			<professorname>Omer Tamuz</professorname>
+			<professorname>Joel Tropp</professorname>
+			<professorname>Chris Umans</professorname>
+			<professorname>Thomas Vidick</professorname>
+			<professorname>Yisong Yue</professorname>
+			<professorname>Adam Wierman</professorname>
+		</research>
+		<research>
+			<groupname>Algorithmic Economics</groupname>
+			<professorname>Kim Border</professorname>
+			<professorname>K. Mani Chandy</professorname>
+			<professorname>Federico Echenique</professorname>
+			<professorname>Matt Elliot</professorname>
+			<professorname>John Ledyard</professorname>
+			<professorname>Steven Low</professorname>
+			<professorname>Katrina Ligett</professorname>
+			<professorname>Charles Plott</professorname>
+			<professorname>Omer Tamuz</professorname>
+			<professorname>Adam Wierman</professorname>
+			<professorname>Leeat Yariv</professorname>
+		</research>
+	</institution>
