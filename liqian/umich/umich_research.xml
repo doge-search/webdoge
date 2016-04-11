@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Embedded Systems</groupname>
+			<professorname>Dick, Robert </professorname>
+			<professorname>Dutta, Prabal </professorname>
+			<professorname>Freudenberg, James S.</professorname>
+			<professorname>Mahlke, Scott </professorname>
+		</research>
+		<research>
+			<groupname>Quantum Science and Technology</groupname>
+			<professorname>Bhattacharya, Pallab </professorname>
+			<professorname>Deotare, Parag </professorname>
+			<professorname>Forrest, Stephen R.</professorname>
+			<professorname>Hayes, John P.</professorname>
+			<professorname>Kushner, Mark J.</professorname>
+			<professorname>Markov, Igor </professorname>
+			<professorname>Rand, Stephen </professorname>
+			<professorname>Shi, Yaoyun </professorname>
+			<professorname>Steel, Duncan </professorname>
+			<professorname>Winick, Kim A.</professorname>
+			<professorname>Zhong, Zhaohui </professorname>
+		</research>
+		<research>
+			<groupname>Theory of Computation</groupname>
+			<professorname>Abernethy, Jacob </professorname>
+			<professorname>Baveja, Satinder Singh</professorname>
+			<professorname>Compton, Kevin J.</professorname>
+			<professorname>Essl, Georg </professorname>
+			<professorname>Hayes, John P.</professorname>
+			<professorname>Markov, Igor </professorname>
+			<professorname>Miller, Carl Alexander</professorname>
+			<professorname>Peikert, Christopher </professorname>
+			<professorname>Pettie, Seth </professorname>
+			<professorname>Schoenebeck, Grant </professorname>
+			<professorname>Shi, Yaoyun </professorname>
+			<professorname>Stout, Quentin F.</professorname>
+			<professorname>Strauss, Martin J.</professorname>
+			<professorname>Wellman, Michael </professorname>
+		</research>
+		<research>
+			<groupname>Computer-Aided Design and VLSI</groupname>
+			<professorname>Austin, Todd </professorname>
+			<professorname>Bertacco, Valeria </professorname>
+			<professorname>Dick, Robert </professorname>
+			<professorname>Hayes, John P.</professorname>
+			<professorname>Mahlke, Scott </professorname>
+			<professorname>Markov, Igor </professorname>
+			<professorname>Mazumder, Pinaki </professorname>
+			<professorname>Mudge, Trevor </professorname>
+			<professorname>Narayanasamy, Satish </professorname>
+			<professorname>Papaefthymiou, Marios </professorname>
+			<professorname>Sakallah, Karem A.</professorname>
+			<professorname>Sylvester, Dennis </professorname>
+			<professorname>Zhang, Zhengya </professorname>
+		</research>
+		<research>
+			<groupname>Robotics</groupname>
+			<professorname>Durfee, Edmund H</professorname>
+			<professorname>Freudenberg, James S.</professorname>
+			<professorname>Grizzle, Jessy W</professorname>
+			<professorname>Hero, Alfred O.</professorname>
+			<professorname>Jenkins, Chad </professorname>
+			<professorname>Kuipers, Benjamin </professorname>
+			<professorname>Laird, John E.</professorname>
+			<professorname>Olson, Edwin </professorname>
+			<professorname>Ozay, Necmiye </professorname>
+			<professorname>Revzen, Shai </professorname>
+		</research>
+		<research>
+			<groupname>Software Systems</groupname>
+			<professorname>Cafarella, Michael J.</professorname>
+			<professorname>Chen, Peter M.</professorname>
+			<professorname>Dick, Robert </professorname>
+			<professorname>Dutta, Prabal </professorname>
+			<professorname>Flinn, Jason </professorname>
+			<professorname>Fu, Kevin </professorname>
+			<professorname>Halderman, J. Alex </professorname>
+			<professorname>Honeyman, Peter </professorname>
+			<professorname>Jagadish, HV </professorname>
+			<professorname>Jahanian, Farnam </professorname>
+			<professorname>Jamin, Sugih </professorname>
+			<professorname>Koutra, Danai </professorname>
+			<professorname>Lasecki, Walter </professorname>
+			<professorname>Madhyastha, Harsha </professorname>
+			<professorname>Mao, Zhuoqing Morley </professorname>
+			<professorname>Mars, Jason </professorname>
+			<professorname>Mozafari, Barzan </professorname>
+			<professorname>Narayanasamy, Satish </professorname>
+			<professorname>Noble, Brian </professorname>
+			<professorname>Prakash, Atul </professorname>
+			<professorname>Shin, Kang G.</professorname>
+			<professorname>Stout, Quentin F.</professorname>
+			<professorname>Tang, Lingjia </professorname>
+		</research>
+		<research>
+			<groupname>Interactive Systems</groupname>
+			<professorname>Ackerman, Mark S.</professorname>
+			<professorname>Adar, Eytan </professorname>
+			<professorname>Essl, Georg </professorname>
+			<professorname>Kieras, David E.</professorname>
+			<professorname>Lasecki, Walter </professorname>
+			<professorname>Mihalcea, Rada </professorname>
+			<professorname>Mower Provost, Emily </professorname>
+			<professorname>Soloway, Elliot </professorname>
+			<professorname>Wakefield, Gregory H.</professorname>
+		</research>
+		<research>
+			<groupname>Signal &amp; Image Processing and Machine Learning</groupname>
+			<professorname>Balzano, Laura </professorname>
+			<professorname>Corso, Jason </professorname>
+			<professorname>Dick, Robert </professorname>
+			<professorname>Essl, Georg </professorname>
+			<professorname>Fessler, Jeffrey A.</professorname>
+			<professorname>Gilbert, Anna C.</professorname>
+			<professorname>Hero, Alfred O.</professorname>
+			<professorname>Kim, Hun Seok </professorname>
+			<professorname>Lee, Honglak </professorname>
+			<professorname>Liu, Mingyan </professorname>
+			<professorname>Munson Jr., David C.</professorname>
+			<professorname>Nadakuditi, Rajesh Rao</professorname>
+			<professorname>Neuhoff, David L.</professorname>
+			<professorname>Nguyen, Long </professorname>
+			<professorname>Pradhan, S. Sandeep </professorname>
+			<professorname>Scott, Clayton D</professorname>
+			<professorname>Wakefield, Gregory H.</professorname>
+			<professorname>Yagle, Andrew E</professorname>
+			<professorname>Zhou, Shuheng </professorname>
+		</research>
+		<research>
+			<groupname>Computer Vision</groupname>
+			<professorname>Balzano, Laura </professorname>
+			<professorname>Corso, Jason </professorname>
+			<professorname>Deng, Jia </professorname>
+			<professorname>Jenkins, Chad </professorname>
+			<professorname>Lee, Honglak </professorname>
+			<professorname>Olson, Edwin </professorname>
+		</research>
+		<research>
+			<groupname>Computer Architecture</groupname>
+			<professorname>Austin, Todd </professorname>
+			<professorname>Bertacco, Valeria </professorname>
+			<professorname>Blaauw, David T.</professorname>
+			<professorname>Dick, Robert </professorname>
+			<professorname>Dutta, Prabal </professorname>
+			<professorname>Fu, Kevin </professorname>
+			<professorname>Hayes, John P.</professorname>
+			<professorname>Mahlke, Scott </professorname>
+			<professorname>Markov, Igor </professorname>
+			<professorname>Mars, Jason </professorname>
+			<professorname>Mazumder, Pinaki </professorname>
+			<professorname>Mudge, Trevor </professorname>
+			<professorname>Narayanasamy, Satish </professorname>
+			<professorname>Papaefthymiou, Marios </professorname>
+			<professorname>Sakallah, Karem A.</professorname>
+			<professorname>Sylvester, Dennis </professorname>
+			<professorname>Tang, Lingjia </professorname>
+			<professorname>Wenisch, Thomas F.</professorname>
+			<professorname>Zhang, Zhengya </professorname>
+		</research>
+		<research>
+			<groupname>Artificial Intelligence</groupname>
+			<professorname>Abernethy, Jacob </professorname>
+			<professorname>Baveja, Satinder Singh</professorname>
+			<professorname>Corso, Jason </professorname>
+			<professorname>Deng, Jia </professorname>
+			<professorname>Durfee, Edmund H</professorname>
+			<professorname>Essl, Georg </professorname>
+			<professorname>Jenkins, Chad </professorname>
+			<professorname>Koutra, Danai </professorname>
+			<professorname>Kuipers, Benjamin </professorname>
+			<professorname>Laird, John E.</professorname>
+			<professorname>Lasecki, Walter </professorname>
+			<professorname>Lee, Honglak </professorname>
+			<professorname>Mihalcea, Rada </professorname>
+			<professorname>Mower Provost, Emily </professorname>
+			<professorname>Olson, Edwin </professorname>
+			<professorname>Pollack, Martha </professorname>
+			<professorname>Radev, Dragomir </professorname>
+			<professorname>Sakallah, Karem A.</professorname>
+			<professorname>Schoenebeck, Grant </professorname>
+			<professorname>Syed, Zeeshan H.</professorname>
+			<professorname>Wellman, Michael </professorname>
+			<professorname>Wiens, Jenna </professorname>
+		</research>
+	</institution>

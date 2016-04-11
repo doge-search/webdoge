@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Automated Reasoning Group</groupname>
+			<professorname>Adnan Darwiche</professorname>
+		</research>
+		<research>
+			<groupname>Biocybernetics Laboratory</groupname>
+			<professorname>Joe DiStefano</professorname>
+		</research>
+		<research>
+			<groupname>Center for Vision, Cognition, Learning and Autonomy</groupname>
+			<professorname>Song-Chun Zhu</professorname>
+
+		</research>
+		<research>
+			<groupname>Cognitive Systems Laboratory</groupname>
+			<professorname>Judea Pearl</professorname>
+		</research>
+		<research>
+			<groupname>Computational Genetics Laboratory</groupname>
+			<professorname>Eleazar Eskin</professorname>
+		</research>
+		<research>
+			<groupname>Concurrent Systems Laboratory </groupname>
+			<professorname>Yuval Tamir</professorname>
+		</research>
+		<research>
+			<groupname>Digital Arithmetic and Reconfigurable Architecture Laboratory</groupname>
+			<professorname>Milos Ercegovac</professorname>
+		</research>
+		<research>
+			<groupname>ER: Embedded and Reconfigurable Systems Laboratory</groupname>
+			<professorname>Majid Sarrafzadeh</professorname>
+		</research>
+		<research>
+			<groupname>Information and Data Management Group</groupname>
+			<professorname>multiple faculty</professorname>
+		</research>
+		<research>
+			<groupname>Internet Research Laboratory</groupname>
+			<professorname>Lixia Zhang</professorname>
+		</research>
+		<research>
+			<groupname>Laboratory for Advanced Systems Research (LASR)</groupname>
+			<professorname>Peter Reiher</professorname>
+		</research>
+		<research>
+			<groupname>MAGIX: Computer Graphics &amp; Vision Laboratory </groupname>
+			<professorname>Demetri Terzopoulos</professorname>
+		</research>
+		<research>
+			<groupname>Multimedia Information System Technology Group &amp; Laboratory </groupname>
+			<professorname>Alfonso Cardenas</professorname>
+		</research>
+		<research>
+			<groupname>Network Research Laboratory</groupname>
+			<professorname>Mario Gerla</professorname>
+		</research>
+		<research>
+			<groupname>Software Systems Group</groupname>
+			<professorname>Rajive Bagrodia</professorname>
+			<professorname>Rupak Majumdar </professorname>
+			<professorname>Todd Millstein</professorname>
+			<professorname>Jens Palsberg </professorname>
+			<professorname>Peter Reiher</professorname>
+			<professorname>Yuval Tamir</professorname>
+		</research>
+		<research>
+			<groupname>Vision Laboratory </groupname>
+			<professorname>Stefano Soatto</professorname>
+		</research>
+		<research>
+			<groupname>VLSI Architecture, Synthesis &amp; Technology (VAST) Laboratory</groupname>
+			<professorname>Jason Cong</professorname>
+		</research>
+		<research>
+			<groupname>Web Information Systems Laboratory</groupname>
+			<professorname>Carlo Zaniolo</professorname>
+		</research>
+		<research>
+			<groupname>WiNG (Wireless Networking Group)</groupname>
+			<professorname>Songwu Lu</professorname>
+		</research>
+	</institution>

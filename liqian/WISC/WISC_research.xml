@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Artificial Intelligence</groupname>
+			<professorname>Charles Dyer</professorname>
+			<professorname>Jerry Zhu</professorname>
+			<professorname>Jude Shavlik</professorname>
+		</research>
+		<research>
+			<groupname>Computational Biology</groupname>
+			<professorname>Miron Livny</professorname>
+			<professorname>Jude Shavlik</professorname>
+			<professorname>Deborah Joseph</professorname>
+		</research>
+		<research>
+			<groupname>Computer Architecture</groupname>
+			<professorname>Karthikeyan Sankaralingam</professorname>
+			<professorname>David Wood</professorname>
+			<professorname>Gurindar Sohi</professorname>
+			<professorname>Mark D. Hill</professorname>
+		</research>
+		<research>
+			<groupname>Computer Graphics</groupname>
+			<professorname>Eftychios Sifakis</professorname>
+			<professorname>Michael Gleicher</professorname>
+			<professorname>Mohit Gupta</professorname>
+		</research>
+		<research>
+			<groupname>Computer Networks</groupname>
+			<professorname>Aditya Akella</professorname>
+			<professorname>Paul Barford</professorname>
+			<professorname>Suman Banerjee</professorname>
+		</research>
+		<research>
+			<groupname>Computer Security</groupname>
+			<professorname>Jin-Yi Cai</professorname>
+			<professorname>Eric Bach</professorname>
+			<professorname>Thomas Reps</professorname>
+			<professorname>Barton Miller</professorname>
+			<professorname>Miron Livny</professorname>
+			<professorname>Dieter van Melkebeek</professorname>
+			<professorname>Somesh Jha</professorname>
+		</research>
+		<research>
+			<groupname>Database Systems</groupname>
+			<professorname>AnHai Doan</professorname>
+			<professorname>David DeWitt</professorname>
+			<professorname>Jignesh Patel</professorname>
+			<professorname>Jeffrey Naughton</professorname>
+			<professorname>Paris Koutris</professorname>
+		</research>
+		<research>
+			<groupname>Human-Computer Interaction</groupname>
+			<professorname>Bilge Mutlu</professorname>
+		</research>
+		<research>
+			<groupname>Numerical Analysis</groupname>
+			<professorname>Carl de Boor</professorname>
+			<professorname>Amos Ron</professorname>
+		</research>
+		<research>
+			<groupname>Optimization</groupname>
+			<professorname>Michael Ferris</professorname>
+			<professorname>Robert Meyer</professorname>
+			<professorname>Olvi Mangasarian</professorname>
+			<professorname>Stephen Wright</professorname>
+		</research>
+		<research>
+			<groupname>Performance Analysis</groupname>
+			<professorname>Miron Livny</professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages &amp; Compilers</groupname>
+			<professorname>Charles Fischer</professorname>
+			<professorname>Thomas Reps</professorname>
+			<professorname>Ben Liblit</professorname>
+			<professorname>Somesh Jha</professorname>
+			<professorname>Loris D'Antoni</professorname>
+		</research>
+		<research>
+			<groupname>Research Centers</groupname>
+		</research>
+		<research>
+			<groupname>Systems Research</groupname>
+			<professorname>Barton Miller</professorname>
+			<professorname>Michael Swift</professorname>
+			<professorname>Miron Livny</professorname>
+			<professorname>Remzi Arpaci-Dusseau</professorname>
+			<professorname>Andrea Arpaci-Dusseau</professorname>
+		</research>
+		<research>
+			<groupname>Theoretical Computer Sciences</groupname>
+			<professorname>Jin-Yi Cai</professorname>
+			<professorname>Eric Bach</professorname>
+			<professorname>Shuchi Chawla</professorname>
+			<professorname>Dieter van Melkebeek</professorname>
+			<professorname>Deborah Joseph</professorname>
+		</research>
+	</institution>

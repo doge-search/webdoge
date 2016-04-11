@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Computational Biology</groupname>
+			<professorname>Yaniv Erlich</professorname>
+			<professorname>Dana Pe'er</professorname>
+			<professorname>Itsik Pe'er</professorname>
+			<professorname>Kenneth Ross</professorname>
+			<professorname>Yechiam Yemini</professorname>
+		</research>
+		<research>
+			<groupname>Computer Engineering</groupname>
+			<professorname>Luca Carloni</professorname>
+			<professorname>Stephen Edwards</professorname>
+			<professorname>Martha Kim</professorname>
+			<professorname>Steven Nowick</professorname>
+			<professorname>Simha Sethmadhavan</professorname>
+		</research>
+		<research>
+			<groupname>Graphics and User Interfaces</groupname>
+			<professorname>Peter N. Belhumeur</professorname>
+			<professorname>Steven Feiner</professorname>
+			<professorname>Eitan Grinspun</professorname>
+			<professorname>Shree Nayar</professorname>
+			<professorname>Changxi Zheng</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning</groupname>
+			<professorname>David Blei</professorname>
+			<professorname>Adam Cannon</professorname>
+			<professorname>Shih-Fu Chang</professorname>
+			<professorname>Michael Collins</professorname>
+			<professorname>Daniel Hsu</professorname>
+			<professorname>Tony Jebara</professorname>
+			<professorname>Rocco Servedio</professorname>
+			<professorname>Vladimir Vapnik</professorname>
+		</research>
+		<research>
+			<groupname>Networking</groupname>
+			<professorname>Augustin Chaintreau</professorname>
+			<professorname>Vishal Misra</professorname>
+			<professorname>Dan Rubenstein</professorname>
+			<professorname>Henning Schulzrinne</professorname>
+			<professorname>Yechiam Yemini</professorname>
+		</research>
+		<research>
+			<groupname>NLP and Speech</groupname>
+			<professorname>Michael Collins</professorname>
+			<professorname>Julia Hirschberg</professorname>
+			<professorname>Kathleen McKeown</professorname>
+		</research>
+		<research>
+			<groupname>Security and Privacy</groupname>
+			<professorname>Steven Bellovin</professorname>
+			<professorname>Allison Bishop</professorname>
+			<professorname>Roxana Geambasu</professorname>
+			<professorname>Suman Jana</professorname>
+			<professorname>Angelos Keromytis</professorname>
+			<professorname>Tal Malkin</professorname>
+			<professorname>Simha Sethmadhavan</professorname>
+			<professorname>Salvatore Stolfo</professorname>
+			<professorname>Junfeng Yang</professorname>
+		</research>
+		<research>
+			<groupname>Software Systems</groupname>
+			<professorname>Alfred Aho</professorname>
+			<professorname>Roxana Geambasu</professorname>
+			<professorname>Luis Gravano</professorname>
+			<professorname>Gail Kaiser</professorname>
+			<professorname>Jason Nieh</professorname>
+			<professorname>Kenneth Ross</professorname>
+			<professorname>Eugene Wu</professorname>
+			<professorname>Junfeng Yang</professorname>
+		</research>
+		<research>
+			<groupname>Theory</groupname>
+			<professorname>Alexandr Andoni</professorname>
+			<professorname>Allison Bishop</professorname>
+			<professorname>Xi Chen</professorname>
+			<professorname>Daniel Hsu</professorname>
+			<professorname>Tal Malkin</professorname>
+			<professorname>Rocco Servedio</professorname>
+			<professorname>Clifford Stein</professorname>
+			<professorname>Henryk Wozniakowski</professorname>
+			<professorname>Mihalis Yannakakis</professorname>
+		</research>
+		<research>
+			<groupname>Vision and Robotics</groupname>
+			<professorname>Peter Allen</professorname>
+			<professorname>Peter Belhumeur</professorname>
+			<professorname>Shih-Fu Chang</professorname>
+			<professorname>Tony Jebara</professorname>
+			<professorname>John Kender</professorname>
+			<professorname>Shree Nayar</professorname>
+		</research>
+	</institution>
