@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Education Group</groupname>
+			<professorname>Owen Astrachan</professorname>
+			<professorname>Robert C. Duvall</professorname>
+			<professorname>Jeffrey Forbes</professorname>
+			<professorname>Richard A. Lucic</professorname>
+			<professorname>Susan H. Rodger</professorname>
+			<professorname>Salman Azhar</professorname>
+			<professorname>Timothy Lenoir</professorname>
+		</research>
+		<research>
+			<groupname>Systems and Architecture Group</groupname>
+			<professorname>Shivnath Babu</professorname>
+			<professorname>Theo Benson</professorname>
+			<professorname>Jeffrey S. Chase</professorname>
+			<professorname>Landon Cox</professorname>
+			<professorname>Alvin R. Lebeck</professorname>
+			<professorname>Ashwin Machanavajjhala</professorname>
+			<professorname>Bruce Maggs</professorname>
+			<professorname>Sudeepa Roy</professorname>
+			<professorname>Jun Yang</professorname>
+			<professorname>Xiaowei Yang</professorname>
+			<professorname>Chris Dwyer</professorname>
+			<professorname>Jungsang Kim</professorname>
+			<professorname>Benjamin Lee</professorname>
+			<professorname>Romit Roy Choudhury</professorname>
+			<professorname>Daniel Sorin</professorname>
+			<professorname>Kishor S. Trivedi</professorname>
+		</research>
+		<research>
+			<groupname>Scientific Computing Group</groupname>
+			<professorname>Xiaobai Sun</professorname>
+			<professorname>John A. Board</professorname>
+		</research>
+		<research>
+			<groupname>Algorithms Group</groupname>
+			<professorname>Pankaj K. Agarwal</professorname>
+			<professorname>Robert Calderbank</professorname>
+			<professorname>Rong Ge</professorname>
+			<professorname>Kamesh Munagala</professorname>
+			<professorname>Debmalya Panigrahi</professorname>
+			<professorname>John H. Reif</professorname>
+			<professorname>John Harer</professorname>
+			<professorname>Mauro Maggioni</professorname>
+			<professorname>Sayan Mukherjee</professorname>
+		</research>
+		<research>
+			<groupname>Artificial Intelligence Group</groupname>
+			<professorname>Vincent Conitzer</professorname>
+			<professorname>Bruce Donald</professorname>
+			<professorname>Alexander Hartemink</professorname>
+			<professorname>George Konidaris</professorname>
+			<professorname>Ronald Parr</professorname>
+			<professorname>Carlo Tomasi</professorname>
+			<professorname>Sina Farsiu</professorname>
+			<professorname>Raluca Gordan</professorname>
+			<professorname>Timothy Lenoir</professorname>
+			<professorname>Sayan Mukherjee</professorname>
+			<professorname>Guillermo Sapiro</professorname>
+			<professorname>Scott Schmidler</professorname>
+		</research>
+	</institution>

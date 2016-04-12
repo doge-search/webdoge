@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Algorithms and Complexity Theory</groupname>
+			<professorname>Dana Angluin</professorname>
+			<professorname>James Aspnes</professorname>
+			<professorname>Joan Feigenbaum</professorname>
+			<professorname>Michael Fischer</professorname>
+			<professorname>Daniel Spielman</professorname>
+		</research>
+		<research>
+			<groupname>Knowledge Representation for the Web</groupname>
+			<professorname>Drew McDermott </professorname>
+		</research>
+		<research>
+			<groupname>Mathematical Theories of Human Vision</groupname>
+			<professorname>Steven Zucker</professorname>
+		</research>
+		<research>
+			<groupname>Computer Graphics</groupname>
+			<professorname>Julie Dorsey</professorname>
+			<professorname>Holly Rushmeier</professorname>
+		</research>
+		<research>
+			<groupname>Computer Music</groupname>
+			<professorname>Kathryn Alexander</professorname>
+			<professorname>Julie Dorsey</professorname>
+			<professorname>Paul Hudak</professorname>
+			<professorname>Michael Klingbeil</professorname>
+			<professorname>Sheila Levrant de Bretteville</professorname>
+			<professorname>Ian Quinn</professorname>
+			<professorname>Holly Rushmeier</professorname>
+		</research>
+		<research>
+			<groupname>Computer Systems and Networking</groupname>
+			<professorname>Daniel Abadi</professorname>
+			<professorname>Bryan Ford</professorname>
+			<professorname>Avi Silberschatz</professorname>
+			<professorname>Yang Richard Yang</professorname>
+		</research>
+		<research>
+			<groupname>Distributed Computing</groupname>
+			<professorname>Michael Fischer</professorname>
+			<professorname>James Aspnes</professorname>
+			<professorname>Zhong Shao</professorname>
+			<professorname>David Gelernter</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning</groupname>
+			<professorname>Dana Angluin</professorname>
+			<professorname>Drew McDermott</professorname>
+			<professorname>Sahand Negahban</professorname>
+			<professorname>Martin Schultz</professorname>
+			<professorname>Daniel Spielman</professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages</groupname>
+			<professorname>David Gelernter</professorname>
+			<professorname>Zhong Shao</professorname>
+		</research>
+		<research>
+			<groupname>Scientific Computing and Applied Math</groupname>
+			<professorname>Ronald Coifman</professorname>
+			<professorname>Stan Eisenstat</professorname>
+			<professorname>Vladimir Rokhlin</professorname>
+			<professorname>Martin Schultz</professorname>
+		</research>
+		<research>
+			<groupname>Security and Cryptography</groupname>
+			<professorname>James Aspnes</professorname>
+			<professorname>Joan Feigenbaum</professorname>
+			<professorname>Mike Fischer</professorname>
+			<professorname>Zhong Shao</professorname>
+		</research>
+		<research>
+			<groupname>Social Robotics Lab</groupname>
+			<professorname> Brian Scassellati</professorname>
+		</research>
+	</institution>

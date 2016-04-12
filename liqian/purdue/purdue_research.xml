@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Bioinformatics and Computational Biology</groupname>
+			<professorname>Elias Bareinboim</professorname>
+			<professorname>Ananth Grama</professorname>
+			<professorname>Daisuke Kihara</professorname>
+			<professorname>Alex Pothen</professorname>
+			<professorname>Yuan Qi</professorname>
+			<professorname>Robert D. Skeel</professorname>
+			<professorname>Wojciech Szpankowski</professorname>
+			<professorname>Michael Gribskov</professorname>
+		</research>
+		<research>
+			<groupname>Computational Science and Engineering</groupname>
+			<professorname>David Gleich</professorname>
+			<professorname>Ananth Grama</professorname>
+			<professorname>Christoph M. Hoffmann</professorname>
+			<professorname>Bradley J. Lucier</professorname>
+			<professorname>Alex Pothen</professorname>
+			<professorname>Elisha Sacks</professorname>
+			<professorname>Ahmed Sameh</professorname>
+			<professorname>Robert D. Skeel</professorname>
+			<professorname>Xavier Tricoche</professorname>
+		</research>
+		<research>
+			<groupname>Databases and Data Mining</groupname>
+			<professorname>Walid G. Aref</professorname>
+			<professorname>Elisa Bertino</professorname>
+			<professorname>Bharat Bhargava</professorname>
+			<professorname>Christopher W. Clifton</professorname>
+			<professorname>Ahmed K. Elmagarmid</professorname>
+			<professorname>Dan Goldwasser</professorname>
+			<professorname>Susanne E. Hambrusch</professorname>
+			<professorname>Ninghui Li</professorname>
+			<professorname>Jennifer Neville</professorname>
+			<professorname>Sunil Prabhakar</professorname>
+			<professorname>Bruno Ribeiro</professorname>
+			<professorname>Luo Si</professorname>
+		</research>
+		<research>
+			<groupname>Distributed Systems</groupname>
+			<professorname>﻿Bharat Bhargava</professorname>
+			<professorname>Patrick Thomas Eugster</professorname>
+			<professorname>David Gleich</professorname>
+			<professorname>Ananth Grama</professorname>
+			<professorname>Antony L. Hosking</professorname>
+			<professorname>Suresh Jagannathan</professorname>
+			<professorname>Aniket Kate</professorname>
+			<professorname>Kihong Park</professorname>
+			<professorname>Vernon J. Rego</professorname>
+			<professorname>Eugene H. Spafford</professorname>
+			<professorname>Dongyan Xu</professorname>
+			<professorname>Saurabh Bagchi</professorname>
+			<professorname>Y. Charlie Hu</professorname>
+		</research>
+		<research>
+			<groupname>Graphics and Visualization</groupname>
+			<professorname>Daniel G. Aliaga</professorname>
+			<professorname>Christoph M. Hoffmann</professorname>
+			<professorname>Voicu S. Popescu</professorname>
+			<professorname>Elisha Sacks</professorname>
+			<professorname>Xavier Tricoche</professorname>
+			<professorname>David C. Anderson</professorname>
+			<professorname>David S. Ebert</professorname>
+		</research>
+		<research>
+			<groupname>Information Security and Assurance</groupname>
+			<professorname>Mikhail Atallah</professorname>
+			<professorname>Elisa Bertino</professorname>
+			<professorname>Bharat Bhargava</professorname>
+			<professorname>Christopher W. Clifton</professorname>
+			<professorname>Sonia Fahmy</professorname>
+			<professorname>Aniket Kate</professorname>
+			<professorname>Ninghui Li</professorname>
+			<professorname>Hemanta K. Maji</professorname>
+			<professorname>Kihong Park</professorname>
+			<professorname>Mathias Payer</professorname>
+			<professorname>Sunil Prabhakar</professorname>
+			<professorname>Vernon J. Rego</professorname>
+			<professorname>Eugene H. Spafford</professorname>
+			<professorname>Samuel S. Wagstaff, Jr.</professorname>
+			<professorname>Dongyan Xu</professorname>
+			<professorname>Alok R. Chaturvedi</professorname>
+			<professorname>Melissa Dark</professorname>
+			<professorname>Victor Raskin</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning and Information Retrieval</groupname>
+			<professorname>Elias Bareinboim</professorname>
+			<professorname>Christopher W. Clifton</professorname>
+			<professorname>David Gleich</professorname>
+			<professorname>Dan Goldwasser,</professorname>
+			<professorname>Jean Honorio</professorname>
+			<professorname>Jennifer Neville</professorname>
+			<professorname>Yuan Qi</professorname>
+			<professorname>Bruno Ribeiro</professorname>
+			<professorname>Luo Si</professorname>
+		</research>
+		<research>
+			<groupname>Networking and Operating Systems</groupname>
+			<professorname>Douglas E. Comer</professorname>
+			<professorname>Kihong Park</professorname>
+			<professorname>Mathias Payer</professorname>
+			<professorname>Bruno Ribeiro</professorname>
+			<professorname>Dongyan Xu</professorname>
+			<professorname>T. N. Vijaykumar</professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages and Compilers</groupname>
+			<professorname>Patrick Thomas Eugster</professorname>
+			<professorname> Dan Goldwasser</professorname>
+			<professorname>Antony L. Hosking</professorname>
+			<professorname>Suresh Jagannathan</professorname>
+			<professorname>Zhiyuan Li</professorname>
+			<professorname>Mathias Payer</professorname>
+			<professorname>Tiark Rompf</professorname>
+			<professorname>Xiangyu Zhang</professorname>
+			<professorname>Yung-Hsiang Lu</professorname>
+			<professorname>Jeffrey M. Siskind</professorname>
+		</research>
+		<research>
+			<groupname>Software Engineering</groupname>
+			<professorname>H. E. Dunsmore</professorname>
+			<professorname>Patrick Thomas Eugster</professorname>
+			<professorname>Aditya P. Mathur</professorname>
+			<professorname>Vernon J. Rego</professorname>
+			<professorname>Eugene H. Spafford</professorname>
+			<professorname>Xiangyu Zhang</professorname>
+		</research>
+		<research>
+			<groupname>Theory of Computing and Algorithms</groupname>
+			<professorname>Mikhail Atallah</professorname>
+			<professorname>Saugata Basu</professorname>
+			<professorname>Frederickson</professorname>
+			<professorname>Elena Grigorescu</professorname>
+			<professorname>Susanne E. Hambrusch</professorname>
+			<professorname>Aniket Kate</professorname>
+			<professorname>Hemanta K. Maji</professorname>
+			<professorname>Wojciech Szpankowski</professorname>
+			<professorname>Sabre Kais</professorname>
+		</research>
+	</institution>

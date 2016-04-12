@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Programming Languages and Software Engineering (PLSE)</groupname>
+			<professorname>Robert &quot;Corky&quot; Cartwright</professorname>
+			<professorname>Swarat Chaudhuri</professorname>
+			<professorname>Keith D. Cooper</professorname>
+			<professorname>John Mellor-Crummey</professorname>
+			<professorname>Krishna V. Palem</professorname>
+			<professorname>Vivek Sarkar</professorname>
+			<professorname>Linda Torczon</professorname>
+			<professorname>Moshe Y. Vardi</professorname>
+			<professorname>Stephen Wong</professorname>
+		</research>
+		<research>
+			<groupname>Algorithms and Artificial Intelligence (AAI)</groupname>
+			<professorname>Ronald N. Goldman</professorname>
+			<professorname>John Greiner</professorname>
+			<professorname>Lydia Kavraki</professorname>
+			<professorname>Luay Nakhleh</professorname>
+			<professorname>Anshumali Shrivastava</professorname>
+			<professorname>Devika Subramanian</professorname>
+			<professorname>Joe Warren</professorname>
+		</research>
+		<research>
+			<groupname>Computer Engineering and Systems (CES)</groupname>
+			<professorname>Alan Cox</professorname>
+			<professorname>Scott Cutler</professorname>
+			<professorname>Christopher M. Jermaine</professorname>
+			<professorname>David B. Johnson</professorname>
+			<professorname>T. S. Eugene Ng</professorname>
+			<professorname>Scott Rixner</professorname>
+			<professorname>Dan Wallach</professorname>
+		</research>
+	</institution>

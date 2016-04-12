@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Bioinformatics and Computational Biology</groupname>
+			<professorname>Ahalt</professorname>
+			<professorname>Gomez</professorname>
+			<professorname>Jojic</professorname>
+			<professorname>Marron</professorname>
+			<professorname>McMillan</professorname>
+			<professorname>Prins</professorname>
+			<professorname>Snoeyink</professorname>
+			<professorname>Wang</professorname>
+		</research>
+		<research>
+			<groupname>Computer Architecture</groupname>
+			<professorname>Brooks</professorname>
+			<professorname>Singh</professorname>
+		</research>
+		<research>
+			<groupname>Computer Graphics</groupname>
+			<professorname>Alterovitz</professorname>
+			<professorname>Bishop</professorname>
+			<professorname>Brooks</professorname>
+			<professorname>England</professorname>
+			<professorname>Fuchs</professorname>
+			<professorname>Healey</professorname>
+			<professorname>Lastra</professorname>
+			<professorname>Lin</professorname>
+			<professorname>Manocha</professorname>
+			<professorname>Singh</professorname>
+			<professorname>Snoeyink</professorname>
+			<professorname>Taylor</professorname>
+			<professorname>Welch</professorname>
+			<professorname>Whitton</professorname>
+		</research>
+		<research>
+			<groupname>Computer-Supported Collaborative Work</groupname>
+			<professorname>Brooks</professorname>
+			<professorname>Dewan</professorname>
+			<professorname>Fuchs</professorname>
+			<professorname>Mayer-Patel</professorname>
+			<professorname>Pozefsky</professorname>
+			<professorname>Sonnenwald</professorname>
+			<professorname>Stotts</professorname>
+			<professorname>Taylor</professorname>
+			<professorname>Welch</professorname>
+			<professorname>Whitton</professorname>
+		</research>
+		<research>
+			<groupname>Computer Vision</groupname>
+			<professorname>Ahalt</professorname>
+			<professorname>A. Berg</professorname>
+			<professorname>T. Berg</professorname>
+			<professorname>Dunn</professorname>
+			<professorname>Frahm</professorname>
+			<professorname>Lazebnik</professorname>
+		</research>
+		<research>
+			<groupname>Geometric Computing</groupname>
+			<professorname>Lin</professorname>
+			<professorname>Manocha</professorname>
+			<professorname>Snoeyink</professorname>
+		</research>
+		<research>
+			<groupname>High-Performance Computing</groupname>
+			<professorname>Ahalt</professorname>
+			<professorname>Lin</professorname>
+			<professorname>Prins</professorname>
+		</research>
+		<research>
+			<groupname>Human-Computer Interaction</groupname>
+			<professorname>Bishop</professorname>
+			<professorname>Brooks</professorname>
+			<professorname>Dewan</professorname>
+			<professorname>Healey</professorname>
+			<professorname>Lin</professorname>
+			<professorname>Pozefsky</professorname>
+			<professorname>Sonnenwald</professorname>
+			<professorname>Stotts</professorname>
+			<professorname>Taylor</professorname>
+			<professorname>Welch</professorname>
+			<professorname>Whitton</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning and Data Mining</groupname>
+			<professorname>Ahalt</professorname>
+			<professorname>Kum</professorname>
+			<professorname>McMillan</professorname>
+			<professorname>Prins</professorname>
+			<professorname>Wang</professorname>
+		</research>
+		<research>
+			<groupname>Medical Image Analysis</groupname>
+			<professorname>Alterovitz</professorname>
+			<professorname>Lin</professorname>
+			<professorname>Marron</professorname>
+			<professorname>Niethammer</professorname>
+			<professorname>Oguz</professorname>
+			<professorname>Pizer</professorname>
+			<professorname>Styner</professorname>
+		</research>
+		<research>
+			<groupname>Networking</groupname>
+			<professorname>Aikat</professorname>
+			<professorname>Dewan</professorname>
+			<professorname>Jeffay</professorname>
+			<professorname>Kaur</professorname>
+			<professorname>Mayer-Patel</professorname>
+			<professorname>Pozefsky</professorname>
+			<professorname>F.D. Smith</professorname>
+			<professorname>Reiter</professorname>
+		</research>
+		<research>
+			<groupname>Real-Time Systems</groupname>
+			<professorname>Anderson</professorname>
+			<professorname>Baruah</professorname>
+			<professorname>Jeffay</professorname>
+		</research>
+		<research>
+			<groupname>Robotics</groupname>
+			<professorname>Alterovitz</professorname>
+			<professorname>Lin</professorname>
+			<professorname>Manocha</professorname>
+			<professorname>Snoeyink</professorname>
+		</research>
+		<research>
+			<groupname>Security</groupname>
+			<professorname>Monrose</professorname>
+			<professorname>Reiter</professorname>
+			<professorname>Sturton</professorname>
+		</research>
+		<research>
+			<groupname>Software</groupname>
+			<professorname>Ahalt</professorname>
+			<professorname>Brooks</professorname>
+			<professorname>Dewan</professorname>
+			<professorname>Hedlund</professorname>
+			<professorname>Pozefsky</professorname>
+			<professorname>Stotts</professorname>
+		</research>
+		<research>
+			<groupname>Theory</groupname>
+			<professorname>Anderson</professorname>
+			<professorname>Plaisted</professorname>
+			<professorname>Snoeyink</professorname>
+		</research>
+	</institution>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Center for Data Science</groupname>
+			<professorname>James  Allan</professorname>
+			<professorname>Yuriy Brun</professorname>
+			<professorname>Lori Clarke</professorname>
+			<professorname>W. Bruce Croft</professorname>
+			<professorname>Yanlei Diao</professorname>
+			<professorname>David Jensen</professorname>
+			<professorname>Brian Levine</professorname>
+			<professorname>Sridhar Mahadevan</professorname>
+			<professorname>Subhransu Maji</professorname>
+			<professorname>R. Manmatha</professorname>
+			<professorname>Benjamin Marlin</professorname>
+			<professorname>Andrew McCallum</professorname>
+			<professorname>Andrew McGregor</professorname>
+			<professorname>Alexandra Meliou</professorname>
+			<professorname>Gerome Miklau</professorname>
+			<professorname>Brendan O'Connor</professorname>
+			<professorname>Barna Saha</professorname>
+			<professorname>Dan Sheldon</professorname>
+			<professorname>Prashant Shenoy</professorname>
+			<professorname>Hava Siegelmann</professorname>
+			<professorname>Ramesh Sitaraman</professorname>
+			<professorname>Arun Venkataramani</professorname>
+			<professorname>Hanna Wallach</professorname>
+			<professorname>Rui Wang</professorname>
+			<professorname>Beverly Woolf</professorname>
+			<professorname>Shlomo Zilberstein</professorname>
+		</research>
+		<research>
+			<groupname>Center for Forensics</groupname>
+			<professorname>Brian Levine</professorname>
+		</research>
+		<research>
+			<groupname>Center for Intelligent Information Retrieval</groupname>
+			<professorname>James  Allan</professorname>
+			<professorname>W. Bruce Croft</professorname>
+			<professorname>R. Manmatha</professorname>
+			<professorname>Benjamin Marlin</professorname>
+			<professorname>Andrew McCallum</professorname>
+			<professorname>Brendan O'Connor</professorname>
+			<professorname>Hanna Wallach</professorname>
+		</research>
+		<research>
+			<groupname>Center for Knowledge Communication</groupname>
+			<professorname>Beverly Woolf</professorname>
+		</research>
+		<research>
+			<groupname>Advanced Computer Networking Research Group</groupname>
+			<professorname>James Kurose</professorname>
+			<professorname>Donald Towsley</professorname>
+		</research>
+		<research>
+			<groupname>Advanced Networked Systems Research Group</groupname>
+			<professorname>Arun Venkataramani</professorname>
+		</research>
+		<research>
+			<groupname>Architecture and Language Implementation</groupname>
+			<professorname>Andrew Barto</professorname>
+			<professorname>J. Eliot B. Moss</professorname>
+			<professorname>Charles Weems</professorname>
+		</research>
+		<research>
+			<groupname>Autonomous Learning Laboratory</groupname>
+			<professorname>Sridhar Mahadevan</professorname>
+		</research>
+		<research>
+			<groupname>Biologically Inspired Neural &amp; Dynamical Systems Laboratory</groupname>
+			<professorname>Hava Siegelmann</professorname>
+		</research>
+		<research>
+			<groupname>Computer Graphics Laboratory</groupname>
+			<professorname>Evangelos Kalogerakis</professorname>
+			<professorname>Rui Wang</professorname>
+		</research>
+		<research>
+			<groupname>Computer Vision Research Laboratory</groupname>
+			<professorname>Allen Hanson</professorname>
+			<professorname>Erik Learned-Miller</professorname>
+			<professorname>Subhransu Maji</professorname>
+			<professorname>R. Manmatha</professorname>
+		</research>
+		<research>
+			<groupname>Convergent Computing Systems Lab</groupname>
+			<professorname>Jack Wileden</professorname>
+		</research>
+		<research>
+			<groupname>Database and Information Management Laboratory</groupname>
+			<professorname>Yanlei Diao</professorname>
+			<professorname>Alexandra Meliou</professorname>
+			<professorname>Gerome Miklau</professorname>
+		</research>
+		<research>
+			<groupname>Engineering Research Center for Collaborative Adaptive Sensing of the Atmosphere</groupname>
+			<professorname>James Kurose</professorname>
+		</research>
+		<research>
+			<groupname>Information Extraction and Synthesis Laboratory</groupname>
+			<professorname>Andrew McCallum</professorname>
+		</research>
+		<research>
+			<groupname>Knowledge Discovery Laboratory</groupname>
+			<professorname>David Jensen</professorname>
+		</research>
+		<research>
+			<groupname>Laboratory for Advanced Software Engineering Research</groupname>
+			<professorname>Yuriy Brun</professorname>
+			<professorname>Lori Clarke</professorname>
+			<professorname>Leon Osterweil</professorname>
+		</research>
+		<research>
+			<groupname>Laboratory for Advanced System Software</groupname>
+			<professorname>Prashant Shenoy</professorname>
+		</research>
+		<research>
+			<groupname>Laboratory for Internet-Scale Distributed Systems</groupname>
+			<professorname>Ramesh Sitaraman</professorname>
+		</research>
+		<research>
+			<groupname>Laboratory for Perceptual Robotics</groupname>
+			<professorname>Roderic Grupen</professorname>
+		</research>
+		<research>
+			<groupname>Laboratory in Kine(ma)tics and Geometry (LinKaGe)</groupname>
+		</research>
+		<research>
+			<groupname>Machine Learning for Data Science</groupname>
+			<professorname>Benjamin Marlin</professorname>
+			<professorname>Brendan O'Connor</professorname>
+			<professorname>Dan Sheldon</professorname>
+			<professorname>Hanna Wallach</professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages And Systems at Massachusetts</groupname>
+			<professorname>Emery Berger</professorname>
+			<professorname>Yuriy Brun</professorname>
+			<professorname>Arjun Guha</professorname>
+		</research>
+		<research>
+			<groupname>Research in Presentation Production for Learning Electronically</groupname>
+			<professorname>W. Richards  Adrion</professorname>
+			<professorname>James Kurose</professorname>
+		</research>
+		<research>
+			<groupname>Resource Bounded Reasoning Lab</groupname>
+			<professorname>Shlomo Zilberstein</professorname>
+		</research>
+		<research>
+			<groupname>Secure, Private Internet (SPIN) Research Group</groupname>
+			<professorname>Amir Houmansadr</professorname>
+		</research>
+		<research>
+			<groupname>SENSORS: Wireless Sensor Networks Group</groupname>
+			<professorname>Mark Corner</professorname>
+			<professorname>Deepak Ganesan</professorname>
+			<professorname>Prashant Shenoy</professorname>
+		</research>
+		<research>
+			<groupname>Statistical Social Language Analysis Lab</groupname>
+			<professorname>Brendan O'Connor</professorname>
+		</research>
+		<research>
+			<groupname>Theoretical Computer Science Group</groupname>
+			<professorname>David A. Mix  Barrington</professorname>
+			<professorname>Neil Immerman</professorname>
+			<professorname>Andrew McGregor</professorname>
+			<professorname>Robert Moll</professorname>
+			<professorname>Barna Saha</professorname>
+			<professorname>Ramesh Sitaraman</professorname>
+		</research>
+	</institution>

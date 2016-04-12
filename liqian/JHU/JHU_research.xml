@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Robotics, Vision &amp; Graphics</groupname>
+			<professorname>Greg Hager</professorname>
+			<professorname>Michael Kazhdan</professorname>
+			<professorname>Nassir Navab</professorname>
+			<professorname>Russ Taylor</professorname>
+			<professorname>Suchi Saria</professorname>
+			<professorname>Peter Kazanzides</professorname>
+			<professorname>Austin Reiter</professorname>
+			<professorname>Emad Boctor</professorname>
+		</research>
+		<research>
+			<groupname>Computational Biology &amp; Medicine</groupname>
+			<professorname>Alexis Battle</professorname>
+			<professorname>Ben Langmead</professorname>
+			<professorname>Steven Salzberg</professorname>
+			<professorname>Suchi Saria</professorname>
+			<professorname>Mark Dredze</professorname>
+			<professorname>James Taylor</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning &amp; Data Intensive Computing</groupname>
+			<professorname>Yanif Ahmad</professorname>
+			<professorname>Raman Arora</professorname>
+			<professorname>Alexis Battle</professorname>
+			<professorname>Vladimir Braverman</professorname>
+			<professorname>Randal Burns</professorname>
+			<professorname>Jason Eisner</professorname>
+			<professorname>Suchi Saria</professorname>
+			<professorname>Alex Szalay</professorname>
+			<professorname>Mark Dredze</professorname>
+		</research>
+		<research>
+			<groupname>Language &amp; Speech Processing</groupname>
+			<professorname>Jason Eisner</professorname>
+			<professorname>Philipp Koehn</professorname>
+			<professorname>David Yarowsky</professorname>
+			<professorname>Mark Dredze</professorname>
+			<professorname>Adam Lopez</professorname>
+			<professorname>Ben Van Durme</professorname>
+			<professorname>Paul Smolensky</professorname>
+		</research>
+		<research>
+			<groupname>Information Security</groupname>
+			<professorname>Abhishek Jain</professorname>
+			<professorname>Avi Rubin</professorname>
+			<professorname>Stephen Checkoway</professorname>
+			<professorname>Susan Hohenberger</professorname>
+			<professorname>Giuseppe Ateniese</professorname>
+			<professorname>Matt Green</professorname>
+		</research>
+		<research>
+			<groupname>Systems</groupname>
+			<professorname>Yanif Ahmad</professorname>
+			<professorname>Yair Amir</professorname>
+			<professorname>Randal Burns</professorname>
+			<professorname>Andreas Terzis</professorname>
+			<professorname>Scott Smith</professorname>
+		</research>
+		<research>
+			<groupname>Theory &amp; Programming Languages</groupname>
+			<professorname>Vladimir Braverman</professorname>
+			<professorname>Michael Dinitz</professorname>
+			<professorname>S. Rao Kosaraju</professorname>
+			<professorname>Xin Li</professorname>
+			<professorname>Scott Smith</professorname>
+			<professorname>Amihood Amir</professorname>
+		</research>
+	</institution>

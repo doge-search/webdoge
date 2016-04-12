@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Computational Linguistics</groupname>
+			<professorname>David Chiang</professorname>
+			<professorname>David DeVault</professorname>
+			<professorname>Andrew Gordon</professorname>
+			<professorname>Jerry Hobbs</professorname>
+			<professorname>Kevin Knight</professorname>
+			<professorname>Zornitsa Kozareva</professorname>
+			<professorname>Anton Leuski</professorname>
+			<professorname>Daniel Marcu</professorname>
+			<professorname>Louis-Phillipe Morency</professorname>
+			<professorname>Shrikanth Naryanan</professorname>
+			<professorname>Kenji Sagae</professorname>
+			<professorname>Fei Sha</professorname>
+			<professorname>David Traum</professorname>
+		</research>
+		<research>
+			<groupname>Computational Behavior Group</groupname>
+			<professorname>Yu-Han Chang </professorname>
+			<professorname>Rajiv Maheswaran</professorname>
+		</research>
+		<research>
+			<groupname>Affective Computing Research</groupname>
+			<professorname>Jonathan Gratch</professorname>
+			<professorname>Stacy Marsella </professorname>
+			<professorname>Morteza Dehghani</professorname>
+		</research>
+		<research>
+			<groupname>Social Dialogue and Collaboration</groupname>
+			<professorname>Jihie Kim</professorname>
+		</research>
+		<research>
+			<groupname>IDM lab</groupname>
+			<professorname>Sven Koenig</professorname>
+		</research>
+		<research>
+			<groupname>Multimodal Communication and Machine Learning Laboratory (Multicomp Lab)</groupname>
+			<professorname>Louis-Philippe Morency</professorname>
+		</research>
+		<research>
+			<groupname>Computer Vision Lab (CV-Lab)</groupname>
+			<professorname>Gerard Medioni</professorname>
+		</research>
+		<research>
+			<groupname>Speech Analysis and Interpretation Lab (SAIL)</groupname>
+			<professorname>Shrikanth Naryanan</professorname>
+		</research>
+		<research>
+			<groupname>Institute of Robotics &amp; Intelligent Systems (IRIS)</groupname>
+			<professorname>Ram Nevatia</professorname>
+		</research>
+		<research>
+			<groupname>Statistical Machine Learning Lab</groupname>
+			<professorname>Fei Sha</professorname>
+		</research>
+		<research>
+			<groupname>Teamcore, Agents and Multi-Agents Lab</groupname>
+			<professorname>Milind Tambe</professorname>
+		</research>
+		<research>
+			<groupname>ICT Natural Language Dialogue Group</groupname>
+			<professorname>David Traum</professorname>
+		</research>
+		<research>
+			<groupname>Big Data Analysis Group</groupname>
+			<professorname>Viktor Prasanna</professorname>
+		</research>
+		<research>
+			<groupname>Smart Grid Group</groupname>
+			<professorname>Viktor Prasanna</professorname>
+		</research>
+		<research>
+			<groupname>Database Lab (Dblab)</groupname>
+			<professorname>Shahram Ghandeharizadeh</professorname>
+		</research>
+		<research>
+			<groupname>Information Integration Research</groupname>
+			<professorname>Craig Knoblock</professorname>
+		</research>
+		<research>
+			<groupname>Semantic Information Research</groupname>
+			<professorname>Dennis McLeod</professorname>
+		</research>
+		<research>
+			<groupname>Information Laboratory (InfoLab)</groupname>
+			<professorname>Cyrus Shahabi</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning and Data Mining Lab (Melody-Lab)</groupname>
+			<professorname>Yan Liu</professorname>
+		</research>
+		<research>
+			<groupname>Big Data Analysis Group</groupname>
+			<professorname>Viktor Prasanna</professorname>
+		</research>
+		<research>
+			<groupname>Computer Graphics Group</groupname>
+			<professorname>Jernej Barbic</professorname>
+			<professorname>Paul Debevec</professorname>
+			<professorname>Hao Li</professorname>
+			<professorname>Ulrich Neumann</professorname>
+			<professorname>Suya You</professorname>
+		</research>
+		<research>
+			<groupname>Computer Graphics, Animation and Simulation Laboratory</groupname>
+			<professorname>Jernej Barbic</professorname>
+		</research>
+		<research>
+			<groupname>Computer Graphics at USC ICT</groupname>
+			<professorname>Paul Debevec</professorname>
+		</research>
+		<research>
+			<groupname>Computer Graphics and Immersive Technologies (CGIT)</groupname>
+			<professorname>Ulrich Neumann</professorname>
+		</research>
+		<research>
+			<groupname>USC Gamepipe Laboratory</groupname>
+			<professorname>Michael Zyda</professorname>
+		</research>
+		<research>
+			<groupname>Collaboratory for Advanced Computing and Simulations (CACS)</groupname>
+			<professorname>Priya Vashishta</professorname>
+			<professorname>Aiichiro Nakano</professorname>
+			<professorname>Rajiv Kalia</professorname>
+		</research>
+		<research>
+			<groupname>Cloud Computing and Scalability Group</groupname>
+			<professorname>Viktor Prasanna</professorname>
+		</research>
+		<research>
+			<groupname>FPGA/Parallel Computing Group</groupname>
+			<professorname>Viktor Prasanna</professorname>
+		</research>
+		<research>
+			<groupname>Center for Computer Systems Secuity</groupname>
+			<professorname>Clifford Neuman</professorname>
+		</research>
+		<research>
+			<groupname>Privacy Research Lab</groupname>
+			<professorname>Aleksandra Korolova</professorname>
+		</research>
+		<research>
+			<groupname>STEEL Security Research Lab</groupname>
+			<professorname>Jelena Mirkovic</professorname>
+		</research>
+		<research>
+			<groupname>USC Brain project</groupname>
+			<professorname>Michael Arbib</professorname>
+		</research>
+		<research>
+			<groupname>Automatic Coordination of Teams (ACT) Lab</groupname>
+			<professorname>Nora Ayanian</professorname>
+		</research>
+		<research>
+			<groupname>Computational Neuroscience Lab (iLab)</groupname>
+			<professorname>Laurent Itti</professorname>
+		</research>
+		<research>
+			<groupname>Computational Social Science Laboratory </groupname>
+			<professorname>Morteza Dehghani</professorname>
+		</research>
+		<research>
+			<groupname>Interaction Lab</groupname>
+			<professorname>Maja Mataric</professorname>
+		</research>
+		<research>
+			<groupname>Robotics Research Lab</groupname>
+			<professorname>Maja Mataric</professorname>
+			<professorname>Gaurav Sukhatme</professorname>
+		</research>
+		<research>
+			<groupname>Computational Learning and Motor Control Laboratory (CLMC-Lab)</groupname>
+			<professorname>Stefan Schaal</professorname>
+		</research>
+		<research>
+			<groupname>Polymorphic Robotics Lab</groupname>
+			<professorname>Wei-Min Shen</professorname>
+		</research>
+		<research>
+			<groupname>Robotic Embedded Systems Lab</groupname>
+			<professorname>Gaurav Sukhatme</professorname>
+		</research>
+		<research>
+			<groupname>Center for Systems and Software Engineering (CSSE)</groupname>
+			<professorname>Barry Boehm</professorname>
+			<professorname>Nenad Medvidovic</professorname>
+			<professorname>William GJ Halfond</professorname>
+		</research>
+		<research>
+			<groupname>Quantitative Evaluation &amp; Design Lab (QED)</groupname>
+			<professorname>Leana Golubchik</professorname>
+		</research>
+		<research>
+			<groupname>Embedded Networks Laboratory (ENL)</groupname>
+			<professorname>Ethan Katz-Bassett</professorname>
+			<professorname>Ramesh Govindan</professorname>
+			<professorname>Minlan Yu</professorname>
+		</research>
+		<research>
+			<groupname>I-Lense (ISI Laboratory for Embedded Networked Sensor Experimentation)</groupname>
+			<professorname>John Heidemann</professorname>
+		</research>
+		<research>
+			<groupname>The Postel Center</groupname>
+			<professorname>Joe Touch</professorname>
+		</research>
+		<research>
+			<groupname>Networked Systems Lab</groupname>
+			<professorname>Ethan Katz-Bassett</professorname>
+			<professorname>Ramesh Govindan</professorname>
+			<professorname>Minlan Yu</professorname>
+		</research>
+		<research>
+			<groupname>Autonomous Networks Research Group</groupname>
+		</research>
+		<research>
+			<groupname>Collaboratory for Advanced Computing and Simulations (CACS)</groupname>
+			<professorname>Priya Vashishta</professorname>
+			<professorname>Aiichiro Nakano</professorname>
+			<professorname>Rajiv Kalia</professorname>
+		</research>
+		<research>
+			<groupname>CS Theory Group</groupname>
+			<professorname>Shang-Hua Teng</professorname>
+			<professorname>Len Adleman</professorname>
+			<professorname>Shaddin Dughmi</professorname>
+			<professorname>Ming-Deh Huang</professorname>
+			<professorname>David Kempe</professorname>
+			<professorname>Hamid Nazerzadeh</professorname>
+			<professorname>Ben Reichardt</professorname>
+		</research>
+	</institution>

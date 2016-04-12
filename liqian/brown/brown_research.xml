@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Algorithms and Theory</groupname>
+			<professorname>Mohammed El-Kebir</professorname>
+			<professorname>Pedro Felipe Felzenszwalb</professorname>
+			<professorname>Sorin Istrail</professorname>
+			<professorname>Philip Klein</professorname>
+			<professorname>Tim Nelson</professorname>
+			<professorname>Franco Preparata</professorname>
+			<professorname>Ben Raphael</professorname>
+			<professorname>Matthew Reyna</professorname>
+			<professorname>John Savage</professorname>
+			<professorname>Roberto Tamassia</professorname>
+			<professorname>Eli Upfal</professorname>
+		</research>
+		<research>
+			<groupname>Artificial Intelligence</groupname>
+			<professorname>Eugene Charniak</professorname>
+			<professorname>Pedro Felipe Felzenszwalb</professorname>
+			<professorname>Amy Greenwald</professorname>
+			<professorname>James Hays</professorname>
+			<professorname>Michael L. Littman</professorname>
+			<professorname>James MacGlashan</professorname>
+			<professorname>Dan Potter</professorname>
+			<professorname>Erik Sudderth</professorname>
+			<professorname>Stefanie Tellex</professorname>
+			<professorname>Lawson L.S. Wong</professorname>
+		</research>
+		<research>
+			<groupname>Computational Biology</groupname>
+			<professorname>Mohammed El-Kebir</professorname>
+			<professorname>Sorin Istrail</professorname>
+			<professorname>Franco Preparata</professorname>
+			<professorname>Ben Raphael</professorname>
+			<professorname>Matthew Reyna</professorname>
+			<professorname>Eli Upfal</professorname>
+		</research>
+		<research>
+			<groupname>Computational Economics</groupname>
+			<professorname>Amy Greenwald</professorname>
+		</research>
+		<research>
+			<groupname>Computer Systems</groupname>
+			<professorname>Tom Doeppner</professorname>
+		</research>
+		<research>
+			<groupname>Database Systems</groupname>
+			<professorname>Carsten Binnig</professorname>
+			<professorname>Ugur Cetintemel</professorname>
+			<professorname>Rodrigo Fonseca</professorname>
+			<professorname>Tim Kraska</professorname>
+			<professorname>Stan Zdonik</professorname>
+		</research>
+		<research>
+			<groupname>Distributed Systems</groupname>
+			<professorname>Ugur Cetintemel</professorname>
+			<professorname>Rodrigo Fonseca</professorname>
+			<professorname>Maurice Herlihy</professorname>
+			<professorname>Stan Zdonik</professorname>
+		</research>
+		<research>
+			<groupname>Graphics and Visualization</groupname>
+			<professorname>James Hays</professorname>
+			<professorname>John Hughes</professorname>
+			<professorname>David H. Laidlaw</professorname>
+			<professorname>Barbara J. Meier</professorname>
+			<professorname>Dan Potter</professorname>
+			<professorname>Andy van Dam</professorname>
+		</research>
+		<research>
+			<groupname>Human-Computer Interaction</groupname>
+			<professorname>Jeff Huang</professorname>
+			<professorname>David H. Laidlaw</professorname>
+			<professorname>James MacGlashan</professorname>
+			<professorname>Dan Potter</professorname>
+			<professorname>Don Stanford</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning</groupname>
+			<professorname>Eugene Charniak</professorname>
+			<professorname>Pedro Felipe Felzenszwalb</professorname>
+			<professorname>Amy Greenwald</professorname>
+			<professorname>Michael L. Littman</professorname>
+			<professorname>James MacGlashan</professorname>
+			<professorname>Dan Potter</professorname>
+			<professorname>Erik Sudderth</professorname>
+			<professorname>Stefanie Tellex</professorname>
+			<professorname>Lawson L.S. Wong</professorname>
+		</research>
+		<research>
+			<groupname>Networking</groupname>
+			<professorname>Rodrigo Fonseca</professorname>
+			<professorname>Shriram Krishnamurthi</professorname>
+			<professorname>Tim Nelson</professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages</groupname>
+			<professorname>Shriram Krishnamurthi</professorname>
+			<professorname>Tim Nelson</professorname>
+		</research>
+		<research>
+			<groupname>Robotics</groupname>
+			<professorname>James MacGlashan</professorname>
+			<professorname>Stefanie Tellex</professorname>
+			<professorname>Lawson L.S. Wong</professorname>
+		</research>
+		<research>
+			<groupname>Security and Cryptography</groupname>
+			<professorname>Seny Kamara</professorname>
+			<professorname>Shriram Krishnamurthi</professorname>
+			<professorname>Anna Lysyanskaya</professorname>
+			<professorname>Bernardo Palazzi</professorname>
+			<professorname>Steve Reiss</professorname>
+			<professorname>John Savage</professorname>
+			<professorname>Don Stanford</professorname>
+			<professorname>Roberto Tamassia</professorname>
+		</research>
+		<research>
+			<groupname>Software Engineering</groupname>
+			<professorname>Shriram Krishnamurthi</professorname>
+			<professorname>Dan Potter</professorname>
+			<professorname>Steve Reiss</professorname>
+		</research>
+	</institution>
