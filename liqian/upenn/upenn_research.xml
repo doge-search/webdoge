@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Penn Center for Energy Innovation</groupname>
+			<professorname>Susan B. Davidson</professorname>
+			<professorname>Vijay Kumar</professorname>
+			<professorname>Val B. Tannen</professorname>
+		</research>
+		<research>
+			<groupname>Penn Research in Machine Learning (PRiML)</groupname>
+			<professorname>Sudipto Guha</professorname>
+			<professorname>Michael Kearns</professorname>
+			<professorname>Daniel D. Lee</professorname>
+			<professorname>Alexander Rakhlin</professorname>
+			<professorname>Lyle H. Ungar</professorname>
+		</research>
+		<research>
+			<groupname>Embedded Computing and Integrated Systems (PRECISE)</groupname>
+			<professorname>Rajeev Alur</professorname>
+			<professorname>Insup Lee</professorname>
+			<professorname>Rahul Mangharam</professorname>
+			<professorname>Chris Murphy</professorname>
+			<professorname>George J. Pappas</professorname>
+			<professorname>Linh Phan</professorname>
+			<professorname>Oleg Sokolsky</professorname>
+		</research>
+		<research>
+			<groupname>Penn Genome Frontiers Institute (PGFI)</groupname>
+			<professorname>Susan B. Davidson</professorname>
+			<professorname>Vijay Kumar</professorname>
+			<professorname>Val B. Tannen</professorname>
+		</research>
+		<research>
+			<groupname>Penn Center for Bioinformatics (PCBi)</groupname>
+			<professorname>Aravind K. Joshi</professorname>
+			<professorname>Sampath K. Kannan</professorname>
+			<professorname>Val B. Tannen</professorname>
+			<professorname>Lyle H. Ungar</professorname>
+		</research>
+		<research>
+			<groupname>Institute for Research in Cognitive Science (IRCS)</groupname>
+			<professorname>Norman I. Badler</professorname>
+			<professorname>Konstantinos Daniilidis</professorname>
+			<professorname>Susan B. Davidson</professorname>
+			<professorname>Jean H. Gallier</professorname>
+			<professorname>Aravind K. Joshi</professorname>
+			<professorname>Sampath K. Kannan</professorname>
+			<professorname>Michael Kearns</professorname>
+			<professorname>Daniel E. Koditschek</professorname>
+			<professorname>Katherine J. Kuchenbecker</professorname>
+			<professorname>Vijay Kumar</professorname>
+			<professorname>Mitchell P. Marcus</professorname>
+			<professorname>Ani Nenkova</professorname>
+			<professorname>Val B. Tannen</professorname>
+			<professorname>Camillo J. Taylor</professorname>
+			<professorname>Lyle H. Ungar</professorname>
+		</research>
+		<research>
+			<groupname>Institute for Medicine and Engineering (IME)</groupname>
+			<professorname>Susan B. Davidson</professorname>
+		</research>
+		<research>
+			<groupname>General Robotics, Automation, Sensing and Perception (GRASP)</groupname>
+			<professorname>Konstantinos Daniilidis</professorname>
+			<professorname>Jean H. Gallier</professorname>
+			<professorname>Ali Jadbabaie</professorname>
+			<professorname>Daniel E. Koditschek</professorname>
+			<professorname>Katherine J. Kuchenbecker</professorname>
+			<professorname>Vijay Kumar</professorname>
+			<professorname>Daniel D. Lee</professorname>
+			<professorname>Max  Mintz</professorname>
+			<professorname>George J. Pappas</professorname>
+			<professorname>Jianbo Shi</professorname>
+			<professorname>Camillo J. Taylor</professorname>
+		</research>
+		<research>
+			<groupname>Center for Human Modeling and Simulation (HMS)</groupname>
+			<professorname>Konstantinos Daniilidis</professorname>
+			<professorname>Jean H. Gallier</professorname>
+			<professorname>Katherine J. Kuchenbecker</professorname>
+			<professorname>Mitchell P. Marcus</professorname>
+			<professorname>Camillo J. Taylor</professorname>
+		</research>
+		<research>
+			<groupname>SIG Center for Computer Graphics</groupname>
+			<professorname>Norman I. Badler</professorname>
+			<professorname>Ladislav Kavan</professorname>
+		</research>
+	</institution>

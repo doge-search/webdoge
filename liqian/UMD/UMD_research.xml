@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Numerical Analysis</groupname>
+			<professorname>Ramani Duraiswami</professorname>
+			<professorname>Howard Elman</professorname>
+			<professorname>Dianne O'Leary</professorname>
+			<professorname>G.W. (Pete) Stewart</professorname>
+			<professorname>Bedrich Sousedik</professorname>
+			<professorname>Tom Goldstein</professorname>
+		</research>
+		<research>
+			<groupname>Security</groupname>
+			<professorname>Bobby Bhattacharjee</professorname>
+			<professorname>Jeffrey Foster</professorname>
+			<professorname>Michael Hicks</professorname>
+			<professorname>Jonathan Katz</professorname>
+			<professorname>Elaine Shi</professorname>
+			<professorname>Neil Spring</professorname>
+			<professorname>William Arbaugh</professorname>
+			<professorname>Dave Levin</professorname>
+			<professorname>David Van Horn</professorname>
+			<professorname>Michelle Mazurek</professorname>
+		</research>
+		<research>
+			<groupname>Scientific Computing</groupname>
+			<professorname>Ramani Duraiswami</professorname>
+			<professorname>Bedrich Sousedik</professorname>
+		</research>
+		<research>
+			<groupname>Data Science</groupname>
+			<professorname>Hector Corrada Bravo</professorname>
+			<professorname>Hal Daume III</professorname>
+			<professorname>Amol Deshpande</professorname>
+			<professorname>Jennifer Golbeck</professorname>
+			<professorname>Joseph Ja' Ja'</professorname>
+			<professorname>Jimmy Lin</professorname>
+			<professorname>William Rand</professorname>
+			<professorname>Philip Resnik</professorname>
+			<professorname>Ben Shneiderman</professorname>
+			<professorname>Amitabh Varshney</professorname>
+			<professorname>Louiqa Raschid</professorname>
+			<professorname>Tom Goldstein</professorname>
+			<professorname>Vanessa Frias-Martinez</professorname>
+			<professorname>Richard Marciano</professorname>
+			<professorname>Marine Carpuat</professorname>
+			<professorname>Nicholas Diakopoulos</professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages</groupname>
+			<professorname>Jeffrey Foster</professorname>
+			<professorname>Michael Hicks</professorname>
+			<professorname>William Pugh</professorname>
+			<professorname>T. Stephen Strickland</professorname>
+			<professorname>David Van Horn</professorname>
+		</research>
+		<research>
+			<groupname>High Performance Computing</groupname>
+			<professorname>Ramani Duraiswami</professorname>
+			<professorname>Jeffrey K. Hollingsworth</professorname>
+			<professorname>Alan Sussman</professorname>
+			<professorname>Ray Chen</professorname>
+			<professorname>Sukhyun Song</professorname>
+			<professorname>Bedrich Sousedik</professorname>
+		</research>
+		<research>
+			<groupname>Theoretical Computer Science</groupname>
+			<professorname>Alexander Barg</professorname>
+			<professorname>William Gasarch</professorname>
+			<professorname>Mohammad Hajiaghayi</professorname>
+			<professorname>Joseph Ja' Ja'</professorname>
+			<professorname>Jonathan Katz</professorname>
+			<professorname>Samir Khuller</professorname>
+			<professorname>Clyde Kruskal</professorname>
+			<professorname>David Mount</professorname>
+			<professorname>Elaine Shi</professorname>
+			<professorname>Aravind Srinivasan</professorname>
+			<professorname>Uzi Vishkin</professorname>
+			<professorname>Yan  Huang</professorname>
+			<professorname>Dana Dachman-Soled</professorname>
+			<professorname>Andrew Childs</professorname>
+		</research>
+		<research>
+			<groupname>Software Engineering</groupname>
+			<professorname>Victor Basili</professorname>
+			<professorname>Rance Cleaveland</professorname>
+			<professorname>Atif Memon</professorname>
+			<professorname>Adam Porter</professorname>
+			<professorname>Arnab Ray</professorname>
+			<professorname>Forrest Shull</professorname>
+			<professorname>Marvin Zelkowitz</professorname>
+			<professorname>T. Stephen Strickland</professorname>
+		</research>
+		<research>
+			<groupname>Human Computer Interaction</groupname>
+			<professorname>Ben Bederson</professorname>
+			<professorname>Allison Druin</professorname>
+			<professorname>Jon Froehlich</professorname>
+			<professorname>Jennifer Golbeck</professorname>
+			<professorname>Evan Golub</professorname>
+			<professorname>Jimmy Lin</professorname>
+			<professorname>Atif Memon</professorname>
+			<professorname>Douglas Oard</professorname>
+			<professorname>Ben Shneiderman</professorname>
+			<professorname>Leah Findlater</professorname>
+			<professorname>Marshini Chetty</professorname>
+			<professorname>Michelle Mazurek</professorname>
+			<professorname>Niklas Elmqvist</professorname>
+			<professorname>Nicholas Diakopoulos</professorname>
+		</research>
+		<research>
+			<groupname>Bioinformatics and Computational Biology</groupname>
+			<professorname>Hector Corrada Bravo</professorname>
+			<professorname>Michael Cummings</professorname>
+			<professorname>Sridhar Hannenhalli</professorname>
+			<professorname>Atif Memon</professorname>
+			<professorname>Mihai Pop</professorname>
+			<professorname>Aravind Srinivasan</professorname>
+			<professorname>Patrick Roos</professorname>
+			<professorname>Zia Khan</professorname>
+			<professorname>Eytan Ruppin</professorname>
+		</research>
+		<research>
+			<groupname>Big Data</groupname>
+			<professorname>Amol Deshpande</professorname>
+			<professorname>Samir Khuller</professorname>
+			<professorname>Jimmy Lin</professorname>
+			<professorname>Nicholas Roussopoulos</professorname>
+			<professorname>Alan Sussman</professorname>
+			<professorname>Louiqa Raschid</professorname>
+			<professorname>Tom Goldstein</professorname>
+			<professorname>Vanessa Frias-Martinez</professorname>
+			<professorname>Richard Marciano</professorname>
+		</research>
+		<research>
+			<groupname>Artificial Intelligence</groupname>
+			<professorname>John Aloimonos</professorname>
+			<professorname>Jordan Boyd-Graber</professorname>
+			<professorname>Ramalingam Chellappa</professorname>
+			<professorname>Hal Daume III</professorname>
+			<professorname>Larry Davis</professorname>
+			<professorname>Bonnie Dorr</professorname>
+			<professorname>Lise Getoor</professorname>
+			<professorname>John Grant</professorname>
+			<professorname>David Jacobs</professorname>
+			<professorname>Laveen Kanal</professorname>
+			<professorname>Jack Minker</professorname>
+			<professorname>Dana Nau</professorname>
+			<professorname>Douglas Oard</professorname>
+			<professorname>Don Perlis</professorname>
+			<professorname>James Reggia</professorname>
+			<professorname>Philip Resnik</professorname>
+			<professorname>Hanan Samet</professorname>
+			<professorname>V.S. Subrahmanian</professorname>
+			<professorname>Yan  Huang</professorname>
+			<professorname>Patrick Roos</professorname>
+			<professorname>Marine Carpuat</professorname>
+		</research>
+		<research>
+			<groupname>Graphics</groupname>
+		</research>
+		<research>
+			<groupname>Databases</groupname>
+			<professorname>Amol Deshpande</professorname>
+			<professorname>Lise Getoor</professorname>
+			<professorname>Nicholas Roussopoulos</professorname>
+			<professorname>V.S. Subrahmanian</professorname>
+		</research>
+		<research>
+			<groupname>Computer Vision</groupname>
+			<professorname>John Aloimonos</professorname>
+			<professorname>Ramalingam Chellappa</professorname>
+			<professorname>Larry Davis</professorname>
+			<professorname>Leila DeFloriani</professorname>
+			<professorname>David Doermann</professorname>
+			<professorname>Ramani Duraiswami</professorname>
+			<professorname>David Jacobs</professorname>
+			<professorname>Amitabh Varshney</professorname>
+		</research>
+		<research>
+			<groupname>Computer Systems</groupname>
+			<professorname>Ashok Agrawala</professorname>
+			<professorname>Bobby Bhattacharjee</professorname>
+			<professorname>Nick Feamster</professorname>
+			<professorname>Michael Hicks</professorname>
+			<professorname>Jeffrey K. Hollingsworth</professorname>
+			<professorname>Pete Keleher</professorname>
+			<professorname>Raymond Miller</professorname>
+			<professorname>A. Udaya Shankar</professorname>
+			<professorname>Elaine Shi</professorname>
+			<professorname>Neil Spring</professorname>
+			<professorname>V.S. Subrahmanian</professorname>
+			<professorname>Alan Sussman</professorname>
+			<professorname>Chau-Wen Tseng</professorname>
+			<professorname>Ray Chen</professorname>
+			<professorname>Yan  Huang</professorname>
+			<professorname>Sukhyun Song</professorname>
+			<professorname>Michelle Mazurek</professorname>
+		</research>
+	</institution>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Architecture</groupname>
+			<professorname>David Brooks</professorname>
+			<professorname>H.T. Kung</professorname>
+			<professorname>Gu-Yeon Wei</professorname>
+			<professorname>Woodward Yang</professorname>
+		</research>
+		<research>
+			<groupname>Artificial Intelligence (Computational Linguistics, Machine Learning, Multi-agent Systems, Robotics)</groupname>
+			<professorname>Ryan P. Adams</professorname>
+			<professorname>Demba Ba</professorname>
+			<professorname>Yiling Chen</professorname>
+			<professorname>Finale Doshi-Velez</professorname>
+			<professorname>Krzysztof Gajos</professorname>
+			<professorname>Barbara Grosz</professorname>
+			<professorname>Scott Kuindersma</professorname>
+			<professorname>Radhika Nagpal</professorname>
+			<professorname>David Parkes</professorname>
+			<professorname>Alexander Sasha Rush</professorname>
+			<professorname>Stuart Shieber</professorname>
+			<professorname>Robert Wood</professorname>
+			<professorname>Todd Zickler</professorname>
+		</research>
+		<research>
+			<groupname>Computational and Data Science (High Performance Computing, Connectomics, Large-scale Data Management)</groupname>
+			<professorname>Ryan P. Adams</professorname>
+			<professorname>Demba Ba</professorname>
+			<professorname>David Cox</professorname>
+			<professorname>Finale Doshi-Velez</professorname>
+			<professorname>Sean Eddy</professorname>
+			<professorname>Stratos Idreos</professorname>
+			<professorname>Efthimios Kaxiras</professorname>
+			<professorname>Hanspeter Pfister</professorname>
+			<professorname>Alexander Sasha Rush</professorname>
+			<professorname>Margo Seltzer</professorname>
+			<professorname>Vahid Tarokh</professorname>
+		</research>
+		<research>
+			<groupname>Computational Neuroscience</groupname>
+			<professorname>Ryan P. Adams</professorname>
+			<professorname>Demba Ba</professorname>
+			<professorname>David Cox</professorname>
+			<professorname>Frank Doyle</professorname>
+			<professorname>L. Mahadevan</professorname>
+			<professorname>Maurice Smith</professorname>
+			<professorname>Leslie Valiant</professorname>
+		</research>
+		<research>
+			<groupname>Economics and Computation</groupname>
+			<professorname>Yiling Chen</professorname>
+			<professorname>Na Li</professorname>
+			<professorname>David Parkes</professorname>
+			<professorname>Yaron Singer</professorname>
+		</research>
+		<research>
+			<groupname>Graphics, Vision and Interaction (Human-Computer Interaction, Computer Graphics, Scientific and Information Visualization, Computer Vision)</groupname>
+			<professorname>David Cox</professorname>
+			<professorname>Krzysztof Gajos</professorname>
+			<professorname>Steven Gortler</professorname>
+			<professorname>Hanspeter Pfister</professorname>
+			<professorname>Todd Zickler</professorname>
+		</research>
+		<research>
+			<groupname>Information and Society (Policy, Computer Science Education, Privacy and Security)</groupname>
+			<professorname>Boaz Barak</professorname>
+			<professorname>Stephen Chong</professorname>
+			<professorname>Krzysztof Gajos</professorname>
+			<professorname>Harry Lewis</professorname>
+			<professorname>James Mickens</professorname>
+			<professorname>Margo Seltzer</professorname>
+			<professorname>Salil Vadhan</professorname>
+			<professorname>Jonathan Zittrain</professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages (Foundations, Design and Application, Implementation)</groupname>
+			<professorname>Stephen Chong</professorname>
+			<professorname>Eddie Kohler</professorname>
+			<professorname>Radhika Nagpal</professorname>
+			<professorname>Michael Smith</professorname>
+		</research>
+		<research>
+			<groupname>Systems, Networks and Databases (Operating Systems, Distributed Systems, Database Management Systems)</groupname>
+			<professorname>Stratos Idreos</professorname>
+			<professorname>Eddie Kohler</professorname>
+			<professorname>H.T. Kung</professorname>
+			<professorname>James Mickens</professorname>
+			<professorname>Michael Mitzenmacher</professorname>
+			<professorname>Margo Seltzer</professorname>
+			<professorname>Michael Smith</professorname>
+		</research>
+		<research>
+			<groupname>Theory of Communication</groupname>
+			<professorname>Michael Mitzenmacher</professorname>
+			<professorname>Madhu Sudan</professorname>
+		</research>
+		<research>
+			<groupname>Theory of Computation</groupname>
+			<professorname>Boaz Barak</professorname>
+			<professorname>Harry Lewis</professorname>
+			<professorname>Michael Mitzenmacher</professorname>
+			<professorname>Jelani Nelson</professorname>
+			<professorname>Yaron Singer</professorname>
+			<professorname>Madhu Sudan</professorname>
+			<professorname>Salil Vadhan</professorname>
+			<professorname>Leslie Valiant</professorname>
+		</research>
+	</institution>

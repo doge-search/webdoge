@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>California Institute for Telecommunications and Information Technology</groupname>
+			<professorname>Baden, Scott B.</professorname>
+			<professorname>Bafna, Vineet</professorname>
+			<professorname>Bellare, Mihir</professorname>
+			<professorname>Belongie, Serge J.</professorname>
+			<professorname>Carter, Larry</professorname>
+			<professorname>Cottrell, Garrison W.</professorname>
+			<professorname>Elkan, Charles</professorname>
+			<professorname>Esener, Sadik C.</professorname>
+			<professorname>Ferrante, Jeanne</professorname>
+			<professorname>Freund, Yoav S.</professorname>
+			<professorname>Graham, Fan C.</professorname>
+			<professorname>Graham, Ronald</professorname>
+			<professorname>Griswold, William G.</professorname>
+			<professorname>Gupta, Rajesh</professorname>
+			<professorname>Jensen, Henrik W.</professorname>
+			<professorname>Kahng, Andrew B.</professorname>
+			<professorname>Karin, Sidney</professorname>
+			<professorname>Kriegman, David</professorname>
+			<professorname>Krueger, Ingolf</professorname>
+			<professorname>Kuester, Falko</professorname>
+			<professorname>Lerner, Sorin</professorname>
+			<professorname>Lin, Bill</professorname>
+			<professorname>Micciancio, Daniele</professorname>
+			<professorname>Orailoglu, Alex</professorname>
+			<professorname>Orlitsky, Alon</professorname>
+			<professorname>Papakonstantinou, Yannis</professorname>
+			<professorname>Pasquale, Joseph</professorname>
+			<professorname>Paturi, Ramamohan</professorname>
+			<professorname>Pevzner, Pavel A.</professorname>
+			<professorname>Savage, Stefan</professorname>
+			<professorname>Simon, Elizabeth A.</professorname>
+			<professorname>Smarr, Larry L.</professorname>
+			<professorname>Subramaniam, Shankar</professorname>
+			<professorname>Taylor, Michael B.</professorname>
+			<professorname>Vardy, Alexander</professorname>
+			<professorname>Voelker, Geoffrey M.</professorname>
+		</research>
+		<research>
+			<groupname>Center for Networked Systems</groupname>
+			<groupname>Pasquale, Joseph</professorname>
+			<groupname>Vahdat, Mohammed A.</professorname>
+			<groupname>Voelker, Geoffrey M.</professorname>
+		</research>
+		<research>
+			<groupname>Center for Wireless Communications</groupname>
+			<professorname>Lin, Bill</professorname>
+			<professorname>Orlitsky, Alon</professorname>
+			<professorname>Pasquale, Joseph</professorname>
+			<professorname>Vardy, Alexander</professorname>
+			<professorname>Voelker, Geoffrey M.</professorname>
+		</research>
+		<research>
+			<groupname>Information Theory and Applications Center</groupname>
+			<professorname>Orlitsky, Alon</professorname>
+		</research>
+		<research>
+			<groupname>Institute of Engineering in Medicine</groupname>
+			<professorname>Ideker, Trey</professorname>
+ 			<professorname>Subramaniam, Shankar</professorname>
+		</research>
+		<research>
+			<groupname>San Diego Supercomputer Center</groupname>
+			<professorname>Baden, Scott B.</professorname>
+			<professorname>Carter, Larry</professorname>
+			<professorname>Claffy, Kimberly</professorname>
+			<professorname>Ferrante, Jeanne</professorname>
+			<professorname>Karin, Sidney</professorname>
+			<professorname>Subramaniam, Shankar</professorname>
+		</research>
+	</institution>
