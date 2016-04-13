@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Architectures, Compiler Optimization, and Embedded Systems</groupname>
+			<professorname>Pen-Chung Yew</professorname>
+			<professorname>Antonia Zhai</professorname>
+		</research>
+		<research>
+			<groupname>Bioinformatics and Computational Biology</groupname>
+			<professorname>Daniel Boley</professorname>
+			<professorname>John V. Carlis</professorname>
+			<professorname>Ravi Janardan</professorname>
+			<professorname>George Karypis</professorname>
+			<professorname>Dan Knights</professorname>
+			<professorname>Rui Kuang</professorname>
+			<professorname>Vipin Kumar</professorname>
+			<professorname>Chad L. Myers</professorname>
+		</research>
+		<research>
+			<groupname>Data Mining, Databases, and Geographical Information Systems</groupname>
+			<professorname>Arindam Banerjee</professorname>
+			<professorname>Daniel Boley</professorname>
+			<professorname>John V. Carlis</professorname>
+			<professorname>Brent Hecht </professorname>
+			<professorname>George Karypis</professorname>
+			<professorname>Vipin Kumar</professorname>
+			<professorname>Mohamed F. Mokbel</professorname>
+			<professorname>Shashi Shekhar</professorname>
+			<professorname>Jaideep Srivastava</professorname>
+		</research>
+		<research>
+			<groupname>Graphics and Visualization</groupname>
+			<professorname>Stephen Guy</professorname>
+			<professorname>Victoria Interrante</professorname>
+			<professorname>Daniel F. Keefe</professorname>
+			<professorname>Gary Meyer</professorname>
+			<professorname>Rahul Narain</professorname>
+		</research>
+		<research>
+			<groupname>High Performance Computing</groupname>
+			<professorname>Daniel Boley</professorname>
+			<professorname>George Karypis</professorname>
+			<professorname>Vipin Kumar</professorname>
+			<professorname>Yousef Saad</professorname>
+			<professorname>Jon Weissman</professorname>
+		</research>
+		<research>
+			<groupname>Human Computer Interaction (HCI)</groupname>
+			<professorname>Brent Hecht </professorname>
+			<professorname>Joseph Konstan</professorname>
+			<professorname>Loren Terveen</professorname>
+			<professorname>Svetlana Yarosh</professorname>
+			<professorname>Haiyi Zhu</professorname>
+		</research>
+		<research>
+			<groupname>Networks, Distributed Systems, and Security</groupname>
+			<professorname>Abhishek Chandra</professorname>
+			<professorname>David Hung-Chang Du</professorname>
+			<professorname>Tian He</professorname>
+			<professorname>Nick Hopper</professorname>
+			<professorname>Volkan Isler</professorname>
+			<professorname>Jaideep Srivastava</professorname>
+			<professorname>Anand Tripathi</professorname>
+			<professorname>Jon Weissman</professorname>
+			<professorname>Zhi-Li Zhang</professorname>
+		</research>
+		<research>
+			<groupname>Robotics and Artificial Intelligence</groupname>
+			<professorname>Arindam Banerjee</professorname>
+			<professorname>Maria Gini</professorname>
+			<professorname>Stephen Guy</professorname>
+			<professorname>Volkan Isler</professorname>
+			<professorname>Rahul Narain</professorname>
+			<professorname>Nikolaos Papanikolopoulos</professorname>
+			<professorname>Stergios Roumeliotis</professorname>
+			<professorname>Paul R. Schrater</professorname>
+		</research>
+		<research>
+			<groupname>Software Engineering and Programming Languages</groupname>
+			<professorname>Mats Heimdahl</professorname>
+			<professorname>Stephen McCamant</professorname>
+			<professorname>Gopalan Nadathur</professorname>
+			<professorname>Eric Van Wyk</professorname>
+		</research>
+		<research>
+			<groupname>Theoretical Foundations</groupname>
+			<professorname>Arindam Banerjee</professorname>
+			<professorname>Daniel Boley</professorname>
+			<professorname>Nick Hopper</professorname>
+			<professorname>Ravi Janardan</professorname>
+			<professorname>George Karypis</professorname>
+			<professorname>Vipin Kumar</professorname>
+			<professorname>Gopalan Nadathur</professorname>
+			<professorname>Yousef Saad</professorname>
+			<professorname>Eric Van Wyk</professorname>
+		</research>
+	</institution>

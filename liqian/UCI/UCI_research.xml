@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Ubiquitous Computing</groupname>
+			<professorname>Paul Dourish</professorname>
+			<professorname>Gillian R Hayes</professorname>
+			<professorname>Alfred Kobsa</professorname>
+			<professorname>Cristina V. Lopes</professorname>
+			<professorname>Donald J Patterson</professorname>
+			<professorname>Bill Tomlinson</professorname>
+		</research>
+		<research>
+			<groupname>Networked and Distributed Systems</groupname>
+			<professorname>Ardalan Amiri Sani</professorname>
+			<professorname>Lubomir Bic</professorname>
+			<professorname>Michael Dillencourt</professorname>
+			<professorname>Magda El Zarki</professorname>
+			<professorname>Scott Jordan</professorname>
+			<professorname>Ray Klefstad</professorname>
+			<professorname>Marco  Levorato</professorname>
+			<professorname>Sharad Mehrotra</professorname>
+			<professorname>Amelia C. Regan</professorname>
+			<professorname>Isaac D. Scherson</professorname>
+			<professorname>Richard Taylor</professorname>
+			<professorname>Nalini Venkatasubramanian</professorname>
+			<professorname>Richert Wang</professorname>
+		</research>
+		<research>
+			<groupname>Software Engineering</groupname>
+			<professorname>Michael Franz</professorname>
+			<professorname>James A. Jones</professorname>
+			<professorname>Cristina V. Lopes</professorname>
+			<professorname>Sam Malek</professorname>
+			<professorname>David Redmiles</professorname>
+			<professorname>Debra J. Richardson</professorname>
+			<professorname>Walt Scacchi</professorname>
+			<professorname>Richard Taylor</professorname>
+			<professorname>Andre van der Hoek</professorname>
+			<professorname>Richert Wang</professorname>
+			<professorname>Harry Xu</professorname>
+		</research>
+		<research>
+			<groupname>Social Informatics</groupname>
+			<professorname>Paul Dourish</professorname>
+			<professorname>Gillian R Hayes</professorname>
+			<professorname>Gloria Mark</professorname>
+			<professorname>Bonnie Nardi</professorname>
+			<professorname>Gary M. Olson</professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages and Systems</groupname>
+			<professorname>Michael Franz</professorname>
+			<professorname>Ray Klefstad</professorname>
+			<professorname>Cristina V. Lopes</professorname>
+			<professorname>Alexandru Nicolau</professorname>
+			<professorname>Alexander Veidenbaum</professorname>
+			<professorname>Richert Wang</professorname>
+			<professorname>Harry Xu</professorname>
+		</research>
+		<research>
+			<groupname>Scientific and Numerical Computing</groupname>
+			<professorname>Wayne Hayes</professorname>
+			<professorname>Eric Mjolsness</professorname>
+			<professorname>Padhraic Smyth</professorname>
+		</research>
+		<research>
+			<groupname>Operating Systems</groupname>
+			<professorname>Ardalan Amiri Sani</professorname>
+		</research>
+		<research>
+			<groupname>Security, Privacy, and Cryptography</groupname>
+			<professorname>Alfred Kobsa</professorname>
+			<professorname>Gene Tsudik</professorname>
+		</research>
+		<research>
+			<groupname>Statistics and Statistical Theory</groupname>
+			<professorname>Pierre Baldi</professorname>
+			<professorname>Brigitte Baldi</professorname>
+			<professorname>Daniel Gillen</professorname>
+			<professorname>Stacey Hancock</professorname>
+			<professorname>Wesley O. Johnson</professorname>
+			<professorname>Marco  Levorato</professorname>
+			<professorname>Hernando Ombao</professorname>
+			<professorname>Babak Shahbaba</professorname>
+			<professorname>Padhraic Smyth</professorname>
+			<professorname>Hal Stern</professorname>
+			<professorname>Jessica Utts</professorname>
+			<professorname>Yaming Yu</professorname>
+			<professorname>Zhaoxia Yu</professorname>
+		</research>
+		<research>
+			<groupname>Multimedia Computing</groupname>
+			<professorname>Magda El Zarki</professorname>
+			<professorname>Ramesh Jain</professorname>
+			<professorname>Sharad Mehrotra</professorname>
+			<professorname>Nalini Venkatasubramanian</professorname>
+		</research>
+		<research>
+			<groupname>Computer-Supported Cooperative Work</groupname>
+			<professorname>Paul Dourish</professorname>
+			<professorname>Gillian R Hayes</professorname>
+			<professorname>Alfred Kobsa</professorname>
+			<professorname>Gloria Mark</professorname>
+			<professorname>Bonnie Nardi</professorname>
+			<professorname>Judy Olson</professorname>
+			<professorname>Gary M. Olson</professorname>
+			<professorname>Donald J Patterson</professorname>
+			<professorname>David Redmiles</professorname>
+			<professorname>Walt Scacchi</professorname>
+			<professorname>Richard Taylor</professorname>
+		</research>
+		<research>
+			<groupname>Computer Graphics and Visualization</groupname>
+			<professorname>David Eppstein</professorname>
+			<professorname>Michael T. Goodrich</professorname>
+			<professorname>Aditi Majumder</professorname>
+			<professorname>Gopi Meenakshisundaram</professorname>
+			<professorname>Bill Tomlinson</professorname>
+			<professorname>Shuang Zhao</professorname>
+		</research>
+		<research>
+			<groupname>Embedded Systems</groupname>
+			<professorname>Ardalan Amiri Sani</professorname>
+			<professorname>Nikil Dutt</professorname>
+			<professorname>Tony Givargis</professorname>
+			<professorname>Ian G. Harris</professorname>
+			<professorname>Ray Klefstad</professorname>
+			<professorname>Alexandru Nicolau</professorname>
+			<professorname>Isaac D. Scherson</professorname>
+			<professorname>Center for Embedded 
+Computer Systems</professorname>
+		</research>
+		<research>
+			<groupname>Medical Informatics</groupname>
+			<professorname>Pierre Baldi</professorname>
+			<professorname>Yunan Chen</professorname>
+			<professorname>Paul Dourish</professorname>
+			<professorname>Charless Fowlkes</professorname>
+			<professorname>Wayne Hayes</professorname>
+			<professorname>Gillian R Hayes</professorname>
+			<professorname>Alfred Kobsa</professorname>
+			<professorname>Richard Lathrop</professorname>
+			<professorname>Eric Mjolsness</professorname>
+			<professorname>Donald J Patterson</professorname>
+			<professorname>Babak Shahbaba</professorname>
+			<professorname>Xiaohui Xie</professorname>
+			<professorname>Kai Zheng</professorname>
+		</research>
+		<research>
+			<groupname>Databases and Data Mining</groupname>
+			<professorname>Pierre Baldi</professorname>
+			<professorname>Michael J Carey</professorname>
+			<professorname>Chen Li</professorname>
+			<professorname>Sharad Mehrotra</professorname>
+			<professorname>Padhraic Smyth</professorname>
+			<professorname>Alexander Veidenbaum</professorname>
+			<professorname>http://isg.ics.uci.edu</professorname>
+			<professorname>http://cml.ics.uci.edu</professorname>
+		</research>
+		<research>
+			<groupname>Human-Computer Interaction</groupname>
+			<professorname>Yunan Chen</professorname>
+			<professorname>Paul Dourish</professorname>
+			<professorname>Gillian R Hayes</professorname>
+			<professorname>Alfred Kobsa</professorname>
+			<professorname>Gloria Mark</professorname>
+			<professorname>Judy Olson</professorname>
+			<professorname>Gary M. Olson</professorname>
+			<professorname>Donald J Patterson</professorname>
+			<professorname>David Redmiles</professorname>
+			<professorname>Bill Tomlinson</professorname>
+			<professorname>Kai Zheng</professorname>
+		</research>
+		<research>
+			<groupname>Environmental Informatics</groupname>
+			<professorname>Pierre Baldi</professorname>
+			<professorname>Paul Dourish</professorname>
+			<professorname>Bill Tomlinson</professorname>
+		</research>
+		<research>
+			<groupname>Computational Vision research</groupname>
+			<professorname>Charless Fowlkes</professorname>
+			<professorname>Ramesh Jain</professorname>
+			<professorname>Aditi Majumder</professorname>
+			<professorname>Gopi Meenakshisundaram</professorname>
+			<professorname>Eric Mjolsness</professorname>
+		</research>
+		<research>
+			<groupname>Algorithms and Complexity</groupname>
+			<professorname>Michael Dillencourt</professorname>
+			<professorname>David Eppstein</professorname>
+			<professorname>Michael T. Goodrich</professorname>
+			<professorname>Daniel S. Hirschberg</professorname>
+			<professorname>Sandy Irani</professorname>
+			<professorname>Stanislaw Jarecki</professorname>
+			<professorname>George S. Lueker</professorname>
+			<professorname>Amelia C. Regan</professorname>
+		</research>
+		<research>
+			<groupname>Biomedical Informatics and Computational Biology</groupname>
+			<professorname>Pierre Baldi</professorname>
+			<professorname>Charless Fowlkes</professorname>
+			<professorname>Wayne Hayes</professorname>
+			<professorname>Richard Lathrop</professorname>
+			<professorname>Eric Mjolsness</professorname>
+			<professorname>Babak Shahbaba</professorname>
+			<professorname>Xiaohui Xie</professorname>
+		</research>
+		<research>
+			<groupname>Artificial Intelligence and Machine Learning</groupname>
+			<professorname>Pierre Baldi</professorname>
+			<professorname>Rina Dechter</professorname>
+			<professorname>Charless Fowlkes</professorname>
+			<professorname>Dan Frost</professorname>
+			<professorname>Alexander Ihler</professorname>
+			<professorname>Richard Lathrop</professorname>
+			<professorname>Marco  Levorato</professorname>
+			<professorname>Eric Mjolsness</professorname>
+			<professorname>Hernando Ombao</professorname>
+			<professorname>Donald J Patterson</professorname>
+			<professorname>Babak Shahbaba</professorname>
+			<professorname>Padhraic Smyth</professorname>
+			<professorname>Hal Stern</professorname>
+			<professorname>Xiaohui Xie</professorname>
+		</research>
+		<research>
+			<groupname>Computer Architecture and Design</groupname>
+			<professorname>Elaheh (Eli) Bozorgzadeh</professorname>
+			<professorname>Nikil Dutt</professorname>
+			<professorname>Tony Givargis</professorname>
+			<professorname>Ian G. Harris</professorname>
+			<professorname>Alexandru Nicolau</professorname>
+			<professorname>Isaac D. Scherson</professorname>
+			<professorname>Alexander Veidenbaum</professorname>
+		</research>
+	</institution>

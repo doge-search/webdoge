@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Systems</groupname>
+			<professorname>Gagan Agrawal</professorname>
+			<professorname>Spyros Blanas</professorname>
+			<professorname>Michael Bond</professorname>
+			<professorname>Arnab Nandi</professorname>
+			<professorname>Dhabaleswar Panda</professorname>
+			<professorname>Srinivasan Parthasarathy</professorname>
+			<professorname>Feng Qin</professorname>
+			<professorname>Atanas (Nasko) Rountev</professorname>
+			<professorname>P Sadayappan</professorname>
+			<professorname>Christopher Stewart</professorname>
+			<professorname>Mircea-Radu Teodorescu</professorname>
+			<professorname>Xiaodong Zhang</professorname>
+		</research>
+		<research>
+			<groupname>Theory &amp; Algorithms</groupname>
+			<professorname>Mikhail Belkin</professorname>
+			<professorname>Tamal Dey</professorname>
+			<professorname>Ten-Hwang Lai</professorname>
+			<professorname>Facundo Memoli</professorname>
+			<professorname>Luis Rademacher</professorname>
+			<professorname>Anastasios (Tasos) Sidiropoulos</professorname>
+			<professorname>Kenneth Supowit</professorname>
+			<professorname>Yusu Wang</professorname>
+			<professorname>Rephael Wenger</professorname>
+		</research>
+		<research>
+			<groupname>Computer Graphics</groupname>
+			<professorname>Roger Crawfis</professorname>
+			<professorname>Tamal Dey</professorname>
+			<professorname>Raghu Machiraju</professorname>
+			<professorname>Han-Wei Shen</professorname>
+			<professorname>Huamin Wang</professorname>
+			<professorname>Yusu Wang</professorname>
+			<professorname>Rephael Wenger</professorname>
+		</research>
+		<research>
+			<groupname>Networking &amp; Distributed Computing</groupname>
+			<professorname>Anish Arora</professorname>
+			<professorname>Ten-Hwang Lai</professorname>
+			<professorname>Chunyi Peng</professorname>
+			<professorname>Steven Romig</professorname>
+			<professorname>Ness Shroff</professorname>
+			<professorname>Prasun Sinha</professorname>
+			<professorname>Kannan Srinivasan</professorname>
+			<professorname>Dong Xuan</professorname>
+		</research>
+		<research>
+			<groupname>Software Engineering &amp; Programming Languages</groupname>
+			<professorname>Michael Bond</professorname>
+			<professorname>Feng Qin</professorname>
+			<professorname>Atanas (Nasko) Rountev</professorname>
+			<professorname>Paul Sivilotti</professorname>
+			<professorname>Neelam Soundarajan</professorname>
+		</research>
+		<research>
+			<groupname>Artificial Intelligence</groupname>
+			<professorname>Mikhail Belkin</professorname>
+			<professorname>B Chandrasekaran</professorname>
+			<professorname>James Davis</professorname>
+			<professorname>Eric Fosler-Lussier</professorname>
+			<professorname>Jihun Hamm</professorname>
+			<professorname>Srinivasan Parthasarathy</professorname>
+			<professorname>Luis Rademacher</professorname>
+			<professorname>Alan Ritter</professorname>
+			<professorname>Deliang Wang</professorname>
+		</research>
+	</institution>

@@ -13,9 +13,9 @@
 			<professorname>Sayfe Kiaei</professorname>
 			<professorname>Umit Ogras</professorname>
 			<professorname>Sule Ozev</professorname>
-			<professorname>Stephen Phillips*</professorname>
+			<professorname>Stephen Phillips</professorname>
 			<professorname>Jae-sun Seo</professorname>
-			<professorname>George Trichopoulos*</professorname>
+			<professorname>George Trichopoulos</professorname>
 			<professorname>Hongyu Yu</professorname>
 			<professorname>Shimeng Yu</professorname>
 		</research>
@@ -23,21 +23,21 @@
 			<groupname>Signal processing systems and communications</groupname>
 			<professorname>Visar Berisha</professorname>
 			<professorname>Daniel Bliss</professorname>
-			<professorname>Chaitali Chakrabarti*</professorname>
+			<professorname>Chaitali Chakrabarti</professorname>
 			<professorname>Douglas Cochran</professorname>
 			<professorname>Tolga Duman</professorname>
 			<professorname>David Frakes</professorname>
 			<professorname>Lina Karam</professorname>
-			<professorname>Sayfe Kiaei*</professorname>
+			<professorname>Sayfe Kiaei</professorname>
 			<professorname>Oliver Kosut</professorname>
-			<professorname>Ying-Cheng Lai*</professorname>
+			<professorname>Ying-Cheng Lai</professorname>
 			<professorname>Antonia Papandreou-Suppappola</professorname>
 			<professorname>Martin Reisslein</professorname>
-			<professorname>Lalitha Sankar*</professorname>
+			<professorname>Lalitha Sankar</professorname>
 			<professorname>Anna Scaglione</professorname>
 			<professorname>Andreas Spanias</professorname>
 			<professorname>Cihan Tepedelenlioglu</professorname>
-			<professorname>Pavan Turaga*</professorname>
+			<professorname>Pavan Turaga</professorname>
 			<professorname>Lei Ying</professorname>
 			<professorname>Junshan Zhang</professorname>
 			<professorname>Yanchao Zhang</professorname>
@@ -49,36 +49,35 @@
 			<professorname>Gerald Heydt</professorname>
 			<professorname>Keith Holbert</professorname>
 			<professorname>George Karady</professorname>
-			<professorname>Richard King*</professorname>
-			<professorname>Oliver Kosut*</professorname>
+			<professorname>Richard King</professorname>
+			<professorname>Oliver Kosut</professorname>
 			<professorname>Qin Lei</professorname>
 			<professorname>JiangchaoQin</professorname>
-			<professorname>Armando Rodriguez*</professorname>
+			<professorname>Armando Rodriguez</professorname>
 			<professorname>Lalitha Sankar</professorname>
-			<professorname>Anna Scaglione*</professorname>
+			<professorname>Anna Scaglione</professorname>
 			<professorname>Daniel Tylavsky</professorname>
 			<professorname>Vijay Vittal</professorname>
-			<professorname>Junshan Zhang*</professorname>
+			<professorname>Junshan Zhang</professorname>
 		</research>
 		<research>
 			<groupname>Computer Engineering</groupname>
-			<professorname>John Brunhaver*</professorname>
-			<professorname>Yu Cao*</professorname>
-			<professorname>Chaitali Chakrabarti*</professorname>
-			<professorname>Lawrence Clark*</professorname>
-			<professorname>Lina Karam*</professorname>
-			<professorname>Umit Ogras*</professorname>
-			<professorname>Martin Reisslein*</professorname>
-			<professorname>Jae-Sun Seo*</professorname>
-			<professorname>Jennie Si*</professorname>
-			<professorname>Andreas Spanias*</professorname>
-			<professorname>Konstantinos S. Tsakalis*</professorname>
-			<professorname>Dragica Vasileska*</professorname>
-			<professorname>Lei Ying*</professorname>
-			<professorname>Shimeng Yu*</professorname>
-			<professorname>Junshan Zhang*</professorname>
-			<professorname>Yanchao Zhang*</professorname>
-			<professorname> </professorname>
+			<professorname>John Brunhaver</professorname>
+			<professorname>Yu Cao</professorname>
+			<professorname>Chaitali Chakrabarti</professorname>
+			<professorname>Lawrence Clark</professorname>
+			<professorname>Lina Karam</professorname>
+			<professorname>Umit Ogras</professorname>
+			<professorname>Martin Reisslein</professorname>
+			<professorname>Jae-Sun Seo</professorname>
+			<professorname>Jennie Si</professorname>
+			<professorname>Andreas Spanias</professorname>
+			<professorname>Konstantinos S. Tsakalis</professorname>
+			<professorname>Dragica Vasileska</professorname>
+			<professorname>Lei Ying</professorname>
+			<professorname>Shimeng Yu</professorname>
+			<professorname>Junshan Zhang</professorname>
+			<professorname>Yanchao Zhang</professorname>
 		</research>
 		<research>
 			<groupname>Electromagnetic, antennas and microwave circuits</groupname>
@@ -102,11 +101,11 @@
 		</research>
 		<research>
 			<groupname>Physical electronics and photonics (formerly Solid-State Electronics)</groupname>
-			<professorname>David Allee*</professorname>
-			<professorname>Hugh Barnaby*</professorname>
-			<professorname>Jennifer Blain Christen*</professorname>
-			<professorname>Yu Cao*</professorname>
-			<professorname>Junseok Chae*</professorname>
+			<professorname>David Allee</professorname>
+			<professorname>Hugh Barnaby</professorname>
+			<professorname>Jennifer Blain Christen</professorname>
+			<professorname>Yu Cao</professorname>
+			<professorname>Junseok Chae</professorname>
 			<professorname>David Ferry</professorname>
 			<professorname>Gennady Gildenblat</professorname>
 			<professorname>Stephen Goodnick</professorname>
@@ -119,7 +118,7 @@
 			<professorname>Ying-Cheng Lai</professorname>
 			<professorname>George Maracas</professorname>
 			<professorname>Cun-Zheng Ning</professorname>
-			<professorname>George Pan*</professorname>
+			<professorname>George Pan</professorname>
 			<professorname>Stephen Phillips</professorname>
 			<professorname>Marco Saraniti</professorname>
 			<professorname>Brian Skromme</professorname>
@@ -130,7 +129,7 @@
 			<professorname>Yu Yao</professorname>
 			<professorname>Hongbin Yu</professorname>
 			<professorname>Hongyu Yu</professorname>
-			<professorname>Shimeng Yu*</professorname>
+			<professorname>Shimeng Yu</professorname>
 			<professorname>Yong-Hang Zhang</professorname>
 			<professorname>Yuji Zhao</professorname>
 		</research>

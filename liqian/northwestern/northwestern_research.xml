@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Theory</groupname>
+			<professorname>Anindya De</professorname>
+			<professorname>Jason Hartline</professorname>
+			<professorname>Ming-Yang Kao</professorname>
+			<professorname>Aravindan Vijayaraghavan</professorname>
+			<professorname>Hai Zhou</professorname>
+		</research>
+		<research>
+			<groupname>Systems and Networking</groupname>
+			<professorname>Fabian Bustamante</professorname>
+			<professorname>Simone Campanoni</professorname>
+			<professorname>Yan Chen</professorname>
+			<professorname>Peter Dinda</professorname>
+			<professorname>Jennie Duggan</professorname>
+			<professorname>Robby Findler</professorname>
+			<professorname>Aleksandar Kuzmanovic</professorname>
+			<professorname>Peter Scheuermann</professorname>
+			<professorname>Jesse Tov</professorname>
+			<professorname>Goce Trajcevski</professorname>
+			<professorname>Randall Berry</professorname>
+			<professorname>Alok Choudhary</professorname>
+			<professorname>Nikos Hardavellas</professorname>
+			<professorname>Larry Henschen</professorname>
+			<professorname>Russell Joseph</professorname>
+			<professorname>Gokhan Memik</professorname>
+			<professorname>Hai Zhou</professorname>
+		</research>
+		<research>
+			<groupname>Artificial Intelligence and Machine Learning</groupname>
+			<professorname>Brenna Argall</professorname>
+			<professorname>Larry Birnbaum</professorname>
+			<professorname>Oliver Cossairt</professorname>
+			<professorname>Douglas Downey</professorname>
+			<professorname>Ken Forbus</professorname>
+			<professorname>Kristian Hammond</professorname>
+			<professorname>Thomas Hinrichs</professorname>
+			<professorname>Ian Horswill</professorname>
+			<professorname>Bryan Pardo</professorname>
+			<professorname>Chris Riesbeck</professorname>
+			<professorname>Michael Rubenstein</professorname>
+			<professorname>Sara Owsley Sood </professorname>
+			<professorname>Haoqi Zhang</professorname>
+			<professorname>Aggelos Katsaggelos</professorname>
+		</research>
+		<research>
+			<groupname>Robotics</groupname>
+			<professorname>Brenna Argall</professorname>
+			<professorname>Oliver Cossairt</professorname>
+			<professorname>Michael Rubenstein</professorname>
+		</research>
+		<research>
+			<groupname>Human-Computer Interaction</groupname>
+			<professorname>Larry Birnbaum</professorname>
+			<professorname>Jeremy Birnholtz</professorname>
+			<professorname>Elizabeth Gerber</professorname>
+			<professorname>Darren Gergle</professorname>
+			<professorname>Kristian Hammond</professorname>
+			<professorname>Michael Horn</professorname>
+			<professorname>Ian Horswill</professorname>
+			<professorname>Bryan Pardo</professorname>
+			<professorname>Anne Marie Piper</professorname>
+			<professorname>Uri Wilensky</professorname>
+			<professorname>Haoqi Zhang</professorname>
+		</research>
+		<research>
+			<groupname>Graphics</groupname>
+			<professorname>Oliver Cossairt</professorname>
+			<professorname>Jack Tumblin</professorname>
+		</research>
+	</institution>

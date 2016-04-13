@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Control Systems</groupname>
+			<professorname>Constantino M. Lagoa</professorname>
+			<professorname>Jeffrey Schiano</professorname>
+			<professorname>Minghui Zhu</professorname>
+		</research>
+		<research>
+			<groupname>Theoretical Computer Science Group</groupname>
+			<professorname>Piotr Berman</professorname>
+			<professorname>Martin Furer</professorname>
+			<professorname>Sean Hallgren</professorname>
+			<professorname>Sofya Raskhodnikova</professorname>
+			<professorname>Adam Smith</professorname>
+			<professorname>Viveck Cadambe</professorname>
+			<professorname>Paul Medvedev</professorname>
+		</research>
+		<research>
+			<groupname>Cyber Security</groupname>
+			<professorname>Chita Das</professorname>
+			<professorname>Thomas LaPorta</professorname>
+			<professorname>Patrick McDaniel</professorname>
+			<professorname>Trent Jaeger</professorname>
+			<professorname>Adam Smith</professorname>
+			<professorname>Aylin Yener</professorname>
+			<professorname>Sencun Zhu</professorname>
+		</research>
+		<research>
+			<groupname>Computational Biology and Biomedicine Area</groupname>
+			<professorname>Raj Acharya</professorname>
+			<professorname>Piotr Berman</professorname>
+			<professorname>Yanxi Liu</professorname>
+			<professorname>Kamesh Madduri</professorname>
+			<professorname>Paul Medvedev</professorname>
+		</research>
+		<research>
+			<groupname>Communications and Networking</groupname>
+			<professorname>Viveck Cadambe</professorname>
+			<professorname>John F. Doherty</professorname>
+			<professorname>Mohsen Kavehrad</professorname>
+			<professorname>George Kesidis</professorname>
+			<professorname>Aylin Yener</professorname>
+		</research>
+		<research>
+			<groupname>Pervasive Data Access Group</groupname>
+			<professorname>Wang-Chien Lee</professorname>
+		</research>
+	</institution>
