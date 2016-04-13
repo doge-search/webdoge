@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Social and Cognitive Networks Academic Research Center</groupname>
+			<professorname>Sibel Adali</professorname>
+			<professorname>Mark Goldberg</professorname>
+			<professorname>Jim Hendler</professorname>
+			<professorname>Malik Magdon-Ismail</professorname>
+			<professorname>Boleslaw Szymanski</professorname>
+		</research>
+		<research>
+			<groupname>Tetherless World Constellation</groupname>
+			<professorname>Peter Fox</professorname>
+			<professorname>James Hendler</professorname>
+			<professorname>Joanne Luciano</professorname>
+			<professorname>Deborah McGuinness</professorname>
+		</research>
+		<research>
+			<groupname>Data Science: Data Mining; Machine and Computational Learning; Algorithms for Massive Data Sets</groupnam>
+			<professorname>Kristin Bennett</professorname>
+			<professorname>Petros Drineas</professorname>
+			<professorname>Mark Goldberg</professorname>
+			<professorname>Malik Magdon-Ismail</professorname>
+			<professorname>Bülent Yener</professorname>
+			<professorname>Mohammed J. Zaki</professorname>
+		</research>
+		<research>
+			<groupname>Algorithms and Theory</groupname>
+			<professorname>Elliot Anshelevich</professorname>
+			<professorname>Petros Drineas</professorname>
+			<professorname>Mark Goldberg</professorname>
+			<professorname>Mukkai Krishnamoorthy</professorname>
+			<professorname>Malik Magdon-Ismail</professorname>
+			<professorname>Bülent Yener</professorname>
+			<professorname>Robert McNaughton</professorname>
+			<professorname>Dave Musser</professorname>
+		</research>
+		<research>
+			<groupname>Computer Vision</groupname>
+			<professorname>Charles Stewart</professorname>
+		</research>
+		<research>
+			<groupname>Robotics</groupname>
+			<professorname>Jeff Trinkle</professorname>
+		</research>
+		<research>
+			<groupname>Computational Science and Engineering</groupname>
+			<professorname>Mark Shephard</professorname>
+			<professorname>Malik Magdon-Ismail</professorname>
+			<professorname>Boleslaw Szymanski</professorname>
+		</research>
+		<research>
+			<groupname>Computer Graphics</groupname>
+			<professorname>Barbara Cutler</professorname>
+			<professorname>Wm. Randolph Franklin</professorname>
+		</research>
+		<research>
+			<groupname>Bioinformatics</groupname>
+			<professorname>Chris Bystroff</professorname>
+			<professorname>Lee Newberg</professorname>
+			<professorname>Bülent Yener</professorname>
+			<professorname>Mohammed Zaki</professorname>
+		</research>
+		<research>
+			<groupname>Pervasive Computing and Networking</groupname>
+			<professorname>Chris Carothers</professorname>
+			<professorname>Boleslaw Szymanski</professorname>
+			<professorname>Carlos Varela</professorname>
+			<professorname>Bülent Yener</professorname>
+		</research>
+		<research>
+			<groupname>Security</groupname>
+			<professorname>Malik Magdon-Ismail</professorname>
+			<professorname>Boleslaw Szymanski</professorname>
+			<professorname>Bülent Yener</professorname>
+			<professorname>Mark Goldberg</professorname>
+		</research>
+		<research>
+			<groupname>CogWorks Laboratory</groupname>
+			<professorname>Wayne Gray</professorname>
+		</research>
+		<research>
+			<professorname>Selmer Bringsjord</professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages and Software Engineering</groupname>
+			<professorname>Ana Milanova</professorname>
+			<professorname>Carlos Varela</professorname>
+			<professorname>Dave Musser</professorname>
+		</research>
+		<research>
+			<groupname>Database Systems</groupname>
+			<professorname>Sibel Adali</professorname>
+			<professorname>David Spooner</professorname>
+		</research>
+		<research>
+			<groupname>Computational Geometry</groupname>
+			<professorname>Barbara Cutler</professorname>
+			<professorname>Wm. Randolph Franklin</professorname>
+		</research>
+	</institution>

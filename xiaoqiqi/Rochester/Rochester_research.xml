@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Computer Systems</groupname>
+			<professorname>John Criswell</professorname>
+			<professorname>Chen Ding</professorname>
+			<professorname>Sandhya Dwarkadas</professorname>
+			<professorname>Engin Ipek</professorname>
+			<professorname>Michael Scott</professorname>
+			<professorname>Kai Shen</professorname>
+			<professorname>Wendi Heinzelman</professorname>
+			<professorname>Michael Huang</professorname>
+		</research>
+		<research>
+			<groupname>Theory</groupname>
+			<professorname>Lane A. Hemaspaandra</professorname>
+			<professorname>Joel Seiferas</professorname>
+			<professorname>Daniel Stefankovic</professorname>
+			<professorname>Muthuramakrishnan Venkitasubramaniam</professorname>
+		</research>
+		<research>
+			<groupname>Artificial Intelligence</groupname>
+			<professorname>James Allen</professorname>
+			<professorname>Chris Brown</professorname>
+			<professorname>Daniel Gildea</professorname>
+			<professorname>Henry Kautz</professorname>
+			<professorname>Ji Liu</professorname>
+			<professorname>Jiebo Luo</professorname>
+			<professorname>Randal Nelson</professorname>
+			<professorname>Lenhart Schubert</professorname>
+		</research>
+		<research>
+			<groupname>Human-Computer Interaction</groupname>
+			<professorname>Henry Kautz</professorname>
+			<professorname>M. Ehsan Hoque</professorname>
+			<professorname>Philip Guo</professorname>
+		</research>
+	</institution>

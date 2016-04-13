@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>BUSec</groupname>
+			<professorname>Ran Canetti</professorname>
+			<professorname>Sharon Goldberg</professorname>
+			<professorname>Leonid Reyzin</professorname>
+			<professorname>Nikos Triandopoulos</professorname>
+			<professorname>Foteini Baldimtsi</professorname>
+			<professorname>Yossi Gilad</professorname>
+			<professorname>Alessandra Scafuro</professorname>
+			<professorname>Yilei Chen</professorname>
+			<professorname>Ethan Heilman</professorname>
+			<professorname>Aanchal Malhotra</professorname>
+			<professorname>Omer Paneth</professorname>
+			<professorname>Dimitris Papadopoulos</professorname>
+			<professorname>Oxana Poburinnaya</professorname>
+			<professorname>Davide Prosepio</professorname>
+			<professorname>Sophia Yakoubov</professorname>
+		</research>
+		<research>
+			<groupname>BOSS</groupname>
+			<professorname>Richard West</professorname>
+			<professorname>Ye Li</professorname>
+			<professorname>Eric Missimer</professorname>
+			<professorname>Ying (Chris) Ye</professorname>
+			<professorname>Zhuoqun Cheng</professorname>
+			<professorname>Katherine Zhao</professorname>
+			<professorname>Matthew Danish</professorname>
+		</research>
+		<research>
+			<groupname>DBLab</groupname>
+			<professorname>Evimaria Terzi</professorname>
+			<professorname>Xianrui Meng</professorname>
+			<professorname>Sofia Nikolakaki</professorname>
+			<professorname> Bashir Rastegarpanah </professorname>
+			<professorname> Natali Ruchansky </professorname>
+			<professorname> Baichuan Zhou</professorname>
+			<professorname> Haohan Zhu </professorname>
+			<professorname>Brown</professorname>
+			<professorname> Esther Galbrun </professorname>
+			<professorname>Stevens</professorname>
+			<professorname> Vassilis Athitsos </professorname>
+			<professorname> George Brova </professorname>
+			<professorname> Bogdan Buricea </professorname>
+			<professorname> Ching Chang </professorname>
+			<professorname> Justin Davis </professorname>
+			<professorname> Marios Hadjieleftheriou </professorname>
+			<professorname> Feifei Li</professorname>
+			<professorname> Panagiotis Papapetrou </professorname>
+			<professorname> Michalis Potamias </professorname>
+			<professorname> Yangui Tao</professorname>
+			<professorname> Lisi Wand </professorname>
+			<professorname> Xuan Zhang </professorname>
+		</research>
+		<research>
+			<groupname>IVC</groupname>
+			<professorname>Margrit Betke</professorname>
+			<professorname>Stan Sclaroff</professorname>
+			<professorname>Erik Learned-Miller</professorname>
+			<professorname>Qinxun Bai</professorname>
+			<professorname>Sarah Adel Bargal</professorname>
+			<professorname>Mikhail Breslav</professorname>
+			<professorname>Fatih ak谋r</professorname>
+			<professorname>Wenxin Feng</professorname>
+			<professorname>Kun He</professorname>
+			<professorname>Ajjen Joshi</professorname>
+			<professorname>Shugao Ma</professorname>
+			<professorname>Mehrnoosh Sameki</professorname>
+			<professorname>Jianming Zhang</professorname>
+		</research>
+		<research>
+			<groupname>NRG</groupname>
+			<professorname>Azer Bestavros</professorname>
+			<professorname>John Byers</professorname>
+			<professorname>Mark Crovella</professorname>
+			<professorname>Ibrahim Matta</professorname>
+			<professorname>Flavio Esposito</professorname>
+			<professorname>Gonca Gursun</professorname>
+			<professorname>Richard Skowyra</professorname>
+			<professorname>Larissa Spinelli</professorname>
+			<professorname>Yuefeng Wang</professorname>
+		</research>
+		<research>
+			<groupname>TCS</groupname>
+			<professorname>Peter Gacs</professorname>
+			<professorname>Steve Homer</professorname>
+			<professorname>Leonid Levin</professorname>
+			<professorname>Lorenzo Orecchia</professorname>
+			<professorname>Ilkka Törmä</professorname>
+			<professorname>Jeffrey Finkelstein</professorname>
+			<professorname>Maryam Ghasemi</professorname>
+			<professorname>Tomislav Petrović</professorname>
+			<professorname>Zhenyu Liao</professorname>
+		</research>
+	</institution>

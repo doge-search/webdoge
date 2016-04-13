@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Artificial Intelligence &amp; Robotics</groupname>
+			<professorname> JordanBoyd-Graber </professorname>
+			<professorname> ElizabethBradley </professorname>
+			<professorname> LijunChen </professorname>
+			<professorname> AaronClauset </professorname>
+			<professorname> ElianaColunga </professorname>
+			<professorname> NikolausCorrell </professorname>
+			<professorname> RobinDowell-Deen </professorname>
+			<professorname> MichaelEisenberg </professorname>
+			<professorname> EricFrew </professorname>
+			<professorname> Rafael M.Frongillo </professorname>
+			<professorname> Mark D.Gross </professorname>
+			<professorname> Rhonda Hoenigman  </professorname>
+			<professorname> LawrenceHunter </professorname>
+			<professorname> QinLv </professorname>
+			<professorname> James H.Martin </professorname>
+			<professorname> MichaelMozer </professorname>
+			<professorname> MarthaPalmer </professorname>
+			<professorname> AlexanderRepenning </professorname>
+			<professorname> GabeSibley </professorname>
+			<professorname> TamaraSumner </professorname>
+			<professorname> DanielSzafir </professorname>
+			<professorname> WayneWard </professorname>
+		</research>
+		<research>
+			<groupname>Computational Biology</groupname>
+			<professorname> JohnBennett </professorname>
+			<professorname> AaronClauset </professorname>
+			<professorname> RobinDowell-Deen </professorname>
+			<professorname> LawrenceHunter </professorname>
+			<professorname> RobKnight </professorname>
+		</research>
+		<research>
+			<groupname>Human-Centered Computing</groupname>
+			<professorname> KennethAnderson </professorname>
+			<professorname> JohnBennett </professorname>
+			<professorname> AaronClauset </professorname>
+			<professorname> AnnEisenberg </professorname>
+			<professorname> MichaelEisenberg </professorname>
+			<professorname> Mark D.Gross </professorname>
+			<professorname> ShaunKane </professorname>
+			<professorname> ClaytonLewis </professorname>
+			<professorname> James H.Martin </professorname>
+			<professorname> LeysiaPalen </professorname>
+			<professorname> MarthaPalmer </professorname>
+			<professorname> AlexanderRepenning </professorname>
+			<professorname> BenShapiro </professorname>
+			<professorname> TamaraSumner </professorname>
+			<professorname> DanielSzafir </professorname>
+			<professorname> WayneWard </professorname>
+			<professorname> TomYeh </professorname>
+		</research>
+		<research>
+			<groupname>Numerical &amp; Scientific Computing</groupname>
+			<professorname> ElizabethBradley </professorname>
+			<professorname> JedBrown </professorname>
+			<professorname> RichardByrd </professorname>
+			<professorname> Xiao-ChuanCai </professorname>
+			<professorname> AaronClauset </professorname>
+			<professorname> KennyGruchalla </professorname>
+			<professorname> DavidHall </professorname>
+			<professorname> ThomasHauser </professorname>
+			<professorname> ElizabethJessup </professorname>
+			<professorname> TarekMathew </professorname>
+			<professorname> WillemSchreüder </professorname>
+			<professorname> HenryTufo </professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages &amp; Software Engineering</groupname>
+			<professorname> KennethAnderson </professorname>
+			<professorname> JohnBlack </professorname>
+			<professorname> ElizabethBoese </professorname>
+			<professorname> PavolCerny </professorname>
+			<professorname> Bor‐Yuh EvanChang </professorname>
+			<professorname> MatthewHammer </professorname>
+			<professorname> EricKeller </professorname>
+			<professorname> RogerKing </professorname>
+			<professorname> SriramSankaranarayanan </professorname>
+			<professorname> JudyStafford </professorname>
+		</research>
+		<research>
+			<groupname>Systems &amp; Networking</groupname>
+			<professorname> JohnBennett </professorname>
+			<professorname> JohnBlack </professorname>
+			<professorname> TimothyBrown </professorname>
+			<professorname> LijunChen </professorname>
+			<professorname> DirkGrunwald </professorname>
+			<professorname> SangtaeHa </professorname>
+			<professorname> RichardHan </professorname>
+			<professorname> QinLv </professorname>
+			<professorname> ShivakantMishra </professorname>
+			<professorname> CalebPhillips </professorname>
+			<professorname> DouglasSicker </professorname>
+			<professorname> JudyStafford </professorname>
+		</research>
+		<research>
+			<groupname>Theory of Computing</groupname>
+			<professorname> JohnBlack </professorname>
+			<professorname> Bor‐Yuh EvanChang </professorname>
+			<professorname> AndrzejEhrenfeucht </professorname>
+			<professorname> Rafael M.Frongillo </professorname>
+			<professorname> GrzegorzRozenberg </professorname>
+			<professorname> SriramSankaranarayanan </professorname>
+		</research>
+	</institution>

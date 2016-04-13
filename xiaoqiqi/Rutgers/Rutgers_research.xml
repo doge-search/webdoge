@@ -1,0 +1,205 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Computer Architecture</groupname>
+			<professorname>Abhishek Bhattacharjee</professorname>
+			<professorname>Santosh Nagarakatte (RAPL)</professorname>
+		</research>
+		<research>
+			<groupname>Computer Security</groupname>
+			<professorname>David Cash</professorname>
+			<professorname>Vinod Ganapathy</professorname>
+			<professorname>Liviu Iftode (DISCO)</professorname>
+			<professorname>Naftaly Minsky</professorname>
+			<professorname>Santosh Nagarakatte (RAPL)</professorname>
+			<professorname>Rebecca Wright</professorname>
+		</research>
+		<research>
+			<groupname>Computer Systems (Operating Systems)</groupname>
+			<professorname>Abhishek Bhattacharjee</professorname>
+			<professorname>Martin Farach-Colton</professorname>
+			<professorname>Liviu Iftode (DISCO)</professorname>
+			<professorname>Thu Nguyen (PANIC)</professorname>
+		</research>
+		<research>
+			<groupname>Cyber-Physcial Systems</groupname>
+			<professorname>Abhishek Bhattacharjee</professorname>
+			<professorname>Ulrich Kremer (EEL)</professorname>
+		</research>
+		<research>
+			<groupname>Databases and Information Systems</groupname>
+			<professorname>Alex Borgida</professorname>
+			<professorname>Martin Farach-Colton</professorname>
+			<professorname>Tomasz Imielinski</professorname>
+			<professorname>Amelie Marian</professorname>
+			<professorname>Muthu Muthukrishnan</professorname>
+		</research>
+		<research>
+			<groupname>High-Performance Computing</groupname>
+			<professorname>Abhishek Bhattacharjee</professorname>
+			<professorname>Thu Nguyen (PANIC)</professorname>
+			<professorname>Manish Parashar (RDI2)</professorname>
+		</research>
+		<research>
+			<groupname>Mobile Systems and Networks</groupname>
+			<professorname>Liviu Iftode (DISCO)</professorname>
+			<professorname>Richard P. Martin (WINLAB)</professorname>
+			<professorname>Badri Nath</professorname>
+		</research>
+		<research>
+			<groupname>Networks and Distributed Systems</groupname>
+			<professorname>Liviu Iftode (DISCO)</professorname>
+			<professorname>Richard P. Martin (WINLAB)</professorname>
+			<professorname>Naftaly Minsky</professorname>
+			<professorname>Badri Nath</professorname>
+			<professorname>Thu Nguyen (PANIC)</professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages and Compilers</groupname>
+			<professorname>Abhishek Bhattacharjee</professorname>
+			<professorname>Santosh Nagarakatte (RAPL)</professorname>
+			<professorname>Ulrich Kremer (EEL)</professorname>
+			<professorname>Zheng (Eddy) Zhang</professorname>
+		</research>
+		<research>
+			<groupname>Software Engineering</groupname>
+			<professorname>Alex Borgida</professorname>
+			<professorname>Vinod Ganapathy</professorname>
+			<professorname>Naftaly Minsky</professorname>
+		</research>
+		<research>
+			<groupname>Artificial Intelligence</groupname>
+			<professorname>Kostas Bekris</professorname>
+			<professorname>Alex Borgida</professorname>
+			<professorname>Abdeslam Boularias</professorname>
+			<professorname>Ahmed Elgammal</professorname>
+			<professorname>Mubbasir Kapadia</professorname>
+			<professorname>Casimir Kulikowski</professorname>
+			<professorname>Konstantinos Michmizos</professorname>
+			<professorname>Vladimir Pavlovic</professorname>
+			<professorname>Louis Steinberg</professorname>
+			<professorname>Matthew Stone</professorname>
+			<professorname>Jingjin Yu</professorname>
+		</research>
+		<research>
+			<groupname>Computational Biomedicine, Medical Imaging and Bioinformatics</groupname>
+			<professorname>Casimir Kulikowski</professorname>
+			<professorname>Dimitri Metaxas</professorname>
+			<professorname>Alexander Schliep</professorname>
+		</research>
+		<research>
+			<groupname>Computational Neuroscience</groupname>
+			<professorname>Dimitri Metaxas</professorname>
+			<professorname>Konstantinos Michmizos</professorname>
+		</research>
+		<research>
+			<groupname>Computer Animation, Graphics and Simulation</groupname>
+			<professorname>Kostas Bekris</professorname>
+			<professorname>Mubbasir Kapadia</professorname>
+			<professorname>Dimitri Metaxas</professorname>
+			<professorname>Matthew Stone</professorname>
+		</research>
+		<research>
+			<groupname>Computer Vision</groupname>
+			<professorname>Ahmed Elgammal</professorname>
+			<professorname>Mubbasir Kapadia</professorname>
+			<professorname>Casimir Kulikowski</professorname>
+			<professorname>Dimitri Metaxas</professorname>
+			<professorname>Vladimir Pavlovic</professorname>
+		</research>
+		<research>
+			<groupname>Data Science and Social Networks</groupname>
+			<professorname>Tomasz Imielinski</professorname>
+			<professorname>Amelie Marian</professorname>
+			<professorname>Dimitri Metaxas</professorname>
+		</research>
+		<research>
+			<groupname>Knowledge Representation</groupname>
+			<professorname>Alex Borgida</professorname>
+		</research>
+		<research>
+			<groupname>Language Technologies</groupname>
+			<professorname>Matthew Stone</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning</groupname>
+			<professorname>Pranjal Awasthi</professorname>
+			<professorname>Abdeslam Boularias</professorname>
+			<professorname>Ping Li</professorname>
+			<professorname>Dimitri Metaxas</professorname>
+			<professorname>Konstantinos Michmizos</professorname>
+			<professorname>Vladimir Pavlovic</professorname>
+			<professorname>Louis Steinberg</professorname>
+		</research>
+		<research>
+			<groupname>Robotics</groupname>
+			<professorname>Kostas Bekris</professorname>
+			<professorname>Abdeslam Boularias</professorname>
+			<professorname>Mubbasir Kapadia</professorname>
+			<professorname>Konstantinos Michmizos</professorname>
+			<professorname>Jingjin Yu</professorname>
+		</research>
+		<research>
+			<groupname>Big Data Algorithmics</groupname>
+			<professorname>Martin Farach-Colton</professorname>
+			<professorname>Ping Li</professorname>
+			<professorname>Muthu Muthukrishnan</professorname>
+			<professorname>Mike Saks</professorname>
+			<professorname>Rebecca Wright</professorname>
+		</research>
+		<research>
+			<groupname>Computational Complexity Theory</groupname>
+			<professorname>Eric Allender</professorname>
+			<professorname>Swastik Kopparty</professorname>
+			<professorname>Mike Saks</professorname>
+			<professorname>Shubhangi Saraf</professorname>
+			<professorname>Mario Szegedy</professorname>
+		</research>
+		<research>
+			<groupname>Computational Geometry</groupname>
+			<professorname>Bahman Kalantari</professorname>
+			<professorname>William Steiger</professorname>
+		</research>
+		<research>
+			<groupname>Cryptography / Privacy</groupname>
+			<professorname>David Cash</professorname>
+			<professorname>Rebecca Wright</professorname>
+		</research>
+		<research>
+			<groupname>Data Structures</groupname>
+			<professorname>Martin Farach-Colton</professorname>
+			<professorname>Michael Fredman</professorname>
+		</research>
+		<research>
+			<groupname>Error-Correcting Codes</groupname>
+			<professorname>Swastik Kopparty</professorname>
+			<professorname>Shubhangi Saraf</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning</groupname>
+			<professorname>Pranjal Awasthi</professorname>
+			<professorname>Bahman Kalantari</professorname>
+			<professorname>Ping Li</professorname>
+		</research>
+		<research>
+			<groupname>Mathematical Programming and Combinatorial Optimization</groupname>
+			<professorname>Bahman Kalantari</professorname>
+		</research>
+		<research>
+			<groupname>Numerical Methods</groupname>
+			<professorname>Apostolos Gerasoulis</professorname>
+			<professorname>Bahman Kalantari</professorname>
+		</research>
+		<research>
+			<groupname>Quantum Computing</groupname>
+			<professorname>Mario Szegedy</professorname>
+		</research>
+		<research>
+			<groupname>Streaming Algorithms</groupname>
+			<professorname>Martin Farach-Colton</professorname>
+			<professorname>Ping Li</professorname>
+			<professorname>Muthu Muthukrishnan</professorname>
+			<professorname>Mike Saks</professorname>
+			<professorname>Mario Szegedy</professorname>
+		</research>
+	</institution>

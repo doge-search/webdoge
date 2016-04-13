@@ -1,0 +1,414 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Algorithms for Big Data</groupname>
+			<professorname>Funda Ergun</professorname>
+			<professorname>Qin Zhang</professorname>
+		</research>
+		<research>
+			<groupname>Artificial Intelligence</groupname>
+			<professorname>Randall Beer</professorname>
+			<professorname>David Crandall</professorname>
+			<professorname>Hamid Ekbia</professorname>
+			<professorname>Nathan Ensmenger</professorname>
+			<professorname>Michael Gasser</professorname>
+			<professorname>Andrew Hanson</professorname>
+			<professorname>David Leake</professorname>
+			<professorname>Filippo Menczer</professorname>
+			<professorname>Sriraam Natarajan</professorname>
+			<professorname>Christopher Raphael</professorname>
+			<professorname>Luis Rocha</professorname>
+			<professorname>Michael Ryoo</professorname>
+			<professorname>Chung-chieh Shan</professorname>
+			<professorname>Peter Todd</professorname>
+			<professorname>Martha White</professorname>
+		</research>
+		<research>
+			<groupname>Artificial Life</groupname>
+			<professorname>Randall Beer</professorname>
+			<professorname>Eduardo Izquierdo</professorname>
+			<professorname>Filippo Menczer</professorname>
+			<professorname>Luis Rocha</professorname>
+			<professorname>Peter Todd</professorname>
+		</research>
+		<research>
+			<groupname>Bioinformatics</groupname>
+			<professorname>Yong-Yeol Ahn</professorname>
+			<professorname>Volker Brendel</professorname>
+			<professorname>Mehmet Dalkilic</professorname>
+			<professorname>Simon DeDeo</professorname>
+			<professorname>Matthew Hahn</professorname>
+			<professorname>Paul Purdom</professorname>
+			<professorname>Predrag Radivojac</professorname>
+			<professorname>Luis Rocha</professorname>
+			<professorname>Cenk Sahinalp</professorname>
+			<professorname>Haixu Tang</professorname>
+			<professorname>David Wild</professorname>
+			<professorname>Yuzhen Ye</professorname>
+		</research>
+		<research>
+			<groupname>Cheminformatics</groupname>
+			<professorname>Ying Ding</professorname>
+			<professorname>David Wild</professorname>
+		</research>
+		<research>
+			<groupname>Cognitive Science</groupname>
+			<professorname>Yong-Yeol Ahn</professorname>
+			<professorname>Randall Beer</professorname>
+			<professorname>Katy Börner</professorname>
+			<professorname>Simon DeDeo</professorname>
+			<professorname>Hamid Ekbia</professorname>
+			<professorname>Michael Gasser</professorname>
+			<professorname>Andrew Hanson</professorname>
+			<professorname>Eduardo Izquierdo</professorname>
+			<professorname>David Leake</professorname>
+			<professorname>Filippo Menczer</professorname>
+			<professorname>Staša Milojevic</professorname>
+			<professorname>Sharlene Newman</professorname>
+			<professorname>Christena Nippert-Eng</professorname>
+			<professorname>John Paolillo</professorname>
+			<professorname>Luis Rocha</professorname>
+			<professorname>Selma Sabanovic</professorname>
+			<professorname>Chung-chieh Shan</professorname>
+			<professorname>Peter Todd</professorname>
+		</research>
+		<research>
+			<groupname>Complex Networks and Systems</groupname>
+			<professorname>Yong-Yeol Ahn</professorname>
+			<professorname>Randall Beer</professorname>
+			<professorname>Johan Bollen</professorname>
+			<professorname>Katy Börner</professorname>
+			<professorname>Giovanni Luca Ciampaglia</professorname>
+			<professorname>David Crandall</professorname>
+			<professorname>Simon DeDeo</professorname>
+			<professorname>Ying Ding</professorname>
+			<professorname>Alessandro Flammini</professorname>
+			<professorname>Matthew Francisco</professorname>
+			<professorname>Eduardo Izquierdo</professorname>
+			<professorname>Filippo Menczer</professorname>
+			<professorname>Staša Milojevic</professorname>
+			<professorname>John Paolillo</professorname>
+			<professorname>Filippo Radicchi</professorname>
+			<professorname>Luis Rocha</professorname>
+			<professorname>Peter Todd</professorname>
+		</research>
+		<research>
+			<groupname>Computer Networks</groupname>
+			<professorname>Funda Ergun</professorname>
+			<professorname>Minaxi Gupta</professorname>
+			<professorname>Raquel Hill</professorname>
+			<professorname>Apu Kapadia</professorname>
+			<professorname>Andrew Lumsdaine</professorname>
+			<professorname>Feng Qian</professorname>
+			<professorname>Martin Swany</professorname>
+		</research>
+		<research>
+			<groupname>Cyberinfrastructure and e-Science</groupname>
+			<professorname>Katy Börner</professorname>
+			<professorname>Randall Bramley</professorname>
+			<professorname>Volker Brendel</professorname>
+			<professorname>Geoffrey Charles Fox</professorname>
+			<professorname>Minaxi Gupta</professorname>
+			<professorname>Andrew Lumsdaine</professorname>
+			<professorname>Ryan Newton</professorname>
+			<professorname>Beth Plale</professorname>
+			<professorname>Judy Qiu</professorname>
+			<professorname>Martin Swany</professorname>
+		</research>
+		<research>
+			<groupname>Data Mining</groupname>
+			<professorname>Muhammad Abdul-Mageed</professorname>
+			<professorname>Yong-Yeol Ahn</professorname>
+			<professorname>Katy Börner</professorname>
+			<professorname>Giovanni Luca Ciampaglia</professorname>
+			<professorname>David Crandall</professorname>
+			<professorname>Mehmet Dalkilic</professorname>
+			<professorname>Ying Ding</professorname>
+			<professorname>Dennis Groth</professorname>
+			<professorname>Filippo Menczer</professorname>
+			<professorname>John Paolillo</professorname>
+			<professorname>Beth Plale</professorname>
+			<professorname>Paul Purdom</professorname>
+			<professorname>Predrag Radivojac</professorname>
+			<professorname>Luis Rocha</professorname>
+			<professorname>Haixu Tang</professorname>
+			<professorname>Dirk Van Gucht</professorname>
+			<professorname>David Wild</professorname>
+			<professorname>Yuzhen Ye</professorname>
+			<professorname>Qin Zhang</professorname>
+		</research>
+		<research>
+			<groupname>Data Science</groupname>
+			<professorname>Muhammad Abdul-Mageed</professorname>
+			<professorname>Johan Bollen</professorname>
+			<professorname>Katy Börner</professorname>
+			<professorname>Ying Ding</professorname>
+			<professorname>Hamid Ekbia</professorname>
+			<professorname>Funda Ergun</professorname>
+			<professorname>Geoffrey Charles Fox</professorname>
+			<professorname>Andrew Hanson</professorname>
+			<professorname>Apu Kapadia</professorname>
+			<professorname>David Leake</professorname>
+			<professorname>Xiaozhong Liu</professorname>
+			<professorname>Andrew Lumsdaine</professorname>
+			<professorname>Filippo Menczer</professorname>
+			<professorname>Staša Milojevic</professorname>
+			<professorname>Sriraam Natarajan</professorname>
+			<professorname>Beth Plale</professorname>
+			<professorname>Judy Qiu</professorname>
+			<professorname>Filippo Radicchi</professorname>
+			<professorname>Christopher Raphael</professorname>
+			<professorname>Howard Rosenbaum</professorname>
+			<professorname>Thomas Sterling</professorname>
+			<professorname>Dirk Van Gucht</professorname>
+			<professorname>David Wild</professorname>
+			<professorname>Yuzhen Ye</professorname>
+			<professorname>Qin Zhang</professorname>
+		</research>
+		<research>
+			<groupname>Database Theory and Systems</groupname>
+			<professorname>Mehmet Dalkilic</professorname>
+			<professorname>Dennis Groth</professorname>
+			<professorname>Dan Pierz</professorname>
+			<professorname>Paul Purdom</professorname>
+			<professorname>Dirk Van Gucht</professorname>
+			<professorname>Qin Zhang</professorname>
+		</research>
+		<research>
+			<groupname>Digital Preservation</groupname>
+			<professorname>Matthew Brennan</professorname>
+			<professorname>Geoffrey Brown</professorname>
+			<professorname>Devan Donaldson</professorname>
+			<professorname>Beth Plale</professorname>
+		</research>
+		<research>
+			<groupname>Health Informatics</groupname>
+			<professorname>Jeffrey Bardzell</professorname>
+			<professorname>Shaowen Bardzell</professorname>
+			<professorname>L. Jean Camp</professorname>
+			<professorname>Kay Connelly</professorname>
+			<professorname>Nathan Ensmenger</professorname>
+			<professorname>Allison Fish</professorname>
+			<professorname>David Hakken</professorname>
+			<professorname>Raquel Hill</professorname>
+			<professorname>Leslie Liu</professorname>
+			<professorname>Sriraam Natarajan</professorname>
+			<professorname>Selma Sabanovic</professorname>
+			<professorname>Katie Siek</professorname>
+		</research>
+		<research>
+			<groupname>High Performance Computing</groupname>
+			<professorname>Matthew Anderson</professorname>
+			<professorname>Randall Bramley</professorname>
+			<professorname>Volker Brendel</professorname>
+			<professorname>Arun Chauhan</professorname>
+			<professorname>Geoffrey Charles Fox</professorname>
+			<professorname>Andrew Lumsdaine</professorname>
+			<professorname>Judy Qiu</professorname>
+			<professorname>Jeremy Siek</professorname>
+			<professorname>Thomas Sterling</professorname>
+			<professorname>Martin Swany</professorname>
+		</research>
+		<research>
+			<groupname>Human Centered Computing</groupname>
+			<professorname>Jeffrey Bardzell</professorname>
+			<professorname>Shaowen Bardzell</professorname>
+			<professorname>Eli Blevis</professorname>
+			<professorname>Giovanni Luca Ciampaglia</professorname>
+			<professorname>Dennis Groth</professorname>
+			<professorname>David Hakken</professorname>
+			<professorname>David Leake</professorname>
+			<professorname>Leslie Liu</professorname>
+			<professorname>Eden Medina</professorname>
+			<professorname>Christena Nippert-Eng</professorname>
+			<professorname>John Paolillo</professorname>
+			<professorname>Dan Pierz</professorname>
+			<professorname>Selma Sabanovic</professorname>
+			<professorname>Martin Siegel</professorname>
+			<professorname>Katie Siek</professorname>
+			<professorname>Erik Stolterman</professorname>
+			<professorname>Norman Makoto Su</professorname>
+		</research>
+		<research>
+			<groupname>Human Computer Interaction Design</groupname>
+			<professorname>Jeffrey Bardzell</professorname>
+			<professorname>Shaowen Bardzell</professorname>
+			<professorname>Eli Blevis</professorname>
+			<professorname>Matthew Brennan</professorname>
+			<professorname>Kay Connelly</professorname>
+			<professorname>Hamid Ekbia</professorname>
+			<professorname>Andrew Hanson</professorname>
+			<professorname>Erika Lee</professorname>
+			<professorname>Leslie Liu</professorname>
+			<professorname>Christena Nippert-Eng</professorname>
+			<professorname>Nina Onesti</professorname>
+			<professorname>John Paolillo</professorname>
+			<professorname>Dan Pierz</professorname>
+			<professorname>Gregory J. E. Rawlins</professorname>
+			<professorname>Dan Richert</professorname>
+			<professorname>Selma Sabanovic</professorname>
+			<professorname>Martin Siegel</professorname>
+			<professorname>Erik Stolterman</professorname>
+			<professorname>Norman Makoto Su</professorname>
+		</research>
+		<research>
+			<groupname>Information in Digital Environments</groupname>
+			<professorname>Elin K. Jacob</professorname>
+		</research>
+		<research>
+			<groupname>Information Institutions</groupname>
+		</research>
+		<research>
+			<groupname>Information in Organizations</groupname>
+		</research>
+		<research>
+			<groupname>Information Research</groupname>
+			<professorname>Ying Ding</professorname>
+		</research>
+		<research>
+			<groupname>Information Tools and Technologies</groupname>
+			<professorname>Ying Ding</professorname>
+			<professorname>Elin K. Jacob</professorname>
+		</research>
+		<research>
+			<groupname>Interactive Intelligent Systems</groupname>
+			<professorname>Randall Beer</professorname>
+			<professorname>David Crandall</professorname>
+			<professorname>Susan C. Herring</professorname>
+			<professorname>Luis Rocha</professorname>
+			<professorname>Michael Ryoo</professorname>
+			<professorname>Selma Sabanovic</professorname>
+			<professorname>Chen Yu</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning</groupname>
+			<professorname>Muhammad Abdul-Mageed</professorname>
+			<professorname>Giovanni Luca Ciampaglia</professorname>
+			<professorname>Simon DeDeo</professorname>
+			<professorname>David Leake</professorname>
+			<professorname>Filippo Menczer</professorname>
+			<professorname>Sriraam Natarajan</professorname>
+			<professorname>Predrag Radivojac</professorname>
+			<professorname>Christopher Raphael</professorname>
+			<professorname>Luis Rocha</professorname>
+			<professorname>Michael Ryoo</professorname>
+			<professorname>Chung-chieh Shan</professorname>
+			<professorname>Dirk Van Gucht</professorname>
+			<professorname>Martha White</professorname>
+		</research>
+		<research>
+			<groupname>Music Informatics</groupname>
+			<professorname>Yong-Yeol Ahn</professorname>
+			<professorname>Christopher Raphael</professorname>
+			<professorname>Norman Makoto Su</professorname>
+		</research>
+		<research>
+			<groupname>Parallel and Distributed Computing</groupname>
+			<professorname>Kevin Bohan</professorname>
+			<professorname>Randall Bramley</professorname>
+			<professorname>Arun Chauhan</professorname>
+			<professorname>Geoffrey Charles Fox</professorname>
+			<professorname>Andrew Lumsdaine</professorname>
+			<professorname>Ryan Newton</professorname>
+			<professorname>Judy Qiu</professorname>
+			<professorname>Gregory J. E. Rawlins</professorname>
+			<professorname>Jeremy Siek</professorname>
+			<professorname>Thomas Sterling</professorname>
+			<professorname>Martin Swany</professorname>
+		</research>
+		<research>
+			<groupname>Programming Language Principles, Design, and Implementation</groupname>
+			<professorname>R. Kent Dybvig</professorname>
+			<professorname>Daniel Friedman</professorname>
+			<professorname>Christopher Haynes</professorname>
+			<professorname>Steven Johnson</professorname>
+			<professorname>Andrew Lumsdaine</professorname>
+			<professorname>Ryan Newton</professorname>
+			<professorname>Gregory J. E. Rawlins</professorname>
+			<professorname>Amr Sabry</professorname>
+			<professorname>Dirk Van Gucht</professorname>
+		</research>
+		<research>
+			<groupname>Security</groupname>
+			<professorname>L. Jean Camp</professorname>
+			<professorname>J Duncan</professorname>
+			<professorname>Minaxi Gupta</professorname>
+			<professorname>Ryan Henry</professorname>
+			<professorname>Raquel Hill</professorname>
+			<professorname>Yan Huang</professorname>
+			<professorname>Apu Kapadia</professorname>
+			<professorname>Steven Myers</professorname>
+			<professorname>Christena Nippert-Eng</professorname>
+			<professorname>Balaprasath Rajan</professorname>
+			<professorname>XiaoFeng Wang</professorname>
+		</research>
+		<research>
+			<groupname>Social Informatics</groupname>
+			<professorname>Jeffrey Bardzell</professorname>
+			<professorname>Shaowen Bardzell</professorname>
+			<professorname>L. Jean Camp</professorname>
+			<professorname>Simon DeDeo</professorname>
+			<professorname>J Duncan</professorname>
+			<professorname>Hamid Ekbia</professorname>
+			<professorname>Nathan Ensmenger</professorname>
+			<professorname>Pnina Fichman</professorname>
+			<professorname>Allison Fish</professorname>
+			<professorname>Matthew Francisco</professorname>
+			<professorname>David Hakken</professorname>
+			<professorname>Noriko Hara</professorname>
+			<professorname>Susan C. Herring</professorname>
+			<professorname>Eden Medina</professorname>
+			<professorname>Christena Nippert-Eng</professorname>
+			<professorname>Christine Ogan</professorname>
+			<professorname>John Paolillo</professorname>
+			<professorname>Gregory J. E. Rawlins</professorname>
+			<professorname>Howard Rosenbaum</professorname>
+			<professorname>Selma Sabanovic</professorname>
+			<professorname>Norman Makoto Su</professorname>
+		</research>
+		<research>
+			<groupname>Software and Systems</groupname>
+			<professorname>Christopher Haynes</professorname>
+			<professorname>Steven Johnson</professorname>
+			<professorname>Andrew Lumsdaine</professorname>
+			<professorname>Feng Qian</professorname>
+			<professorname>Gregory J. E. Rawlins</professorname>
+			<professorname>Martin Swany</professorname>
+			<professorname>Sam Tobin-Hochstadt</professorname>
+		</research>
+		<research>
+			<groupname>Theoretical Foundations of Computer Science</groupname>
+			<professorname>Daniel Friedman</professorname>
+			<professorname>Steven Myers</professorname>
+			<professorname>Paul Purdom</professorname>
+			<professorname>Gregory J. E. Rawlins</professorname>
+			<professorname>Dirk Van Gucht</professorname>
+		</research>
+		<research>
+			<groupname>Unconventional Computing</groupname>
+			<professorname>Simon DeDeo</professorname>
+			<professorname>Gerardo Ortiz</professorname>
+			<professorname>Luis Rocha</professorname>
+		</research>
+		<research>
+			<groupname>Visualization, Computer Vision, and Graphics</groupname>
+			<professorname>Katy Börner</professorname>
+			<professorname>David Crandall</professorname>
+			<professorname>Dennis Groth</professorname>
+			<professorname>Andrew Hanson</professorname>
+			<professorname>Andrew Lumsdaine</professorname>
+			<professorname>Dan Pierz</professorname>
+			<professorname>Balaprasath Rajan</professorname>
+		</research>
+		<research>
+			<groupname>Web Science</groupname>
+			<professorname>Yong-Yeol Ahn</professorname>
+			<professorname>Johan Bollen</professorname>
+			<professorname>Giovanni Luca Ciampaglia</professorname>
+			<professorname>Ying Ding</professorname>
+			<professorname>Elin K. Jacob</professorname>
+			<professorname>Filippo Menczer</professorname>
+			<professorname>John Paolillo</professorname>
+			<professorname>Luis Rocha</professorname>
+		</research>
+	</institution>

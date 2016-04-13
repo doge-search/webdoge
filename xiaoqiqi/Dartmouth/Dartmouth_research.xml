@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Computational Science and Modeling</groupname>
+			<professorname>Chris Bailey-Kellogg</professorname>
+			<professorname>Devin J. Balkcom</professorname>
+			<professorname>Michael A. Casey</professorname>
+			<professorname>Thomas H. Cormen</professorname>
+			<professorname>Hany Farid</professorname>
+			<professorname>Gevorg Grigoryan</professorname>
+			<professorname>Daniel Rockmore</professorname>
+			<professorname>Lorenzo Torresani</professorname>
+			<professorname>Emily Whiting</professorname>
+		</research>
+		<research>
+			<groupname>Theory and Algorithms</groupname>
+			<professorname>Amit Chakrabarti</professorname>
+			<professorname>Thomas H. Cormen</professorname>
+			<professorname>Robert Lewis (Scot) Drysdale, III</professorname>
+			<professorname>Prasad Jayanti</professorname>
+			<professorname>Peter Winkler</professorname>
+		</research>
+		<research>
+			<groupname>Graphics, Vision, and Robotics</groupname>
+			<professorname>Devin J. Balkcom</professorname>
+			<professorname>Michael A. Casey</professorname>
+			<professorname>Hany Farid</professorname>
+			<professorname>Lorie Loeb</professorname>
+			<professorname>Lorenzo Torresani</professorname>
+			<professorname>Emily Whiting</professorname>
+			<professorname>Wojciech Jarosz</professorname>
+		</research>
+		<research>
+			<groupname>Computational Health and Mobile Computing</groupname>
+			<professorname>Andrew Thomas Campbell</professorname>
+			<professorname>David Kotz</professorname>
+			<professorname>Xia Zhou</professorname>
+			<professorname>Xing-Dong Yang</professorname>
+			<professorname> </professorname>
+		</research>
+		<research>
+			<groupname>Cybersecurity, Privacy, and Networks</groupname>
+			<professorname>Sergey Bratus</professorname>
+			<professorname>David Kotz</professorname>
+			<professorname>Sean W. Smith</professorname>
+			<professorname>Xia Zhou</professorname>
+		</research>
+		<research>
+			<groupname>Computational Biology</groupname>
+			<professorname>Chris Bailey-Kellogg</professorname>
+			<professorname>Gevorg Grigoryan</professorname>
+		</research>
+		<research>
+			<groupname>Digital Arts</groupname>
+			<professorname>Michael A. Casey</professorname>
+			<professorname>Lorie Loeb</professorname>
+			<professorname>Emily Whiting</professorname>
+			<professorname>Wojciech Jarosz</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning, Big Data, and High-performance Computing</groupname>
+			<professorname>Lorenzo Torresani</professorname>
+			<professorname>Chris Bailey-Kellogg</professorname>
+			<professorname>Michael A. Casey</professorname>
+			<professorname>Devin J. Balkcom</professorname>
+			<professorname>Thomas H. Cormen</professorname>
+			<professorname>Amit Chakrabarti</professorname>
+			<professorname>Daniel Rockmore</professorname>
+			<professorname>Qiang Liu</professorname>
+		</research>
+		<research>
+			<groupname>Human-Computer Interaction &amp; Human-Centered Design</groupname>
+			<professorname>Xing-Dong Yang</professorname>
+		</research>
+	</institution>

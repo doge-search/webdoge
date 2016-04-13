@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Human-Centered Systems</groupname>
+			<professorname>James Caverlee, Associate Professor</professorname>
+			<professorname>Jin-Xiang Chai, Associate Professor</professorname>
+			<professorname>Richard Furuta, Professor</professorname>
+			<professorname>Ricardo Gutierrez-Osuna, Professor</professorname>
+			<professorname>Tracy Hammond, Associate Professor</professorname>
+			<professorname>Andruid Kerne, Associate Professor</professorname>
+			<professorname>John Keyser, Professor</professorname>
+			<professorname>Scott Schaefer, Associate Professor</professorname>
+			<professorname>Frank Shipman, Professor</professorname>
+		</research>
+		<research>
+			<groupname>Intelligent Systems</groupname>
+			<professorname>Nancy Amato, Unocal Professor</professorname>
+			<professorname>Yoonsuck Choe, Associate Professor</professorname>
+			<professorname>Ricardo Gutierrez-Osuna, Professor</professorname>
+			<professorname>Tracy Hammond, Associate Professor</professorname>
+			<professorname>Thomas Ioerger, Associate Professor</professorname>
+			<professorname>Andruid Kerne, Associate Professor</professorname>
+			<professorname>Robin Murphy, Raytheon Professor</professorname>
+			<professorname>Dylan Shell, Assistant Professor</professorname>
+			<professorname>Frank Shipman, Professor</professorname>
+			<professorname>Dezhen Song, Associate Professor</professorname>
+			<professorname>Radu Stoleru, Associate Professor</professorname>
+		</research>
+		<research>
+			<groupname>Software</groupname>
+			<professorname>Jaakko Järvi, Associate Professor</professorname>
+			<professorname>Lawrence Rauchwerger, Eppright Professor</professorname>
+			<professorname>Bjarne Stroustrup, TEES Distinguished Research Professor</professorname>
+			<professorname>Frank Shipman, Professor</professorname>
+		</research>
+		<research>
+			<groupname>Systems</groupname>
+			<professorname>Nancy Amato, Unocal Professor</professorname>
+			<professorname>Riccardo Bettati, Professor</professorname>
+			<professorname>James Caverlee, Associate Professor</professorname>
+			<professorname>Jianer Chen, Professor</professorname>
+			<professorname>Guofei Gu, Assistant Professor</professorname>
+			<professorname>Ricardo Gutierrez-Osuna, Professor</professorname>
+			<professorname>Anxiao (Andrew) Jiang, Associate Professor</professorname>
+			<professorname>Andruid Kerne, Associate Professor</professorname>
+			<professorname>Eun Jung Kim, Associate Professor</professorname>
+			<professorname>Jyh-Charn (Steve) Liu, Professor</professorname>
+			<professorname>Dmitri Loguinov, Professor</professorname>
+			<professorname>Rabi N. Mahapatra, Professor</professorname>
+			<professorname>Lawrence Rauchwerger, Eppright Professor</professorname>
+			<professorname>Vivek Sarin, Associate Professor</professorname>
+			<professorname>Dezhen Song, Associate Professor</professorname>
+			<professorname>Radu Stoleru, Associate Professor</professorname>
+			<professorname>Bjarne Stroustrup, TEES Distinguished Research Professor</professorname>
+			<professorname>Valerie Taylor, Royce E. Wisenbaker Professor</professorname>
+			<professorname>Duncan M. &quot;Hank&quot; Walker, Professor</professorname>
+			<professorname>Jennifer Welch, Chevron Professor II, Regents Professor</professorname>
+			<professorname>Tiffani Williams, Associate Professor</professorname>
+		</research>
+		<research>
+			<groupname>Theoretical Foundations</groupname>
+			<professorname>Nancy Amato, Unocal Professor</professorname>
+			<professorname>Jianer Chen, Professor</professorname>
+			<professorname></professorname>
+			<professorname>Anxiao (Andrew) Jiang, Associate Professor</professorname>
+			<professorname>John Keyser, Professor</professorname>
+			<professorname>Andreas Klappenecker, Professor</professorname>
+			<professorname>Sing-Hoi Sze, Associate Professor</professorname>
+			<professorname>Jennifer Welch, Chevron Professor II, Regents Professor</professorname>
+		</research>
+		<research>
+			<groupname>Bioinformatics</groupname>
+			<professorname>Nancy Amato, Unocal Professor</professorname>
+			<professorname>Thomas Ioerger, Associate Professor</professorname>
+			<professorname>Sing-Hoi Sze, Associate Professor</professorname>
+			<professorname>Tiffani Williams, Associate Professor</professorname>
+		</research>
+		<research>
+			<groupname>Brain Networks</groupname>
+			<professorname>Nancy Amato, Unocal Professor</professorname>
+			<professorname>Yoonsuck Choe, Associate Professor</professorname>
+			<professorname>Ricardo Gutierrez-Osuna, Professor</professorname>
+			<professorname>John Keyser, Professor</professorname>
+			<professorname>Lawrence Rauchwerger, Eppright Professor</professorname>
+		</research>
+		<research>
+			<groupname>Computational Science and Engineering</groupname>
+			<professorname>Nancy Amato, Unocal Professor</professorname>
+			<professorname>Tim Davis, Professor</professorname>
+			<professorname>Lawrence Rauchwerger, Eppright  Professor</professorname>
+			<professorname>Vivek Sarin, Associate Professor</professorname>
+			<professorname>Dezhen Song, Associate Professor</professorname>
+			<professorname>Valerie Taylor, Royce E. Wisenbaker Professor, Regents Professor</professorname>
+		</research>
+		<research>
+			<groupname>Digital Humanities</groupname>
+			<professorname>James Caverlee, Associate Professor</professorname>
+			<professorname>Richard Furuta, Professor</professorname>
+			<professorname>Bruce Gooch, Associate Professor</professorname>
+			<professorname>Andruid Kerne, Associate Professor</professorname>
+			<professorname>Frank Shipman, Professor</professorname>
+		</research>
+		<research>
+			<groupname>Security</groupname>
+			<professorname>Nancy Amato, Unocal Professor</professorname>
+			<professorname>Riccardo Bettati, Professor</professorname>
+			<professorname>James Caverlee, Associate Professor</professorname>
+			<professorname>Guofei Gu, Assistant Professor</professorname>
+			<professorname>Ricardo Gutierrez-Osuna, Professor</professorname>
+			<professorname>Eun Jung Kim, Associate Professor</professorname>
+			<professorname>Jyh-Charn (Steve) Liu, Professor</professorname>
+			<professorname>Rabi N. Mahapatra, Professor</professorname>
+			<professorname>Robin Murphy, Raytheon Professor</professorname>
+			<professorname>Lawrence Rauchwerger, Eppright Professor</professorname>
+			<professorname>Frank Shipman, Professor</professorname>
+			<professorname>Radu Stoleru, Associate Professor</professorname>
+		</research>
+		<research>
+			<groupname>Emergency Informatics</groupname>
+			<professorname>Nancy Amato, Unocal Professor</professorname>
+			<professorname>Riccardo Bettati, Professor</professorname>
+			<professorname>James Caverlee, Associate Professor</professorname>
+			<professorname>Richard Furuta, Professor</professorname>
+			<professorname>Ricardo Gutierrez-Osuna, Professor</professorname>
+			<professorname>Tracy Hammond, Associate Professor</professorname>
+			<professorname>Andruid Kerne, Associate Professor</professorname>
+			<professorname>Dmitri Loguinov, Professor</professorname>
+			<professorname>Robin Murphy, Raytheon Professor</professorname>
+			<professorname>Lawrence Rauchwerger, Eppright Professor</professorname>
+			<professorname>Scott Schaefer, Associate Professor</professorname>
+			<professorname>Frank Shipman, Professor</professorname>
+			<professorname>Dezhen Song, Associate Professor</professorname>
+			<professorname>Radu Stoleru, Associate Professor</professorname>
+		</research>
+	</institution>

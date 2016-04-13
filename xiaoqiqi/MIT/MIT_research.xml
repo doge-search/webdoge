@@ -1,0 +1,226 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Big Data </groupname>
+			<professorname> Anant Agarwal </professorname>
+			<professorname> Mohammad Alizadeh </professorname>
+			<professorname> Saman Amarasinghe </professorname>
+			<professorname> Hari Balakrishnan </professorname>
+			<professorname> Regina Barzilay </professorname>
+			<professorname> Bonnie A. Berger </professorname>
+			<professorname> Guy Bresler </professorname>
+			<professorname> Tamara Broderick </professorname>
+			<professorname> Michael Carbin </professorname>
+			<professorname> Srini Devadas </professorname>
+			<professorname> William Freeman </professorname>
+			<professorname> Piotr Indyk </professorname>
+			<professorname> Tommi Jaakkola </professorname>
+			<professorname> Stefanie Jegelka </professorname>
+			<professorname> David Karger </professorname>
+			<professorname> Andrew Lo </professorname>
+			<professorname> Samuel Madden </professorname>
+			<professorname> Aleksander Madry </professorname>
+			<professorname> Rob Miller </professorname>
+			<professorname> Ronitt Rubinfeld </professorname>
+			<professorname> Daniel Sanchez </professorname>
+			<professorname> Michael Stonebraker </professorname>
+			<professorname> Vivienne Sze </professorname>
+			<professorname> Christopher Terman </professorname>
+			<professorname> Antonio Torralba </professorname>
+			<professorname> Caroline Uhler </professorname>
+			<professorname> Matei Zaharia </professorname>
+			<professorname> Nickolai Zeldovich </professorname>
+		</research>
+		<research>
+			<groupname>bio-EECS </groupname>
+			<professorname> Elfar Adalsteinsson </professorname>
+			<professorname> Bonnie A. Berger </professorname>
+			<professorname> Robert Berwick </professorname>
+			<professorname> Sangeeta Bhatia </professorname>
+			<professorname> Louis Braida </professorname>
+			<professorname> Luca Daniel </professorname>
+			<professorname> Dennis Freeman </professorname>
+			<professorname> James Fujimoto </professorname>
+			<professorname> David Gifford </professorname>
+			<professorname> Polina Golland </professorname>
+			<professorname> Martha Gray </professorname>
+			<professorname> W. Eric L. Grimson </professorname>
+			<professorname> Alan Grodzinsky </professorname>
+			<professorname> John Guttag </professorname>
+			<professorname> Jongyoon Han </professorname>
+			<professorname> Thomas Heldt </professorname>
+			<professorname> Manolis Kellis </professorname>
+			<professorname> Tomás Lozano-Pérez </professorname>
+			<professorname> Timothy Lu </professorname>
+			<professorname> Roger Mark </professorname>
+			<professorname> Alan Oppenheim </professorname>
+			<professorname> Rajeev Ram </professorname>
+			<professorname> Martin A. Schmidt </professorname>
+			<professorname> Collin Stultz </professorname>
+			<professorname> Gerald Sussman </professorname>
+			<professorname> Peter Szolovits </professorname>
+			<professorname> Bruce Tidor </professorname>
+			<professorname> Caroline Uhler </professorname>
+			<professorname> George Verghese </professorname>
+			<professorname> Joel Voldman </professorname>
+			<professorname> Ron Weiss </professorname>
+			<professorname> Thomas F. Weiss </professorname>
+			<professorname> Jacob White </professorname>
+			<professorname> Gregory Wornell </professorname>
+			<professorname> Mehmet Fatih Yanik </professorname>
+		</research>
+		<research>
+			<groupname>Connection Science &amp; Engineering </groupname>
+			<professorname> Hal Abelson </professorname>
+			<professorname> Mohammad Alizadeh </professorname>
+			<professorname> David Clark </professorname>
+			<professorname> Munther Dahleh </professorname>
+			<professorname> Konstantinos Daskalakis </professorname>
+			<professorname> Patrick Jaillet </professorname>
+			<professorname> David Karger </professorname>
+			<professorname> Andrew Lo </professorname>
+			<professorname> Silvio Micali </professorname>
+			<professorname> Rob Miller </professorname>
+			<professorname> Asuman Ozdaglar </professorname>
+			<professorname> Pablo Parrilo </professorname>
+			<professorname> Devavrat Shah </professorname>
+			<professorname> Gerald Sussman </professorname>
+			<professorname> John Tsitsiklis </professorname>
+		</research>
+		<research>
+			<groupname>Cybersecurity </groupname>
+			<professorname> Hal Abelson </professorname>
+			<professorname> Anant Agarwal </professorname>
+			<professorname> Mohammad Alizadeh </professorname>
+			<professorname> Saman Amarasinghe </professorname>
+			<professorname> Hari Balakrishnan </professorname>
+			<professorname> Michael Carbin </professorname>
+			<professorname> Adam Chlipala </professorname>
+			<professorname> David Clark </professorname>
+			<professorname> Srini Devadas </professorname>
+			<professorname> Shafrira Goldwasser </professorname>
+			<professorname> Daniel Jackson </professorname>
+			<professorname> M. Frans Kaashoek </professorname>
+			<professorname> Dina Katabi </professorname>
+			<professorname> Barbara Liskov </professorname>
+			<professorname> Rob Miller </professorname>
+			<professorname> Robert Morris </professorname>
+			<professorname> Martin Rinard </professorname>
+			<professorname> Ronald Rivest </professorname>
+			<professorname> Vinod Vaikuntanathan </professorname>
+			<professorname> Nickolai Zeldovich </professorname>
+		</research>
+		<research>
+			<groupname>Energy </groupname>
+			<professorname> Marc A. Baldo </professorname>
+			<professorname> Karl Berggren </professorname>
+			<professorname> Vladimir Bulovic </professorname>
+			<professorname> Michael Carbin </professorname>
+			<professorname> Anantha Chandrakasan </professorname>
+			<professorname> Mildred Dresselhaus </professorname>
+			<professorname> Jongyoon Han </professorname>
+			<professorname> John Kassakian </professorname>
+			<professorname> James Kirtley, Jr. </professorname>
+			<professorname> Leslie Kolodziejski </professorname>
+			<professorname> Jing Kong </professorname>
+			<professorname> Jeffrey Lang </professorname>
+			<professorname> Steven Leeb </professorname>
+			<professorname> Samuel Madden </professorname>
+			<professorname> Tomás Palacios </professorname>
+			<professorname> David Perreault </professorname>
+			<professorname> Rajeev Ram </professorname>
+			<professorname> Joel Schindall </professorname>
+			<professorname> Vivienne Sze </professorname>
+		</research>
+		<research>
+			<groupname>Multicore Processors &amp; Cloud Computing </groupname>
+			<professorname> Anant Agarwal </professorname>
+			<professorname> Saman Amarasinghe </professorname>
+			<professorname>  Arvind </professorname>
+			<professorname> Anantha Chandrakasan </professorname>
+			<professorname> Srini Devadas </professorname>
+			<professorname> Joel Emer </professorname>
+			<professorname> M. Frans Kaashoek </professorname>
+			<professorname> Charles Leiserson </professorname>
+			<professorname> Robert Morris </professorname>
+			<professorname> Li-Shiuan Peh </professorname>
+			<professorname> Daniel Sanchez </professorname>
+			<professorname> Armando Solar-Lezama </professorname>
+			<professorname> Stephen Ward </professorname>
+			<professorname> Nickolai Zeldovich </professorname>
+		</research>
+		<research>
+			<groupname>Nanotechnology &amp; Quantum Information Processing </groupname>
+			<professorname> Scott Aaronson </professorname>
+			<professorname> Akintunde Akinwande </professorname>
+			<professorname> Dimitri Antoniadis </professorname>
+			<professorname> Karl Berggren </professorname>
+			<professorname> Sangeeta Bhatia </professorname>
+			<professorname> Duane Boning </professorname>
+			<professorname> Vladimir Bulovic </professorname>
+			<professorname> Anantha Chandrakasan </professorname>
+			<professorname> Isaac Chuang </professorname>
+			<professorname> Luca Daniel </professorname>
+			<professorname> Jesús del Alamo </professorname>
+			<professorname> Mildred Dresselhaus </professorname>
+			<professorname> Dirk R. Englund </professorname>
+			<professorname> Clifton Fonstad </professorname>
+			<professorname> Dennis Freeman </professorname>
+			<professorname> Jongyoon Han </professorname>
+			<professorname> Judy Hoyt </professorname>
+			<professorname> Qing Hu </professorname>
+			<professorname> Erich Ippen </professorname>
+			<professorname> Franz Kaertner </professorname>
+			<professorname> John Kassakian </professorname>
+			<professorname> Leslie Kolodziejski </professorname>
+			<professorname> Jing Kong </professorname>
+			<professorname> Jeffrey Lang </professorname>
+			<professorname> Luqiao Liu </professorname>
+			<professorname> Timothy Lu </professorname>
+			<professorname> Terry Orlando </professorname>
+			<professorname> Tomás Palacios </professorname>
+			<professorname> Rajeev Ram </professorname>
+			<professorname> L. Rafael Reif </professorname>
+			<professorname> Joel Schindall </professorname>
+			<professorname> Martin A. Schmidt </professorname>
+			<professorname> Jeffrey Shapiro </professorname>
+			<professorname> Henry Smith </professorname>
+			<professorname> Bruce Tidor </professorname>
+			<professorname> Joel Voldman </professorname>
+			<professorname> Jacob White </professorname>
+			<professorname> Mehmet Fatih Yanik </professorname>
+			<professorname> Markus Zahn </professorname>
+		</research>
+		<research>
+			<groupname>Robotics </groupname>
+			<professorname> Rodney Brooks </professorname>
+			<professorname> Leslie Kaelbling </professorname>
+			<professorname> Tomás Lozano-Pérez </professorname>
+			<professorname> Wojciech Matusik </professorname>
+			<professorname> Daniela Rus </professorname>
+			<professorname> Devavrat Shah </professorname>
+			<professorname> Russell Tedrake </professorname>
+		</research>
+		<research>
+			<groupname>Wireless Networks &amp; Mobile Computing </groupname>
+			<professorname>  Arvind </professorname>
+			<professorname> Hari Balakrishnan </professorname>
+			<professorname> Anantha Chandrakasan </professorname>
+			<professorname> David Clark </professorname>
+			<professorname> Ruonan Han </professorname>
+			<professorname> Dina Katabi </professorname>
+			<professorname> Nancy Lynch </professorname>
+			<professorname> Samuel Madden </professorname>
+			<professorname> Muriel Médard </professorname>
+			<professorname> Robert Morris </professorname>
+			<professorname> Li-Shiuan Peh </professorname>
+			<professorname> Yury Polyanskiy </professorname>
+			<professorname> Daniela Rus </professorname>
+			<professorname> Devavrat Shah </professorname>
+			<professorname> Charles Sodini </professorname>
+			<professorname> Vivienne Sze </professorname>
+			<professorname> Gregory Wornell </professorname>
+			<professorname> Nickolai Zeldovich </professorname>
+			<professorname> Lizhong Zheng </professorname>
+		</research>
+	</institution>
