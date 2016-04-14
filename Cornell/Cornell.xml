@@ -1,0 +1,415 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>David Albonesi</name>
+			<website>http://www.csl.cornell.edu/~albonesi/</website>
+			<image>./images/David Albonesi.jpg</image>
+		</professor>
+		<professor>
+			<name>Erik Andersen</name>
+			<website>http://www.cs.washington.edu/homes/eland</website>
+			<image>./images/Erik Andersen.jpg</image>
+		</professor>
+		<professor>
+			<name>Yoav Artzi</name>
+			<website>http://yoavartzi.com/</website>
+			<image>./images/Yoav Artzi.jpg</image>
+		</professor>
+		<professor>
+			<name>Graeme Bailey</name>
+			<website>http://www.cs.cornell.edu/~bailey</website>
+			<image>./images/Graeme Bailey.jpg</image>
+		</professor>
+		<professor>
+			<name>Kavita Bala</name>
+			<website>http://www.cs.cornell.edu/~kb/</website>
+			<image>./images/Kavita Bala.jpg</image>
+		</professor>
+		<professor>
+			<name>Christopher Batten</name>
+			<website>http://www.csl.cornell.edu/~cbatten/</website>
+			<image>./images/Christopher Batten.jpg</image>
+		</professor>
+		<professor>
+			<name>Serge Belongie</name>
+			<website>http://tech.cornell.edu/serge-belongie/</website>
+			<image>./images/Serge Belongie.jpg</image>
+		</professor>
+		<professor>
+			<name>David Bindel</name>
+			<website>http://www.cs.cornell.edu/~bindel/</website>
+			<image>./images/David Bindel.jpg</image>
+		</professor>
+		<professor>
+			<name>Kenneth P. Birman</name>
+			<website>http://www.cs.cornell.edu/ken/</website>
+			<image>./images/Kenneth P. Birman.jpg</image>
+		</professor>
+		<professor>
+			<name>Anne Bracy</name>
+			<website>http://www.cs.cornell.edu/~bracy/</website>
+			<image>./images/Anne Bracy.jpg</image>
+		</professor>
+		<professor>
+			<name>Claire Cardie</name>
+			<website>http://www.cs.cornell.edu/home/cardie/</website>
+			<image>./images/Claire Cardie.jpg</image>
+		</professor>
+		<professor>
+			<name>Tsuhan Chen</name>
+			<website>http://www.ece.cornell.edu/peo-detail.cfm?NetID=tc345</website>
+			<image>./images/Tsuhan Chen.jpg</image>
+		</professor>
+		<professor>
+			<name>Yudong Chen</name>
+			<website>http://people.orie.cornell.edu/yudong.chen/</website>
+			<image>./images/Yudong Chen.jpg</image>
+		</professor>
+		<professor>
+			<name>Tanzeem Choudhury</name>
+			<website>http://www.cs.cornell.edu/~tanzeem/</website>
+			<image>./images/Tanzeem Choudhury.jpg</image>
+		</professor>
+		<professor>
+			<name>Michael Clarkson</name>
+			<website>http://www.cs.cornell.edu/~clarkson</website>
+			<image>./images/Michael Clarkson.jpg</image>
+		</professor>
+		<professor>
+			<name>Robert L. Constable</name>
+			<website>http://www.cs.cornell.edu/home/rc/</website>
+			<image>./images/Robert L. Constable.jpg</image>
+		</professor>
+		<professor>
+			<name>Dan Cosley</name>
+			<website>http://www.cs.cornell.edu/~danco/</website>
+			<image>./images/Dan Cosley.jpg</image>
+		</professor>
+		<professor>
+			<name>Cristian</name>
+			<website>http://infosci.cornell.edu/faculty/cristian-danescu-niculescu-mizil</website>
+			<image>./images/Cristian.jpg</image>
+		</professor>
+		<professor>
+			<name>Nicola Dell</name>
+			<website>http://www.nixdell.com/</website>
+			<image>./images/Nicola Dell.jpg</image>
+		</professor>
+		<professor>
+			<name>Alan J. Demers</name>
+			<website>http://www.cs.cornell.edu/annual_report/00-01/bios.htm#demers</website>
+			<image>./images/Alan J. Demers.jpg</image>
+		</professor>
+		<professor>
+			<name>Shimon Edelman</name>
+			<website>http://comp9.psych.cornell.edu/people/Faculty/se37.html</website>
+			<image>./images/Shimon Edelman.jpg</image>
+		</professor>
+		<professor>
+			<name>Deborah Estrin</name>
+			<website>http://www.cs.cornell.edu/~destrin</website>
+			<image>./images/Deborah Estrin.jpg</image>
+		</professor>
+		<professor>
+			<name>K-Y. Daisy Fan</name>
+			<website>http://www.cs.cornell.edu/~dfan</website>
+			<image>./images/K-Y. Daisy Fan.jpg</image>
+		</professor>
+		<professor>
+			<name>Nate Foster</name>
+			<website>http://www.cs.cornell.edu/~jnfoster/</website>
+			<image>./images/Nate Foster.jpg</image>
+		</professor>
+		<professor>
+			<name>Nate Foster</name>
+			<website></website>
+		</professor>
+		<professor>
+			<name>Arpita Ghosh</name>
+			<website>http://www.arpitaghosh.com/</website>
+			<image>./images/Arpita Ghosh.jpg</image>
+		</professor>
+		<professor>
+			<name>Carla Gomes</name>
+			<website>http://www.cs.cornell.edu/gomes/Default.htm</website>
+			<image>./images/Carla Gomes.jpg</image>
+		</professor>
+		<professor>
+			<name>Donald P. Greenberg</name>
+			<website>http://www.graphics.cornell.edu/people/director.html</website>
+			<image>./images/Donald P. Greenberg.jpg</image>
+		</professor>
+		<professor>
+			<name>David Gries</name>
+			<website>http://www.cs.cornell.edu/gries/</website>
+			<image>./images/David Gries.jpg</image>
+		</professor>
+		<professor>
+			<name>Francois Guimbretiere</name>
+			<website>http://www.cs.cornell.edu/~francois/</website>
+			<image>./images/Francois Guimbretiere.jpg</image>
+		</professor>
+		<professor>
+			<name>Joseph Y. Halpern</name>
+			<website>http://www.cs.cornell.edu/home/halpern/</website>
+			<image>./images/Joseph Y. Halpern.jpg</image>
+		</professor>
+		<professor>
+			<name>Juris Hartmanis</name>
+			<website>http://www.cs.cornell.edu/annual_report/00-01/bios.htm#hartmanis</website>
+			<image>./images/Juris Hartmanis.jpg</image>
+		</professor>
+		<professor>
+			<name>Haym Hirsh</name>
+			<website>http://www.cs.rutgers.edu/~hirsh/</website>
+			<image>./images/Haym Hirsh.jpg</image>
+		</professor>
+		<professor>
+			<name>John E. Hopcroft</name>
+			<website>http://www.cs.cornell.edu/jeh/</website>
+			<image>./images/John E. Hopcroft.jpg</image>
+		</professor>
+		<professor>
+			<name>Guy Hoffman</name>
+			<website>http://guyhoffman.com/</website>
+			<image>./images/Guy Hoffman.jpg</image>
+		</professor>
+		<professor>
+			<name>Daniel P. Huttenlocher</name>
+			<website>http://tech.cornell.edu/people/dan-huttenlocher</website>
+			<image>./images/Daniel P. Huttenlocher.jpg</image>
+		</professor>
+		<professor>
+			<name>Thorsten Joachims</name>
+			<website>http://www.cs.cornell.edu/People/tj/</website>
+			<image>./images/Thorsten Joachims.jpg</image>
+		</professor>
+		<professor>
+			<name>Ari Juels</name>
+			<website>http://www.arijuels.com/</website>
+			<image>./images/Ari Juels.jpg</image>
+		</professor>
+		<professor>
+			<name>Alon Keinan</name>
+			<website>http://keinanlab.cb.bscb.cornell.edu/</website>
+			<image>./images/Alon Keinan.jpg</image>
+		</professor>
+		<professor>
+			<name>Jon Kleinberg</name>
+			<website>http://www.cs.cornell.edu/home/kleinber/</website>
+			<image>./images/Jon Kleinberg.jpg</image>
+		</professor>
+		<professor>
+			<name>Robert Kleinberg</name>
+			<website>http://www.cs.cornell.edu/~rdk/</website>
+			<image>./images/Robert Kleinberg.jpg</image>
+		</professor>
+		<professor>
+			<name>Ross Knepper</name>
+			<website>http://www.cs.cornell.edu/~rak/</website>
+			<image>./images/Ross Knepper.jpg</image>
+		</professor>
+		<professor>
+			<name>Dexter Kozen</name>
+			<website>http://www.cs.cornell.edu/~kozen/</website>
+			<image>./images/Dexter Kozen.jpg</image>
+		</professor>
+		<professor>
+			<name>Hadas Kress-Gazit</name>
+			<website>http://www.mae.cornell.edu/index.cfm/page/fac/kressgazit.htm</website>
+			<image>./images/Hadas Kress-Gazit.jpg</image>
+		</professor>
+		<professor>
+			<name>Hadas Kress-Gazit</name>
+			<website>http://www.cs.cornell.edu/home/llee</website>
+			<image>./images/Hadas Kress-Gazit.jpg</image>
+		</professor>
+		<professor>
+			<name>Rajit Manohar</name>
+			<website>http://vlsi.cornell.edu/~rajit/</website>
+			<image>./images/Rajit Manohar.jpg</image>
+		</professor>
+		<professor>
+			<name>Steve Marschner</name>
+			<website>http://www.cs.cornell.edu/~srm</website>
+			<image>./images/Steve Marschner.jpg</image>
+		</professor>
+		<professor>
+			<name>Jose F. Martinez</name>
+			<website>http://www.csl.cornell.edu/~martinez</website>
+			<image>./images/Jose F. Martinez.jpg</image>
+		</professor>
+		<professor>
+			<name>David Mimno</name>
+			<website>http://infosci.cornell.edu/faculty/david-mimno</website>
+			<image>./images/David Mimno.jpg</image>
+		</professor>
+		<professor>
+			<name>Greg Morrisett</name>
+			<website>http://www.cs.cornell.edu/~jgm/</website>
+			<image>./images/Greg Morrisett.jpg</image>
+		</professor>
+		<professor>
+			<name>Andrew Myers</name>
+			<website>http://www.cs.cornell.edu/andru/</website>
+			<image>./images/Andrew Myers.jpg</image>
+		</professor>
+		<professor>
+			<name>Mor Naaman</name>
+			<website>http://mornaaman.com</website>
+			<image>./images/Mor Naaman.jpg</image>
+		</professor>
+		<professor>
+			<name>Anil Nerode</name>
+			<website>http://www.math.cornell.edu/~anil/</website>
+			<image>./images/Anil Nerode.jpg</image>
+		</professor>
+		<professor>
+			<name>Anil Nerode</name>
+			<website></website>
+		</professor>
+		<professor>
+			<name>Rafael Pass</name>
+			<website>http://www.cs.cornell.edu/~rafael/</website>
+			<image>./images/Rafael Pass.jpg</image>
+		</professor>
+		<professor>
+			<name>Rafael Pass</name>
+			<website></website>
+		</professor>
+		<professor>
+			<name>Adrian Sampson</name>
+			<website>http://adriansampson.net/</website>
+			<image>./images/Adrian Sampson.jpg</image>
+		</professor>
+		<professor>
+			<name>Fred B. Schneider</name>
+			<website>http://www.cs.cornell.edu/fbs/index.htm</website>
+			<image>./images/Fred B. Schneider.jpg</image>
+		</professor>
+		<professor>
+			<name>Bart Selman</name>
+			<website>http://www.cs.cornell.edu/selman/</website>
+			<image>./images/Bart Selman.jpg</image>
+		</professor>
+		<professor>
+			<name>Phoebe Sengers</name>
+			<website>http://www.cs.cornell.edu/people/sengers/</website>
+			<image>./images/Phoebe Sengers.jpg</image>
+		</professor>
+		<professor>
+			<name>Vitaly Shmatikov</name>
+			<website>http://www.cs.cornell.edu/~shmat/</website>
+			<image>./images/Vitaly Shmatikov.jpg</image>
+		</professor>
+		<professor>
+			<name>Elaine Shi</name>
+			<website>http://www.elaineshi.com</website>
+			<image>./images/Elaine Shi.jpg</image>
+		</professor>
+		<professor>
+			<name>David B. Shmoys</name>
+			<website>http://www.cs.cornell.edu/home/shmoys/shmoys.html</website>
+			<image>./images/David B. Shmoys.jpg</image>
+		</professor>
+		<professor>
+			<name>E. Gun Sirer</name>
+			<website>http://www.cs.cornell.edu/People/egs/</website>
+			<image>./images/E. Gun Sirer.jpg</image>
+		</professor>
+		<professor>
+			<name>Noah Snavely</name>
+			<website>http://www.cs.cornell.edu/~snavely/</website>
+			<image>./images/Noah Snavely.jpg</image>
+		</professor>
+		<professor>
+			<name>Karthik Sridharan</name>
+			<website>http://ttic.uchicago.edu/~karthik/</website>
+			<image>./images/Karthik Sridharan.jpg</image>
+		</professor>
+		<professor>
+			<name>David Steurer</name>
+			<website>http://www.cs.princeton.edu/~dsteurer/</website>
+			<image>./images/David Steurer.jpg</image>
+		</professor>
+		<professor>
+			<name>G. Edward Suh</name>
+			<website>http://www.csl.cornell.edu/~suh/index.html</website>
+			<image>./images/G. Edward Suh.jpg</image>
+		</professor>
+		<professor>
+			<name>A. Kevin Tang</name>
+			<website>http://www.ece.cornell.edu/peo-detail.cfm?NetID=at422</website>
+			<image>./images/A. Kevin Tang.jpg</image>
+		</professor>
+		<professor>
+			<name>Eva Tardos</name>
+			<website>http://www.cs.cornell.edu/home/eva/eva.html</website>
+			<image>./images/Eva Tardos.jpg</image>
+		</professor>
+		<professor>
+			<name>Ross Tate</name>
+			<website>http://cseweb.ucsd.edu/~rtate/</website>
+			<image>./images/Ross Tate.jpg</image>
+		</professor>
+		<professor>
+			<name>Ross Tate</name>
+			<website>http://www.cs.cornell.edu/Info/People/tt/Tim_Teitelbaum.html</website>
+			<image>./images/Ross Tate.jpg</image>
+		</professor>
+		<professor>
+			<name>Charles Van Loan</name>
+			<website>http://www.cs.cornell.edu/cv/</website>
+			<image>./images/Charles Van Loan.jpg</image>
+		</professor>
+		<professor>
+			<name>Robbert van Renesse</name>
+			<website>http://www.cs.cornell.edu/Info/People/rvr/</website>
+			<image>./images/Robbert van Renesse.jpg</image>
+		</professor>
+		<professor>
+			<name>Hakim Weatherspoon</name>
+			<website>http://www.cs.cornell.edu/~hweather</website>
+			<image>./images/Hakim Weatherspoon.jpg</image>
+		</professor>
+		<professor>
+			<name>Kilian Weinberger</name>
+			<website>http://www.cs.cornell.edu/~kilian/</website>
+			<image>./images/Kilian Weinberger.jpg</image>
+		</professor>
+		<professor>
+			<name>Walker White</name>
+			<website>http://www.cs.cornell.edu/~wmwhite/</website>
+			<image>./images/Walker White.jpg</image>
+		</professor>
+		<professor>
+			<name>Stephen Wicker</name>
+			<website>http://wisl.ece.cornell.edu/wicker/</website>
+			<image>./images/Stephen Wicker.jpg</image>
+		</professor>
+		<professor>
+			<name>David Williamson</name>
+			<website>http://williamslab.bscb.cornell.edu/</website>
+			<image>./images/David Williamson.jpg</image>
+		</professor>
+		<professor>
+			<name>David Williamson</name>
+			<website>http://www.orie.cornell.edu/~dpw/</website>
+			<image>./images/David Williamson.jpg</image>
+		</professor>
+		<professor>
+			<name>Haiyuan Yu</name>
+			<website>http://yulab.icmb.cornell.edu</website>
+			<image>./images/Haiyuan Yu.jpg</image>
+		</professor>
+		<professor>
+			<name>Ramin Zabih</name>
+			<website>http://www.cs.cornell.edu/~rdz</website>
+			<image>./images/Ramin Zabih.jpg</image>
+		</professor>
+		<professor>
+			<name>Zhiru Zhang</name>
+			<website>http://www.csl.cornell.edu/~zhiruz/</website>
+			<image>./images/Zhiru Zhang.jpg</image>
+		</professor>
+	</institution>

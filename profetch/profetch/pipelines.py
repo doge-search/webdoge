@@ -15,8 +15,8 @@ class writePipeline(object):
         self.institution = self.doc.createElement("institution")
         self.doc.appendChild(self.institution)
         self.cnt = 0
-        if(not os.path.exists('d:/PYPJ/pictures')):
-            os.mkdir('d:/PYPJ/pictures')
+        if(not os.path.exists('d:/PYPJ/images')):
+            os.mkdir('d:/PYPJ/images')
 
 
     def process_item(self, item, spider):
@@ -26,9 +26,17 @@ class writePipeline(object):
             namenode.appendChild(self.doc.createTextNode(item['name'].encode('utf-8')))
             professor.appendChild(namenode)
 
+            titlenode = self.doc.createElement("title")
+            titlenode.appendChild(self.doc.createTextNode(item['title'].encode('utf-8')))
+            professor.appendChild(titlenode)
+
             websitenode = self.doc.createElement("website")
             websitenode.appendChild(self.doc.createTextNode(item['website'].encode('utf-8')))
             professor.appendChild(websitenode)
+
+            emailnode = self.doc.createElement("email")
+            emailnode.appendChild(self.doc.createTextNode(item['email'].encode('utf-8')))
+            professor.appendChild(emailnode)
 
             phonenode = self.doc.createElement("phone")
             phonenode.appendChild(self.doc.createTextNode(item['phone'].encode('utf-8')))
@@ -38,12 +46,12 @@ class writePipeline(object):
             officenode.appendChild(self.doc.createTextNode(item['office'].encode('utf-8')))
             professor.appendChild(officenode)
 
-            # piclocal = "d:/PYPJ/pictures/" + item['name'].encode('utf-8') + ".jpg"
-            # urllib.urlretrieve(item['picture'], piclocal)
-            picnode = self.doc.createElement("image")
-            picnode.appendChild(self.doc.createTextNode("./images/" + item['name'].encode('utf-8') + ".jpg"))
-            professor.appendChild(picnode)
-
+            if(item['picture']!=''):
+                piclocal = "d:/PYPJ/images/" + item['name'].encode('utf-8') + ".jpg"
+                urllib.urlretrieve(item['picture'], piclocal)
+                picnode = self.doc.createElement("image")
+                picnode.appendChild(self.doc.createTextNode("./images/" + item['name'].encode('utf-8') + ".jpg"))
+                professor.appendChild(picnode)
             self.cnt += 1
     def close_spider(self, spider):
         print self.cnt

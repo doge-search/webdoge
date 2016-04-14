@@ -1,279 +1,325 @@
 <?xml version="1.0" ?>
 	<institution>
 		<professor>
-			<name>Mona Singh</name>
-			<website>http://www.cs.princeton.edu/~mona</website>
-			<phone> (609) 258-2087            </phone>
-			<office> 420 Computer Science            </office>
-		</professor>
-		<professor>
-			<name>Jianxiong Xiao</name>
-			<website>http://www.cs.princeton.edu/~xj</website>
-			<phone> (609) 258-1203            </phone>
-			<office> 409 Computer Science            </office>
-		</professor>
-		<professor>
-			<name>Robert Tarjan</name>
-			<website>http://www.cs.princeton.edu/~ret</website>
-			<phone> (609) 258-4797            </phone>
-			<office> 324 Computer Science            </office>
-		</professor>
-		<professor>
-			<name>David Walker</name>
-			<website>http://www.cs.princeton.edu/~dpw</website>
-			<phone> (609) 258-7654            </phone>
-			<office> 211 Computer Science            </office>
-		</professor>
-		<professor>
-			<name>Olga Troyanskaya</name>
-			<website>http://www.cs.princeton.edu/~ogt</website>
-			<phone> (609) 258-1749            </phone>
-			<office> 320 Computer Science            </office>
-		</professor>
-		<professor>
-			<name>Robert Sedgewick</name>
-			<website>http://www.cs.princeton.edu/~rs</website>
-			<phone> (609) 258-4345            </phone>
-			<office> 319 Computer Science            </office>
-		</professor>
-		<professor>
-			<name>Sebastian Seung</name>
-			<website>http://www.cs.princeton.edu/~sseung</website>
-			<phone> (609) 258-7713            </phone>
-			<office> 153 Princeton Neuroscience Institute            </office>
-		</professor>
-		<professor>
 			<name>Andrew Appel</name>
 			<website>http://www.cs.princeton.edu/~appel</website>
 			<phone> (609) 258-4627            </phone>
 			<office> 306 Computer Science            </office>
+			<image>./images/Andrew Appel.jpg</image>
 		</professor>
 		<professor>
-			<name>Kevin Wayne</name>
-			<website>http://www.cs.princeton.edu/~wayne</website>
-			<phone> (609) 258-4455            </phone>
-			<office> 207 Computer Science            </office>
-		</professor>
-		<professor>
-			<name>Iasonas Petras</name>
-			<website>http://www.cs.princeton.edu/~ipetras</website>
-			<phone> (609) 258-1794            </phone>
-			<office> 209 Computer Science            </office>
-		</professor>
-		<professor>
-			<name>Jennifer Rexford</name>
-			<website>http://www.cs.princeton.edu/~jrex</website>
-			<phone> (609) 258-5182            </phone>
-			<office> 222 Computer Science            </office>
-		</professor>
-		<professor>
-			<name>Szymon Rusinkiewicz</name>
-			<website>http://www.cs.princeton.edu/~smr</website>
-			<phone> (609) 258-7479            </phone>
-			<office> 406 Computer Science            </office>
-		</professor>
-		<professor>
-			<name>Arvind Narayanan</name>
-			<website>http://www.cs.princeton.edu/~arvindn</website>
-			<phone> (609) 258-9302            </phone>
-			<office> 308 Sherrerd Hall            </office>
-		</professor>
-		<professor>
-			<name>Christopher Moretti</name>
-			<website>http://www.cs.princeton.edu/~cmoretti</website>
-			<phone> (609) 258-5388            </phone>
-			<office> 208 Computer Science            </office>
-		</professor>
-		<professor>
-			<name>Larry Peterson</name>
-			<website>http://www.cs.princeton.edu/~llp</website>
-			<phone></phone>
-			<office></office>
-		</professor>
-		<professor>
-			<name>Margaret Martonosi</name>
-			<website>http://www.cs.princeton.edu/~mrm</website>
-			<phone> (609) 258-1912            </phone>
-			<office> 410 Computer Science            </office>
+			<name>Mona Singh</name>
+			<website>http://www.cs.princeton.edu/~mona</website>
+			<phone> (609) 258-2087            </phone>
+			<office> 420 Computer Science            </office>
+			<image>./images/Mona Singh.jpg</image>
 		</professor>
 		<professor>
 			<name>Jaswinder Singh</name>
 			<website>http://www.cs.princeton.edu/~jps</website>
 			<phone> (609) 258-5329            </phone>
 			<office> 423 Computer Science            </office>
+			<image>./images/Jaswinder Singh.jpg</image>
 		</professor>
 		<professor>
-			<name>Jérémie Lumbroso</name>
-			<website></website>
-			<phone> (609) 258-5379            </phone>
+			<name>Robert Tarjan</name>
+			<website>http://www.cs.princeton.edu/~ret</website>
+			<phone> (609) 258-4797            </phone>
+			<office> 324 Computer Science            </office>
+			<image>./images/Robert Tarjan.jpg</image>
+		</professor>
+		<professor>
+			<name>Olga Troyanskaya</name>
+			<website>http://www.cs.princeton.edu/~ogt</website>
+			<phone> (609) 258-1749            </phone>
+			<office> 320 Computer Science            </office>
+			<image>./images/Olga Troyanskaya.jpg</image>
+		</professor>
+		<professor>
+			<name>Jianxiong Xiao</name>
+			<website>http://www.cs.princeton.edu/~xj</website>
+			<phone> (609) 258-1203            </phone>
+			<office> 409 Computer Science            </office>
+			<image>./images/Jianxiong Xiao.jpg</image>
+		</professor>
+		<professor>
+			<name>David Walker</name>
+			<website>http://www.cs.princeton.edu/~dpw</website>
+			<phone> (609) 258-7654            </phone>
+			<office> 211 Computer Science            </office>
+			<image>./images/David Walker.jpg</image>
+		</professor>
+		<professor>
+			<name>Kevin Wayne</name>
+			<website>http://www.cs.princeton.edu/~wayne</website>
+			<phone> (609) 258-4455            </phone>
+			<office> 207 Computer Science            </office>
+			<image>./images/Kevin Wayne.jpg</image>
+		</professor>
+		<professor>
+			<name>Sebastian Seung</name>
+			<website>http://www.cs.princeton.edu/~sseung</website>
+			<phone> (609) 258-7713            </phone>
+			<office> 153 Princeton Neuroscience Institute            </office>
+			<image>./images/Sebastian Seung.jpg</image>
+		</professor>
+		<professor>
+			<name>Jennifer Rexford</name>
+			<website>http://www.cs.princeton.edu/~jrex</website>
+			<phone> (609) 258-5182            </phone>
+			<office> 222 Computer Science            </office>
+			<image>./images/Jennifer Rexford.jpg</image>
+		</professor>
+		<professor>
+			<name>Larry Peterson</name>
+			<website>http://www.cs.princeton.edu/~llp</website>
+			<phone></phone>
+			<office></office>
+			<image>./images/Larry Peterson.jpg</image>
+		</professor>
+		<professor>
+			<name>Margaret Martonosi</name>
+			<website>http://www.cs.princeton.edu/~mrm</website>
+			<phone> (609) 258-1912            </phone>
+			<office> 410 Computer Science            </office>
+			<image>./images/Margaret Martonosi.jpg</image>
+		</professor>
+		<professor>
+			<name>Robert Sedgewick</name>
+			<website>http://www.cs.princeton.edu/~rs</website>
+			<phone> (609) 258-4345            </phone>
+			<office> 319 Computer Science            </office>
+			<image>./images/Robert Sedgewick.jpg</image>
+		</professor>
+		<professor>
+			<name>Iasonas Petras</name>
+			<website>http://www.cs.princeton.edu/~ipetras</website>
+			<phone> (609) 258-1794            </phone>
 			<office> 209 Computer Science            </office>
+			<image>./images/Iasonas Petras.jpg</image>
+		</professor>
+		<professor>
+			<name>Christopher Moretti</name>
+			<website>http://www.cs.princeton.edu/~cmoretti</website>
+			<phone> (609) 258-5388            </phone>
+			<office> 208 Computer Science            </office>
+			<image>./images/Christopher Moretti.jpg</image>
+		</professor>
+		<professor>
+			<name>Szymon Rusinkiewicz</name>
+			<website>http://www.cs.princeton.edu/~smr</website>
+			<phone> (609) 258-7479            </phone>
+			<office> 406 Computer Science            </office>
+			<image>./images/Szymon Rusinkiewicz.jpg</image>
+		</professor>
+		<professor>
+			<name>Arvind Narayanan</name>
+			<website>http://www.cs.princeton.edu/~arvindn</website>
+			<phone> (609) 258-9302            </phone>
+			<office> 308 Sherrerd Hall            </office>
+			<image>./images/Arvind Narayanan.jpg</image>
 		</professor>
 		<professor>
 			<name>Kai Li</name>
 			<website>http://www.cs.princeton.edu/~li</website>
 			<phone> (609) 258-4637            </phone>
 			<office> 321 Computer Science            </office>
+			<image>./images/Kai Li.jpg</image>
+		</professor>
+		<professor>
+			<name>Jérémie Lumbroso</name>
+			<website></website>
+			<phone> (609) 258-5379            </phone>
+			<office> 209 Computer Science            </office>
+			<image>./images/Jérémie Lumbroso.jpg</image>
 		</professor>
 		<professor>
 			<name>Xiaoyan Li</name>
 			<website>http://www.cs.princeton.edu/~xiaoyan</website>
 			<phone> (609) 258-7844            </phone>
 			<office> 104 221 Nassau Street            </office>
-		</professor>
-		<professor>
-			<name>Daniel Leyzberg</name>
-			<website>http://www.cs.princeton.edu/~dl9</website>
-			<phone> (609) 258-9300            </phone>
-			<office> 208 Computer Science            </office>
-		</professor>
-		<professor>
-			<name>Alan Kaplan</name>
-			<website>http://www.cs.princeton.edu/~ak18</website>
-			<phone> (609) 258-1745            </phone>
-			<office> 105 221 Nassau Street            </office>
-		</professor>
-		<professor>
-			<name>Andrea LaPaugh</name>
-			<website>http://www.cs.princeton.edu/~aslp</website>
-			<phone> (609) 258-4568            </phone>
-			<office> 304 Computer Science            </office>
+			<image>./images/Xiaoyan Li.jpg</image>
 		</professor>
 		<professor>
 			<name>Brian Kernighan</name>
 			<website>http://www.cs.princeton.edu/~bwk</website>
 			<phone> (609) 258-2089            </phone>
 			<office> 311 Computer Science            </office>
+			<image>./images/Brian Kernighan.jpg</image>
+		</professor>
+		<professor>
+			<name>Daniel Leyzberg</name>
+			<website>http://www.cs.princeton.edu/~dl9</website>
+			<phone> (609) 258-9300            </phone>
+			<office> 208 Computer Science            </office>
+			<image>./images/Daniel Leyzberg.jpg</image>
+		</professor>
+		<professor>
+			<name>Andrea LaPaugh</name>
+			<website>http://www.cs.princeton.edu/~aslp</website>
+			<phone> (609) 258-4568            </phone>
+			<office> 304 Computer Science            </office>
+			<image>./images/Andrea LaPaugh.jpg</image>
+		</professor>
+		<professor>
+			<name>Alan Kaplan</name>
+			<website>http://www.cs.princeton.edu/~ak18</website>
+			<phone> (609) 258-1745            </phone>
+			<office> 105 221 Nassau Street            </office>
+			<image>./images/Alan Kaplan.jpg</image>
 		</professor>
 		<professor>
 			<name>Kyle Jamieson</name>
 			<website>http://www.cs.princeton.edu/~kylej</website>
 			<phone> (609) 258-7477            </phone>
 			<office> 305 Computer Science            </office>
-		</professor>
-		<professor>
-			<name>Elad Hazan</name>
-			<website>http://www.cs.princeton.edu/~ehazan</website>
-			<phone> (609) 258-6031            </phone>
-			<office> 407 Computer Science            </office>
-		</professor>
-		<professor>
-			<name>Ananda Gunawardena</name>
-			<website></website>
-			<phone> (609) 258-6253            </phone>
-			<office> 103 221 Nassau Street            </office>
+			<image>./images/Kyle Jamieson.jpg</image>
 		</professor>
 		<professor>
 			<name>Aarti Gupta</name>
 			<website>http://www.cs.princeton.edu/~aartig</website>
 			<phone> (609) 258-8017            </phone>
 			<office> 220 Computer Science            </office>
+			<image>./images/Aarti Gupta.jpg</image>
+		</professor>
+		<professor>
+			<name>Elad Hazan</name>
+			<website>http://www.cs.princeton.edu/~ehazan</website>
+			<phone> (609) 258-6031            </phone>
+			<office> 407 Computer Science            </office>
+			<image>./images/Elad Hazan.jpg</image>
+		</professor>
+		<professor>
+			<name>Ananda Gunawardena</name>
+			<website></website>
+			<phone> (609) 258-6253            </phone>
+			<office> 103 221 Nassau Street            </office>
+			<image>./images/Ananda Gunawardena.jpg</image>
 		</professor>
 		<professor>
 			<name>Maia Ginsburg</name>
 			<website>http://www.cs.princeton.edu/~maia</website>
 			<phone> (609) 258-6484            </phone>
 			<office> 205 Computer Science            </office>
-		</professor>
-		<professor>
-			<name>Thomas Funkhouser</name>
-			<website>http://www.cs.princeton.edu/~funk</website>
-			<phone> (609) 258-1748            </phone>
-			<office> 422 Computer Science            </office>
-		</professor>
-		<professor>
-			<name>Michael Freedman</name>
-			<website>http://www.cs.princeton.edu/~mfreed</website>
-			<phone> (609) 258-9179            </phone>
-			<office> 308 Computer Science            </office>
+			<image>./images/Maia Ginsburg.jpg</image>
 		</professor>
 		<professor>
 			<name>Donna Gabai</name>
 			<website>http://www.cs.princeton.edu/~dgabai</website>
 			<phone> (609) 258-1978            </phone>
 			<office> 205 Computer Science            </office>
+			<image>./images/Donna Gabai.jpg</image>
+		</professor>
+		<professor>
+			<name>Michael Freedman</name>
+			<website>http://www.cs.princeton.edu/~mfreed</website>
+			<phone> (609) 258-9179            </phone>
+			<office> 308 Computer Science            </office>
+			<image>./images/Michael Freedman.jpg</image>
+		</professor>
+		<professor>
+			<name>Thomas Funkhouser</name>
+			<website>http://www.cs.princeton.edu/~funk</website>
+			<phone> (609) 258-1748            </phone>
+			<office> 422 Computer Science            </office>
+			<image>./images/Thomas Funkhouser.jpg</image>
 		</professor>
 		<professor>
 			<name>Robert Fish</name>
 			<website></website>
 			<phone> (609) 258-0839            </phone>
 			<office> 206 Computer Science            </office>
+			<image>./images/Robert Fish.jpg</image>
 		</professor>
 		<professor>
 			<name>Adam Finkelstein</name>
 			<website>http://www.cs.princeton.edu/~af</website>
 			<phone> (609) 258-5756            </phone>
 			<office> 424 Computer Science            </office>
-		</professor>
-		<professor>
-			<name>Nick Feamster</name>
-			<website>http://www.cs.princeton.edu/~feamster</website>
-			<phone> (609) 258-2203            </phone>
-			<office> 310 Sherrerd Hall            </office>
+			<image>./images/Adam Finkelstein.jpg</image>
 		</professor>
 		<professor>
 			<name>Christiane Fellbaum</name>
 			<website>http://www.cs.princeton.edu/~fellbaum</website>
 			<phone> (609) 258-2824            </phone>
 			<office> 412 Computer Science            </office>
+			<image>./images/Christiane Fellbaum.jpg</image>
 		</professor>
 		<professor>
 			<name>Edward Felten</name>
 			<website>http://www.cs.princeton.edu/~felten</website>
 			<phone> (609) 258-5906            </phone>
 			<office> 302 Sherrerd Hall            </office>
+			<image>./images/Edward Felten.jpg</image>
 		</professor>
 		<professor>
-			<name>Zeev Dvir</name>
-			<website>http://www.cs.princeton.edu/~zdvir</website>
-			<phone> (609) 258-0255            </phone>
-			<office> 405 Computer Science            </office>
+			<name>Nick Feamster</name>
+			<website>http://www.cs.princeton.edu/~feamster</website>
+			<phone> (609) 258-2203            </phone>
+			<office> 310 Sherrerd Hall            </office>
+			<image>./images/Nick Feamster.jpg</image>
 		</professor>
 		<professor>
 			<name>Barbara Engelhardt</name>
 			<website>http://www.cs.princeton.edu/~bee</website>
 			<phone> (609) 258-0933            </phone>
 			<office> 322 Computer Science            </office>
+			<image>./images/Barbara Engelhardt.jpg</image>
+		</professor>
+		<professor>
+			<name>Zeev Dvir</name>
+			<website>http://www.cs.princeton.edu/~zdvir</website>
+			<phone> (609) 258-0255            </phone>
+			<office> 405 Computer Science            </office>
+			<image>./images/Zeev Dvir.jpg</image>
 		</professor>
 		<professor>
 			<name>Robert Dondero</name>
 			<website>http://www.cs.princeton.edu/~rdondero</website>
 			<phone> (609) 258-2211            </phone>
 			<office> 206 Computer Science            </office>
+			<image>./images/Robert Dondero.jpg</image>
 		</professor>
 		<professor>
 			<name>David Dobkin</name>
 			<website>http://www.cs.princeton.edu/~dpd</website>
 			<phone> (609) 258-9907            </phone>
 			<office> 419 Computer Science            </office>
-		</professor>
-		<professor>
-			<name>Sandra Batista</name>
-			<website></website>
-			<phone> (609) 258-6943            </phone>
-			<office> 106 221 Nassau Street            </office>
-		</professor>
-		<professor>
-			<name>Bernard Chazelle</name>
-			<website>http://www.cs.princeton.edu/~chazelle</website>
-			<phone> (609) 258-5380            </phone>
-			<office> 404 Computer Science            </office>
-		</professor>
-		<professor>
-			<name>David August</name>
-			<website>http://www.cs.princeton.edu/~august</website>
-			<phone> (609) 258-2085            </phone>
-			<office> 221 Computer Science            </office>
+			<image>./images/David Dobkin.jpg</image>
 		</professor>
 		<professor>
 			<name>Mark Braverman</name>
 			<website>http://www.cs.princeton.edu/~mbraverm</website>
 			<phone> (609) 258-8130            </phone>
 			<office> 411 Computer Science            </office>
+			<image>./images/Mark Braverman.jpg</image>
+		</professor>
+		<professor>
+			<name>Sandra Batista</name>
+			<website></website>
+			<phone> (609) 258-6943            </phone>
+			<office> 106 221 Nassau Street            </office>
+			<image>./images/Sandra Batista.jpg</image>
+		</professor>
+		<professor>
+			<name>David August</name>
+			<website>http://www.cs.princeton.edu/~august</website>
+			<phone> (609) 258-2085            </phone>
+			<office> 221 Computer Science            </office>
+			<image>./images/David August.jpg</image>
 		</professor>
 		<professor>
 			<name>Sanjeev Arora</name>
 			<website>http://www.cs.princeton.edu/~arora</website>
 			<phone> (609) 258-3869            </phone>
 			<office> 307 Computer Science            </office>
+			<image>./images/Sanjeev Arora.jpg</image>
+		</professor>
+		<professor>
+			<name>Bernard Chazelle</name>
+			<website>http://www.cs.princeton.edu/~chazelle</website>
+			<phone> (609) 258-5380            </phone>
+			<office> 404 Computer Science            </office>
+			<image>./images/Bernard Chazelle.jpg</image>
 		</professor>
 	</institution>
