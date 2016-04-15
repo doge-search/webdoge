@@ -41,9 +41,9 @@
 		</research>
 		<research>
 			<groupname>Center for Networked Systems</groupname>
-			<groupname>Pasquale, Joseph</professorname>
-			<groupname>Vahdat, Mohammed A.</professorname>
-			<groupname>Voelker, Geoffrey M.</professorname>
+			<professorname>Pasquale, Joseph</professorname>
+			<professorname>Vahdat, Mohammed A.</professorname>
+			<professorname>Voelker, Geoffrey M.</professorname>
 		</research>
 		<research>
 			<groupname>Center for Wireless Communications</groupname>
