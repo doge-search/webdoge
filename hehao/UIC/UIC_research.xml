@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Artificial Intelligence Laboratory</groupname>
+			<professorname>Pete Nelson</professorname>
+			<professorname>Piotr Gmytrasiewicz (co-directors)</professorname>
+			<professorname>Barbara Di Eugenio</professorname>
+			<professorname>Bob Sloan</professorname>
+			<professorname>Dale Reed</professorname>
+			<professorname>	</professorname>
+			<professorname>Natural Language Processing Laboratory</professorname>
+			<professorname>Barbara Di Eugenio (director)</professorname>
+		</research>
+		<research>
+			<groupname>Advances in Information Systems Laboratory</groupname>
+			<professorname>Isabel Cruz (director)</professorname>
+		</research>
+		<research>
+			<groupname>Database</groupname>
+			<professorname>Information System Laboratory</professorname>
+			<professorname>Clement Yu (director)</professorname>
+			<professorname>Isabel Cruz</professorname>
+			<professorname>Ashfaq Khokhar</professorname>
+			<professorname>Bing Liu</professorname>
+			<professorname>Prasad Sistla</professorname>
+			<professorname>Ouri Wolfson</professorname>
+			<professorname>Philip Yu</professorname>
+		</research>
+		<research>
+			<groupname>Databases</groupname>
+			<professorname>Mobile Computing Laboratory</professorname>
+			<professorname>Ouri Wolfson (director)</professorname>
+			<professorname>Prasad Sistla</professorname>
+		</research>
+		<research>
+			<groupname>Multimedia Systems Laboratory</groupname>
+			<professorname>Ashfaq Khokar (director)</professorname>
+		</research>
+		<research>
+			<groupname>Database</groupname>
+			<professorname>Information System Laboratory</professorname>
+			<professorname>Clement Yu (director)</professorname>
+			<professorname>Isabel Cruz</professorname>
+			<professorname>Ashfaq Khokhar</professorname>
+			<professorname>Bing Liu</professorname>
+			<professorname>Prasad Sistla</professorname>
+			<professorname>Ouri Wolfson</professorname>
+			<professorname>Philip Yu</professorname>
+		</research>
+		<research>
+			<groupname>Computational Population Biology Laboratory</groupname>
+			<professorname>Tanya Berger-Wolf (director)</professorname>
+		</research>
+		<research>
+			<groupname>BITS Networked Systems Laboratory</groupname>
+			<professorname>Steve Checkoway</professorname>
+			<professorname>Jakob Eriksson</professorname>
+			<professorname>Chris Kanich</professorname>
+			<professorname>Balajee Vamanan</professorname>
+		</research>
+		<research>
+			<groupname>Electronic Visualization Laboratory</groupname>
+			<professorname>Maxine Brown (director)</professorname>
+			<professorname>Andrew Johnson (director of research)</professorname>
+			<professorname>Jason Leigh (director emeritus)</professorname>
+			<professorname>Tom DeFanti (director emeritus)</professorname>
+			<professorname>Dan Sandin (director emeritus)</professorname>
+			<professorname>Luc Renambot</professorname>
+			<professorname>Robert Kenyon</professorname>
+			<professorname>Leilah Lyons</professorname>
+			<professorname>Angus Forbes</professorname>
+			<professorname>Tom Moher</professorname>
+			<professorname>G. Elisabeta Marai</professorname>
+		</research>
+		<research>
+			<groupname>Natural Language Processing Laboratory</groupname>
+			<professorname>Barbara Di Eugenio (director)</professorname>
+		</research>
+		<research>
+			<groupname>Virtual Reality Undergraduate Projects Laboratory</groupname>
+			<professorname>John Bell (director)</professorname>
+		</research>
+		<research>
+			<groupname>Security Center for RITES</groupname>
+			<professorname>Venkat Venkatakrishnan (Director)</professorname>
+		</research>
+		<research>
+			<groupname>Computational Population Biology Laboratory</groupname>
+			<professorname>Tanya Berger-Wolf (director</professorname>
+		</research>
+	</institution>

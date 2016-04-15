@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>ALGORITHMS and THEORY</groupname>
+			<professorname>AGNES H. CHAN</professorname>
+			<professorname>EHSAN ELHAMIFAR</professorname>
+			<professorname>LARRY A. FINKELSTEIN</professorname>
+			<professorname>RAJMOHAN RAJARAMAN</professorname>
+			<professorname>RAVI SUNDARAM</professorname>
+			<professorname>JONATHAN ULLMAN</professorname>
+			<professorname>EMANUELE VIOLA</professorname>
+			<professorname>DANIEL WICHS</professorname>
+		</research>
+		<research>
+			<groupname>ARTIFICIAL INTELLIGENCE</groupname>
+			<professorname>JAVED A. ASLAM</professorname>
+			<professorname>CARLA E. BRODLEY</professorname>
+			<professorname>SETH COOPER</professorname>
+			<professorname>EHSAN ELHAMIFAR</professorname>
+			<professorname>RAYMOND FU</professorname>
+			<professorname>STACY C. MARSELLA</professorname>
+			<professorname>ROBERT PLATT</professorname>
+			<professorname>MAGY SEIF EL-NASR</professorname>
+			<professorname>DAVID SMITH</professorname>
+			<professorname>GILLIAN SMITH</professorname>
+			<professorname>LU WANG</professorname>
+		</research>
+		<research>
+			<groupname>DATA SCIENCE</groupname>
+			<professorname>JAVED A. ASLAM</professorname>
+			<professorname>KENNETH P. BACLAWSKI</professorname>
+			<professorname>ALBERT-LÁSZLÓ BARABÁSI</professorname>
+			<professorname>MICHELLE BORKIN</professorname>
+			<professorname>CARLA E. BRODLEY</professorname>
+			<professorname>EHSAN ELHAMIFAR</professorname>
+			<professorname>HOLLY JIMISON</professorname>
+			<professorname>MISHA PAVEL</professorname>
+			<professorname>VIRGIL PAVLU</professorname>
+			<professorname>MIREK RIEDEWALD</professorname>
+			<professorname>CHRISTOPH RIEDL</professorname>
+			<professorname>MARTIN SCHEDLBAUER</professorname>
+			<professorname>MAGY SEIF EL-NASR</professorname>
+			<professorname>DAVID SMITH</professorname>
+			<professorname>YIZHOU SUN</professorname>
+			<professorname>OLGA VITEK</professorname>
+			<professorname>LU WANG</professorname>
+		</research>
+		<research>
+			<groupname>FORMAL METHODS</groupname>
+			<professorname>PANAGIOTIS MANOLIOS</professorname>
+			<professorname>JAN VITEK</professorname>
+			<professorname>THOMAS WAHL</professorname>
+		</research>
+		<research>
+			<groupname>GAME DESIGN AND VIRTUAL WORLDS</groupname>
+			<professorname>ALESSANDRO CANOSSA</professorname>
+			<professorname>SETH COOPER</professorname>
+			<professorname>MATTHEW GOODWIN</professorname>
+			<professorname>CASPER HARTEVELD</professorname>
+			<professorname>STEPHEN INTILLE</professorname>
+			<professorname>HOLLY JIMISON</professorname>
+			<professorname>STACY C. MARSELLA</professorname>
+			<professorname>ANDREA PARKER</professorname>
+			<professorname>RUPAL PATEL</professorname>
+			<professorname>MISHA PAVEL</professorname>
+			<professorname>MAGY SEIF EL-NASR</professorname>
+			<professorname>GILLIAN SMITH</professorname>
+		</research>
+		<research>
+			<groupname>HUMAN–COMPUTER INTERACTION</groupname>
+			<professorname>TIMOTHY BICKMORE</professorname>
+			<professorname>MICHELLE BORKIN</professorname>
+			<professorname>SETH COOPER</professorname>
+			<professorname>STEPHEN INTILLE</professorname>
+			<professorname>HOLLY JIMISON</professorname>
+			<professorname>ANDREA PARKER</professorname>
+			<professorname>MISHA PAVEL</professorname>
+			<professorname>ROBERT PLATT</professorname>
+			<professorname>MAGY SEIF EL-NASR</professorname>
+			<professorname>GILLIAN SMITH</professorname>
+		</research>
+		<research>
+			<groupname>NETWORK SCIENCE</groupname>
+			<professorname>ALBERT-LÁSZLÓ BARABÁSI</professorname>
+			<professorname>DAVID LAZER</professorname>
+			<professorname>ALAN E. MISLOVE</professorname>
+			<professorname>CHRISTOPH RIEDL</professorname>
+			<professorname>YIZHOU SUN</professorname>
+			<professorname>ALESSANDRO VESPIGNANI</professorname>
+			<professorname>CHRISTO WILSON</professorname>
+		</research>
+		<research>
+			<groupname>PERSONAL HEALTH INFORMATICS</groupname>
+			<professorname>TIMOTHY BICKMORE</professorname>
+			<professorname>MICHELLE BORKIN</professorname>
+			<professorname>CARLA E. BRODLEY</professorname>
+			<professorname>MATTHEW GOODWIN</professorname>
+			<professorname>STEPHEN INTILLE</professorname>
+			<professorname>HOLLY JIMISON</professorname>
+			<professorname>ANDREA PARKER</professorname>
+			<professorname>RUPAL PATEL</professorname>
+			<professorname>MISHA PAVEL</professorname>
+			<professorname>MAGY SEIF EL-NASR</professorname>
+			<professorname>OLGA VITEK</professorname>
+		</research>
+		<research>
+			<groupname>PROGRAMMING LANGUAGES</groupname>
+			<professorname>AMAL AHMED</professorname>
+			<professorname>WILLIAM D. CLINGER</professorname>
+			<professorname>MATTHIAS FELLEISEN</professorname>
+			<professorname>OLIN SHIVERS</professorname>
+			<professorname>JAN VITEK</professorname>
+			<professorname>THOMAS WAHL</professorname>
+			<professorname>MITCHELL WAND</professorname>
+		</research>
+		<research>
+			<groupname>SECURITY</groupname>
+			<professorname>ERIK-OLIVER BLASS</professorname>
+			<professorname>AGNES H. CHAN</professorname>
+			<professorname>RAYMOND FU</professorname>
+			<professorname>ENGIN KIRDA</professorname>
+			<professorname>ALAN E. MISLOVE</professorname>
+			<professorname>CRISTINA NITA-ROTARU</professorname>
+			<professorname>GUEVARA NOUBIR</professorname>
+			<professorname>WILLIAM ROBERTSON</professorname>
+			<professorname>RAVI SUNDARAM</professorname>
+			<professorname>JONATHAN ULLMAN</professorname>
+			<professorname>EMANUELE VIOLA</professorname>
+			<professorname>DANIEL WICHS</professorname>
+		</research>
+		<research>
+			<groupname>SOFTWARE ENGINEERING</groupname>
+			<professorname>KENNETH P. BACLAWSKI</professorname>
+			<professorname>KARL J. LIEBERHERR</professorname>
+			<professorname>THOMAS WAHL</professorname>
+		</research>
+		<research>
+			<groupname>SYSTEMS AND NETWORKING</groupname>
+			<professorname>DAVID CHOFFNES</professorname>
+			<professorname>GENE D. COOPERMAN</professorname>
+			<professorname>PETER J. DESNOYERS</professorname>
+			<professorname>ALAN E. MISLOVE</professorname>
+			<professorname>GUEVARA NOUBIR</professorname>
+			<professorname>WILLIAM ROBERTSON</professorname>
+			<professorname>RAVI SUNDARAM</professorname>
+			<professorname>CHRISTO WILSO</professorname>
+		</research>
+	</institution>

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Algorithms and Computational Biology Lab</groupname>
+			<professorname>Marek Chrobak</professorname>
+			<professorname>Tao Jiang</professorname>
+			<professorname>Neal Young</professorname>
+			<professorname>Stefano Lonardi</professorname>
+		</research>
+		<research>
+			<groupname>Computer Architecture and Embedded System group (CARES)</groupname>
+			<professorname>Laxmi Bhuyan</professorname>
+			<professorname>Rajiv Gupta</professorname>
+			<professorname>Walid Najjar</professorname>
+			<professorname>Sheldon X.-D. Tan (EE)</professorname>
+			<professorname>Frank Vahid</professorname>
+			<professorname>Philip Brisk</professorname>
+		</research>
+		<research>
+			<groupname>Database Lab</groupname>
+			<professorname>Vagelis Hristidis</professorname>
+			<professorname>Eamonn Keogh</professorname>
+			<professorname>Chinya Ravishankar</professorname>
+			<professorname>Vassilis Tsotras</professorname>
+		</research>
+		<research>
+			<groupname>Networks and Communications Lab</groupname>
+			<professorname>Laxmi Bhuyan</professorname>
+			<professorname>Jiasi Chen</professorname>
+			<professorname>Michalis Faloutsos</professorname>
+			<professorname>Srikanth Krishnamurthy</professorname>
+			<professorname>Zhiyun Qian</professorname>
+			<professorname>K.K. Ramakrishnan</professorname>
+		</research>
+		<research>
+			<groupname>Riverside Graphics Lab (RGL)</groupname>
+			<professorname>Tamar Shinar</professorname>
+			<professorname>Victor Zordan</professorname>
+		</research>
+		<research>
+			<groupname>Riverside Lab for Artificial Intelligence Research</groupname>
+			<professorname>Christian Shelton</professorname>
+		</research>
+		<research>
+			<groupname>RIverside Programming Languages and software Engineering lab (RIPLE)</groupname>
+			<professorname>Rajiv Gupta</professorname>
+			<professorname>Iulian Neamtiu</professorname>
+			<professorname>Zhijia Zhao</professorname>
+		</research>
+		<research>
+			<groupname>Security Lab</groupname>
+		</research>
+		<research>
+			<groupname>SPRUCe: SmartPhone Research at UCr</groupname>
+			<professorname>Michalis Faloutsos</professorname>
+			<professorname>Srikanth Krishnamurthy</professorname>
+			<professorname>Harsha Madhyastha</professorname>
+			<professorname>Iulian Neamtiu</professorname>
+		</research>
+		<research>
+			<groupname>SuperLab</groupname>
+			<professorname>Dr. Zizhong (Jeffrey) Che</professorname>
+		</research>
+	</institution>

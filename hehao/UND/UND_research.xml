@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Complex Networks Lab</groupname>
+			<professorname>Milenkovic</professorname>
+		</research>
+		<research>
+			<groupname>Computer Vision Research Lab</groupname>
+			<professorname>Bowyer</professorname>
+			<professorname>Flynn</professorname>
+		</research>
+		<research>
+			<groupname>Cooperative Computing Lab</groupname>
+			<professorname>Thain</professorname>
+			<professorname>Emrich</professorname>
+			<professorname>Flynn</professorname>
+			<professorname>Izaguirre</professorname>
+		</research>
+		<research>
+			<groupname>Data</groupname>
+			<professorname>Inference</professorname>
+			<professorname>Analysis</professorname>
+			<professorname>and Learning Lab</professorname>
+			<professorname>Chawla</professorname>
+			<professorname>Wickramarathne</professorname>
+		</research>
+		<research>
+			<groupname>Embedded System Design Group</groupname>
+			<professorname>Hu</professorname>
+		</research>
+		<research>
+			<groupname>Emotive Computing Lab</groupname>
+			<professorname>D'Mello</professorname>
+		</research>
+		<research>
+			<groupname>Laboratory for Computational Life Sciences</groupname>
+			<professorname>Izaguirre</professorname>
+		</research>
+		<research>
+			<groupname>Mobile Computing Lab</groupname>
+			<professorname>Poellabauer</professorname>
+		</research>
+		<research>
+			<groupname>Nanomagnet Logic Research Group</groupname>
+			<professorname>Hu</professorname>
+			<professorname>Kogge</professorname>
+			<professorname>Nahas</professorname>
+			<professorname>Niemier</professorname>
+		</research>
+		<research>
+			<groupname>Notre Dame Bioinformatics Laboratory</groupname>
+			<professorname>Emrich</professorname>
+		</research>
+		<research>
+			<groupname>Robotics</groupname>
+			<professorname>Health &amp; Communication Lab</professorname>
+			<professorname>Riek</professorname>
+		</research>
+		<research>
+			<groupname>Social Sensing Lab</groupname>
+			<professorname>D. Wan</professorname>
+		</research>
+	</institution>
