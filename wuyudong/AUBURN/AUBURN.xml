@@ -7,7 +7,7 @@
 			<email>mza0041@auburn.edu</email>
 			<phone>(617) 590-6943</phone>
 			<website>http://eng.auburn.edu/users/mza0041<website>
-			<image>http://eng.auburn.edu/images/programs/csse/headshots/an-myoung.jpg<\image>
+			<image>http://eng.auburn.edu/images/programs/csse/headshots/an-myoung.jpg</image>
 		</professor>
 		<professor>
 			<name>Sanjeev Baskiyar</name>
@@ -16,7 +16,7 @@
 			<email>baskisa@auburn.edu</email>
 			<phone>(334) 844-6306</phone>
 			<website>http://eng.auburn.edu/users/baskisa<website>
-			<image>http://eng.auburn.edu/images/programs/csse/headshots/baskiyar-sanjeev.jpg<\image>
+			<image>http://eng.auburn.edu/images/programs/csse/headshots/baskiyar-sanjeev.jpg</image>
 		</professor>
 		<professor>
 			<name>Saad Biaz</name>
@@ -25,7 +25,7 @@
 			<email>biazsaa@auburn.edu</email>
 			<phone>(334) 844-6307</phone>
 			<website>http://eng.auburn.edu/users/biazsaa<website>
-			<image>http://eng.auburn.edu/images/directory/biaz-saad.jpg<\image>
+			<image>http://eng.auburn.edu/images/directory/biaz-saad.jpg</image>
 		</professor>
 		<professor>
 			<name>Homer Carlisle</name>
@@ -34,7 +34,7 @@
 			<email>carliwh@auburn.edu</email>
 			<phone>(334) 844-6308</phone>
 			<website>http://eng.auburn.edu/users/carliwh<website>
-			<image>http://eng.auburn.edu/images/programs/csse/headshots/carlisle-homer.jpg<\image>
+			<image>http://eng.auburn.edu/images/programs/csse/headshots/carlisle-homer.jpg</image>
 		</professor>
 		<professor>
 			<name>Kai Chang</name>
@@ -43,7 +43,7 @@
 			<email>changka@auburn.edu</email>
 			<phone>(334) 844-6310</phone>
 			<website>http://eng.auburn.edu/users/changka<website>
-			<image>http://eng.auburn.edu/images/programs/csse/headshots/chang-kai.jpg<\image>
+			<image>http://eng.auburn.edu/images/programs/csse/headshots/chang-kai.jpg</image>
 		</professor>
 		<professor>
 			<name>Richard Chapman</name>
@@ -52,7 +52,7 @@
 			<email>chapmro@auburn.edu</email>
 			<phone>(334) 844-6314</phone>
 			<website>http://eng.auburn.edu/users/chapmro<website>
-			<image>http://eng.auburn.edu/images/programs/csse/headshots/chapman-richard.jpg<\image>
+			<image>http://eng.auburn.edu/images/programs/csse/headshots/chapman-richard.jpg</image>
 		</professor>
 		<professor>
 			<name>James Cross</name>
@@ -61,7 +61,7 @@
 			<email>crossjh@auburn.edu</email>
 			<phone>(334) 844-6315</phone>
 			<website>http://eng.auburn.edu/users/crossjh<website>
-			<image>http://eng.auburn.edu/images/programs/csse/headshots/cross-james.jpg<\image>
+			<image>http://eng.auburn.edu/images/programs/csse/headshots/cross-james.jpg</image>
 		</professor>
 		<professor>
 			<name>Munawar Hafiz</name>
@@ -70,7 +70,7 @@
 			<email>mzh0034@auburn.edu</email>
 			<phone>(334) 844-6348</phone>
 			<website>http://eng.auburn.edu/users/mzh0034<website>
-			<image>http://eng.auburn.edu/images/programs/csse/headshots/hafiz-munawar.jpg<\image>
+			<image>http://eng.auburn.edu/images/programs/csse/headshots/hafiz-munawar.jpg</image>
 		</professor>
 		<professor>
 			<name>Dean Hendrix</name>
@@ -79,7 +79,7 @@
 			<email>hendrtd@auburn.edu</email>
 			<phone>(334) 844-6305</phone>
 			<website>http://eng.auburn.edu/users/hendrtd<website>
-			<image>http://eng.auburn.edu/images/programs/csse/headshots/hendrix-dean.jpg<\image>
+			<image>http://eng.auburn.edu/images/programs/csse/headshots/hendrix-dean.jpg</image>
 		</professor>
 		<professor>
 			<name>Jacqueline Hundley</name>
@@ -88,7 +88,7 @@
 			<email>hundljh@auburn.edu</email>
 			<phone>(334) 844-6337</phone>
 			<website>http://eng.auburn.edu/users/hundljh<website>
-			<image>http://eng.auburn.edu/images/programs/csse/headshots/hundley-jackie.jpg<\image>
+			<image>http://eng.auburn.edu/images/programs/csse/headshots/hundley-jackie.jpg</image>
 		</professor>
 		<professor>
 			<name>Wei-Shinn (Jeff)  Ku</name>
@@ -97,7 +97,7 @@
 			<email>weishinn@auburn.edu</email>
 			<phone>(334) 844-6341</phone>
 			<website>http://eng.auburn.edu/users/weishinn<website>
-			<image>http://eng.auburn.edu/images/programs/csse/headshots/ku-wei-shinn.jpg<\image>
+			<image>http://eng.auburn.edu/images/programs/csse/headshots/ku-wei-shinn.jpg</image>
 		</professor>
 		<professor>
 			<name>Alvin Lim</name>
@@ -106,7 +106,7 @@
 			<email>limalvi@auburn.edu</email>
 			<phone>(334) 844-6326</phone>
 			<website>http://eng.auburn.edu/users/limalvi<website>
-			<image>http://eng.auburn.edu/images/programs/csse/headshots/lim-alvin.jpg<\image>
+			<image>http://eng.auburn.edu/images/programs/csse/headshots/lim-alvin.jpg</image>
 		</professor>
 		<professor>
 			<name>Daniela Marghitu</name>
@@ -115,7 +115,7 @@
 			<email>marghda@auburn.edu</email>
 			<phone>(334) 844-6386</phone>
 			<website>http://eng.auburn.edu/users/marghda<website>
-			<image>http://eng.auburn.edu/images/programs/csse/headshots/marghitu-daniela.jpg<\image>
+			<image>http://eng.auburn.edu/images/programs/csse/headshots/marghitu-daniela.jpg</image>
 		</professor>
 		<professor>
 			<name>Hari Narayanan</name>
@@ -124,7 +124,7 @@
 			<email>naraynh@auburn.edu</email>
 			<phone>(334) 844-6312</phone>
 			<website>http://eng.auburn.edu/users/naraynh<website>
-			<image>http://eng.auburn.edu/images/programs/csse/headshots/narayanan-hari.jpg<\image>
+			<image>http://eng.auburn.edu/images/programs/csse/headshots/narayanan-hari.jpg</image>
 		</professor>
 		<professor>
 			<name>Sarp Oral</name>
@@ -133,7 +133,7 @@
 			<email>oralhs@ornl.gov</email>
 			<phone>(865) 574-2123</phone>
 			<website>http://eng.auburn.edu/users/<website>
-			<image>http://eng.auburn.edu/images/programs/no_picture.jpg<\image>
+			<image>http://eng.auburn.edu/images/programs/no_picture.jpg</image>
 		</professor>
 		<professor>
 			<name>Jeff Overbey</name>
@@ -142,7 +142,7 @@
 			<email>jlo0012@auburn.edu</email>
 			<phone>(334) 844-8834</phone>
 			<website>http://eng.auburn.edu/users/jlo0012<website>
-			<image>http://eng.auburn.edu/images/programs/csse/headshots/overbey-jeff.jpg<\image>
+			<image>http://eng.auburn.edu/images/programs/csse/headshots/overbey-jeff.jpg</image>
 		</professor>
 		<professor>
 			<name>Xiao Qin</name>
@@ -151,7 +151,7 @@
 			<email>xqin@auburn.edu</email>
 			<phone>(334) 844-6327</phone>
 			<website>http://eng.auburn.edu/users/xqin<website>
-			<image>http://eng.auburn.edu/images/programs/csse/headshots/qin-xiao.jpg<\image>
+			<image>http://eng.auburn.edu/images/programs/csse/headshots/qin-xiao.jpg</image>
 		</professor>
 		<professor>
 			<name>Cheryl Seals</name>
@@ -160,7 +160,7 @@
 			<email>sealscd@auburn.edu</email>
 			<phone>(334) 844-6319</phone>
 			<website>http://eng.auburn.edu/users/sealscd<website>
-			<image>http://eng.auburn.edu/images/programs/csse/headshots/seals-cheryl.jpg<\image>
+			<image>http://eng.auburn.edu/images/programs/csse/headshots/seals-cheryl.jpg</image>
 		</professor>
 		<professor>
 			<name>Anthony Skjellum</name>
@@ -169,7 +169,7 @@
 			<email>azs0114@auburn.edu</email>
 			<phone>(334) 844-6360</phone>
 			<website>http://eng.auburn.edu/users/azs0114<website>
-			<image>http://eng.auburn.edu/images/programs/csse/headshots/skjellum.jpg<\image>
+			<image>http://eng.auburn.edu/images/programs/csse/headshots/skjellum.jpg</image>
 		</professor>
 		<professor>
 			<name>Hanqin Tian</name>
@@ -178,7 +178,7 @@
 			<email>tianhan@auburn.edu</email>
 			<phone>(334) 844-1059</phone>
 			<website>http://eng.auburn.edu/users/tianhan<website>
-			<image>http://eng.auburn.edu/images/programs/csse/headshots/tian-hanqin.jpg<\image>
+			<image>http://eng.auburn.edu/images/programs/csse/headshots/tian-hanqin.jpg</image>
 		</professor>
 		<professor>
 			<name>David Umphress</name>
@@ -187,7 +187,7 @@
 			<email>david.umphress@auburn.edu</email>
 			<phone>(334) 844-6335</phone>
 			<website>http://eng.auburn.edu/users/umphrda<website>
-			<image>http://eng.auburn.edu/images/programs/csse/headshots/umphress-david.jpg<\image>
+			<image>http://eng.auburn.edu/images/programs/csse/headshots/umphress-david.jpg</image>
 		</professor>
 		<professor>
 			<name>Manjunath Venkata</name>
@@ -196,7 +196,7 @@
 			<email>manjugv@ornl.gov</email>
 			<phone>(865) 574-5949</phone>
 			<website>http://eng.auburn.edu/users/manjugv<website>
-			<image>http://eng.auburn.edu/images/programs/no_picture.jpg<\image>
+			<image>http://eng.auburn.edu/images/programs/no_picture.jpg</image>
 		</professor>
 		<professor>
 			<name>Levent Yilmaz</name>
@@ -205,7 +205,7 @@
 			<email>yilmale@auburn.edu</email>
 			<phone>(334) 844-6343</phone>
 			<website>http://eng.auburn.edu/users/yilmale<website>
-			<image>http://eng.auburn.edu/images/programs/csse/headshots/yilmaz-levent.jpg<\image>
+			<image>http://eng.auburn.edu/images/programs/csse/headshots/yilmaz-levent.jpg</image>
 		</professor>
 		<professor>
 			<name>Weikuan Yu</name>
@@ -214,6 +214,6 @@
 			<email>wkyu@auburn.edu</email>
 			<phone>(334) 844-6330</phone>
 			<website>http://eng.auburn.edu/users/wkyu<website>
-			<image>http://eng.auburn.edu/images/programs/csse/headshots/yu-weikuan.jpg<\image>
+			<image>http://eng.auburn.edu/images/programs/csse/headshots/yu-weikuan.jpg</image>
 		</professor>
 	</institution>
