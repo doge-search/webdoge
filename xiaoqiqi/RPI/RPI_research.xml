@@ -16,7 +16,7 @@
 			<professorname>Deborah McGuinness</professorname>
 		</research>
 		<research>
-			<groupname>Data Science: Data Mining; Machine and Computational Learning; Algorithms for Massive Data Sets</groupnam>
+			<groupname>Data Science: Data Mining; Machine and Computational Learning; Algorithms for Massive Data Sets</groupname>
 			<professorname>Kristin Bennett</professorname>
 			<professorname>Petros Drineas</professorname>
 			<professorname>Mark Goldberg</professorname>
@@ -78,9 +78,6 @@
 		<research>
 			<groupname>CogWorks Laboratory</groupname>
 			<professorname>Wayne Gray</professorname>
-		</research>
-		<research>
-			<professorname>Selmer Bringsjord</professorname>
 		</research>
 		<research>
 			<groupname>Programming Languages and Software Engineering</groupname>
