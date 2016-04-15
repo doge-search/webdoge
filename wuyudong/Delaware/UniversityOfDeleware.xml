@@ -1,0 +1,238 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Kathleen F. McCoy</name>
+			<title>Professor and CIS Department Chair</title>
+			<office>101J</office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cis.udel.edu/~mccoy<website>
+			<image>http://www.cis.udel.edu/people/pics/kathleen_mccoy.jpg<\image>
+		</professor>
+		<professor>
+			<name>James Atlas</name>
+			<title>Associate Professor</title>
+			<office>415</office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.eecis.udel.edu/~atlas/<website>
+			<image>http://www.cis.udel.edu/people/pics/paul_amer.jpg<\image>
+		</professor>
+		<professor>
+			<name>M. Sandra Carberry</name>
+			<title>Professor</title>
+			<office>448</office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cis.udel.edu/~carberry<website>
+			<image>http://www.cis.udel.edu/people/pics/sandra_carberry.jpg<\image>
+		</professor>
+		<professor>
+			<name>Ben Carterette</name>
+			<title>Associate Professor</title>
+			<office>440</office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cis.udel.edu/~carteret/<website>
+			<image>http://www.cis.udel.edu/people/pics/ben_carterette.jpg<\image>
+		</professor>
+		<professor>
+			<name>John Cavazos</name>
+			<title>Associate Professor</title>
+			<office>412</office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cis.udel.edu/~cavazos<website>
+			<image>http://www.cis.udel.edu/people/pics/john_cavazos.jpg<\image>
+		</professor>
+		<professor>
+			<name>Sunita Chandrasekaran</name>
+			<title>Assistant Professor</title>
+			<office>430</office>
+			<email></email>
+			<phone></phone>
+			<website>https://www.eecis.udel.edu/~schandra/<website>
+			<image>http://www.cis.udel.edu/people/pics/sunita_chandrasekaran.jpg<\image>
+		</professor>
+		<professor>
+			<name>Daniel L. Chester</name>
+			<title>Associate Professor</title>
+			<office>101G</office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cis.udel.edu/~chester/<website>
+			<image>http://www.cis.udel.edu/people/pics/daniel_chester.jpg<\image>
+		</professor>
+		<professor>
+			<name>James Clause</name>
+			<title>Assistant Professor</title>
+			<office>438</office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.eecis.udel.edu/~clause/<website>
+			<image>http://www.cis.udel.edu/people/pics/james_clause.jpg<\image>
+		</professor>
+		<professor>
+			<name>Keith Decker</name>
+			<title>Associate Professor</title>
+			<office>444</office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cis.udel.edu/~decker<website>
+			<image>http://www.cis.udel.edu/people/pics/keith_decker.jpg<\image>
+		</professor>
+		<professor>
+			<name>Terry Harvey</name>
+			<title>Associate Professor</title>
+			<office>408</office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cis.udel.edu/~harvey<website>
+			<image>http://www.cis.udel.edu/people/pics/terry_harvey.jpg<\image>
+		</professor>
+		<professor>
+			<name>Chandra Kambhamettu</name>
+			<title>Professor</title>
+			<office>420</office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cis.udel.edu/~chandra<website>
+			<image>http://www.cis.udel.edu/people/pics/chandra_kambhamettu.jpg<\image>
+		</professor>
+		<professor>
+			<name>Li Liao</name>
+			<title>Associate Professor</title>
+			<office>424</office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cis.udel.edu/~lliao<website>
+			<image>http://www.cis.udel.edu/people/pics/li_liao.jpg<\image>
+		</professor>
+		<professor>
+			<name>Errol L. Lloyd</name>
+			<title>Professor</title>
+			<office>100 S. Main, Rm. 108</office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cis.udel.edu/~elloyd<website>
+			<image>http://www.cis.udel.edu/people/pics/errol_lloyd.jpg<\image>
+		</professor>
+		<professor>
+			<name>Lena Mashayekhy</name>
+			<title>Assistant Professor</title>
+			<office>434</office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.eecis.udel.edu/lena/<website>
+			<image>http://www.cis.udel.edu/people/pics/lena_mashayekhy.jpg<\image>
+		</professor>
+		<professor>
+			<name>Kathleen F. McCoy</name>
+			<title>Professor and CIS Department Chair</title>
+			<office>101J</office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cis.udel.edu/~mccoy<website>
+			<image>http://www.cis.udel.edu/people/pics/kathleen_mccoy.jpg<\image>
+		</professor>
+		<professor>
+			<name>Lori Pollock</name>
+			<title>Professor</title>
+			<office>436</office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cis.udel.edu/~pollock<website>
+			<image>http://www.cis.udel.edu/people/pics/lori_pollock.jpg<\image>
+		</professor>
+		<professor>
+			<name>Christopher Rasmussen</name>
+			<title>Associate Professor</title>
+			<office>446</office>
+			<email></email>
+			<phone></phone>
+			<website>http://nameless.cis.udel.edu<website>
+			<image>http://www.cis.udel.edu/people/pics/christopher_rasmussen.jpg<\image>
+		</professor>
+		<professor>
+			<name>B. David Saunders</name>
+			<title>Professor</title>
+			<office>414</office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cis.udel.edu/~saunders<website>
+			<image>http://www.cis.udel.edu/people/pics/david_saunders.jpg<\image>
+		</professor>
+		<professor>
+			<name>Adarsh Sethi</name>
+			<title>Professor</title>
+			<office>422</office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cis.udel.edu/~sethi<website>
+			<image>http://www.cis.udel.edu/people/pics/adarsh_sethi.jpg<\image>
+		</professor>
+		<professor>
+			<name>Vijay Shanker</name>
+			<title>Professor</title>
+			<office>442</office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cis.udel.edu/~vijay<website>
+			<image>http://www.cis.udel.edu/people/pics/vijay_shanker.jpg<\image>
+		</professor>
+		<professor>
+			<name>Hagit Shatkay</name>
+			<title>Associate Professor</title>
+			<office>416</office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cis.udel.edu/~shatkay<website>
+			<image>http://www.cis.udel.edu/people/pics/hagit_shatkay.jpg<\image>
+		</professor>
+		<professor>
+			<name>Chien-Chung Shen</name>
+			<title>Professor</title>
+			<office>450</office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cis.udel.edu/~cshen<website>
+			<image>http://www.cis.udel.edu/people/pics/chien_chung_shen.jpg<\image>
+		</professor>
+		<professor>
+			<name>Stephen Siegel</name>
+			<title>Associate Professor</title>
+			<office>432</office>
+			<email></email>
+			<phone></phone>
+			<website>http://vsl.cis.udel.edu/siegel.html<website>
+			<image>http://www.cis.udel.edu/people/pics/stephen_siegel.jpg<\image>
+		</professor>
+		<professor>
+			<name>Michela Taufer</name>
+			<title>Associate Professor, David L. and Beverly J.C. Mills Career Development Chair</title>
+			<office>406</office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cis.udel.edu/~taufer<website>
+			<image>http://www.cis.udel.edu/people/pics/michela_taufer.jpg<\image>
+		</professor>
+		<professor>
+			<name>Cathy Wu</name>
+			<title>Professor, Edward G. Jefferson Chair of Bioinformatics & Computational Biology/td>
+		  <td>Bioinformatics and Computational Biology: Biological Text Mining, Biological Ontology, Computational Systems Biology, Protein Structure-Function-Network Analysis, Bioinformatics Cyberinfrastructure</title>
+			<office><a href="http://www.cis.udel.edu/~yarringt/" target="_top">Debra Yarrington</a></office>
+			<email></email>
+			<phone></phone>
+			<website>http://bioinformatics.udel.edu/People/Cathy_Wu<website>
+			<image>http://www.cis.udel.edu/people/pics/cathy_wu.jpg<\image>
+		</professor>
+		<professor>
+			<name>Jingyi Yu</name>
+			<title>Professor</title>
+			<office>410</office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cis.udel.edu/~yu<website>
+			<image>http://www.cis.udel.edu/people/pics/jingyi_yu.jpg<\image>
+		</professor>
+	</institution>

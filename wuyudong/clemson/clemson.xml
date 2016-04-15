@@ -1,0 +1,291 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Amy Apon</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cs.clemson.edu/~aapon/<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/apon_amy.jpg<\image>
+		</professor>
+		<professor>
+			<name>Sabarish Babu</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://people.clemson.edu/~sbabu/<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/sab_babu.png<\image>
+		</professor>
+		<professor>
+			<name>Kelly  Caine</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>https://kellycaine.wordpress.com<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/kelly_caine.jpg<\image>
+		</professor>
+		<professor>
+			<name>James P. Clements</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.clemson.edu/administration/president/<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/jim_clements.jpg<\image>
+		</professor>
+		<professor>
+			<name>Brian C. Dean</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cs.clemson.edu/%7Ebcdean/<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/brian_dean.jpg<\image>
+		</professor>
+		<professor>
+			<name>David Donar</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>https://donarfilms.wordpress.com/<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/david_donar.png<\image>
+		</professor>
+		<professor>
+			<name>Andrew T. Duchowski</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://andrewd.ces.clemson.edu<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/andrew_duchowski.jpg<\image>
+		</professor>
+		<professor>
+			<name>Rong Ge</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://people.cs.clemson.edu/~rge/index.html<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/rong_ge.jpg<\image>
+		</professor>
+		<professor>
+			<name>Robert M. Geist III</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://people.cs.clemson.edu/~geist/homepage.html<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/robert_geist.jpg<\image>
+		</professor>
+		<professor>
+			<name>Wayne Goddard</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cs.clemson.edu/%7Egoddard/<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/wayne_goddard.jpg<\image>
+		</professor>
+		<professor>
+			<name>Sandra M. Hedetniemi</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cs.clemson.edu/%7Eshedet/<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/sandra_hedetniemi.jpg<\image>
+		</professor>
+		<professor>
+			<name>Larry F. Hodges</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.clemson.edu/%7Elfh<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/larry_hodges.jpg<\image>
+		</professor>
+		<professor>
+			<name>Donald H. House</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://people.cs.clemson.edu/~dhouse/<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/don_house.png<\image>
+		</professor>
+		<professor>
+			<name>Hongxin Hu</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cs.clemson.edu/~hongxih<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/hongxin_hu.JPG<\image>
+		</professor>
+		<professor>
+			<name>Sophie Joerg</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://people.cs.clemson.edu/~sjoerg/<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/sophie_joerg.jpg<\image>
+		</professor>
+		<professor>
+			<name>Bart Knijnenburg</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.usabart.nl/portfolio/<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/bart_k.jpg<\image>
+		</professor>
+		<professor>
+			<name>Eileen Kraemer</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://people.cs.clemson.edu/~etkraem<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/eileen_kraemer.jpg<\image>
+		</professor>
+		<professor>
+			<name>Joshua A. Levine</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://people.cs.clemson.edu/~levinej/<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/joshua_levine.jpg<\image>
+		</professor>
+		<professor>
+			<name>Feng Luo</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cs.clemson.edu/%7Eluofeng<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/feng_luo.jpg<\image>
+		</professor>
+		<professor>
+			<name>Brian Malloy</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://people.cs.clemson.edu/~malloy<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/brian_malloy.jpg<\image>
+		</professor>
+		<professor>
+			<name>Jim Martin</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cs.clemson.edu/~jmarty/<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/jim_martin.jpg<\image>
+		</professor>
+		<professor>
+			<name>John McGregor</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cs.clemson.edu/%7Ejohnmc/johnmc.html<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/john_mcgregor.jpg<\image>
+		</professor>
+		<professor>
+			<name>Roy P. Pargas</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cs.clemson.edu/%7Epargas<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/roy_pargas.jpg<\image>
+		</professor>
+		<professor>
+			<name>Sekou Remy</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.clemson.edu/~sremy<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/sekou_remy.JPG<\image>
+		</professor>
+		<professor>
+			<name>Ilya Safro</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website> http://www.cs.clemson.edu/~isafro<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/ilya_safro.jpg<\image>
+		</professor>
+		<professor>
+			<name>Murali Sitaraman</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cs.clemson.edu/%7Emurali<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/murali_sitaraman.jpg<\image>
+		</professor>
+		<professor>
+			<name>Mark Smotherman</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cs.clemson.edu/%7Emark/homepage.html<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/mark_smotherman.JPG<\image>
+		</professor>
+		<professor>
+			<name>Jacob Sorber</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://people.cs.clemson.edu/~jsorber/<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/jacob_sorber.jpg<\image>
+		</professor>
+		<professor>
+			<name>Pradip Srimani</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cs.clemson.edu/%7Esrimani/<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/pradip_srimani.jpg<\image>
+		</professor>
+		<professor>
+			<name>Jerry Tessendorf</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://people.cs.clemson.edu/~jtessen<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/jerry_tessendorf.png<\image>
+		</professor>
+		<professor>
+			<name>James Wang</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cs.clemson.edu/%7Ejzwang/<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/james_wang.jpg<\image>
+		</professor>
+		<professor>
+			<name>J. Mike Westall</name>
+			<title></title>
+			<office></office>
+			<email></email>
+			<phone></phone>
+			<website>http://www.cs.clemson.edu/%7Ewestall/homepage.html<website>
+			<image>http://www.clemson.edu/ces/departments/computing/images/faculty/mike_westall.jpg<\image>
+		</professor>
+	</institution>
