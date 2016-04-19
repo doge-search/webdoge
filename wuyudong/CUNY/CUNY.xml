@@ -1,0 +1,723 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Sergei Artemov</name>
+			<title>Distinguished Professor</title>
+			<office></office>
+			<email>sartemov@gc.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Sergei-Artemov<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Spiridon Bakiras</name>
+			<title>Associate Professor</title>
+			<office></office>
+			<email>sbakiras@jjay.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Spiridon-Bakiras<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Amotz Bar-Noy</name>
+			<title>Professor</title>
+			<office></office>
+			<email>amotz@sci.brooklyn.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Amotz-Bar-Noy<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Raquel Benbunan-Fich</name>
+			<title>Associate Professor</title>
+			<office></office>
+			<email>rbfich@baruch.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Raquel-Benbunan-Fich<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Peter Brass</name>
+			<title>Professor</title>
+			<office></office>
+			<email>peter@cs.ccny.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Peter-Brass<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Theodore Brown</name>
+			<title>Professor</title>
+			<office></office>
+			<email>TBrown@gc.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Theodore-Brown<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Candido Cabo</name>
+			<title>Professor</title>
+			<office></office>
+			<email>ccabo@citytech.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Candido-Cabo<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Chen Chao</name>
+			<title>Assistant Professor</title>
+			<office></office>
+			<email>chao.chen@qc.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Chen-Chao<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Soon Ae Chun</name>
+			<title>Professor</title>
+			<office></office>
+			<email>soon.chun@csi.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Soon-Ae-Chun<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Louis D'Alotto</name>
+			<title>Professor</title>
+			<office></office>
+			<email>ldalotto@york.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Louis-D-Alotto<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Scott Dexter</name>
+			<title>Professor</title>
+			<office></office>
+			<email>sdexter@brooklyn.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Scott-Dexter<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Sven Dietrich</name>
+			<title>Associate Professor</title>
+			<office></office>
+			<email>sdietrich@jjay.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Sven-Dietrich<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Susan Epstein</name>
+			<title>Professor</title>
+			<office></office>
+			<email>susan.epstein@hunter.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Susan-Epstein<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Nelly Fazio</name>
+			<title>Associate Professor</title>
+			<office></office>
+			<email>nfazio@gc.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Nelly-Fazio<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Linda Friedman</name>
+			<title>Professor</title>
+			<office></office>
+			<email>linda_friedman@baruch.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Linda-Friedman<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Rosario Gennaro</name>
+			<title>Professor</title>
+			<office></office>
+			<email>rosario@ccny.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Rosario-Gennaro<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Izidor Gertner</name>
+			<title>Professor</title>
+			<office></office>
+			<email>csicg@cs.ccny.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Izidor-Gertner<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Irina Gladkova</name>
+			<title>Associate Professor</title>
+			<office></office>
+			<email>gladkova@cs.ccny.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Irina-Gladkova<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Michael Grossberg</name>
+			<title>Assistant Professor</title>
+			<office></office>
+			<email>grossberg@cs.ccny.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Michael-Grossberg<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Feng Gu</name>
+			<title>Assistant Professor </title>
+			<office></office>
+			<email>feng.gu@csi.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Feng-Gu<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Leonid Gurvits</name>
+			<title>Professor</title>
+			<office></office>
+			<email>gurvits@cs.ccny.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Leonid-Gurvits<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Olympia Hadjiliadis</name>
+			<title>Professor</title>
+			<office></office>
+			<email>ohadjiliadis@brooklyn.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Olympia-Hadjiliadis<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Joel David Hamkins</name>
+			<title>Professor</title>
+			<office></office>
+			<email>jhamkins@gc.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Joel-David-Hamkins<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Robert M Haralick</name>
+			<title>Distinguished Professor, Executive Officer</title>
+			<office></office>
+			<email>rharalick@gc.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Robert-M-Haralick<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Gabor T. Herman</name>
+			<title>Distinguished Professor</title>
+			<office></office>
+			<email>gabortherman@yahoo.com</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Gabor-T-Herman<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Yumei Huo</name>
+			<title>Associate Professor</title>
+			<office></office>
+			<email>huo@mail.csi.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Yumei-Huo<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Susan Imberman</name>
+			<title>Associate Professor</title>
+			<office></office>
+			<email>susan.imberman@csi.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Susan-Imberman<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Shweta Jain</name>
+			<title>Assistant Professor</title>
+			<office></office>
+			<email>sjain@york.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Shweta-Jain<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Ping Ji</name>
+			<title>Professor</title>
+			<office></office>
+			<email>pji@jjay.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Ping-Ji<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Matthew Johnson</name>
+			<title>Assistant Professor</title>
+			<office></office>
+			<email>mpjohnson@gmail.com</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Matthew-P-Johnson<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Delaram Kahrobaei</name>
+			<title>Professor</title>
+			<office></office>
+			<email>dkahrobaei@gc.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Delaram-Kahrobaei<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Akira Kawaguchi</name>
+			<title>Professor</title>
+			<office></office>
+			<email>akira@cs.ccny.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Akira-Kawaguchi<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Bilal Khan</name>
+			<title>Professor</title>
+			<office></office>
+			<email>bkhan@jjay.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Bilal-Khan<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Devorah Kletenik</name>
+			<title>Assistant Professor</title>
+			<office></office>
+			<email>Kletenik@sci.brooklyn.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Devorah-Kletenik<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>T. Yung Kong</name>
+			<title>Professor</title>
+			<office></office>
+			<email>ykong@cs.qc.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/T-Yung-Kong<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Danny Kopec</name>
+			<title>Professor</title>
+			<office></office>
+			<email>Kopec@sci.brooklyn.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Danny-Kopec<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Michael E. Kress</name>
+			<title>Professor</title>
+			<office></office>
+			<email>kress@mail.csi.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Michael-E-Kress<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Saul Kripke</name>
+			<title>Distinguished Professor</title>
+			<office></office>
+			<email>skripke@gc.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Saul-Kripke<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Yedidyah Langsam</name>
+			<title>Professor</title>
+			<office></office>
+			<email>langsam@sci.brooklyn.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Yedidyah-Langsam<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Myung Jong Lee</name>
+			<title>Professor</title>
+			<office></office>
+			<email>lee@ccny.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Myung-Jong-Lee<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Rivka Levitan</name>
+			<title>Assistant Professor</title>
+			<office></office>
+			<email>levitan@sci.brooklyn.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Rivka-Levitan<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Xiangdong Li</name>
+			<title>Professor</title>
+			<office></office>
+			<email>xli@citytech.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Xiangdong-Li<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Michael Mandel</name>
+			<title>Assistant Professor</title>
+			<office></office>
+			<email>mim@sci.brooklyn.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Michael-Mandel<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Lev Manovich</name>
+			<title>Professor</title>
+			<office></office>
+			<email>lmanovich@gc.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Lev-Manovich<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Russell Miller</name>
+			<title>Professor</title>
+			<office></office>
+			<email>russell.miller@qc.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Russell-Miller<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Saad Mneimneh</name>
+			<title>Assistant Professor</title>
+			<office></office>
+			<email>saad@hunter.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Saad-Mneimneh<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Abbe Mowshowitz</name>
+			<title>Professor</title>
+			<office></office>
+			<email>abbe@cs.ccny.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Abbe-Mowshowitz<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Brian Murphy</name>
+			<title>Assistant Professor</title>
+			<office></office>
+			<email>Brian.Murphy@lehman.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Brian-Murphy<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Victor Pan</name>
+			<title>Distinguished Professor</title>
+			<office></office>
+			<email>victor.pan@lehman.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Victor-Pan<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Rohit Parikh</name>
+			<title>Distinguished Professor</title>
+			<office></office>
+			<email>rparikh@gc.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Rohit-Parikh<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Louis Petingi</name>
+			<title>Professor</title>
+			<office></office>
+			<email>louis.petingi@mail.csi.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Louis-Petingi<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Theodore Raphan</name>
+			<title>Distinguished Professor</title>
+			<office></office>
+			<email>raphan@nsi.brooklyn.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Theodore-Raphan<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Kaliappa Ravindran</name>
+			<title>Professor</title>
+			<office></office>
+			<email>ravi@cs.ccny.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Kaliappa-Ravindran<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>William Sakas</name>
+			<title>Associate Professor</title>
+			<office></office>
+			<email>sakas@hunter.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/William-Sakas<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Subash Shankar</name>
+			<title>Associate Professor</title>
+			<office></office>
+			<email>subash.shankar@hunter.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Subash-Shankar<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>William Skeith</name>
+			<title>Associate Professor</title>
+			<office></office>
+			<email>wes@cs.ccny.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/William-Skeith<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Dina Sokol</name>
+			<title>Professor</title>
+			<office></office>
+			<email>sokol@sci.brooklyn.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Dina-Sokol<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Katherine St. John</name>
+			<title>Professor</title>
+			<office></office>
+			<email>stjohn@lehman.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Katherine-St-John<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Ioannis Stamos</name>
+			<title>Professor</title>
+			<office></office>
+			<email>istamos@hunter.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Ioannis-Stamos<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Bon K. Sy</name>
+			<title>Professor</title>
+			<office></office>
+			<email>bon@cs.qc.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Bon-K-Sy<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Abdullah Uz Tansel</name>
+			<title>Professor</title>
+			<office></office>
+			<email>tansel@baruch.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Abdullah-Uz-Tansel<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Ying-Li Tian</name>
+			<title>Professor</title>
+			<office></office>
+			<email>ytian@ccny.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Ying-Li-Tian<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Douglas Troeger</name>
+			<title>Professor</title>
+			<office></office>
+			<email>dtroeger@cs.ccny.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Douglas-Troeger<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>M. Umit Uyar</name>
+			<title>Professor</title>
+			<office></office>
+			<email>uyar@ccny.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/M-Umit-Uyar<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Felisa Vazquez-Abad</name>
+			<title>Professor</title>
+			<office></office>
+			<email>felisav@hunter.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Felisa-Vazquez-Abad<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Jie Wei</name>
+			<title>Associate Professor</title>
+			<office></office>
+			<email>wei@cs.ccny.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Jie-Wei<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Paula Whitlock</name>
+			<title>Professor</title>
+			<office></office>
+			<email>whitlock@brooklyn.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Paula-Whitlock<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>George Wolberg</name>
+			<title>Professor</title>
+			<office></office>
+			<email>wolberg@cs.ccny.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/George-Wolberg<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Zhigang Xiang</name>
+			<title>Associate Professor</title>
+			<office></office>
+			<email>xiang@cs.qc.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Zhigang-Xiang<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Jizhong Xiao</name>
+			<title>Professor</title>
+			<office></office>
+			<email>jxiao@ee.ccny.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Jizhong-Xiao<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Lei Xie</name>
+			<title>Associate Professor</title>
+			<office></office>
+			<email>lxie@iscb.org</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Lei-Xie<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Changhe Yuan</name>
+			<title>Associate Professor</title>
+			<office></office>
+			<email>changhe.yuan@qc.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Changhe-Yuan<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Sarah Zelikovitz</name>
+			<title>Associate Professor</title>
+			<office></office>
+			<email>sarah.zelikovitz@csi.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Sarah-Zelikovitz<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Danyang Zhang</name>
+			<title>Associate Professor</title>
+			<office></office>
+			<email>dzhang@york.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Danyang-Zhang<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Jianting Zhang</name>
+			<title>Associate Professor</title>
+			<office></office>
+			<email>jzhang@cs.ccny.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Jianting-Zhang<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Shuqun Zhang</name>
+			<title>Professor</title>
+			<office></office>
+			<email>shuqun.zhang@csi.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Shuqun-Zhang<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Xiaowen Zhang</name>
+			<title>Associate Professor</title>
+			<office></office>
+			<email>xiaowen.zhang@csi.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Xiaowen-Zhang<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Zhanyang Zhang</name>
+			<title>Associate Professor</title>
+			<office></office>
+			<email>Zhanyang.zhang@csi.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Zhanyang-Zhang<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Neng Fa Zhou</name>
+			<title>Professor</title>
+			<office></office>
+			<email>zhou@sci.brooklyn.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Neng-Fa-Zhou<website>
+			<image><\image>
+		</professor>
+		<professor>
+			<name>Zhigang Zhu</name>
+			<title>Professor</title>
+			<office></office>
+			<email>zzhu@ccny.cuny.edu</email>
+			<phone></phone>
+			<website>http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Zhigang-Zhu<website>
+			<image><\image>
+		</professor>
+	</institution>

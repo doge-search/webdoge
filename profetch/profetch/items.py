@@ -9,4 +9,5 @@ class proItem(scrapy.Item):
     office = scrapy.Field()
     phone = scrapy.Field()
     picture = scrapy.Field()
+    title = scrapy.Field()
     url = scrapy.Field()

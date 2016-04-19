@@ -1,0 +1,172 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Artificial Intelli</groupname>
+			<professorname>Lise Getoor, CS</professorname>
+			<professorname>Arnav Jhala, CM</professorname>
+			<professorname>Michael Mateas, CM</professorname>
+			<professorname>Ira Pohl, Professor Emeritus CS</professorname>
+			<professorname>Marilyn Walker, CS</professorname>
+			<professorname>Bayesian Statistics</professorname>
+			<professorname>Marc Mangel, Professor Emeritus &amp;amp; Research Professor AMS</professorname>
+			<professorname>Athanasios Kottas, AMS</professorname>
+			<professorname>Herbert Lee, AMS</professorname>
+			<professorname>Raquel Prado, AMS</professorname>
+			<professorname>Bruno Sansó, AMS</professorname>
+		</research>
+		<research>
+			<groupname>Bioinformatics</groupname>
+			<professorname>David Haussler, BME - Director CBSE</professorname>
+			<professorname>Kevin Karplus, BME</professorname>
+			<professorname>Jim Kent, CBSE</professorname>
+			<professorname>Richard Hughey, CE, BME</professorname>
+			<professorname>Todd M. Lowe, BME</professorname>
+			<professorname>Mark Akeson, BME</professorname>
+			<professorname>David Deamer, Research Professor BME</professorname>
+			<professorname>Josh Stuart, BME</professorname>
+			<professorname>Jonathan Trent, BME</professorname>
+			<professorname>Phillip Berman, BME</professorname>
+		</research>
+		<research>
+			<groupname>Chip Design &amp;amp; Packaging</groupname>
+			<professorname>Joel Ferguson, CE</professorname>
+			<professorname>Matthew Guthaus, CE</professorname>
+			<professorname>Tracy Larrabee, CE</professorname>
+			<professorname>Ken Pedrotti, EE</professorname>
+			<professorname>Jose Renau, CE</professorname>
+			<professorname>Martine Schlag, CE</professorname>
+			<professorname>Ali Shakouri, EE</professorname>
+		</research>
+		<research>
+			<groupname>Communications, Signal &amp;amp; Image Processing</groupname>
+			<professorname>Benjamin Friedlander, EE</professorname>
+			<professorname>J. J. Garcia-Luna-Aceves, CE</professorname>
+			<professorname>Peyman Milanfar, Visiting Professor EE</professorname>
+			<professorname>Roberto Manduchi, CE</professorname>
+			<professorname>Patrick Mantey, CE</professorname>
+			<professorname>Katia Obraczka, CE</professorname>
+			<professorname>Hamid R. Sadjadpour, EE</professorname>
+			<professorname>Multi-Dimensional Signal Processing</professorname>
+			<professorname>UCSC Broadband Communications Research Group (UCBC)</professorname>
+			<professorname>UCSC Visual Computing Laboratory</professorname>
+		</research>
+		<research>
+			<groupname>Computer Architecture</groupname>
+			<professorname>Jose Renau, CE</professorname>
+			<professorname>Matthew Guthaus, CE</professorname>
+			<professorname>Richard Hughey, CE, BME</professorname>
+		</research>
+		<research>
+			<groupname>Computer Security</groupname>
+			<professorname>Ethan L. Miller, CS</professorname>
+			<professorname>Database Systems</professorname>
+			<professorname>Lise Getoor, CS</professorname>
+			<professorname>Phokion G. Kolaitis, CS</professorname>
+			<professorname>Wang-Chiew Tan, CS</professorname>
+			<professorname>Neoklis Polyzotis, Visiting Professor CS</professorname>
+			<professorname>Data Science</professorname>
+			<professorname>Peter Alvaro, CS</professorname>
+			<professorname>Seshadhri Comandur, CS</professorname>
+			<professorname>Lise Getoor, CS</professorname>
+			<professorname>David Helmbold, CS</professorname>
+			<professorname>Darrell Long, CS</professorname>
+			<professorname>Ethan Miller, CS</professorname>
+			<professorname>Rodney Ogawa, Education</professorname>
+			<professorname>Abel Rodríguez, AMS</professorname>
+			<professorname>Neel Sundaresan, CS</professorname>
+			<professorname>Swaminathan (Vishy) Vishwanathan, CS</professorname>
+			<professorname>Manfred Warmuth, CS</professorname>
+			<professorname>Yi Zhang, TM</professorname>
+		</research>
+		<research>
+			<groupname>Dynamic Mathematical Modeling</groupname>
+			<professorname>Hongyun Wang, AMS</professorname>
+			<professorname>Marc Mangel, Professor Emeritus &amp;amp; Research Professor AMS</professorname>
+			<professorname>Prof. Pascale Garaud, AMS</professorname>
+			<professorname>Graphics &amp;amp; Visualization, Human-Computer Interface</professorname>
+			<professorname>Allen Van Gelder, CS</professorname>
+			<professorname>Suresh K Lodha, CS</professorname>
+			<professorname>Roberto Manduchi, CE</professorname>
+			<professorname>Alex Pang, CS</professorname>
+			<professorname>James Davis, CS</professorname>
+			<professorname>Geo-spatial Visualization</professorname>
+			<professorname>Santa Cruz Laboratory for Visualization and Graphics</professorname>
+			<professorname>UCSC Scientific Visualization Laboratory</professorname>
+			<professorname>UCSC Visual Computing Laboratory</professorname>
+		</research>
+		<research>
+			<groupname>Logic in Computer Science</groupname>
+			<professorname>Luca de Alfaro, CS</professorname>
+			<professorname>Allen Van Gelder, CS</professorname>
+			<professorname>Lise Getoor, CS</professorname>
+			<professorname>Phokion G. Kolaitis, CS</professorname>
+			<professorname>Machine Learning</professorname>
+			<professorname>Lise Getoor, CS</professorname>
+			<professorname>David Haussler, BME</professorname>
+			<professorname>David Helmbold, CS</professorname>
+			<professorname>Swaminathan (Vishy) Vishwanathan, CS</professorname>
+			<professorname>Manfred Warmuth, CS</professorname>
+		</research>
+		<research>
+			<groupname>Nanoscience and Nanotechnology</groupname>
+			<professorname>Michael Isaacson, EE</professorname>
+			<professorname>Ken Pedrotti, EE</professorname>
+			<professorname>Holger Schmidt, EE</professorname>
+			<professorname>Ali Shakouri, EE</professorname>
+		</research>
+		<research>
+			<groupname>Networks</groupname>
+			<professorname>J. J. Garcia-Luna-Aceves, CE</professorname>
+			<professorname>Roberto Manduchi, CE</professorname>
+			<professorname>Katia Obraczka, CE</professorname>
+			<professorname>Anujan Varma, CE</professorname>
+			<professorname>Computer Communication Research Group (CCRG)</professorname>
+			<professorname>Internetworking Research Group (i-NRG)</professorname>
+		</research>
+		<research>
+			<groupname>Optoelectronics &amp;amp; Optical Systems</groupname>
+			<professorname>Ken Pedrotti, EE</professorname>
+			<professorname>Holger Schmidt, EE</professorname>
+			<professorname>Ali Shakouri, EE</professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages</groupname>
+			<professorname>Cormac Flanagan, CS</professorname>
+			<professorname>Charlie McDowell, CS</professorname>
+			<professorname>Allen Van Gelder, CS</professorname>
+			<professorname>Real-time Systems</professorname>
+			<professorname>Luca de Alfaro, CS</professorname>
+			<professorname>Scott Brandt, CS</professorname>
+		</research>
+		<research>
+			<groupname>Remote Sensing &amp;amp; Environmental Technology</groupname>
+			<professorname>Marc Mangel, Professor Emeritus &amp;amp; Research Professor AMS</professorname>
+			<professorname>Patrick Mantey, CE</professorname>
+			<professorname>John Vesecky, EE</professorname>
+			<professorname>Real-time Environmental Information Network and Analysis System (REINAS)</professorname>
+		</research>
+		<research>
+			<groupname>Robotics and Controls</groupname>
+			<professorname>Gabriel Hugh Elkaim, CE</professorname>
+			<professorname>William Dunbar, CE</professorname>
+			<professorname>Donald M. Wiberg, EE</professorname>
+			<professorname>Qi Gong, AMS</professorname>
+			<professorname>Dejan Milutinović, CE</professorname>
+		</research>
+		<research>
+			<groupname>Software Engineering</groupname>
+			<professorname>Luca de Alfaro, CS</professorname>
+			<professorname>Cormac Flanagan, CS</professorname>
+			<professorname>Charlie McDowell, CS</professorname>
+			<professorname>Java and Embedded Systems</professorname>
+			<professorname>Group Researching Advances in Software Engineering</professorname>
+		</research>
+		<research>
+			<groupname>Storage Systems</groupname>
+			<professorname>Scott Brandt, CS</professorname>
+			<professorname>Darrell Long, CS</professorname>
+			<professorname>Patrick Mantey, CE</professorname>
+			<professorname>Ethan L. Miller, CS</professorname>
+			<professorname>Storage Systems Research Cente</professorname>
+		</research>
+	</institution>

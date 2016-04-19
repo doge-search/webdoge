@@ -1,0 +1,633 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Denise Agosto</name>
+			<title>Professor</title>
+			<office>Rush 214B</office>
+			<email>dea22@drexel.edu</email>
+			<phone>215.895.1930</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Agosto-Denise/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/unavailable.ashx?h=188&la=en&w=125&hash=AAD67A3808BDCBCEAD2ECC34758D61D0F807E4DD<\image>
+		</professor>
+		<professor>
+			<name>Larry  Alexander</name>
+			<title>Executive in Residence & Research Professor</title>
+			<office>Rush 405B</office>
+			<email>lda26@drexel.edu</email>
+			<phone>215.895.6628</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Alexander-Larry/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/larry_alexander.ashx?h=160&la=en&w=125&hash=6804853D37E6C6B8144F202884FD3F8875F35171<\image>
+		</professor>
+		<professor>
+			<name>Yuan An</name>
+			<title>Associate Professor</title>
+			<office>3401 Market Street 320</office>
+			<email>yuan.an@drexel.edu</email>
+			<phone>215.895.2633</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/An-Yuan/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/an-yuan.ashx?h=160&la=en&w=125&hash=30F0BDE955907D7B3B9F1446BD87619D766D8BDF<\image>
+		</professor>
+		<professor>
+			<name>David Augenblick</name>
+			<title>Associate Teaching Professor</title>
+			<office>University Crossings 134</office>
+			<email>augenbdh@drexel.edu</email>
+			<phone>215.895.4910</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Augenblick-David/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/augenblick-dave.ashx?h=160&la=en&w=124&hash=29FFFB767EDE97D212E444F8E8640D519B543E64<\image>
+		</professor>
+		<professor>
+			<name>Marcello Balduccini</name>
+			<title>Senior Research Scientist & Assistant Research Professor</title>
+			<office>Rush 233C</office>
+			<email>marcello.balduccini@drexel.edu</email>
+			<phone>215.571.3603</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Balduccini-Marcello/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/balduccini-marcello.ashx?h=160&la=en&w=121&hash=A7970B81B7FCD5F33A8586B37E1B999DF2F298E5<\image>
+		</professor>
+		<professor>
+			<name>Ellen Bass</name>
+			<title>Professor & Head, Department of Information Science</title>
+			<office>Rush 426</office>
+			<email>ellen.j.bass@drexel.edu</email>
+			<phone>215.571.4416</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Bass-Ellen/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/bass-ellen.ashx?h=160&la=en&w=125&hash=E563FB33C8773CB68E4904A9FE88B0EB2CA4500E<\image>
+		</professor>
+		<professor>
+			<name>M. Brian Blake</name>
+			<title>Distinguished Professor of Systems and Software Engineering</title>
+			<office>3141 Chestnut Street, Main Building, Suite 102</office>
+			<email>MBrian.Blake@drexel.edu</email>
+			<phone>215.895.2200</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Blake-MBrian/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/blake-brian.ashx?h=160&la=en&w=124&hash=240209124005C51734F512D58A03C5BC78C3D824<\image>
+		</professor>
+		<professor>
+			<name>Mark Boady</name>
+			<title>Assistant Teaching Professor</title>
+			<office>University Crossings 138</office>
+			<email>mwb33@drexel.edu</email>
+			<phone>215.895.2347</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Boady-Mark/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/boady-mark.ashx?h=288&la=en&w=204&hash=7705919EB93E5ED2A4642BDE922FD6534F842319<\image>
+		</professor>
+		<professor>
+			<name>Jennifer Booker</name>
+			<title>Associate Teaching Professor</title>
+			<office>Rush 334</office>
+			<email>gbooker@drexel.edu</email>
+			<phone>215.895.1004</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Booker-Jennifer/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/booker_j.ashx?h=500&la=en&w=500&hash=C87A05F1CDF38192018ED71E90F97D2FECED4973<\image>
+		</professor>
+		<professor>
+			<name>David E. Breen</name>
+			<title>Associate Professor</title>
+			<office>University Crossings 143</office>
+			<email>david@cs.drexel.edu</email>
+			<phone>215.895.1626</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Breen-David/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/breen-david.ashx?h=160&la=en&w=124&hash=7FBA75EBD674113F16C9AA47C772E849BC99F16C<\image>
+		</professor>
+		<professor>
+			<name>Matthew Burlick</name>
+			<title>Assistant Teaching Professor</title>
+			<office>University Crossings 137</office>
+			<email>mjb528@drexel.edu</email>
+			<phone>215.571.4468</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Burlick-Matthew/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Staff/unavailable.ashx?h=188&la=en&w=125&hash=88FD775482039ED41527AC1559DD79560D71E9EF<\image>
+		</professor>
+		<professor>
+			<name>Yuanfang Cai</name>
+			<title>Associate Professor</title>
+			<office>University Crossings 104</office>
+			<email>yfcai@cs.drexel.edu</email>
+			<phone>215.895.0298</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Cai-Yuanfang/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/cai-yuanfang.ashx?h=160&la=en&w=124&hash=0A6BCBC0A9DA8F47D3922F85EFC5375C66F0A617<\image>
+		</professor>
+		<professor>
+			<name>Chris Carroll</name>
+			<title>Assistant Teaching Professor</title>
+			<office>Rush 134</office>
+			<email>christopher.john.carroll@drexel.edu</email>
+			<phone>215.571.4306</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Carroll-Chris/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/carroll-chris.ashx?h=160&la=en&w=125&hash=A4D5412EE09414D2D299A31815ABB10B01119BA4<\image>
+		</professor>
+		<professor>
+			<name>Bruce Char</name>
+			<title>Professor</title>
+			<office>University Crossings 142</office>
+			<email>bchar@cs.drexel.edu</email>
+			<phone>215.895.2670</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Char-Bruce/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/char-bruce.ashx?h=160&la=en&w=124&hash=F5A445AC55A1F9109B3219A2B81F49BD3958D4ED<\image>
+		</professor>
+		<professor>
+			<name>Chaomei Chen</name>
+			<title>Professor</title>
+			<office>3401 Market Street 321</office>
+			<email>chaomei.chen@drexel.edu</email>
+			<phone>215.895.6627</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Chen-Chaomei/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/chen-chaomei.ashx?h=160&la=en&w=125&hash=0524C016BD181D4A0A0AF14B18ED59B0613E5AED<\image>
+		</professor>
+		<professor>
+			<name>Catherine D. Collins</name>
+			<title>Associate Teaching Professor</title>
+			<office>Rush 423</office>
+			<email>collins@drexel.edu</email>
+			<phone>215.895.1902</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Collins-Catherine/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/collins-catherine.ashx?h=160&la=en&w=125&hash=CF8DA1EA1CE08E8AAAB21DA4A77DCCD328886C28<\image>
+		</professor>
+		<professor>
+			<name>Prudence W. Dalrymple</name>
+			<title>Research and Teaching Professor, Director of the Institute for Health Informatics</title>
+			<office>Rush 410A</office>
+			<email>pdalrymple@drexel.edu</email>
+			<phone>215.895.2699</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Dalrymple-Prudence/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/dalrymple-prudence.ashx?h=160&la=en&w=125&hash=BC15B876DEB3684DD7E5E1C667AD20DAD899DECA<\image>
+		</professor>
+		<professor>
+			<name>Susan E. Davis</name>
+			<title>Associate Teaching Professor</title>
+			<office>Rush 335</office>
+			<email>sedavis@drexel.edu</email>
+			<phone>215.895.1738</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Davis-Susan/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/davis-susan.ashx?h=160&la=en&w=125&hash=95E5615EC7943B0B07605D2A130DA5729A3F7793<\image>
+		</professor>
+		<professor>
+			<name>John D'Ignazio</name>
+			<title>Assistant Teaching Professor</title>
+			<office>Rush 417</office>
+			<email>dignazio@drexel.edu</email>
+			<phone>215.895.2589</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/DIgnazio-John/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/DIgnazio-John.ashx?h=160&la=en&w=125&hash=68B0C3FA38EFFBB4A86AC545893BF4B6168EF3FB<\image>
+		</professor>
+		<professor>
+			<name>M. Carl Drott</name>
+			<title>Associate Professor</title>
+			<office>Rush 336</office>
+			<email>drott@drexel.edu</email>
+			<phone>215.895.2487</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Drott-Carl/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/drott-carl.ashx?h=160&la=en&w=125&hash=FAD1BE26ED17D9261FFAC5F0B8175C8579E74F41<\image>
+		</professor>
+		<professor>
+			<name>Andrea  Forte</name>
+			<title>Assistant Professor</title>
+			<office>3401 Market Street, Ste 300, Room 324</office>
+			<email>andrea.forte@drexel.edu</email>
+			<phone>215.839.8414; 215.895.0543</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Forte-Andrea/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/forte-andrea.ashx?h=160&la=en&w=125&hash=A447037E11CB6E0C4BC728E81FACD9CE5B107E01<\image>
+		</professor>
+		<professor>
+			<name>Susan Gasson</name>
+			<title>Associate Professor</title>
+			<office>Rush 331</office>
+			<email>sgasson@drexel.edu</email>
+			<phone>215.895.6398</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Gasson-Susan/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/gasson-susan.ashx?h=160&la=en&w=125&hash=778835804D67395DD27B0676BD40520EB09FB51A<\image>
+		</professor>
+		<professor>
+			<name>Christopher Geib</name>
+			<title>Associate Professor</title>
+			<office>3401 Market Street 323</office>
+			<email>cwg33@drexel.edu</email>
+			<phone>215.571.4533</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Geib-Christopher/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/geib-christopher.ashx?h=160&la=en&w=125&hash=86D8D9726DB232EFAB295C72EF855DA671FDA3C3<\image>
+		</professor>
+		<professor>
+			<name>Colin Gordon</name>
+			<title>Assistant Professor</title>
+			<office>University Crossings 144</office>
+			<email>csgordon@cs.drexel.edu</email>
+			<phone>215.895.2474</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Gordon-Colin/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Staff/unavailable.ashx?h=188&la=en&w=125&hash=88FD775482039ED41527AC1559DD79560D71E9EF<\image>
+		</professor>
+		<professor>
+			<name>Jane Greenberg</name>
+			<title>Alice B. Kroeger Professor</title>
+			<office>Rush 422</office>
+			<email>jg3243@drexel.edu</email>
+			<phone>215.895.2490</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Greenberg-Jane/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/Greenberg-Jane.ashx?h=160&la=en&w=125&hash=21E24222828A223D9040F097C5C4CC7254FDFA24<\image>
+		</professor>
+		<professor>
+			<name>Rachel Greenstadt</name>
+			<title>Associate Professor</title>
+			<office>University Crossings 140</office>
+			<email>greenie@cs.drexel.edu</email>
+			<phone>215.895.2920</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Greenstadt-Rachel/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/greenstadt-rachel.ashx?h=160&la=en&w=124&hash=46B59753B8DF3174FEB3B5224006FA54D5BFDFBB<\image>
+		</professor>
+		<professor>
+			<name>Peter Grillo</name>
+			<title>Associate Teaching Professor and Associate Department Head for Undergraduate Affairs</title>
+			<office>Rush 410</office>
+			<email>pg54@drexel.edu</email>
+			<phone>215.895.0492</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Grillo-Peter/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/grillo-peter.ashx?h=160&la=en&w=125&hash=68538B7800E7D1EA69E629019E80C5220D5F388B<\image>
+		</professor>
+		<professor>
+			<name>Gregory W. Hislop</name>
+			<title>Professor and Senior Associate Dean for Academic Affairs</title>
+			<office>Rush 214C</office>
+			<email>hislop@drexel.edu</email>
+			<phone>215.895.2179</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Hislop-Gregory/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/hislop-gregory.ashx?h=160&la=en&w=125&hash=80F3E3E469BE479FAA5F58C390B4B61532E8CBCB<\image>
+		</professor>
+		<professor>
+			<name>Xiaohua Tony Hu</name>
+			<title>Professor</title>
+			<office>3401 Market Street 325</office>
+			<email>xh29@drexel.edu</email>
+			<phone>215.895.0551</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Hu-Xiaohua-Tony/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/hu-tony.ashx?h=160&la=en&w=125&hash=E629AE19BE2643C42F95A4306E47991C39E2CEC6<\image>
+		</professor>
+		<professor>
+			<name>Jeremy Johnson</name>
+			<title>Professor</title>
+			<office>University Crossings 139</office>
+			<email>jjohnson@cs.drexel.edu</email>
+			<phone>215.895.2893</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Johnson-Jeremy/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/johnson-jeremy.ashx?h=160&la=en&w=124&hash=340301A240D929B22899F2B87734AE9F774E8D78<\image>
+		</professor>
+		<professor>
+			<name>Constantine Katsinis</name>
+			<title>Associate Teaching Professor</title>
+			<office>University Crossings 100H</office>
+			<email>katsinis@drexel.edu</email>
+			<phone>215.895.0966</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Katsinis-Constantine/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/katsinis-constantine.ashx?h=160&la=en&w=125&hash=9D7821CFDCA95A3CD66F339CA919BD7EA2A826E3<\image>
+		</professor>
+		<professor>
+			<name>Weimao  Ke</name>
+			<title>Assistant Professor</title>
+			<office>Rush 408</office>
+			<email>wk@drexel.edu</email>
+			<phone>215.895.5912</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Ke-Weimao/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/ke-weimao.ashx?h=160&la=en&w=125&hash=FD0C61F6769D8A0EB9F04635E6A3970902D2E184<\image>
+		</professor>
+		<professor>
+			<name>Michael Khoo</name>
+			<title>Assistant Teaching Professor</title>
+			<office>Rush 406</office>
+			<email>khoo@drexel.edu</email>
+			<phone>215.895.1230</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Khoo-Michael/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/khoo-michael.ashx?h=160&la=en&w=125&hash=BB1E0E3F07F32BE01F4DAE574A5319606BB43C84<\image>
+		</professor>
+		<professor>
+			<name>Alison M. Lewis</name>
+			<title>Associate Teaching Professor</title>
+			<office>Rush 207</office>
+			<email>alewis@drexel.edu</email>
+			<phone>215.895.5959</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Lewis-Alison/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/lewis-alison.ashx?h=160&la=en&w=125&hash=501A70E2EF29504BB86B80195FBF34181E342132<\image>
+		</professor>
+		<professor>
+			<name>Xia Lin</name>
+			<title>Professor</title>
+			<office>Rush 415</office>
+			<email>xlin@drexel.edu</email>
+			<phone>215.895.2482</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Lin-Xia/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/lin-xia.ashx?h=160&la=en&w=125&hash=D1E0C4FA4F3713C532FD7E51D62ECCDD595C0260<\image>
+		</professor>
+		<professor>
+			<name>Geoffrey Mainland</name>
+			<title>Assistant Professor</title>
+			<office>University Crossings 106</office>
+			<email>mainland@cs.drexel.edu</email>
+			<phone>215.895.1518</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Mainland-Geoffrey/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/mainland-geoffrey.ashx?h=160&la=en&w=124&hash=A5AC3D2EFA20C81A00F4C8A5CFD5C87A33F2701F<\image>
+		</professor>
+		<professor>
+			<name>Spiros Mancoridis</name>
+			<title>Interim Dean & Professor</title>
+			<office>Rush 306</office>
+			<email>spiros@drexel.edu</email>
+			<phone>215.895.6824</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Mancoridis-Spiros/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/mancoridis-spiros-2015.ashx?h=160&la=en&w=124&hash=A2C0FE969150434F8B00CEA460AECA4266CF0470<\image>
+		</professor>
+		<professor>
+			<name>Gabriela Marcu</name>
+			<title>Assistant Professor</title>
+			<office>Rush 414</office>
+			<email>gmarcu@drexel.edu</email>
+			<phone>215.895.2474</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Marcu-Gabriela/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/marcu-gabriella.ashx?h=160&la=en&w=125&hash=D2C5E6B1824038AAA00DF4DD7006A739E38825A3<\image>
+		</professor>
+		<professor>
+			<name>Linda Marion</name>
+			<title>Associate Teaching Professor and Associate Department Head for Graduate Affairs</title>
+			<office>Rush 216</office>
+			<email>linda.marion@drexel.edu</email>
+			<phone>215.895.1532</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Marion-Linda/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/marion-linda.ashx?h=160&la=en&w=125&hash=68BA5F622888881F9B9786F14FEC87940D6F2104<\image>
+		</professor>
+		<professor>
+			<name>Adelaida Alban  Medlock</name>
+			<title>Associate Teaching Professor</title>
+			<office>University Crossings 107</office>
+			<email>aalban@drexel.edu</email>
+			<phone>215.895.2672</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Medlock-Adelaida-Alban/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/medlock-adelaida-alban.ashx?h=160&la=en&w=124&hash=904CBB552F4B149872453FE9B34A4A7ECA73BCC2<\image>
+		</professor>
+		<professor>
+			<name>William Mongan</name>
+			<title>Associate Teaching Professor & Associate Department Head for Undergraduate Affairs</title>
+			<office>University Crossings 100D</office>
+			<email>wmm24@cs.drexel.edu</email>
+			<phone>215.895.0286</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Mongan-William/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/mongan-william.ashx?h=160&la=en&w=124&hash=A084693BB1AC3C9DCDFB631FA1AA5EAEA6501F8D<\image>
+		</professor>
+		<professor>
+			<name>Gaurav Naik</name>
+			<title>Assistant Research Professor</title>
+			<office>3401 Market Street, Rm. 319</office>
+			<email>gn23@drexel.edu</email>
+			<phone>215.571.4512</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Naik-Gaurav/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/naikgaurav.ashx?h=160&la=en&w=125&hash=0365DD40169304A1197BAC6E7954EAB86157B157<\image>
+		</professor>
+		<professor>
+			<name>Delia Neuman</name>
+			<title>Professor</title>
+			<office>Rush 419</office>
+			<email>dneuman@drexel.edu</email>
+			<phone>215.895.0474</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Neuman-Delia/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/neuman-delia.ashx?h=160&la=en&w=125&hash=C8B5020CA2CAFE767BFBB6853C735B3303B9E59B<\image>
+		</professor>
+		<professor>
+			<name>Ko Nishino</name>
+			<title>Associate Professor & Associate Department Head for Graduate Affairs</title>
+			<office>University Crossings 100G</office>
+			<email>kon@drexel.edu</email>
+			<phone>215.895.2678</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Nishino-Ko/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/nishino-ko.ashx?h=160&la=en&w=125&hash=E3CD3472E1B3D946F80E378BA3E337F50597012E<\image>
+		</professor>
+		<professor>
+			<name>Danuta A.  Nitecki</name>
+			<title>Dean of Libraries, Professor</title>
+			<office>W.W. Hagerty Library</office>
+			<email>danuta.nitecki@drexel.edu</email>
+			<phone>215.895.2750</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Nitecki-Danuta/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/nitecki-danuta.ashx?h=160&la=en&w=125&hash=A23AC63F0B998555E8B06530925D93EB588DE029<\image>
+		</professor>
+		<professor>
+			<name>Krzysztof Nowak</name>
+			<title>Associate Teaching Professor</title>
+			<office>University Crossings 109</office>
+			<email>kn33@drexel.edu</email>
+			<phone>215.895.6826</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Nowak-Krzysztof/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/nowak-krzysztof.ashx?h=160&la=en&w=124&hash=20C8E2A2F4E7EF1A13C42450572D9ADA61544A54<\image>
+		</professor>
+		<professor>
+			<name>Santiago Ontañón</name>
+			<title>Assistant Professor</title>
+			<office>3401 Market Street 322</office>
+			<email>santi@cs.drexel.edu</email>
+			<phone>215.571.4109</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Ontanon-Santiago/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/ontanon-santiago.ashx?h=160&la=en&w=124&hash=D9030C8F244F09833F5742D403B997DBE09529E1<\image>
+		</professor>
+		<professor>
+			<name>Omkant Pandey</name>
+			<title>Assistant Professor</title>
+			<office>University Crossings 100F</office>
+			<email>omkant@drexel.edu</email>
+			<phone>215.571.4599</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Pandey-Omkant/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Staff/unavailable.ashx?h=188&la=en&w=125&hash=88FD775482039ED41527AC1559DD79560D71E9EF<\image>
+		</professor>
+		<professor>
+			<name>Jung-ran Park</name>
+			<title>Associate Professor</title>
+			<office>Rush 212</office>
+			<email>jung-ran.park@ischool.drexel.edu</email>
+			<phone>215.895.1669</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Park-Jung-ran/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/park-jung-ran.ashx?h=160&la=en&w=125&hash=FD9C67166EF372A54760023896ADBCB473D2A0D8<\image>
+		</professor>
+		<professor>
+			<name>Alex Poole</name>
+			<title>Assistant Professor</title>
+			<office>Rush 410</office>
+			<email>ahp56@drexel.edu</email>
+			<phone>215.895.6275</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Poole-Alex/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/Poole.ashx?h=160&la=en&w=125&hash=C565FD7081B7B6BD5F7F2474CFEEEA1E1061B5AF<\image>
+		</professor>
+		<professor>
+			<name>Jeffrey Popyack</name>
+			<title>Professor</title>
+			<office>University Crossings 141</office>
+			<email>jpopyack@cs.drexel.edu</email>
+			<phone>215.895.1846</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Popyack-Jeffrey/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/popyack-jeff.ashx?h=160&la=en&w=124&hash=FDE0AB2BC4B0035F53F40A21580CC21B1DE26EBC<\image>
+		</professor>
+		<professor>
+			<name>William Regli</name>
+			<title>Professor (on leave)</title>
+			<office>Rush 405</office>
+			<email>regli@drexel.edu</email>
+			<phone>215.895.1903</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Regli-William/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/regli-william.ashx?h=160&la=en&w=124&hash=AC667831468BD76CB6A59C377AB05D9805B7AA61<\image>
+		</professor>
+		<professor>
+			<name>Michelle L. Rogers</name>
+			<title>Associate Professor</title>
+			<office>Rush 420</office>
+			<email>mrogers@drexel.edu</email>
+			<phone>215.895.2922</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Rogers-Michelle/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/rogers-michelle.ashx?h=160&la=en&w=125&hash=B828C2C359D2255189DEC7F8D0939CDBCB652394<\image>
+		</professor>
+		<professor>
+			<name>Jeffrey Salvage</name>
+			<title>Teaching Professor</title>
+			<office>University Crossings 112</office>
+			<email>jsalvage@cs.drexel.edu</email>
+			<phone>215-895-2679</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Salvage-Jeffrey/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/salvage-jeffrey.ashx?h=160&la=en&w=124&hash=957384BA7055ABEE15C9015D6C51E5A8C7ED1EB2<\image>
+		</professor>
+		<professor>
+			<name>Dario Salvucci</name>
+			<title>Professor & Department Head, Computer Science</title>
+			<office>University Crossings 100C</office>
+			<email>salvucci@drexel.edu</email>
+			<phone>215.895.2674</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Salvucci-Dario/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/salvucci-dario.ashx?h=160&la=en&w=124&hash=9AA983ACDBDF43AC3A25B0615E79E73343432107<\image>
+		</professor>
+		<professor>
+			<name>Aleksandra  Sarcevic</name>
+			<title>Assistant Professor</title>
+			<office>Rush 416</office>
+			<email>aleksarc@drexel.edu</email>
+			<phone>215.895.0460</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Sarcevic-Aleksandra/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/sarcevic-aleksandra.ashx?h=160&la=en&w=125&hash=58E330B8C12237758594871FB1571BB9E202A5A6<\image>
+		</professor>
+		<professor>
+			<name>Kurt Schmidt</name>
+			<title>Associate Teaching Professor</title>
+			<office>University Crossings 105</office>
+			<email>kschmidt@cs.drexel.edu</email>
+			<phone>215.895.1848</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Schmidt-Kurt/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/schmidt-kurt.ashx?h=160&la=en&w=124&hash=60271CB0E41E2345C26EFB6D8580782FD970A094<\image>
+		</professor>
+		<professor>
+			<name>Ali Shokoufandeh</name>
+			<title>Professor & Senior Associate Dean of Research</title>
+			<office>Rush 313</office>
+			<email>ashokouf@drexel.edu</email>
+			<phone>215.895.2671</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Shokoufandeh-Ali/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/shokoufandeh-ali.ashx?h=160&la=en&w=124&hash=954D453025DBC8E2345202F391AAFF4F1FD9228C<\image>
+		</professor>
+		<professor>
+			<name>Erin Solovey</name>
+			<title>Assistant Professor</title>
+			<office>University Crossings 108</office>
+			<email>erin.solovey@drexel.edu</email>
+			<phone>215.895.4598</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Solovey-Erin/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/solovey-erin.ashx?h=160&la=en&w=125&hash=0E311E9149FD78349012F8DF79D3E7A6FAA151C4<\image>
+		</professor>
+		<professor>
+			<name>Il-Yeol Song</name>
+			<title>Professor and PhD Program Director</title>
+			<office>Rush 332</office>
+			<email>song@drexel.edu</email>
+			<phone>215.895.2489</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Song-Il-Yeol/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/song-yeol.ashx?h=160&la=en&w=125&hash=F3CF5914A0A131E2CC491897755D4F15B2BF00ED<\image>
+		</professor>
+		<professor>
+			<name>Julia Stoyanovich</name>
+			<title>Assistant Professor</title>
+			<office>University Crossings 100E</office>
+			<email>stoyanovich@drexel.edu</email>
+			<phone>215.895.6273</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Stoyanovich-Julia/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/stoyanovich-julia.ashx?h=160&la=en&w=125&hash=3954752EC3AA5D644650063185ECC130AF28C240<\image>
+		</professor>
+		<professor>
+			<name>Brian Stuart</name>
+			<title>Associate Teaching Professor</title>
+			<office>University Crossings 100K</office>
+			<email>brian.l.stuart@drexel.edu</email>
+			<phone>215.895.2669</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Stuart-Brian/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/unavailable.ashx?h=188&la=en&w=125&hash=AAD67A3808BDCBCEAD2ECC34758D61D0F807E4DD<\image>
+		</professor>
+		<professor>
+			<name>Deborah Turner</name>
+			<title>Assistant Professor</title>
+			<office>Rush 405A</office>
+			<email>turned@drexel.edu</email>
+			<phone>215.895.0493</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Turner-Deborah/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/deborahturner.ashx?h=160&la=en&w=125&hash=B26F887313791803CC5F06CC53BDAF87FDC98D2E<\image>
+		</professor>
+		<professor>
+			<name>Kristene Unsworth</name>
+			<title>Assistant Professor</title>
+			<office>Rush 409</office>
+			<email>unsworth@drexel.edu</email>
+			<phone>215.895.6016</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Unsworth-Kristene/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/unsworth-kris.ashx?h=160&la=en&w=125&hash=E48E0B3D3E4D9D250B8A518AE02B3B0E18C1B45C<\image>
+		</professor>
+		<professor>
+			<name>Filippos Vokolos</name>
+			<title>Associate Teaching Professor</title>
+			<office>University Crossings 131</office>
+			<email>filippos.i.vokolos@drexel.edu</email>
+			<phone>215.895.2474</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Vokolos-Filippos/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/vokolos-filippos.ashx?h=147&la=en&w=121&hash=73B5D113B0E592890343369A8855A1907E0A9D2A<\image>
+		</professor>
+		<professor>
+			<name>Rosina Weber</name>
+			<title>Associate Professor</title>
+			<office>Rush 233B</office>
+			<email>rosina@drexel.edu</email>
+			<phone>215.895.1911</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Weber-Rosina/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/weber-rosina.ashx?h=160&la=en&w=125&hash=33FB9FFD972955B6D15337B1061BEEC990D17774<\image>
+		</professor>
+		<professor>
+			<name>Scott White</name>
+			<title>Associate Clinical Professor and Director, Computing and Security Technology Program</title>
+			<office>Rush 132</office>
+			<email>sjw@drexel.edu</email>
+			<phone>215.895.0910</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/White-Scott/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/white-scott.ashx?h=160&la=en&w=124&hash=653DB0DE0C2CBE646D336293B3C36CA9F380B073<\image>
+		</professor>
+		<professor>
+			<name>Erjia Yan</name>
+			<title>Assistant Professor</title>
+			<office>Rush 412</office>
+			<email>erjia.yan@drexel.edu</email>
+			<phone>215.895.1459</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Yan-Erjia/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/yan-erjia.ashx?h=160&la=en&w=125&hash=B68C02D102A92C96B1F839E0F021122110E05754<\image>
+		</professor>
+		<professor>
+			<name>Christopher C. Yang</name>
+			<title>Associate Professor</title>
+			<office>3401 Market Street 318</office>
+			<email>chris.yang@drexel.edu</email>
+			<phone>215.895.1631</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Yang-Christopher/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/yang-chris.ashx?h=160&la=en&w=125&hash=19BA605D9E457B440CD839026B439317B613ED71<\image>
+		</professor>
+		<professor>
+			<name>Valerie Ann Yonker</name>
+			<title>Associate Teaching Professor</title>
+			<office></office>
+			<email>vay22@drexel.edu</email>
+			<phone>215.895.6397</phone>
+			<website>http://drexel.edu/cci/contact/Faculty/Yonker-Valerie-Ann/<website>
+			<image>http://drexel.edu/~/media/Images/cci/Faculty/yonker-valerie.ashx?h=160&la=en&w=125&hash=4D9104AA188CE4F12FB08594864D503821AEFB5C<\image>
+		</professor>
+	</institution>

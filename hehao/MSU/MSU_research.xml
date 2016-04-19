@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>BIOMETRICS- Biometrics Research Group</groupname>
+			<professorname>Jain</professorname>
+		</research>
+		<research>
+			<groupname>Computer Vision Lab	</groupname>
+			<professorname>X. Liu</professorname>
+		</research>
+		<research>
+			<groupname>Digital Evolution Lab	</groupname>
+			<professorname>Cheng</professorname>
+			<professorname>McKinley</professorname>
+			<professorname>Ofria</professorname>
+			<professorname>Pennock</professorname>
+			<professorname>Torng</professorname>
+		</research>
+		<research>
+			<groupname>Embodied Intelligence Lab	</groupname>
+			<professorname>Weng</professorname>
+		</research>
+		<research>
+			<groupname>eLANS	</groupname>
+			<professorname>Esfahanian</professorname>
+			<professorname>Mutka</professorname>
+			<professorname>Torng</professorname>
+			<professorname>Xiao</professorname>
+			<professorname>Xing</professorname>
+		</research>
+		<research>
+			<groupname>Genetics</groupname>
+			<professorname>Evolution</professorname>
+			<professorname>and Development</professorname>
+			<professorname>Brown</professorname>
+		</research>
+		<research>
+			<groupname>i-PRoBE	</groupname>
+			<professorname>Ross</professorname>
+		</research>
+		<research>
+			<groupname>Language Processing and Knowledge Discovery Laboratory	</groupname>
+			<professorname>Chai</professorname>
+			<professorname>Jin</professorname>
+			<professorname>Tan</professorname>
+		</research>
+		<research>
+			<groupname>Media and Entertainment Technologies	</groupname>
+			<professorname>Owen</professorname>
+		</research>
+		<research>
+			<groupname>Software Engineering and Network Systems	</groupname>
+			<professorname>Cheng</professorname>
+			<professorname>Dillon</professorname>
+			<professorname>Kulkarni</professorname>
+			<professorname>McKinle</professorname>
+		</research>
+	</institution>

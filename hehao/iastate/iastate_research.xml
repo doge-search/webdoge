@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Computational Biology Laboratory</groupname>
+			<professorname>Mukul Bansal</professorname>
+			<professorname>Wen-Chieh Chang</professorname>
+			<professorname>Ruchi Chaudhary</professorname>
+			<professorname>Akshay Deepak</professorname>
+			<professorname>Jianrong Dong</professorname>
+			<professorname>Dr. Oliver Eulenstein</professorname>
+			<professorname>Dr. David Fernández-Baca</professorname>
+			<professorname>Elizabeth Kleiman</professorname>
+			<professorname>Harris Lin</professorname>
+			<professorname>Raul Piaggio</professorname>
+			<professorname>Andre Wehe</professorname>
+		</research>
+		<research>
+			<groupname>Computational Media Lab </groupname>
+			<professorname>Wallapak Tavanapong</professorname>
+			<professorname>Johnny Wong</professorname>
+		</research>
+		<research>
+			<groupname>Computational Structural Biology Laboratory</groupname>
+			<professorname>Guang Song</professorname>
+		</research>
+		<research>
+			<groupname>Developmental Robotics Laboratory</groupname>
+			<professorname>Alex Stoytchev</professorname>
+			<professorname> </professorname>
+			<professorname>Formal Methods &amp; Verification Research Group</professorname>
+			<professorname>Samik Basu</professorname>
+		</research>
+		<research>
+			<groupname>Information Assurance Center</groupname>
+			<professorname> </professorname>
+			<professorname>Laboratory for Molecular Programming</professorname>
+			<professorname>Gianfranco Ciardo</professorname>
+			<professorname>Eric Henderson</professorname>
+			<professorname>James Lathrop</professorname>
+			<professorname>Jack Lutz</professorname>
+			<professorname>Robyn Lutz</professorname>
+			<professorname>John Mayfield</professorname>
+			<professorname>Timothy McNicholl</professorname>
+			<professorname>Andrew Miner</professorname>
+		</research>
+		<research>
+			<groupname>Laboratory for Software Design</groupname>
+			<professorname>William G. </professorname>
+			<professorname>Gary Leavens	</professorname>
+			<professorname>Steven M. Kautz	</professorname>
+			<professorname>Kevin Sullivan	</professorname>
+			<professorname>Wensheng Zhang	</professorname>
+		</research>
+		<research>
+			<groupname>Laboratory for Software Safety</groupname>
+			<professorname>Dr. Robyn R. Lutz </professorname>
+		</research>
+		<research>
+			<groupname>Laboratory for Wireless Networks and Systems</groupname>
+			<professorname>Dr. Wensheng Zhang</professorname>
+		</research>
+		<research>
+			<groupname>Program Analysis Laboratory</groupname>
+			<professorname>Wei Le</professorname>
+		</research>
+		<research>
+			<groupname>Robotics Laboratory</groupname>
+			<professorname>Dr.Yan-Bin Jia</professorname>
+		</research>
+		<research>
+			<groupname>Smart Home Laboratory</groupname>
+			<professorname> </professorname>
+			<professorname>Software Engineering Laboratory</professorname>
+			<professorname> </professorname>
+			<professorname>Virtual Reality Applications Center</professorname>
+			<professorname>James H Oliver</professorname>
+			<professorname>Gilbert, StephenStephen Gilbert</professorname>
+			<professorname>Eliot H Wine</professorname>
+		</research>
+	</institution>

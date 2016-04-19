@@ -1,325 +1,2255 @@
 <?xml version="1.0" ?>
 	<institution>
 		<professor>
-			<name>Andrew Appel</name>
-			<website>http://www.cs.princeton.edu/~appel</website>
-			<phone> (609) 258-4627            </phone>
-			<office> 306 Computer Science            </office>
-			<image>./images/Andrew Appel.jpg</image>
-		</professor>
-		<professor>
-			<name>Olga Troyanskaya</name>
-			<website>http://www.cs.princeton.edu/~ogt</website>
-			<phone> (609) 258-1749            </phone>
-			<office> 320 Computer Science            </office>
-			<image>./images/Olga Troyanskaya.jpg</image>
-		</professor>
-		<professor>
-			<name>David Walker</name>
-			<website>http://www.cs.princeton.edu/~dpw</website>
-			<phone> (609) 258-7654            </phone>
-			<office> 211 Computer Science            </office>
-			<image>./images/David Walker.jpg</image>
-		</professor>
-		<professor>
-			<name>Jaswinder Singh</name>
-			<website>http://www.cs.princeton.edu/~jps</website>
-			<phone> (609) 258-5329            </phone>
-			<office> 423 Computer Science            </office>
-			<image>./images/Jaswinder Singh.jpg</image>
-		</professor>
-		<professor>
-			<name>Robert Tarjan</name>
-			<website>http://www.cs.princeton.edu/~ret</website>
-			<phone> (609) 258-4797            </phone>
-			<office> 324 Computer Science            </office>
-			<image>./images/Robert Tarjan.jpg</image>
-		</professor>
-		<professor>
-			<name>Jianxiong Xiao</name>
-			<website>http://www.cs.princeton.edu/~xj</website>
-			<phone> (609) 258-1203            </phone>
-			<office> 409 Computer Science            </office>
-			<image>./images/Jianxiong Xiao.jpg</image>
-		</professor>
-		<professor>
-			<name>Kevin Wayne</name>
-			<website>http://www.cs.princeton.edu/~wayne</website>
-			<phone> (609) 258-4455            </phone>
-			<office> 207 Computer Science            </office>
-			<image>./images/Kevin Wayne.jpg</image>
-		</professor>
-		<professor>
-			<name>Mona Singh</name>
-			<website>http://www.cs.princeton.edu/~mona</website>
-			<phone> (609) 258-2087            </phone>
-			<office> 420 Computer Science            </office>
-			<image>./images/Mona Singh.jpg</image>
-		</professor>
-		<professor>
-			<name>Sebastian Seung</name>
-			<website>http://www.cs.princeton.edu/~sseung</website>
-			<phone> (609) 258-7713            </phone>
-			<office> 153 Princeton Neuroscience Institute            </office>
-			<image>./images/Sebastian Seung.jpg</image>
-		</professor>
-		<professor>
-			<name>Robert Sedgewick</name>
-			<website>http://www.cs.princeton.edu/~rs</website>
-			<phone> (609) 258-4345            </phone>
-			<office> 319 Computer Science            </office>
-			<image>./images/Robert Sedgewick.jpg</image>
-		</professor>
-		<professor>
-			<name>Iasonas Petras</name>
-			<website>http://www.cs.princeton.edu/~ipetras</website>
-			<phone> (609) 258-1794            </phone>
-			<office> 209 Computer Science            </office>
-			<image>./images/Iasonas Petras.jpg</image>
-		</professor>
-		<professor>
-			<name>Arvind Narayanan</name>
-			<website>http://www.cs.princeton.edu/~arvindn</website>
-			<phone> (609) 258-9302            </phone>
-			<office> 308 Sherrerd Hall            </office>
-			<image>./images/Arvind Narayanan.jpg</image>
-		</professor>
-		<professor>
-			<name>Jennifer Rexford</name>
-			<website>http://www.cs.princeton.edu/~jrex</website>
-			<phone> (609) 258-5182            </phone>
-			<office> 222 Computer Science            </office>
-			<image>./images/Jennifer Rexford.jpg</image>
-		</professor>
-		<professor>
-			<name>Larry Peterson</name>
-			<website>http://www.cs.princeton.edu/~llp</website>
+			<name>National/International Awards and Recognition</name>
+			<title></title>
+			<website></website>
+			<email></email>
 			<phone></phone>
 			<office></office>
-			<image>./images/Larry Peterson.jpg</image>
 		</professor>
 		<professor>
-			<name>Christopher Moretti</name>
-			<website>http://www.cs.princeton.edu/~cmoretti</website>
-			<phone> (609) 258-5388            </phone>
-			<office> 208 Computer Science            </office>
-			<image>./images/Christopher Moretti.jpg</image>
-		</professor>
-		<professor>
-			<name>Szymon Rusinkiewicz</name>
-			<website>http://www.cs.princeton.edu/~smr</website>
-			<phone> (609) 258-7479            </phone>
-			<office> 406 Computer Science            </office>
-			<image>./images/Szymon Rusinkiewicz.jpg</image>
-		</professor>
-		<professor>
-			<name>Margaret Martonosi</name>
-			<website>http://www.cs.princeton.edu/~mrm</website>
-			<phone> (609) 258-1912            </phone>
-			<office> 410 Computer Science            </office>
-			<image>./images/Margaret Martonosi.jpg</image>
-		</professor>
-		<professor>
-			<name>Jérémie Lumbroso</name>
+			<name>Anup Rao</name>
+			<title></title>
 			<website></website>
-			<phone> (609) 258-5379            </phone>
-			<office> 209 Computer Science            </office>
-			<image>./images/Jérémie Lumbroso.jpg</image>
+			<email></email>
+			<phone></phone>
+			<office></office>
 		</professor>
 		<professor>
-			<name>Xiaoyan Li</name>
-			<website>http://www.cs.princeton.edu/~xiaoyan</website>
-			<phone> (609) 258-7844            </phone>
-			<office> 104 221 Nassau Street            </office>
-			<image>./images/Xiaoyan Li.jpg</image>
-		</professor>
-		<professor>
-			<name>Brian Kernighan</name>
-			<website>http://www.cs.princeton.edu/~bwk</website>
-			<phone> (609) 258-2089            </phone>
-			<office> 311 Computer Science            </office>
-			<image>./images/Brian Kernighan.jpg</image>
-		</professor>
-		<professor>
-			<name>Andrea LaPaugh</name>
-			<website>http://www.cs.princeton.edu/~aslp</website>
-			<phone> (609) 258-4568            </phone>
-			<office> 304 Computer Science            </office>
-			<image>./images/Andrea LaPaugh.jpg</image>
-		</professor>
-		<professor>
-			<name>Daniel Leyzberg</name>
-			<website>http://www.cs.princeton.edu/~dl9</website>
-			<phone> (609) 258-9300            </phone>
-			<office> 208 Computer Science            </office>
-			<image>./images/Daniel Leyzberg.jpg</image>
-		</professor>
-		<professor>
-			<name>Alan Kaplan</name>
-			<website>http://www.cs.princeton.edu/~ak18</website>
-			<phone> (609) 258-1745            </phone>
-			<office> 105 221 Nassau Street            </office>
-			<image>./images/Alan Kaplan.jpg</image>
-		</professor>
-		<professor>
-			<name>Kai Li</name>
-			<website>http://www.cs.princeton.edu/~li</website>
-			<phone> (609) 258-4637            </phone>
-			<office> 321 Computer Science            </office>
-			<image>./images/Kai Li.jpg</image>
-		</professor>
-		<professor>
-			<name>Elad Hazan</name>
-			<website>http://www.cs.princeton.edu/~ehazan</website>
-			<phone> (609) 258-6031            </phone>
-			<office> 407 Computer Science            </office>
-			<image>./images/Elad Hazan.jpg</image>
-		</professor>
-		<professor>
-			<name>Kyle Jamieson</name>
-			<website>http://www.cs.princeton.edu/~kylej</website>
-			<phone> (609) 258-7477            </phone>
-			<office> 305 Computer Science            </office>
-			<image>./images/Kyle Jamieson.jpg</image>
-		</professor>
-		<professor>
-			<name>Donna Gabai</name>
-			<website>http://www.cs.princeton.edu/~dgabai</website>
-			<phone> (609) 258-1978            </phone>
-			<office> 205 Computer Science            </office>
-			<image>./images/Donna Gabai.jpg</image>
-		</professor>
-		<professor>
-			<name>Aarti Gupta</name>
-			<website>http://www.cs.princeton.edu/~aartig</website>
-			<phone> (609) 258-8017            </phone>
-			<office> 220 Computer Science            </office>
-			<image>./images/Aarti Gupta.jpg</image>
-		</professor>
-		<professor>
-			<name>Ananda Gunawardena</name>
+			<name>Anup Rao</name>
+			<title></title>
 			<website></website>
-			<phone> (609) 258-6253            </phone>
-			<office> 103 221 Nassau Street            </office>
-			<image>./images/Ananda Gunawardena.jpg</image>
+			<email></email>
+			<phone></phone>
+			<office></office>
 		</professor>
 		<professor>
-			<name>Maia Ginsburg</name>
-			<website>http://www.cs.princeton.edu/~maia</website>
-			<phone> (609) 258-6484            </phone>
-			<office> 205 Computer Science            </office>
-			<image>./images/Maia Ginsburg.jpg</image>
-		</professor>
-		<professor>
-			<name>Thomas Funkhouser</name>
-			<website>http://www.cs.princeton.edu/~funk</website>
-			<phone> (609) 258-1748            </phone>
-			<office> 422 Computer Science            </office>
-			<image>./images/Thomas Funkhouser.jpg</image>
-		</professor>
-		<professor>
-			<name>Michael Freedman</name>
-			<website>http://www.cs.princeton.edu/~mfreed</website>
-			<phone> (609) 258-9179            </phone>
-			<office> 308 Computer Science            </office>
-			<image>./images/Michael Freedman.jpg</image>
-		</professor>
-		<professor>
-			<name>Adam Finkelstein</name>
-			<website>http://www.cs.princeton.edu/~af</website>
-			<phone> (609) 258-5756            </phone>
-			<office> 424 Computer Science            </office>
-			<image>./images/Adam Finkelstein.jpg</image>
-		</professor>
-		<professor>
-			<name>Edward Felten</name>
-			<website>http://www.cs.princeton.edu/~felten</website>
-			<phone> (609) 258-5906            </phone>
-			<office> 302 Sherrerd Hall            </office>
-			<image>./images/Edward Felten.jpg</image>
-		</professor>
-		<professor>
-			<name>Christiane Fellbaum</name>
-			<website>http://www.cs.princeton.edu/~fellbaum</website>
-			<phone> (609) 258-2824            </phone>
-			<office> 412 Computer Science            </office>
-			<image>./images/Christiane Fellbaum.jpg</image>
-		</professor>
-		<professor>
-			<name>Robert Fish</name>
+			<name>Rajesh Rao</name>
+			<title></title>
 			<website></website>
-			<phone> (609) 258-0839            </phone>
-			<office> 206 Computer Science            </office>
-			<image>./images/Robert Fish.jpg</image>
+			<email> rao</email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Rajesh Rao.jpg</image>
 		</professor>
 		<professor>
-			<name>Nick Feamster</name>
-			<website>http://www.cs.princeton.edu/~feamster</website>
-			<phone> (609) 258-2203            </phone>
-			<office> 310 Sherrerd Hall            </office>
-			<image>./images/Nick Feamster.jpg</image>
-		</professor>
-		<professor>
-			<name>Zeev Dvir</name>
-			<website>http://www.cs.princeton.edu/~zdvir</website>
-			<phone> (609) 258-0255            </phone>
-			<office> 405 Computer Science            </office>
-			<image>./images/Zeev Dvir.jpg</image>
-		</professor>
-		<professor>
-			<name>Barbara Engelhardt</name>
-			<website>http://www.cs.princeton.edu/~bee</website>
-			<phone> (609) 258-0933            </phone>
-			<office> 322 Computer Science            </office>
-			<image>./images/Barbara Engelhardt.jpg</image>
-		</professor>
-		<professor>
-			<name>Robert Dondero</name>
-			<website>http://www.cs.princeton.edu/~rdondero</website>
-			<phone> (609) 258-2211            </phone>
-			<office> 206 Computer Science            </office>
-			<image>./images/Robert Dondero.jpg</image>
-		</professor>
-		<professor>
-			<name>David Dobkin</name>
-			<website>http://www.cs.princeton.edu/~dpd</website>
-			<phone> (609) 258-9907            </phone>
-			<office> 419 Computer Science            </office>
-			<image>./images/David Dobkin.jpg</image>
-		</professor>
-		<professor>
-			<name>Sanjeev Arora</name>
-			<website>http://www.cs.princeton.edu/~arora</website>
-			<phone> (609) 258-3869            </phone>
-			<office> 307 Computer Science            </office>
-			<image>./images/Sanjeev Arora.jpg</image>
-		</professor>
-		<professor>
-			<name>Bernard Chazelle</name>
-			<website>http://www.cs.princeton.edu/~chazelle</website>
-			<phone> (609) 258-5380            </phone>
-			<office> 404 Computer Science            </office>
-			<image>./images/Bernard Chazelle.jpg</image>
-		</professor>
-		<professor>
-			<name>David August</name>
-			<website>http://www.cs.princeton.edu/~august</website>
-			<phone> (609) 258-2085            </phone>
-			<office> 221 Computer Science            </office>
-			<image>./images/David August.jpg</image>
-		</professor>
-		<professor>
-			<name>Mark Braverman</name>
-			<website>http://www.cs.princeton.edu/~mbraverm</website>
-			<phone> (609) 258-8130            </phone>
-			<office> 411 Computer Science            </office>
-			<image>./images/Mark Braverman.jpg</image>
-		</professor>
-		<professor>
-			<name>Sandra Batista</name>
+			<name>Stuart Reges</name>
+			<title></title>
 			<website></website>
-			<phone> (609) 258-6943            </phone>
-			<office> 106 221 Nassau Street            </office>
-			<image>./images/Sandra Batista.jpg</image>
+			<email> reges</email>
+			<phone></phone>
+			<office> CSE552</office>
+			<image>./images/Stuart Reges.jpg</image>
+		</professor>
+		<professor>
+			<name>Dan R. K. Ports</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office>CSE 276</office>
+		</professor>
+		<professor>
+			<name>Zoran Popović</name>
+			<title></title>
+			<website></website>
+			<email> zoran</email>
+			<phone></phone>
+			<office> CSE652</office>
+			<image>./images/Zoran Popović.jpg</image>
+		</professor>
+		<professor>
+			<name>Hal Perkins</name>
+			<title></title>
+			<website></website>
+			<email> perkins</email>
+			<phone></phone>
+			<office> CSE548</office>
+			<image>./images/Hal Perkins.jpg</image>
+		</professor>
+		<professor>
+			<name>Hal Perkins</name>
+			<title></title>
+			<website></website>
+			<email> perkins</email>
+			<phone></phone>
+			<office> CSE548</office>
+			<image>./images/Hal Perkins.jpg</image>
+		</professor>
+		<professor>
+			<name>Rajesh Rao</name>
+			<title></title>
+			<website></website>
+			<email> rao</email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Rajesh Rao.jpg</image>
+		</professor>
+		<professor>
+			<name>Shwetak Patel</name>
+			<title></title>
+			<website></website>
+			<email> shwetak</email>
+			<phone></phone>
+			<office> CSE540</office>
+			<image>./images/Shwetak Patel.jpg</image>
+		</professor>
+		<professor>
+			<name>Franziska Roesner</name>
+			<title></title>
+			<website></website>
+			<email>  franzi</email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Franziska Roesner.jpg</image>
+		</professor>
+		<professor>
+			<name>Katharina Reinecke</name>
+			<title></title>
+			<website></website>
+			<email>reinecke</email>
+			<phone></phone>
+			<office>528 Allen Center</office>
+			<image>./images/Katharina Reinecke.jpg</image>
+		</professor>
+		<professor>
+			<name>Stuart Reges</name>
+			<title></title>
+			<website></website>
+			<email> reges</email>
+			<phone></phone>
+			<office> CSE552</office>
+			<image>./images/Stuart Reges.jpg</image>
+		</professor>
+		<professor>
+			<name>Affiliate Faculty</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Adjunct Faculty</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Ali Farhadi</name>
+			<title></title>
+			<website></website>
+			<email>  ali</email>
+			<phone></phone>
+			<office>  CSE 652</office>
+			<image>./images/Ali Farhadi.jpg</image>
+		</professor>
+		<professor>
+			<name>Tom Anderson</name>
+			<title></title>
+			<website></website>
+			<email>tom</email>
+			<phone></phone>
+			<office>CSE646</office>
+			<image>./images/Tom Anderson.jpg</image>
+		</professor>
+		<professor>
+			<name>Dieter Fox</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Luke Zettlemoyer</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Anna R. Karlin</name>
+			<title></title>
+			<website></website>
+			<email>  karlin</email>
+			<phone></phone>
+			<office>  CSE594</office>
+			<image>./images/Anna R. Karlin.jpg</image>
+		</professor>
+		<professor>
+			<name>Jeffrey Heer</name>
+			<title></title>
+			<website></website>
+			<email>jheer</email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Jeffrey Heer.jpg</image>
+		</professor>
+		<professor>
+			<name>Ben Taskar</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Ben Taskar.jpg</image>
+		</professor>
+		<professor>
+			<name>Dan R. K. Ports</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office>CSE 276</office>
+		</professor>
+		<professor>
+			<name>Rajesh Rao: Students</name>
+			<title></title>
+			<website></website>
+			<email> rao</email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Rajesh Rao: Students.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email> rao</email>
+			<phone></phone>
+			<office></office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name>Dan R. K. Ports</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office>CSE 276</office>
+		</professor>
+		<professor>
+			<name>Dan R. K. Ports</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office>CSE 276</office>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office>CSE 276</office>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office>CSE 276</office>
+		</professor>
+		<professor>
+			<name>Dan R. K. Ports</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office>CSE 276</office>
+		</professor>
+		<professor>
+			<name>Dan R. K. Ports</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office>CSE 276</office>
+		</professor>
+		<professor>
+			<name>Rajesh Rao</name>
+			<title></title>
+			<website></website>
+			<email> rao</email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Rajesh Rao.jpg</image>
+		</professor>
+		<professor>
+			<name>Anna R. Karlin</name>
+			<title></title>
+			<website></website>
+			<email>  karlin</email>
+			<phone></phone>
+			<office>  CSE594</office>
+			<image>./images/Anna R. Karlin.jpg</image>
+		</professor>
+		<professor>
+			<name>Dan Weld</name>
+			<title></title>
+			<website></website>
+			<email>  weld</email>
+			<phone></phone>
+			<office>  CSE588</office>
+			<image>./images/Dan Weld.jpg</image>
+		</professor>
+		<professor>
+			<name>Tom Anderson</name>
+			<title></title>
+			<website></website>
+			<email>tom</email>
+			<phone></phone>
+			<office>CSE646</office>
+			<image>./images/Tom Anderson.jpg</image>
+		</professor>
+		<professor>
+			<name>Ali Farhadi</name>
+			<title></title>
+			<website></website>
+			<email>  ali</email>
+			<phone></phone>
+			<office>  CSE 652</office>
+			<image>./images/Ali Farhadi.jpg</image>
+		</professor>
+		<professor>
+			<name>Tom Anderson</name>
+			<title></title>
+			<website></website>
+			<email>tom</email>
+			<phone></phone>
+			<office>CSE646</office>
+			<image>./images/Tom Anderson.jpg</image>
+		</professor>
+		<professor>
+			<name>Tom Anderson</name>
+			<title></title>
+			<website></website>
+			<email>tom</email>
+			<phone></phone>
+			<office>CSE646</office>
+			<image>./images/Tom Anderson.jpg</image>
+		</professor>
+		<professor>
+			<name>Tom Anderson</name>
+			<title></title>
+			<website></website>
+			<email>tom</email>
+			<phone></phone>
+			<office>CSE646</office>
+			<image>./images/Tom Anderson.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Luke Zettlemoyer</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Ben Taskar</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Ben Taskar.jpg</image>
+		</professor>
+		<professor>
+			<name>Stuart Reges</name>
+			<title></title>
+			<website></website>
+			<email> reges</email>
+			<phone></phone>
+			<office> CSE552</office>
+			<image>./images/Stuart Reges.jpg</image>
+		</professor>
+		<professor>
+			<name>Stuart Reges</name>
+			<title></title>
+			<website></website>
+			<email> reges</email>
+			<phone></phone>
+			<office> CSE552</office>
+			<image>./images/Stuart Reges.jpg</image>
+		</professor>
+		<professor>
+			<name>Arvind Krishnamurthy</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Arvind Krishnamurthy.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Carlos Guestrin</name>
+			<title></title>
+			<website></website>
+			<email>guestrin</email>
+			<phone></phone>
+			<office>568 Allen Center
+ </office>
+			<image>./images/Carlos Guestrin.jpg</image>
+		</professor>
+		<professor>
+			<name>Dieter Fox</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Dan Weld</name>
+			<title></title>
+			<website></website>
+			<email>  weld</email>
+			<phone></phone>
+			<office>  CSE588</office>
+			<image>./images/Dan Weld.jpg</image>
+		</professor>
+		<professor>
+			<name>Dan Weld</name>
+			<title></title>
+			<website></website>
+			<email>  weld</email>
+			<phone></phone>
+			<office>  CSE588</office>
+			<image>./images/Dan Weld.jpg</image>
+		</professor>
+		<professor>
+			<name>Dan Weld</name>
+			<title></title>
+			<website></website>
+			<email>  weld</email>
+			<phone></phone>
+			<office>  CSE588</office>
+			<image>./images/Dan Weld.jpg</image>
+		</professor>
+		<professor>
+			<name>Dan Weld</name>
+			<title></title>
+			<website></website>
+			<email>  weld</email>
+			<phone></phone>
+			<office>  CSE588</office>
+			<image>./images/Dan Weld.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Dan Weld</name>
+			<title></title>
+			<website></website>
+			<email>  weld</email>
+			<phone></phone>
+			<office>  CSE588</office>
+			<image>./images/Dan Weld.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Service</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Service.jpg</image>
+		</professor>
+		<professor>
+			<name>Luke Zettlemoyer</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Carlos Guestrin</name>
+			<title></title>
+			<website></website>
+			<email>guestrin</email>
+			<phone></phone>
+			<office>568 Allen Center
+ </office>
+			<image>./images/Carlos Guestrin.jpg</image>
+		</professor>
+		<professor>
+			<name>John Zahorjan</name>
+			<title></title>
+			<website></website>
+			<email>  zahorjan</email>
+			<phone></phone>
+			<office>  CSE534</office>
+			<image>./images/John Zahorjan.jpg</image>
+		</professor>
+		<professor>
+			<name>Luke Zettlemoyer</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Dan Weld</name>
+			<title></title>
+			<website></website>
+			<email>  weld</email>
+			<phone></phone>
+			<office>  CSE588</office>
+			<image>./images/Dan Weld.jpg</image>
+		</professor>
+		<professor>
+			<name>Award Papers</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Award Papers.jpg</image>
+		</professor>
+		<professor>
+			<name>Teaching</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Teaching.jpg</image>
+		</professor>
+		<professor>
+			<name>Media Coverage</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Media Coverage.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name>Dan Weld</name>
+			<title></title>
+			<website></website>
+			<email>  weld</email>
+			<phone></phone>
+			<office>  CSE588</office>
+			<image>./images/Dan Weld.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name>Luke Zettlemoyer</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Dan Weld</name>
+			<title></title>
+			<website></website>
+			<email>  weld</email>
+			<phone></phone>
+			<office>  CSE588</office>
+			<image>./images/Dan Weld.jpg</image>
+		</professor>
+		<professor>
+			<name>Dan Weld</name>
+			<title></title>
+			<website></website>
+			<email>  weld</email>
+			<phone></phone>
+			<office>  CSE588</office>
+			<image>./images/Dan Weld.jpg</image>
+		</professor>
+		<professor>
+			<name>Xi Wang</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Emina Torlak</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Emina Torlak.jpg</image>
+		</professor>
+		<professor>
+			<name>Martin Tompa</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Martin Tompa.jpg</image>
+		</professor>
+		<professor>
+			<name>Dan Weld</name>
+			<title></title>
+			<website></website>
+			<email>  weld</email>
+			<phone></phone>
+			<office>  CSE588</office>
+			<image>./images/Dan Weld.jpg</image>
+		</professor>
+		<professor>
+			<name>Dan Suciu</name>
+			<title></title>
+			<website></website>
+			<email>  suciu</email>
+			<phone></phone>
+			<office>  CSE662</office>
+			<image>./images/Dan Suciu.jpg</image>
+		</professor>
+		<professor>
+			<name>Zachary Tatlock</name>
+			<title></title>
+			<website></website>
+			<email>    ztatlock</email>
+			<phone></phone>
+			<office>    CSE 546</office>
+			<image>./images/Zachary Tatlock.jpg</image>
+		</professor>
+		<professor>
+			<name>Steve Tanimoto</name>
+			<title></title>
+			<website></website>
+			<email>  tanimoto</email>
+			<phone></phone>
+			<office>  CSE638</office>
+			<image>./images/Steve Tanimoto.jpg</image>
+		</professor>
+		<professor>
+			<name>Emanuel Todorov</name>
+			<title></title>
+			<website></website>
+			<email>  todorov</email>
+			<phone></phone>
+			<office>  AMATH 415H</office>
+			<image>./images/Emanuel Todorov.jpg</image>
+		</professor>
+		<professor>
+			<name>Steve Tanimoto</name>
+			<title></title>
+			<website></website>
+			<email>  tanimoto</email>
+			<phone></phone>
+			<office>  CSE638</office>
+			<image>./images/Steve Tanimoto.jpg</image>
+		</professor>
+		<professor>
+			<name>Martin Tompa</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Martin Tompa.jpg</image>
+		</professor>
+		<professor>
+			<name>Dan Suciu</name>
+			<title></title>
+			<website></website>
+			<email>  suciu</email>
+			<phone></phone>
+			<office>  CSE662</office>
+			<image>./images/Dan Suciu.jpg</image>
+		</professor>
+		<professor>
+			<name>Larry Snyder</name>
+			<title></title>
+			<website></website>
+			<email>snyder</email>
+			<phone></phone>
+			<office> 466 Allen Center </office>
+		</professor>
+		<professor>
+			<name>Noah Smith</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Noah Smith</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>John Zahorjan</name>
+			<title></title>
+			<website></website>
+			<email>  zahorjan</email>
+			<phone></phone>
+			<office>  CSE534</office>
+			<image>./images/John Zahorjan.jpg</image>
+		</professor>
+		<professor>
+			<name>John Zahorjan</name>
+			<title></title>
+			<website></website>
+			<email>  zahorjan</email>
+			<phone></phone>
+			<office>  CSE534</office>
+			<image>./images/John Zahorjan.jpg</image>
+		</professor>
+		<professor>
+			<name>Joshua Smith</name>
+			<title></title>
+			<website></website>
+			<email> jrs</email>
+			<phone></phone>
+			<office> CSE556</office>
+			<image>./images/Joshua Smith.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email>  zahorjan</email>
+			<phone></phone>
+			<office>  CSE534</office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name>Steven Seitz</name>
+			<title></title>
+			<website></website>
+			<email> seitz</email>
+			<phone></phone>
+			<office> CSE592</office>
+			<image>./images/Steven Seitz.jpg</image>
+		</professor>
+		<professor>
+			<name>Joshua Smith</name>
+			<title></title>
+			<website></website>
+			<email> jrs</email>
+			<phone></phone>
+			<office> CSE556</office>
+			<image>./images/Joshua Smith.jpg</image>
+		</professor>
+		<professor>
+			<name>Linda Shapiro</name>
+			<title></title>
+			<website></website>
+			<email>  shapiro</email>
+			<phone></phone>
+			<office>  CSE634</office>
+			<image>./images/Linda Shapiro.jpg</image>
+		</professor>
+		<professor>
+			<name>John Zahorjan</name>
+			<title></title>
+			<website></website>
+			<email>  zahorjan</email>
+			<phone></phone>
+			<office>  CSE534</office>
+			<image>./images/John Zahorjan.jpg</image>
+		</professor>
+		<professor>
+			<name>Alan Shaw</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office> Allen Center </office>
+		</professor>
+		<professor>
+			<name>Georg Seelig</name>
+			<title></title>
+			<website></website>
+			<email> seelig</email>
+			<phone></phone>
+			<office> CSE228</office>
+			<image>./images/Georg Seelig.jpg</image>
+		</professor>
+		<professor>
+			<name>Thomas Rothvoss</name>
+			<title></title>
+			<website></website>
+			<email>rothvoss</email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Mark Oskin</name>
+			<title></title>
+			<website></website>
+			<email>  oskin</email>
+			<phone></phone>
+			<office>  CSE564</office>
+			<image>./images/Mark Oskin.jpg</image>
+		</professor>
+		<professor>
+			<name>Mark Oskin</name>
+			<title></title>
+			<website></website>
+			<email>  oskin</email>
+			<phone></phone>
+			<office>  CSE564</office>
+			<image>./images/Mark Oskin.jpg</image>
+		</professor>
+		<professor>
+			<name>Larry Ruzzo</name>
+			<title></title>
+			<website></website>
+			<email>  ruzzo</email>
+			<phone></phone>
+			<office>  CSE554</office>
+			<image>./images/Larry Ruzzo.jpg</image>
+		</professor>
+		<professor>
+			<name>Allison Obourn </name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office>CSE 438</office>
+			<image>./images/Allison Obourn .jpg</image>
+		</professor>
+		<professor>
+			<name>Larry Ruzzo</name>
+			<title></title>
+			<website></website>
+			<email>  ruzzo</email>
+			<phone></phone>
+			<office>  CSE554</office>
+			<image>./images/Larry Ruzzo.jpg</image>
+		</professor>
+		<professor>
+			<name>Barbara Mones</name>
+			<title></title>
+			<website></website>
+			<email>  mones</email>
+			<phone></phone>
+			<office>  CSE628</office>
+			<image>./images/Barbara Mones.jpg</image>
+		</professor>
+		<professor>
+			<name>Barbara Mones</name>
+			<title></title>
+			<website></website>
+			<email>  mones</email>
+			<phone></phone>
+			<office>  CSE628</office>
+			<image>./images/Barbara Mones.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email>  tanimoto</email>
+			<phone></phone>
+			<office>  CSE638</office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Emanuel Todorov</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Emanuel Todorov</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email>  tanimoto</email>
+			<phone></phone>
+			<office>  CSE638</office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name>Steve Tanimoto</name>
+			<title></title>
+			<website></website>
+			<email>  tanimoto</email>
+			<phone></phone>
+			<office>  CSE638</office>
+			<image>./images/Steve Tanimoto.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Steve Tanimoto</name>
+			<title></title>
+			<website></website>
+			<email>  tanimoto</email>
+			<phone></phone>
+			<office>  CSE638</office>
+			<image>./images/Steve Tanimoto.jpg</image>
+		</professor>
+		<professor>
+			<name>Steven Seitz</name>
+			<title></title>
+			<website></website>
+			<email> seitz</email>
+			<phone></phone>
+			<office> CSE592</office>
+			<image>./images/Steven Seitz.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email> seitz</email>
+			<phone></phone>
+			<office> CSE592</office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name>Steven Seitz</name>
+			<title></title>
+			<website></website>
+			<email> seitz</email>
+			<phone></phone>
+			<office> CSE592</office>
+			<image>./images/Steven Seitz.jpg</image>
+		</professor>
+		<professor>
+			<name>Henry M. Levy</name>
+			<title></title>
+			<website></website>
+			<email>levy</email>
+			<phone></phone>
+			<office>104 Allen Center
+ </office>
+		</professor>
+		<professor>
+			<name>Steven Seitz</name>
+			<title></title>
+			<website></website>
+			<email> seitz</email>
+			<phone></phone>
+			<office> CSE592</office>
+			<image>./images/Steven Seitz.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name>Henry M. Levy</name>
+			<title></title>
+			<website></website>
+			<email>levy</email>
+			<phone></phone>
+			<office>104 Allen Center
+ </office>
+		</professor>
+		<professor>
+			<name>Mark Oskin</name>
+			<title></title>
+			<website></website>
+			<email>  oskin</email>
+			<phone></phone>
+			<office>  CSE564</office>
+			<image>./images/Mark Oskin.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email>  oskin</email>
+			<phone></phone>
+			<office>  CSE564</office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name>Larry Ruzzo</name>
+			<title></title>
+			<website></website>
+			<email>  ruzzo</email>
+			<phone></phone>
+			<office>  CSE554</office>
+			<image>./images/Larry Ruzzo.jpg</image>
+		</professor>
+		<professor>
+			<name>Linda Shapiro</name>
+			<title></title>
+			<website></website>
+			<email>  shapiro</email>
+			<phone></phone>
+			<office>  CSE634</office>
+			<image>./images/Linda Shapiro.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email>  ruzzo</email>
+			<phone></phone>
+			<office>  CSE554</office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email>  shapiro</email>
+			<phone></phone>
+			<office>  CSE634</office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name>Joshua Smith</name>
+			<title></title>
+			<website></website>
+			<email> jrs</email>
+			<phone></phone>
+			<office> CSE556</office>
+			<image>./images/Joshua Smith.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email>  shapiro</email>
+			<phone></phone>
+			<office>  CSE634</office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email> jrs</email>
+			<phone></phone>
+			<office> CSE556</office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email> jrs</email>
+			<phone></phone>
+			<office> CSE556</office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name>Su-In Lee</name>
+			<title></title>
+			<website></website>
+			<email>suinlee</email>
+			<phone></phone>
+			<office>CSE536</office>
+		</professor>
+		<professor>
+			<name>James Lee</name>
+			<title></title>
+			<website></website>
+			<email>  jrl</email>
+			<phone></phone>
+			<office>  CSE640</office>
+			<image>./images/James Lee.jpg</image>
+		</professor>
+		<professor>
+			<name>Henry M. Levy</name>
+			<title></title>
+			<website></website>
+			<email>levy</email>
+			<phone></phone>
+			<office>104 Allen Center
+ </office>
+		</professor>
+		<professor>
+			<name>Ed Lazowska</name>
+			<title></title>
+			<website></website>
+			<email> lazowska</email>
+			<phone></phone>
+			<office> CSE 570</office>
+		</professor>
+		<professor>
+			<name>James Lee</name>
+			<title></title>
+			<website></website>
+			<email>  jrl</email>
+			<phone></phone>
+			<office>  CSE640</office>
+			<image>./images/James Lee.jpg</image>
+		</professor>
+		<professor>
+			<name>Linda Shapiro</name>
+			<title></title>
+			<website></website>
+			<email>  shapiro</email>
+			<phone></phone>
+			<office>  CSE634</office>
+			<image>./images/Linda Shapiro.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email>levy</email>
+			<phone></phone>
+			<office>104 Allen Center
+ </office>
+		</professor>
+		<professor>
+			<name>Henry M. Levy</name>
+			<title></title>
+			<website></website>
+			<email>levy</email>
+			<phone></phone>
+			<office>104 Allen Center
+ </office>
+		</professor>
+		<professor>
+			<name>Richard Ladner</name>
+			<title></title>
+			<website></website>
+			<email>  </email>
+			<phone></phone>
+			<office>  CSE 632</office>
+			<image>./images/Richard Ladner.jpg</image>
+		</professor>
+		<professor>
+			<name>Ira Kemelmacher-Shlizerman</name>
+			<title></title>
+			<website></website>
+			<email>kemelmi</email>
+			<phone></phone>
+			<office>650 Allen Center
+ </office>
+			<image>./images/Ira Kemelmacher-Shlizerman.jpg</image>
+		</professor>
+		<professor>
+			<name>Ira Kemelmacher-Shlizerman</name>
+			<title></title>
+			<website></website>
+			<email>kemelmi</email>
+			<phone></phone>
+			<office>650 Allen Center
+ </office>
+			<image>./images/Ira Kemelmacher-Shlizerman.jpg</image>
+		</professor>
+		<professor>
+			<name>Arvind Krishnamurthy</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Arvind Krishnamurthy.jpg</image>
+		</professor>
+		<professor>
+			<name>Arvind Krishnamurthy</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Arvind Krishnamurthy.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email>levy</email>
+			<phone></phone>
+			<office>104 Allen Center
+ </office>
+		</professor>
+		<professor>
+			<name>Richard Ladner</name>
+			<title></title>
+			<website></website>
+			<email>  </email>
+			<phone></phone>
+			<office>  CSE 632</office>
+			<image>./images/Richard Ladner.jpg</image>
+		</professor>
+		<professor>
+			<name>Tadayoshi Kohno</name>
+			<title></title>
+			<website></website>
+			<email>  yoshi</email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Tadayoshi Kohno.jpg</image>
+		</professor>
+		<professor>
+			<name>Ed Lazowska</name>
+			<title></title>
+			<website></website>
+			<email> lazowska</email>
+			<phone></phone>
+			<office> CSE 570</office>
+		</professor>
+		<professor>
+			<name>Anna R. Karlin</name>
+			<title></title>
+			<website></website>
+			<email>  karlin</email>
+			<phone></phone>
+			<office>  CSE594</office>
+			<image>./images/Anna R. Karlin.jpg</image>
+		</professor>
+		<professor>
+			<name>Sham M. Kakade</name>
+			<title></title>
+			<website></website>
+			<email>sham</email>
+			<phone></phone>
+			<office>436 Allen Center</office>
+			<image>./images/Sham M. Kakade.jpg</image>
+		</professor>
+		<professor>
+			<name>Anna R. Karlin</name>
+			<title></title>
+			<website></website>
+			<email>  karlin</email>
+			<phone></phone>
+			<office>  CSE594</office>
+			<image>./images/Anna R. Karlin.jpg</image>
+		</professor>
+		<professor>
+			<name>Bruce Hemingway</name>
+			<title></title>
+			<website></website>
+			<email>  bruceh</email>
+			<phone></phone>
+			<office>hone:
+  (206) 543-6274</office>
+			<image>./images/Bruce Hemingway.jpg</image>
+		</professor>
+		<professor>
+			<name>Ed Lazowska:  Public Policy</name>
+			<title></title>
+			<website></website>
+			<email> lazowska</email>
+			<phone></phone>
+			<office> CSE 570</office>
+		</professor>
+		<professor>
+			<name>Ed Lazowska:  Professional Information</name>
+			<title></title>
+			<website></website>
+			<email> lazowska</email>
+			<phone></phone>
+			<office> CSE 570</office>
+		</professor>
+		<professor>
+			<name>Ed Lazowska:  Fun Stuff</name>
+			<title></title>
+			<website></website>
+			<email> lazowska</email>
+			<phone></phone>
+			<office> CSE 570</office>
+		</professor>
+		<professor>
+			<name>Richard Ladner</name>
+			<title></title>
+			<website></website>
+			<email>  </email>
+			<phone></phone>
+			<office>  CSE 632</office>
+			<image>./images/Richard Ladner.jpg</image>
+		</professor>
+		<professor>
+			<name>Ed Lazowska:  Students</name>
+			<title></title>
+			<website></website>
+			<email> lazowska</email>
+			<phone></phone>
+			<office> CSE 570</office>
+		</professor>
+		<professor>
+			<name>Ed Lazowska:  Recommended Reading</name>
+			<title></title>
+			<website></website>
+			<email> lazowska</email>
+			<phone></phone>
+			<office> CSE 570</office>
+		</professor>
+		<professor>
+			<name>Ed Lazowska:  Personal</name>
+			<title></title>
+			<website></website>
+			<email> lazowska</email>
+			<phone></phone>
+			<office> CSE 570</office>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email>  </email>
+			<phone></phone>
+			<office>  CSE 632</office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email> lazowska</email>
+			<phone></phone>
+			<office> CSE 570</office>
+		</professor>
+		<professor>
+			<name>Ed Lazowska</name>
+			<title></title>
+			<website></website>
+			<email> lazowska</email>
+			<phone></phone>
+			<office> CSE 570</office>
+		</professor>
+		<professor>
+			<name>Jeffrey Heer</name>
+			<title></title>
+			<website></website>
+			<email>jheer</email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Jeffrey Heer.jpg</image>
+		</professor>
+		<professor>
+			<name>Carlos Guestrin</name>
+			<title></title>
+			<website></website>
+			<email>guestrin</email>
+			<phone></phone>
+			<office>568 Allen Center
+ </office>
+			<image>./images/Carlos Guestrin.jpg</image>
+		</professor>
+		<professor>
+			<name>Bruce Hemingway</name>
+			<title></title>
+			<website></website>
+			<email>  bruceh</email>
+			<phone></phone>
+			<office>hone:
+  (206) 543-6274</office>
+			<image>./images/Bruce Hemingway.jpg</image>
+		</professor>
+		<professor>
+			<name>Carlos Guestrin</name>
+			<title></title>
+			<website></website>
+			<email>guestrin</email>
+			<phone></phone>
+			<office>568 Allen Center
+ </office>
+			<image>./images/Carlos Guestrin.jpg</image>
+		</professor>
+		<professor>
+			<name>Dan Grossman</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Dan Grossman.jpg</image>
+		</professor>
+		<professor>
+			<name>Shyam Gollakota</name>
+			<title></title>
+			<website></website>
+			<email>gshyam</email>
+			<phone></phone>
+			<office>550 Allen Center
+</office>
+		</professor>
+		<professor>
+			<name>Bruce Hemingway</name>
+			<title></title>
+			<website></website>
+			<email>  bruceh</email>
+			<phone></phone>
+			<office>hone:
+  (206) 543-6274</office>
+			<image>./images/Bruce Hemingway.jpg</image>
+		</professor>
+		<professor>
+			<name>Technical Experience</name>
+			<title></title>
+			<website></website>
+			<email>  bruceh</email>
+			<phone></phone>
+			<office>hone:
+  (206) 543-6274</office>
+			<image>./images/Technical Experience.jpg</image>
+		</professor>
+		<professor>
+			<name>Service</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Service.jpg</image>
+		</professor>
+		<professor>
+			<name>Ed Lazowska:  Courses</name>
+			<title></title>
+			<website></website>
+			<email> lazowska</email>
+			<phone></phone>
+			<office> CSE 570</office>
+		</professor>
+		<professor>
+			<name>Teaching</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Teaching.jpg</image>
+		</professor>
+		<professor>
+			<name>Media Coverage</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Media Coverage.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email>  </email>
+			<phone></phone>
+			<office>  CSE 632</office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name>Students of Richard E. Ladner</name>
+			<title></title>
+			<website></website>
+			<email>  </email>
+			<phone></phone>
+			<office>  CSE 632</office>
+			<image>./images/Students of Richard E. Ladner.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name>Award Papers</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Award Papers.jpg</image>
+		</professor>
+		<professor>
+			<name>Zorah Fung</name>
+			<title></title>
+			<website></website>
+			<email>zorahf</email>
+			<phone></phone>
+			<office>CSE 446</office>
+		</professor>
+		<professor>
+			<name>Ali Farhadi</name>
+			<title></title>
+			<website></website>
+			<email>  ali</email>
+			<phone></phone>
+			<office>  CSE 652</office>
+			<image>./images/Ali Farhadi.jpg</image>
+		</professor>
+		<professor>
+			<name>Shyam Gollakota</name>
+			<title></title>
+			<website></website>
+			<email>gshyam</email>
+			<phone></phone>
+			<office>550 Allen Center
+</office>
+		</professor>
+		<professor>
+			<name>James Fogarty</name>
+			<title></title>
+			<website></website>
+			<email>  jfogarty</email>
+			<phone></phone>
+			<office>  CSE666</office>
+			<image>./images/James Fogarty.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name>Dieter Fox</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>James Fogarty</name>
+			<title></title>
+			<website></website>
+			<email>  jfogarty</email>
+			<phone></phone>
+			<office>  CSE666</office>
+			<image>./images/James Fogarty.jpg</image>
+		</professor>
+		<professor>
+			<name>Faculty</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Ali Farhadi</name>
+			<title></title>
+			<website></website>
+			<email>  ali</email>
+			<phone></phone>
+			<office>  CSE 652</office>
+			<image>./images/Ali Farhadi.jpg</image>
+		</professor>
+		<professor>
+			<name>Michael Ernst</name>
+			<title></title>
+			<website></website>
+			<email>  mernst</email>
+			<phone></phone>
+			<office>  CSE562</office>
+			<image>./images/Michael Ernst.jpg</image>
+		</professor>
+		<professor>
+			<name>Pedro Domingos</name>
+			<title></title>
+			<website></website>
+			<email>   pedrod</email>
+			<phone></phone>
+			<office>   CSE 648</office>
+			<image>./images/Pedro Domingos.jpg</image>
+		</professor>
+		<professor>
+			<name>Susan Eggers</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Susan Eggers</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Michael Ernst</name>
+			<title></title>
+			<website></website>
+			<email>  mernst</email>
+			<phone></phone>
+			<office>  CSE562</office>
+			<image>./images/Michael Ernst.jpg</image>
+		</professor>
+		<professor>
+			<name>Brian Curless</name>
+			<title></title>
+			<website></website>
+			<email>  curless</email>
+			<phone></phone>
+			<office>  CSE664</office>
+			<image>./images/Brian Curless.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email>gshyam</email>
+			<phone></phone>
+			<office>550 Allen Center
+</office>
+		</professor>
+		<professor>
+			<name>Yejin Choi</name>
+			<title></title>
+			<website></website>
+			<email>yejin</email>
+			<phone></phone>
+			<office> Allen Center
+ </office>
+		</professor>
+		<professor>
+			<name>Dan Grossman</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+			<image>./images/Dan Grossman.jpg</image>
+		</professor>
+		<professor>
+			<name>Alvin Cheung</name>
+			<title></title>
+			<website></website>
+			<email>akcheung</email>
+			<phone></phone>
+			<office>CSE 530</office>
+		</professor>
+		<professor>
+			<name>Luis Ceze</name>
+			<title></title>
+			<website></website>
+			<email>  luisceze</email>
+			<phone></phone>
+			<office>  CSE576</office>
+			<image>./images/Luis Ceze.jpg</image>
+		</professor>
+		<professor>
+			<name>Magdalena Balazinska</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Paul Beame</name>
+			<title></title>
+			<website></website>
+			<email>beame</email>
+			<phone></phone>
+			<office>CSE668</office>
+		</professor>
+		<professor>
+			<name>Maya Cakmak</name>
+			<title></title>
+			<website></website>
+			<email>mcakmak</email>
+			<phone></phone>
+			<office>CSE 542
+ </office>
+		</professor>
+		<professor>
+			<name>Rastislav Bodik</name>
+			<title></title>
+			<website></website>
+			<email>bodik</email>
+			<phone></phone>
+			<office>644 Allen Center</office>
+			<image>./images/Rastislav Bodik.jpg</image>
+		</professor>
+		<professor>
+			<name>Alan Borning</name>
+			<title></title>
+			<website></website>
+			<email>  borning</email>
+			<phone></phone>
+			<office>  CSE 478</office>
+			<image>./images/Alan Borning.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Jean-Loup Baer</name>
+			<title></title>
+			<website></website>
+			<email>baer</email>
+			<phone></phone>
+			<office> Allen Center 474</office>
+		</professor>
+		<professor>
+			<name>Magdalena Balazinska</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Tom Anderson</name>
+			<title></title>
+			<website></website>
+			<email>tom</email>
+			<phone></phone>
+			<office>CSE646</office>
+			<image>./images/Tom Anderson.jpg</image>
+		</professor>
+		<professor>
+			<name>Tom Anderson</name>
+			<title></title>
+			<website></website>
+			<email>tom</email>
+			<phone></phone>
+			<office>CSE646</office>
+			<image>./images/Tom Anderson.jpg</image>
+		</professor>
+		<professor>
+			<name>Ruth Anderson</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office>CSE 360</office>
+			<image>./images/Ruth Anderson.jpg</image>
+		</professor>
+		<professor>
+			<name>Richard Anderson</name>
+			<title></title>
+			<website></website>
+			<email>  anderson</email>
+			<phone></phone>
+			<office>  CSE582</office>
+			<image>./images/Richard Anderson.jpg</image>
+		</professor>
+		<professor>
+			<name>Michael Ernst</name>
+			<title></title>
+			<website></website>
+			<email>  mernst</email>
+			<phone></phone>
+			<office>  CSE562</office>
+			<image>./images/Michael Ernst.jpg</image>
+		</professor>
+		<professor>
+			<name>Luis Ceze</name>
+			<title></title>
+			<website></website>
+			<email>  luisceze</email>
+			<phone></phone>
+			<office>  CSE576</office>
+			<image>./images/Luis Ceze.jpg</image>
+		</professor>
+		<professor>
+			<name>Luis Ceze</name>
+			<title></title>
+			<website></website>
+			<email>  luisceze</email>
+			<phone></phone>
+			<office>  CSE576</office>
+			<image>./images/Luis Ceze.jpg</image>
+		</professor>
+		<professor>
+			<name>Alvin Cheung</name>
+			<title></title>
+			<website></website>
+			<email>akcheung</email>
+			<phone></phone>
+			<office>CSE 530</office>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email>  luisceze</email>
+			<phone></phone>
+			<office>  CSE576</office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email>  luisceze</email>
+			<phone></phone>
+			<office>  CSE576</office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name>Alan Borning</name>
+			<title></title>
+			<website></website>
+			<email>  borning</email>
+			<phone></phone>
+			<office>  CSE 478</office>
+			<image>./images/Alan Borning.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email>beame</email>
+			<phone></phone>
+			<office>CSE668</office>
+		</professor>
+		<professor>
+			<name>Paul Beame</name>
+			<title></title>
+			<website></website>
+			<email>beame</email>
+			<phone></phone>
+			<office>CSE668</office>
+		</professor>
+		<professor>
+			<name>Talks</name>
+			<title></title>
+			<website></website>
+			<email>beame</email>
+			<phone></phone>
+			<office>CSE668</office>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email>beame</email>
+			<phone></phone>
+			<office>CSE668</office>
+		</professor>
+		<professor>
+			<name>Richard Anderson</name>
+			<title></title>
+			<website></website>
+			<email>  anderson</email>
+			<phone></phone>
+			<office>  CSE582</office>
+			<image>./images/Richard Anderson.jpg</image>
+		</professor>
+		<professor>
+			<name>Service</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Professional Service</name>
+			<title></title>
+			<website></website>
+			<email>beame</email>
+			<phone></phone>
+			<office>CSE668</office>
+		</professor>
+		<professor>
+			<name>Magdalena Balazinska</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Alan Borning</name>
+			<title></title>
+			<website></website>
+			<email>  borning</email>
+			<phone></phone>
+			<office>  CSE 478</office>
+			<image>./images/Alan Borning.jpg</image>
+		</professor>
+		<professor>
+			<name>Alan Borning</name>
+			<title></title>
+			<website></website>
+			<email>  borning</email>
+			<phone></phone>
+			<office>  CSE 478</office>
+			<image>./images/Alan Borning.jpg</image>
+		</professor>
+		<professor>
+			<name>Magda's Teaching</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email>  borning</email>
+			<phone></phone>
+			<office>  CSE 478</office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email>  borning</email>
+			<phone></phone>
+			<office>  CSE 478</office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name>Tom Anderson</name>
+			<title></title>
+			<website></website>
+			<email>tom</email>
+			<phone></phone>
+			<office>CSE646</office>
+			<image>./images/Tom Anderson.jpg</image>
+		</professor>
+		<professor>
+			<name>Tom Anderson</name>
+			<title></title>
+			<website></website>
+			<email>tom</email>
+			<phone></phone>
+			<office>CSE646</office>
+			<image>./images/Tom Anderson.jpg</image>
+		</professor>
+		<professor>
+			<name>Tom Anderson</name>
+			<title></title>
+			<website></website>
+			<email>tom</email>
+			<phone></phone>
+			<office>CSE646</office>
+			<image>./images/Tom Anderson.jpg</image>
+		</professor>
+		<professor>
+			<name>Tom Anderson</name>
+			<title></title>
+			<website></website>
+			<email>tom</email>
+			<phone></phone>
+			<office>CSE646</office>
+			<image>./images/Tom Anderson.jpg</image>
+		</professor>
+		<professor>
+			<name>Magda's Research Projects</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Honors</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Richard Anderson</name>
+			<title></title>
+			<website></website>
+			<email>  anderson</email>
+			<phone></phone>
+			<office>  CSE582</office>
+			<image>./images/Richard Anderson.jpg</image>
+		</professor>
+		<professor>
+			<name>Susan Eggers</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Teaching</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office>CSE 360</office>
+			<image>./images/Teaching.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office>CSE 360</office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name>Teaching</name>
+			<title></title>
+			<website></website>
+			<email>   pedrod</email>
+			<phone></phone>
+			<office>   CSE 648</office>
+			<image>./images/Teaching.jpg</image>
+		</professor>
+		<professor>
+			<name>Susan Eggers</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Pedro Domingos</name>
+			<title></title>
+			<website></website>
+			<email>   pedrod</email>
+			<phone></phone>
+			<office>   CSE 648</office>
+			<image>./images/Pedro Domingos.jpg</image>
+		</professor>
+		<professor>
+			<name>Pedro Domingos</name>
+			<title></title>
+			<website></website>
+			<email>   pedrod</email>
+			<phone></phone>
+			<office>   CSE 648</office>
+			<image>./images/Pedro Domingos.jpg</image>
+		</professor>
+		<professor>
+			<name>Software</name>
+			<title></title>
+			<website></website>
+			<email>   pedrod</email>
+			<phone></phone>
+			<office>   CSE 648</office>
+			<image>./images/Software.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email>  mernst</email>
+			<phone></phone>
+			<office>  CSE562</office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email>   pedrod</email>
+			<phone></phone>
+			<office>   CSE 648</office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name>Research Interests</name>
+			<title></title>
+			<website></website>
+			<email>   pedrod</email>
+			<phone></phone>
+			<office>   CSE 648</office>
+			<image>./images/Research Interests.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email>   pedrod</email>
+			<phone></phone>
+			<office>   CSE 648</office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email>  mernst</email>
+			<phone></phone>
+			<office>  CSE562</office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name></name>
+			<title></title>
+			<website></website>
+			<email>  mernst</email>
+			<phone></phone>
+			<office>  CSE562</office>
+			<image>./images/.jpg</image>
+		</professor>
+		<professor>
+			<name>Wireless Study</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Magdalena Balazinska</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Service</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Magdalena Balazinska</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Magda's Teaching</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Honors</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
+		</professor>
+		<professor>
+			<name>Magda's Research Projects</name>
+			<title></title>
+			<website></website>
+			<email></email>
+			<phone></phone>
+			<office></office>
 		</professor>
 	</institution>

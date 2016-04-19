@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Autonomous Robotics Laboratory</groupname>
+			<professorname>Kenneth De Jong</professorname>
+			<professorname>Zoran Durić</professorname>
+			<professorname>Jana Košecká</professorname>
+			<professorname>Jyh-Ming Lien</professorname>
+			<professorname>Sean Luke</professorname>
+			<professorname>Sanjeev Setia</professorname>
+			<professorname>Robert Simon</professorname>
+		</research>
+		<research>
+			<groupname>Bioinformatics and Computational Biology Group</groupname>
+			<professorname>Amarda Shehu</professorname>
+			<professorname>Huzefa Rangwala</professorname>
+			<professorname>Kenneth De Jong</professorname>
+			<professorname>Daniel Barbará</professorname>
+			<professorname>Carlotta Domeniconi</professorname>
+		</research>
+		<research>
+			<groupname>Biometrics and Forensics Laboratory</groupname>
+			<professorname>Harry Wechsler</professorname>
+		</research>
+		<research>
+			<groupname>Computational Biology Laboratory</groupname>
+			<professorname>Amarda Shehu</professorname>
+		</research>
+		<research>
+			<groupname>Computer Vision and Robotics Laboratory</groupname>
+			<professorname>Jim Chen</professorname>
+			<professorname>Zoran Duric</professorname>
+			<professorname>Jana Kosecka</professorname>
+			<professorname>Harry Wechsler</professorname>
+		</research>
+		<research>
+			<groupname>Data Mining and Machine Learning Laboratory</groupname>
+			<professorname>Daniel Barbará</professorname>
+			<professorname>Carlotta Domeniconi</professorname>
+			<professorname>Jessica Lin</professorname>
+			<professorname>Huzefa Rangwala</professorname>
+		</research>
+		<research>
+			<groupname>Evolutionary Computation Laboratory</groupname>
+			<professorname>Kenneth De Jong</professorname>
+			<professorname>Sean Luke </professorname>
+		</research>
+		<research>
+			<groupname>GMU Graphics Group</groupname>
+			<professorname>Jim X. Chen, Director</professorname>
+			<professorname>Daniel B. Carr</professorname>
+			<professorname>Mark Pullen</professorname>
+			<professorname>Harry Wechsler</professorname>
+			<professorname>Edward J. Wegman</professorname>
+		</research>
+		<research>
+			<groupname>Laboratory for Games and Intelligent Animation</groupname>
+			<professorname>Jan M. Allbeck</professorname>
+		</research>
+		<research>
+			<groupname>Laboratory for the Study and Simulation of Human Movement</groupname>
+			<professorname>Lynn Gerber</professorname>
+			<professorname>Zoran Duric</professorname>
+			<professorname>Sidney Johnson</professorname>
+			<professorname>Karen Thompson</professorname>
+		</research>
+		<research>
+			<groupname></groupname>
+			<professorname>Motion and Shape Computing Group</professorname>
+			<professorname>Jyh-Ming Lien</professorname>
+			<professorname>Evan Behar</professorname>
+			<professorname>Guilin Liu</professorname>
+			<professorname>Zhonghua Xi</professorname>
+		</research>
+		<research>
+			<groupname>Research Group on Information</groupname>
+			<professorname>Alex Brodsky</professorname>
+			<professorname>Ami Motro</professorname>
+		</research>
+		<research>
+			<groupname>Software Design and Analysis Laboratory</groupname>
+			<professorname>Sam Male</professorname>
+		</research>
+	</institution>

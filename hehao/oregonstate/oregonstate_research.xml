@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Computer Graphics, Visualization, and Vision</groupname>
+			<professorname>Mike Bailey </professorname>
+			<professorname>Fuxin Li</professorname>
+			<professorname>Eugene Zhang</professorname>
+			<professorname>Cindy Grimm</professorname>
+			<professorname>Sinisa Todorovic</professorname>
+			<professorname>Yue Zhang </professorname>
+		</research>
+		<research>
+			<groupname>Artificial Intelligence, Machine Learning, and Data Science</groupname>
+			<professorname>Tom Dietterich </professorname>
+			<professorname>Xiaoli Fern</professorname>
+			<professorname>Liang Huang</professorname>
+			<professorname>Fuxin Li </professorname>
+			<professorname>Raviv Raich </professorname>
+			<professorname>Scott Sanner </professorname>
+			<professorname>Arash Termehchy </professorname>
+			<professorname>Alan Fern </professorname>
+			<professorname>David Hendrix </professorname>
+			<professorname>Rebecca Hutchinson</professorname>
+			<professorname>V John Mathews </professorname>
+			<professorname>Stephen Ramsey </professorname>
+			<professorname>Prasad Tadepalli </professorname>
+			<professorname>Weng-Keen Wong </professorname>
+		</research>
+		<research>
+			<groupname>Software Engineering, Human-Computer Interaction, and Programming Languages</groupname>
+			<professorname>Margaret Burnett </professorname>
+			<professorname>Martin Erwig </professorname>
+			<professorname>Carlos Jensen </professorname>
+			<professorname>Anita Sarma </professorname>
+			<professorname>Eric Walkingshaw   </professorname>
+			<professorname>Danny Dig </professorname>
+			<professorname>Alex Groce </professorname>
+			<professorname>Cherri M. Pancake </professorname>
+			<professorname>Christopher Scaffidi   </professorname>
+		</research>
+		<research>
+			<groupname>Algorithms and Cryptography</groupname>
+			<professorname>Rakesh Bobba </professorname>
+			<professorname>Amir Nayyeri </professorname>
+			<professorname>Attila Yavuz </professorname>
+			<professorname>Glencora Borradaile </professorname>
+			<professorname>Mike Rosulek </professorname>
+			<professorname> </professorname>
+			<professorname>Analog/Mixed-Signal | RF | Microwaves</professorname>
+			<professorname>Tejasvi Anand</professorname>
+			<professorname>Matt Johnston</professorname>
+			<professorname>Karti Mayaram</professorname>
+			<professorname>Arun Natarajan</professorname>
+			<professorname>Andreas Weisshaar</professorname>
+			<professorname>Terri Fiez</professorname>
+			<professorname>Huaping Liu</professorname>
+			<professorname>Un-Ku Moon </professorname>
+			<professorname>Gabor Temes </professorname>
+			<professorname> </professorname>
+			<professorname>Networking | Communications | Computer Systems</professorname>
+			<professorname>Bella Bose </professorname>
+			<professorname>Bechir Hamdaoui </professorname>
+			<professorname>Ben Lee </professorname>
+			<professorname>Mario Magaña </professorname>
+			<professorname>Thinh Nguyen  </professorname>
+			<professorname>Yue Zhang </professorname>
+			<professorname>Lizhong Chen </professorname>
+			<professorname>Jinsub Kim </professorname>
+			<professorname>Huaping Liu </professorname>
+			<professorname>V John Mathews </professorname>
+			<professorname>Raviv Raich </professorname>
+			<professorname> </professorname>
+			<professorname>Energy Systems</professorname>
+			<professorname>Ted Brekken </professorname>
+			<professorname>Annette von Jouanne  </professorname>
+			<professorname>J. Eduardo Cotilla-Sanchez </professorname>
+			<professorname>Julia Zhang </professorname>
+		</research>
+		<research>
+			<groupname>Materials and Devices</groupname>
+			<professorname>Larry Cheng</professorname>
+			<professorname>Pallavi Dhagat</professorname>
+			<professorname>Tom Plant</professorname>
+			<professorname>Alan Wang</professorname>
+			<professorname>John Conley</professorname>
+			<professorname>Albrecht Jander</professorname>
+			<professorname>John Wage</professorname>
+		</research>
+	</institution>
