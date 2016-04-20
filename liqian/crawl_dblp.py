@@ -17,7 +17,8 @@ import os
 reload(sys)
 profname = 'aaa'
 sys.setdefaultencoding('utf-8')
-schools = ['brown', 'Caltech', 'columbia', 'duke', 'harvard', 'JHU', 'northwestern', 'NYU', 'OSU',
+schools = [#'brown', 'Caltech', 
+			'columbia', 'duke', 'harvard', 'JHU', 'northwestern', 'NYU', 'OSU',
 			'PSU', 'purdue', 'rice', 'UCI', 'UCLA', 'UCSD', 'UMASS', 'UMD', 'umich', 'UMN', 'UNC',
 			'upenn', 'USC', 'virginia', 'WISC', 'yale']
 def search(ini_name):
@@ -59,8 +60,8 @@ def search(ini_name):
 					break
 				idx += 1
 			if idx == len(pub.authors):
-				print pub.title
-				print pub.authors
+				print pub.title.encode('utf-8')
+				#print pub.authors
 				idx = -1
 
 		if idx >= 0:

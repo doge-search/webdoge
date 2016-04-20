@@ -1,0 +1,259 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>R. Iris Bahar</name>
+			<papers>47.3</papers>
+		</professor>
+		<professor>
+			<name>Ugur Cetintemel</name>
+			<papers>41.2928571429</papers>
+		</professor>
+		<professor>
+			<name>Eugene Charniak</name>
+			<papers>74.6166666667</papers>
+		</professor>
+		<professor>
+			<name>Tom Doeppner</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Pedro Felipe Felzenszwalb</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Rodrigo Fonseca</name>
+			<papers>22.5</papers>
+		</professor>
+		<professor>
+			<name>Amy Greenwald</name>
+			<papers>50.25</papers>
+		</professor>
+		<professor>
+			<name>Maurice Herlihy</name>
+			<papers>168.376190476</papers>
+		</professor>
+		<professor>
+			<name>Jeff Huang</name>
+			<papers>32.7535714286</papers>
+		</professor>
+		<professor>
+			<name>John Hughes</name>
+			<papers>56.0694444444</papers>
+		</professor>
+		<professor>
+			<name>Sorin Istrail</name>
+			<papers>42.1377705628</papers>
+		</professor>
+		<professor>
+			<name>Seny Kamara</name>
+			<papers>29.5</papers>
+		</professor>
+		<professor>
+			<name>Vasileios Kemerlis</name>
+			<papers>11.5833333333</papers>
+		</professor>
+		<professor>
+			<name>Philip Klein</name>
+			<papers>76.4166666667</papers>
+		</professor>
+		<professor>
+			<name>Caroline Klivans</name>
+			<papers>7.2</papers>
+		</professor>
+		<professor>
+			<name>Tim Kraska</name>
+			<papers>23.8591269841</papers>
+		</professor>
+		<professor>
+			<name>Shriram Krishnamurthi</name>
+			<papers>62.0123015873</papers>
+		</professor>
+		<professor>
+			<name>David H. Laidlaw</name>
+			<papers>40.3428571429</papers>
+		</professor>
+		<professor>
+			<name>Michael L. Littman</name>
+			<papers>91.2813852814</papers>
+		</professor>
+		<professor>
+			<name>Anna Lysyanskaya</name>
+			<papers>43.3833333333</papers>
+		</professor>
+		<professor>
+			<name>Barbara J. Meier</name>
+			<papers>5.16666666667</papers>
+		</professor>
+		<professor>
+			<name>Bernardo Palazzi</name>
+			<papers>3.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Ravindra Pendse</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Ben Raphael</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Steve Reiss</name>
+			<papers>101.816666667</papers>
+		</professor>
+		<professor>
+			<name>John Savage</name>
+			<papers>0.333333333333</papers>
+		</professor>
+		<professor>
+			<name>Erik Sudderth</name>
+			<papers>26.1833333333</papers>
+		</professor>
+		<professor>
+			<name>Roberto Tamassia</name>
+			<papers>121.25952381</papers>
+		</professor>
+		<professor>
+			<name>Stefanie Tellex</name>
+			<papers>17.9829365079</papers>
+		</professor>
+		<professor>
+			<name>Eli Upfal</name>
+			<papers>78.9345238095</papers>
+		</professor>
+		<professor>
+			<name>Paul Valiant</name>
+			<papers>20.2333333333</papers>
+		</professor>
+		<professor>
+			<name>Peter Wegner</name>
+			<papers>58.2625</papers>
+		</professor>
+		<professor>
+			<name>Stan Zdonik</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Andy van Dam</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Carsten Binnig</name>
+			<papers>25.075</papers>
+		</professor>
+		<professor>
+			<name>Michael Black</name>
+			<papers>5.61666666667</papers>
+		</professor>
+		<professor>
+			<name>Roger Blumberg</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Tom Dean</name>
+			<papers>1.86666666667</papers>
+		</professor>
+		<professor>
+			<name>Kathi Fisler</name>
+			<papers>34.7833333333</papers>
+		</professor>
+		<professor>
+			<name>Linn Freedman</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Ian Gonsher</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>James Hays</name>
+			<papers>18.0666666667</papers>
+		</professor>
+		<professor>
+			<name>Deborah Hurley</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>John Jannotti</name>
+			<papers>7.94444444444</papers>
+		</professor>
+		<professor>
+			<name>Joseph LaViola</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Dan Potter</name>
+			<papers>0.2</papers>
+		</professor>
+		<professor>
+			<name>Franco Preparata</name>
+			<papers>123.666666667</papers>
+		</professor>
+		<professor>
+			<name>Don Stanford</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Alan Usas</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Fabio Vandin</name>
+			<papers>19.4833333333</papers>
+		</professor>
+		<professor>
+			<name>Mohammed El-Kebir</name>
+			<papers>11.0</papers>
+		</professor>
+		<professor>
+			<name>Alessandro Epasto</name>
+			<papers>6.66666666667</papers>
+		</professor>
+		<professor>
+			<name>Dora Erdos</name>
+			<papers>13.5</papers>
+		</professor>
+		<professor>
+			<name>James MacGlashan</name>
+			<papers>7.5</papers>
+		</professor>
+		<professor>
+			<name>Tim Nelson</name>
+			<papers>6.0</papers>
+		</professor>
+		<professor>
+			<name>Matthew Reyna</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Lawson L.S. Wong</name>
+			<papers>8.0</papers>
+		</professor>
+		<professor>
+			<name>Bruce Donald Campbell</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Timothy Edgar</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Gunnar Klau</name>
+			<papers>39.8734487734</papers>
+		</professor>
+		<professor>
+			<name>Benjamin Lerner</name>
+			<papers>9.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Mark Nadel</name>
+			<papers>7.66666666667</papers>
+		</professor>
+		<professor>
+			<name>Mr. Matteo Riondato</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Erika Sudderth</name>
+			<papers>-1</papers>
+		</professor>
+	</institution>
