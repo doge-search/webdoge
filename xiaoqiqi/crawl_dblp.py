@@ -51,7 +51,7 @@ class Author(LazyAPIData):
 			try: root = etree.fromstring(xml)
 			except etree.XMLSyntaxError as e:
 				print "error again!"
-				root = etree.fromstring(xml)
+				raise ValueError
 
 		data = {
 			'name':root.attrib['name'],
@@ -156,6 +156,7 @@ def dblp_search(author_str):
 	try: root = etree.fromstring(resp.content)
 	except etree.XMLSyntaxError as e:
 		root = etree.fromstring(resp.content)
+		raise ValueError
 	return [Author(urlpt) for urlpt in root.xpath('/authors/author/@urlpt')]
 
 
@@ -178,9 +179,17 @@ schools = ['ASU', 'Boston', 'CMU', 'Colorado', 'Dartmouth', 'Gatech', 'Indiana',
 def search(ini_name):
 	name = ini_name.strip()
 	nname = name.split(',')
+	errorflag = False
 	if len(nname) > 1:
 		name = nname[1] + ' ' + nname[0]
-	authors = dblp_search(' ' + name + ' ')
+	else:
+		pass
+
+	try: authors = dblp_search(' ' + name + ' ')
+	except ValueError:
+		errorflag = True
+	if errorflag:
+		return (ini_name, -1)
 	author_num = len(authors)
 
 	if not authors:
@@ -196,9 +205,11 @@ def search(ini_name):
 	index = 0
 	if author_num > 1:
 		for indx in range(author_num):
-			if authors[indx].name == name:
-				#print "match!" + name
-				break
+			try: 
+				if authors[indx].name == name:
+					break
+			except ValueError:
+				pass
 			index += 1
 		if index == len(authors):
 			print "not found in the list!" + name + ' compare with ' + authors[0].name.encode('utf-8') + ' use default 0...'
