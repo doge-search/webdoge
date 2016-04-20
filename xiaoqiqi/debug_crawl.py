@@ -3,9 +3,6 @@
 import requests
 from lxml import etree
 from collections import namedtuple
-import sys
-#f_handler = open('out.log', 'w')
-#sys.stdout = f_handler
 
 DBLP_BASE_URL = 'http://dblp.uni-trier.de/'
 DBLP_AUTHOR_SEARCH_URL = DBLP_BASE_URL + 'search/author'
@@ -152,6 +149,7 @@ def dblp_search(author_str):
 
 import urllib2
 import HTMLParser
+import sys
 import xml.dom.minidom as minidom
 from htmlentitydefs import entitydefs
 try:
@@ -163,9 +161,8 @@ import os
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
-schools = [#'brown', 'Caltech', 'columbia', 'duke', 
-			'harvard', 'JHU', 'northwestern', 'NYU', 'OSU', 'PSU', 'purdue', 'rice', 'UCI', 'UCLA', 'UCSD', 'UMASS', 'UMD', 'umich', 'UMN', 'UNC',
-			'upenn', 'USC', 'virginia', 'WISC', 'yale']
+schools = ['ASU', 'Boston', 'CMU', 'Colorado', 'Dartmouth', 'Gatech', 'Indiana', 'MIT', 'NCSU', 'Rochester', 'RPI', 'Rutgers', 'Stanford', 
+			'StonyBrook', 'TAMU', 'UArizona', 'UCB', 'UCDavis', 'UChicago', 'UCSB', 'UFL', 'UPitt', 'Utah', 'VirginiaTech', 'Wustl']
 def search(ini_name):
 	name = ini_name.strip()
 	nname = name.split(',')
@@ -175,12 +172,12 @@ def search(ini_name):
 	author_num = len(authors)
 
 	if not authors:
-		print "not found: " + name.encode('utf-8') + '\n'
+		print "not found: " + name.encode('utf-8')
 		sys.stdout.flush()
 		return (ini_name, -1)
 	else:
 		if author_num > 10:
-			print "multiple: " + str(author_num) + ' ' + name.encode('utf-8') + '\n'
+			print "multiple: " + str(author_num) + ' ' + name.encode('utf-8')
 			sys.stdout.flush()
 
 	cnt = 0
@@ -192,7 +189,7 @@ def search(ini_name):
 				break
 			index += 1
 		if index == len(authors):
-			print "not found in the list!" + name + ' compare with ' + authors[0].name.encode('utf-8') + ' use default 0...' + '\n'
+			print "not found in the list!" + name + ' compare with ' + authors[0].name.encode('utf-8') + ' use default 0...'
 			sys.stdout.flush()
 			index = 0
 
@@ -216,7 +213,7 @@ def search(ini_name):
 				idx += 1
 				
 			if idx == auth_len:
-				print pub.title.encode('utf-8') + '\m'
+				print pub.title.encode('utf-8')
 				sys.stdout.flush()
 				#print pub.authors
 				idx = -1
@@ -227,36 +224,36 @@ def search(ini_name):
 
 
 if __name__ == "__main__":
-	for school in schools:
-		print "=== start crawling school:" + school + '\n'
-		sys.stdout.flush()
-		filename = school + '/' + school + '.xml'
-		if not os.path.isfile(filename):
-			print "cannot find: " + filename + '\n'
-			sys.stdout.flush()
-			continue
-		tree = ET.ElementTree(file = filename)
-		fout_xml = file(school+'/'+school+'_sort.xml', 'w')
-		doc = minidom.Document()
-		institution = doc.createElement("institution")
-		doc.appendChild(institution)
+#	for school in schools:
+#		print "=== start crawling school:" + school
+#		sys.stdout.flush()
+#		filename = school + '/' + school + '.xml'
+#		if not os.path.isfile(filename):
+#			print "cannot find: " + filename
+#			sys.stdout.flush()
+#			continue
+#		tree = ET.ElementTree(file = filename)
+		#fout_xml = file(school+'/'+school+'_sort.xml', 'w')
+#		doc = minidom.Document()
+#		institution = doc.createElement("institution")
+#		doc.appendChild(institution)
 
-		for prof in tree.getroot():
-			for info in prof:
-				if info.tag == 'name':
-					name, cnt = search(info.text)
-					print school + ': ' + name.encode('utf-8') + ' with score: ' + "%.4f" % cnt + '\n'
+#		for prof in tree.getroot():
+#			for info in prof:
+#				if info.tag == 'name':
+					name, cnt = search('Bazzi, Rida')
+					print name.encode('utf-8') + ' with score: ' + "%.4f" % cnt
 					sys.stdout.flush()
-					professor = doc.createElement("professor")
-					namenode = doc.createElement("name")
-					namenode.appendChild(doc.createTextNode(name))
-					professor.appendChild(namenode)
-					papernode = doc.createElement("papers")
-					papernode.appendChild(doc.createTextNode(str(cnt)))
-					professor.appendChild(papernode)
-					institution.appendChild(professor)
-		doc.writexml(fout_xml, "\t", "\t", "\n")
-		fout_xml.close()
-		print "=== finished crawling: " + school + '\n'
-		sys.stdout.flush()
+#					professor = doc.createElement("professor")
+#					namenode = doc.createElement("name")
+#					namenode.appendChild(doc.createTextNode(name))
+#					professor.appendChild(namenode)
+#					papernode = doc.createElement("papers")
+#					papernode.appendChild(doc.createTextNode(str(cnt)))
+#					professor.appendChild(papernode)
+#					institution.appendChild(professor)
+		#doc.writexml(fout_xml, "\t", "\t", "\n")
+		#fout_xml.close()
+#		print "=== finished crawling: " + school
+#		sys.stdout.flush()
 

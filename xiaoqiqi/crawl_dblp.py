@@ -3,9 +3,6 @@
 import requests
 from lxml import etree
 from collections import namedtuple
-import sys
-#f_handler = open('out.log', 'w')
-#sys.stdout = f_handler
 
 DBLP_BASE_URL = 'http://dblp.uni-trier.de/'
 DBLP_AUTHOR_SEARCH_URL = DBLP_BASE_URL + 'search/author'
@@ -49,7 +46,12 @@ class Author(LazyAPIData):
         # TODO error handling
         xml = resp.content
         self.xml = xml
-        root = etree.fromstring(xml)
+        try: root = etree.fromstring(xml)
+        except etree.XMLSyntaxError as e:
+            try: root = etree.fromstring(xml)
+            except etree.XMLSyntaxError as e:
+                print "error again!"
+                try: root = etree.fromstring(xml)
         data = {
             'name':root.attrib['name'],
             'publications':[Publication(k) for k in 
@@ -110,7 +112,11 @@ class Publication(LazyAPIData):
         resp = requests.get(DBLP_PUBLICATION_URL.format(key=self.key))
         xml = resp.content
         self.xml = xml
-        root = etree.fromstring(xml)
+        try: root = etree.fromstring(xml)
+		except etree.XMLSyntaxError as e:
+			try: root = etree.fromstring(xml)
+			except etree.XMLSyntaxError as e:
+				root = etree.fromstring(xml)
         publication = first_or_none(root.xpath('/dblp/*[1]'))
         if publication is None:
             raise ValueError
@@ -146,12 +152,15 @@ class Publication(LazyAPIData):
 def dblp_search(author_str):
     resp = requests.get(DBLP_AUTHOR_SEARCH_URL, params={'xauthor':author_str})
     #TODO error handling
-    root = etree.fromstring(resp.content)
+    try: root = etree.fromstring(resp.content)
+	except etree.XMLSyntaxError as e:
+		root = etree.fromstring(resp.content)
     return [Author(urlpt) for urlpt in root.xpath('/authors/author/@urlpt')]
 
 
 import urllib2
 import HTMLParser
+import sys
 import xml.dom.minidom as minidom
 from htmlentitydefs import entitydefs
 try:
@@ -163,24 +172,23 @@ import os
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
-schools = [#'brown', 'Caltech', 'columbia', 'duke', 
-			'harvard', 'JHU', 'northwestern', 'NYU', 'OSU', 'PSU', 'purdue', 'rice', 'UCI', 'UCLA', 'UCSD', 'UMASS', 'UMD', 'umich', 'UMN', 'UNC',
-			'upenn', 'USC', 'virginia', 'WISC', 'yale']
+schools = ['ASU', 'Boston', 'CMU', 'Colorado', 'Dartmouth', 'Gatech', 'Indiana', 'MIT', 'NCSU', 'Rochester', 'RPI', 'Rutgers', 'Stanford', 
+			'StonyBrook', 'TAMU', 'UArizona', 'UCB', 'UCDavis', 'UChicago', 'UCSB', 'UFL', 'UPitt', 'Utah', 'VirginiaTech', 'Wustl']
 def search(ini_name):
 	name = ini_name.strip()
 	nname = name.split(',')
 	if len(nname) > 1:
 		name = nname[1] + ' ' + nname[0]
-	authors = dblp_search('	' + name + '	')
+	authors = dblp_search(' ' + name + ' ')
 	author_num = len(authors)
 
 	if not authors:
-		print "not found: " + name.encode('utf-8') + '\n'
+		print "not found: " + name.encode('utf-8')
 		sys.stdout.flush()
 		return (ini_name, -1)
 	else:
 		if author_num > 10:
-			print "multiple: " + str(author_num) + ' ' + name.encode('utf-8') + '\n'
+			print "multiple: " + str(author_num) + ' ' + name.encode('utf-8')
 			sys.stdout.flush()
 
 	cnt = 0
@@ -192,7 +200,7 @@ def search(ini_name):
 				break
 			index += 1
 		if index == len(authors):
-			print "not found in the list!" + name + ' compare with ' + authors[0].name.encode('utf-8') + ' use default 0...' + '\n'
+			print "not found in the list!" + name + ' compare with ' + authors[0].name.encode('utf-8') + ' use default 0...'
 			sys.stdout.flush()
 			index = 0
 
@@ -216,7 +224,7 @@ def search(ini_name):
 				idx += 1
 				
 			if idx == auth_len:
-				print pub.title.encode('utf-8') + '\m'
+				print pub.title.encode('utf-8')
 				sys.stdout.flush()
 				#print pub.authors
 				idx = -1
@@ -228,11 +236,11 @@ def search(ini_name):
 
 if __name__ == "__main__":
 	for school in schools:
-		print "=== start crawling school:" + school + '\n'
+		print "=== start crawling school:" + school
 		sys.stdout.flush()
 		filename = school + '/' + school + '.xml'
 		if not os.path.isfile(filename):
-			print "cannot find: " + filename + '\n'
+			print "cannot find: " + filename
 			sys.stdout.flush()
 			continue
 		tree = ET.ElementTree(file = filename)
@@ -245,7 +253,7 @@ if __name__ == "__main__":
 			for info in prof:
 				if info.tag == 'name':
 					name, cnt = search(info.text)
-					print school + ': ' + name.encode('utf-8') + ' with score: ' + "%.4f" % cnt + '\n'
+					print school + ': ' + name.encode('utf-8') + ' with score: ' + "%.4f" % cnt
 					sys.stdout.flush()
 					professor = doc.createElement("professor")
 					namenode = doc.createElement("name")
@@ -257,6 +265,6 @@ if __name__ == "__main__":
 					institution.appendChild(professor)
 		doc.writexml(fout_xml, "\t", "\t", "\n")
 		fout_xml.close()
-		print "=== finished crawling: " + school + '\n'
+		print "=== finished crawling: " + school
 		sys.stdout.flush()
 

@@ -1,0 +1,243 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Agarwal, Pankaj K.</name>
+			<papers>309.166666667</papers>
+		</professor>
+		<professor>
+			<name>Astrachan, Owen</name>
+			<papers>52.0928571429</papers>
+		</professor>
+		<professor>
+			<name>Babu, Shivnath</name>
+			<papers>48.719047619</papers>
+		</professor>
+		<professor>
+			<name>Benson, Theo</name>
+			<papers>16.8428571429</papers>
+		</professor>
+		<professor>
+			<name>Board Jr., John A.</name>
+			<papers>5.66666666667</papers>
+		</professor>
+		<professor>
+			<name>Bryant, Robert L.</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Calderbank, Robert</name>
+			<papers>157.013492063</papers>
+		</professor>
+		<professor>
+			<name>Chakrabarty, Krishnendu</name>
+			<papers>246.502380952</papers>
+		</professor>
+		<professor>
+			<name>Chase, Jeffrey S.</name>
+			<papers>40.6027777778</papers>
+		</professor>
+		<professor>
+			<name>Conitzer, Vincent</name>
+			<papers>145.65</papers>
+		</professor>
+		<professor>
+			<name>Cox, Landon</name>
+			<papers>21.6095238095</papers>
+		</professor>
+		<professor>
+			<name>Donald, Bruce R.</name>
+			<papers>58.2333333333</papers>
+		</professor>
+		<professor>
+			<name>Duvall, Robert C.</name>
+			<papers>1.72619047619</papers>
+		</professor>
+		<professor>
+			<name>Dwyer, Chris</name>
+			<papers>7.66666666667</papers>
+		</professor>
+		<professor>
+			<name>Farsiu, Sina</name>
+			<papers>9.49166666667</papers>
+		</professor>
+		<professor>
+			<name>Forbes, Jeffrey R. N.</name>
+			<papers>0.333333333333</papers>
+		</professor>
+		<professor>
+			<name>Ge, Rong</name>
+			<papers>61.9166666667</papers>
+		</professor>
+		<professor>
+			<name>Gordan, Raluca-Mihaela</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Hartemink, Alexander J.</name>
+			<papers>21.0333333333</papers>
+		</professor>
+		<professor>
+			<name>Hauser, Kris</name>
+			<papers>3.86666666667</papers>
+		</professor>
+		<professor>
+			<name>Heller, Katherine</name>
+			<papers>17.0666666667</papers>
+		</professor>
+		<professor>
+			<name>Hilton, Andrew</name>
+			<papers>8.0</papers>
+		</professor>
+		<professor>
+			<name>Kim, Jungsang</name>
+			<papers>2.7</papers>
+		</professor>
+		<professor>
+			<name>Konidaris, George</name>
+			<papers>25.6468577174</papers>
+		</professor>
+		<professor>
+			<name>Lebeck, Alvin R.</name>
+			<papers>33.2</papers>
+		</professor>
+		<professor>
+			<name>Lee, Benjamin C.</name>
+			<papers>26.4333333333</papers>
+		</professor>
+		<professor>
+			<name>Lucic, Richard A.</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Machanavajjhala, Ashwin</name>
+			<papers>31.25</papers>
+		</professor>
+		<professor>
+			<name>Maggioni, Mauro</name>
+			<papers>11.4261904762</papers>
+		</professor>
+		<professor>
+			<name>Maggs, Bruce</name>
+			<papers>49.1095238095</papers>
+		</professor>
+		<professor>
+			<name>Mukherjee, Sayan</name>
+			<papers>21.394047619</papers>
+		</professor>
+		<professor>
+			<name>Munagala, Kamesh</name>
+			<papers>42.0666666667</papers>
+		</professor>
+		<professor>
+			<name>Panigrahi, Debmalya</name>
+			<papers>20.1666666667</papers>
+		</professor>
+		<professor>
+			<name>Parr, Ronald E.</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Reif, John H.</name>
+			<papers>174.316666667</papers>
+		</professor>
+		<professor>
+			<name>Rodger, Susan H.</name>
+			<papers>36.1079365079</papers>
+		</professor>
+		<professor>
+			<name>Roy, Sudeepa</name>
+			<papers>12.3666666667</papers>
+		</professor>
+		<professor>
+			<name>Sapiro, Guillermo</name>
+			<papers>135.490909091</papers>
+		</professor>
+		<professor>
+			<name>Schmidler, Scott C.</name>
+			<papers>4.0</papers>
+		</professor>
+		<professor>
+			<name>Sorin, Daniel J.</name>
+			<papers>34.225</papers>
+		</professor>
+		<professor>
+			<name>Sun, Xiaobai</name>
+			<papers>12.2944444444</papers>
+		</professor>
+		<professor>
+			<name>Tomasi, Carlo</name>
+			<papers>42.9833333333</papers>
+		</professor>
+		<professor>
+			<name>Trivedi, Kishor S.</name>
+			<papers>179.138095238</papers>
+		</professor>
+		<professor>
+			<name>Yang, Jun</name>
+			<papers>0.333333333333</papers>
+		</professor>
+		<professor>
+			<name>Yang, Xiaowei</name>
+			<papers>45.8761904762</papers>
+		</professor>
+		<professor>
+			<name>Azhar, Salman</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Baldin, Ilya</name>
+			<papers>4.43452380952</papers>
+		</professor>
+		<professor>
+			<name>Edelsbrunner, Herbert</name>
+			<papers>203.958333333</papers>
+		</professor>
+		<professor>
+			<name>Hsu, Lisa R.</name>
+			<papers>3.35833333333</papers>
+		</professor>
+		<professor>
+			<name>LaBean, Thomas H.</name>
+			<papers>9.0</papers>
+		</professor>
+		<professor>
+			<name>Moelhave, Thomas</name>
+			<papers>9.54166666667</papers>
+		</professor>
+		<professor>
+			<name>Pitsianis, Nikos</name>
+			<papers>5.6996031746</papers>
+		</professor>
+		<professor>
+			<name>Biermann, Alan W.</name>
+			<papers>38.6666666667</papers>
+		</professor>
+		<professor>
+			<name>Ellis, Carla Schlatter</name>
+			<papers>40.5</papers>
+		</professor>
+		<professor>
+			<name>Gallie, Thomas</name>
+			<papers>0.833333333333</papers>
+		</professor>
+		<professor>
+			<name>Loveland, Donald W.</name>
+			<papers>28.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Patrick, Merrell</name>
+			<papers>8.0</papers>
+		</professor>
+		<professor>
+			<name>Ramm, Dietolf</name>
+			<papers>0.2</papers>
+		</professor>
+		<professor>
+			<name>Starmer, C. Frank</name>
+			<papers>11.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Wagner, Robert A.</name>
+			<papers>19.0333333333</papers>
+		</professor>
+	</institution>
