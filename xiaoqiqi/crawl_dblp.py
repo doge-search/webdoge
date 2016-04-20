@@ -117,7 +117,7 @@ class Publication(LazyAPIData):
 		except etree.XMLSyntaxError as e:
 			try: root = etree.fromstring(xml)
 			except etree.XMLSyntaxError as e:
-				root = etree.fromstring(xml)
+				raise ValueError
 		publication = first_or_none(root.xpath('/dblp/*[1]'))
 		if publication is None:
 			raise ValueError
@@ -208,7 +208,9 @@ def search(ini_name):
 	publications = authors[index].publications
 	profname = authors[index].name
 	for pub in publications:
-		auth_len = len(pub.authors)
+		try: auth_len = len(pub.authors)
+		except ValueError:
+			continue
 		pub_authors = []
 		for i in range(auth_len):
 			pub_authors.append(pub.authors[i])
