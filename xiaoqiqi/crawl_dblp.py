@@ -184,7 +184,7 @@ def search(ini_name):
 		name = nname[1] + ' ' + nname[0]
 	else:
 		pass
-		
+
 	try: authors = dblp_search(' ' + name + ' ')
 	except ValueError:
 		errorflag = True
@@ -219,7 +219,9 @@ def search(ini_name):
 	publications = authors[index].publications
 	profname = authors[index].name
 	for pub in publications:
-		auth_len = len(pub.authors)
+		try: auth_len = len(pub.authors)
+		except ValueError:
+			continue
 		pub_authors = []
 		for i in range(auth_len):
 			pub_authors.append(pub.authors[i])
