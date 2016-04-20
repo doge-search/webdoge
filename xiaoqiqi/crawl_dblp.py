@@ -266,7 +266,13 @@ if __name__ == "__main__":
 		for prof in tree.getroot():
 			for info in prof:
 				if info.tag == 'name':
-					name, cnt = search(info.text)
+					try: name, cnt = search(info.text)
+					except ValueError:
+						name = info.text
+						cnt = -1
+					except etree.XMLSyntaxError as e:
+						name = info.text
+						cnt = -1
 					print school + ': ' + name.encode('utf-8') + ' with score: ' + "%.4f" % cnt
 					sys.stdout.flush()
 					professor = doc.createElement("professor")
