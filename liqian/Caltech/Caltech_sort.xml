@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Yaser  S. Abu-Mostafa</name>
+			<papers>27.6666666667</papers>
+		</professor>
+		<professor>
+			<name>Alan H. Barr</name>
+			<papers>17.1166666667</papers>
+		</professor>
+		<professor>
+			<name>James (Jim)  L. Beck</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Oscar P. Bruno</name>
+			<papers>12.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Joel W. Burdick</name>
+			<papers>77.4864468864</papers>
+		</professor>
+		<professor>
+			<name>Venkat Chandrasekaran</name>
+			<papers>22.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Mathieu Desbrun</name>
+			<papers>40.1595238095</papers>
+		</professor>
+		<professor>
+			<name>John Doyle</name>
+			<papers>25.8416666667</papers>
+		</professor>
+		<professor>
+			<name>Yizhao Thomas Hou</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Katrina Ligett</name>
+			<papers>27.2</papers>
+		</professor>
+		<professor>
+			<name>Steven Low</name>
+			<papers>1.66666666667</papers>
+		</professor>
+		<professor>
+			<name>Alain J. Martin</name>
+			<papers>36.1666666667</papers>
+		</professor>
+		<professor>
+			<name>Dan Meiron</name>
+			<papers>3.0</papers>
+		</professor>
+		<professor>
+			<name>Richard M. Murray</name>
+			<papers>59.5912087912</papers>
+		</professor>
+		<professor>
+			<name>Houman Owhadi</name>
+			<papers>11.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Niles A. Pierce</name>
+			<papers>4.40833333333</papers>
+		</professor>
+		<professor>
+			<name>Peter Schroeder</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Leonard  J. Schulman</name>
+			<papers>57.1857142857</papers>
+		</professor>
+		<professor>
+			<name>Joel A. Tropp</name>
+			<papers>37.6166666667</papers>
+		</professor>
+		<professor>
+			<name>Christopher Umans</name>
+			<papers>38.5277777778</papers>
+		</professor>
+		<professor>
+			<name>Thomas Vidick</name>
+			<papers>23.4833333333</papers>
+		</professor>
+		<professor>
+			<name>Adam Wierman</name>
+			<papers>51.8952380952</papers>
+		</professor>
+		<professor>
+			<name>Erik Winfree</name>
+			<papers>26.1</papers>
+		</professor>
+		<professor>
+			<name>Yisong Yue</name>
+			<papers>19.0833333333</papers>
+		</professor>
+		<professor>
+			<name>Babak Hassibi</name>
+			<papers>124.642857143</papers>
+		</professor>
+		<professor>
+			<name>Alexei Y. Kitaev</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Victoria Kostina</name>
+			<papers>37.5</papers>
+		</professor>
+		<professor>
+			<name>John O. Ledyard</name>
+			<papers>6.08333333333</papers>
+		</professor>
+		<professor>
+			<name>Pietro Perona</name>
+			<papers>84.1619047619</papers>
+		</professor>
+		<professor>
+			<name>John Preskill</name>
+			<papers>3.89285714286</papers>
+		</professor>
+		<professor>
+			<name>Lulu Qian</name>
+			<papers>3.25</papers>
+		</professor>
+		<professor>
+			<name>Omer Tamuz</name>
+			<papers>14.5833333333</papers>
+		</professor>
+		<professor>
+			<name>Gerard Holzmann</name>
+			<papers>96.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Michael Hucka</name>
+			<papers>8.20082088964</papers>
+		</professor>
+		<professor>
+			<name>Douglas MacMartin</name>
+			<papers>2.25</papers>
+		</professor>
+		<professor>
+			<name>Paul Rothemund</name>
+			<papers>7.30952380952</papers>
+		</professor>
+		<professor>
+			<name>James Scovel</name>
+			<papers>0.333333333333</papers>
+		</professor>
+		<professor>
+			<name>Damien Woods</name>
+			<papers>33.7857142857</papers>
+		</professor>
+		<professor>
+			<name>Kanianthra Mani Chandy</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Donald  S. Cohen</name>
+			<papers>2.0</papers>
+		</professor>
+		<professor>
+			<name>Carver Mead</name>
+			<papers>17.2</papers>
+		</professor>
+	</institution>

@@ -161,8 +161,13 @@ import os
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
+<<<<<<< HEAD
 profname = 'aaa'
 schools = ['brown', 'Caltech', 'columbia', 'duke', 'harvard', 'JHU', 'northwestern', 'NYU', 'OSU',
+=======
+schools = [#'brown', 'Caltech', 
+			'columbia', 'duke', 'harvard', 'JHU', 'northwestern', 'NYU', 'OSU',
+>>>>>>> 29f22afdf88c633accdccc9057abeac2ed4ae8d2
 			'PSU', 'purdue', 'rice', 'UCI', 'UCLA', 'UCSD', 'UMASS', 'UMD', 'umich', 'UMN', 'UNC',
 			'upenn', 'USC', 'virginia', 'WISC', 'yale']
 def search(ini_name):
@@ -210,6 +215,7 @@ def search(ini_name):
 				if pub_split[0] == split_name[0] and pub_split[-1] == split_name[-1]:
 					break
 				idx += 1
+				
 			if idx == auth_len:
 				print pub.title.encode('utf-8')
 				#print pub.authors
