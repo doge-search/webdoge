@@ -1,0 +1,219 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Arindam Banerjee</name>
+			<papers>61.7178571429</papers>
+		</professor>
+		<professor>
+			<name>Daniel Boley</name>
+			<papers>31.9333333333</papers>
+		</professor>
+		<professor>
+			<name>John V. Carlis</name>
+			<papers>25.9261904762</papers>
+		</professor>
+		<professor>
+			<name>Abhishek Chandra</name>
+			<papers>28.8333333333</papers>
+		</professor>
+		<professor>
+			<name>David Hung-Chang Du</name>
+			<papers>101.326190476</papers>
+		</professor>
+		<professor>
+			<name>Maria Gini</name>
+			<papers>66.4623376623</papers>
+		</professor>
+		<professor>
+			<name>Stephen Guy</name>
+			<papers>2.0</papers>
+		</professor>
+		<professor>
+			<name>Tian He</name>
+			<papers>72.321031746</papers>
+		</professor>
+		<professor>
+			<name>Brent Hecht </name>
+			<papers>19.2388888889</papers>
+		</professor>
+		<professor>
+			<name>Mats Heimdahl</name>
+			<papers>53.4833333333</papers>
+		</professor>
+		<professor>
+			<name>Nick Hopper</name>
+			<papers>1.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Victoria Interrante</name>
+			<papers>36.0666666667</papers>
+		</professor>
+		<professor>
+			<name>Volkan Isler</name>
+			<papers>47.9333333333</papers>
+		</professor>
+		<professor>
+			<name>Ravi Janardan</name>
+			<papers>49.4416666667</papers>
+		</professor>
+		<professor>
+			<name>George Karypis</name>
+			<papers>103.48452381</papers>
+		</professor>
+		<professor>
+			<name>Daniel F. Keefe</name>
+			<papers>23.9035714286</papers>
+		</professor>
+		<professor>
+			<name>Dan Knights</name>
+			<papers>2.75</papers>
+		</professor>
+		<professor>
+			<name>Joseph Konstan</name>
+			<papers>53.4535714286</papers>
+		</professor>
+		<professor>
+			<name>Rui Kuang</name>
+			<papers>13.6662698413</papers>
+		</professor>
+		<professor>
+			<name>Vipin Kumar</name>
+			<papers>125.418290043</papers>
+		</professor>
+		<professor>
+			<name>Stephen McCamant</name>
+			<papers>9.93333333333</papers>
+		</professor>
+		<professor>
+			<name>Gary Meyer</name>
+			<papers>22.7</papers>
+		</professor>
+		<professor>
+			<name>Mohamed F. Mokbel</name>
+			<papers>81.8313492063</papers>
+		</professor>
+		<professor>
+			<name>Chad L. Myers</name>
+			<papers>9.0619047619</papers>
+		</professor>
+		<professor>
+			<name>Gopalan Nadathur</name>
+			<papers>42.5666666667</papers>
+		</professor>
+		<professor>
+			<name>Rahul Narain</name>
+			<papers>13.0833333333</papers>
+		</professor>
+		<professor>
+			<name>Claudia Neuhauser</name>
+			<papers>1.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Nikolaos Papanikolopoulos</name>
+			<papers>76.304004329</papers>
+		</professor>
+		<professor>
+			<name>Stergios Roumeliotis</name>
+			<papers>62.5416666667</papers>
+		</professor>
+		<professor>
+			<name>Yousef Saad</name>
+			<papers>77.9833333333</papers>
+		</professor>
+		<professor>
+			<name>Junaed Sattar</name>
+			<papers>17.2666666667</papers>
+		</professor>
+		<professor>
+			<name>Paul R. Schrater</name>
+			<papers>19.9333333333</papers>
+		</professor>
+		<professor>
+			<name>Shashi Shekhar</name>
+			<papers>118.366666667</papers>
+		</professor>
+		<professor>
+			<name>Jaideep Srivastava</name>
+			<papers>97.1301587302</papers>
+		</professor>
+		<professor>
+			<name>Loren Terveen</name>
+			<papers>53.1817460317</papers>
+		</professor>
+		<professor>
+			<name>Anand Tripathi</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Eric Van Wyk</name>
+			<papers>29.4166666667</papers>
+		</professor>
+		<professor>
+			<name>Jon Weissman</name>
+			<papers>51.0666666667</papers>
+		</professor>
+		<professor>
+			<name>Svetlana Yarosh</name>
+			<papers>25.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Pen-Chung Yew</name>
+			<papers>74.6972582973</papers>
+		</professor>
+		<professor>
+			<name>Antonia Zhai</name>
+			<papers>16.7666666667</papers>
+		</professor>
+		<professor>
+			<name>Zhi-Li Zhang</name>
+			<papers>84.5630952381</papers>
+		</professor>
+		<professor>
+			<name>Haiyi Zhu</name>
+			<papers>13.2833333333</papers>
+		</professor>
+		<professor>
+			<name>Phillip Barry</name>
+			<papers>4.08333333333</papers>
+		</professor>
+		<professor>
+			<name>Dan Challou</name>
+			<papers>3.0</papers>
+		</professor>
+		<professor>
+			<name>Chris Dovolis</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Steve Jensen</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Amy Larson</name>
+			<papers>9.06666666667</papers>
+		</professor>
+		<professor>
+			<name>James Moen</name>
+			<papers>0.666666666667</papers>
+		</professor>
+		<professor>
+			<name>James Parker</name>
+			<papers>5.94444444444</papers>
+		</professor>
+		<professor>
+			<name>Carl Sturtivant</name>
+			<papers>4.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Kevin Wendt</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Arthur Norberg</name>
+			<papers>2.0</papers>
+		</professor>
+		<professor>
+			<name>Eugene Shragowitz</name>
+			<papers>15.0833333333</papers>
+		</professor>
+	</institution>
