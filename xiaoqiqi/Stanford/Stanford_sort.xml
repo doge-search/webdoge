@@ -1,539 +1,459 @@
 <?xml version="1.0" ?>
 	<institution>
 		<professor>
-			<name>Adleman, Leonard</name>
+			<name>Maneesh Agrawala</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Ambite, Jose Luis</name>
+			<name>Alex Aiken</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Annavaram, Murali</name>
+			<name>Peter Bailis</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Arbib, Michael</name>
+			<name>Serafim Batzoglou</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Arey, E. Daniel</name>
+			<name>Gill Bejerano</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Artstein, Ron</name>
+			<name>Michael Bernstein</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Ayanian, Nora</name>
+			<name>Dan Boneh</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Barbic, Jernej</name>
+			<name>Moses Charikar</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Bekey, George</name>
+			<name>David Cheriton</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Billard, Aude</name>
+			<name>Bill Dally</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Boehm, Barry</name>
+			<name>David Dill</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Bono, Claire</name>
+			<name>Ron Dror</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Breuer, Melvin</name>
+			<name>Dawson Engler</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Brun, Todd</name>
+			<name>Stefano Ermon</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Chang, Yu-Han</name>
+			<name>Ron Fedkiw</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Chen, Tim-Ting</name>
+			<name>Hector Garcia-Molina</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Cheng, William</name>
+			<name>Mike Genesereth</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Chiang, David</name>
+			<name>Leonidas Guibas</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Chien, Steve</name>
+			<name>Patrick Hanrahan</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Cho, Young</name>
+			<name>John Hennessy</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Cohen, Danny</name>
+			<name>Mark Horowitz</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Colon, St. John</name>
+			<name>Doug James</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Cote, Aaron</name>
+			<name>Dan Jurafsky</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Crowley, Michael</name>
+			<name>Sachin Katti</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Debevec, Paul</name>
+			<name>Oussama Khatib</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Deelman, Ewa</name>
+			<name>Christos Kozyrakis</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Dehghani, Morteza</name>
+			<name>Anshul Kundaje</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>DeVault, David</name>
+			<name>Monica Lam</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Diakonikolas, Ilias</name>
+			<name>James Landay</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Diniz, Pedro</name>
+			<name>Jure Leskovec</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Dughmi, Shaddin</name>
+			<name>Philip Levis</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Easley, Scott</name>
+			<name>Fei-Fei Li</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Edwards, George</name>
+			<name>Percy Liang</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Galstyan, Aram</name>
+			<name>Chris Manning</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Georgila, Kallirroi</name>
+			<name>David Mazieres</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Georgiou, Panayiotis</name>
+			<name>Nick McKeown</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Ghandeharizadeh, Shahram</name>
+			<name>John Mitchell</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Ghyam-Khah, Massoud</name>
+			<name>Subhasish Mitra</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Gil, Yolanda</name>
+			<name>Andrew Ng</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Golubchik, Leana</name>
+			<name>Kunle Olukotun</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Gordon, Andrew</name>
+			<name>John Ousterhout</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Govindan, Ramesh</name>
+			<name>Balaji Prabhakar</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Gratch, Jonathan</name>
+			<name>Chris Re</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Halfond, William GJ</name>
+			<name>Eric Roberts</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Hall, Mary</name>
+			<name>Mendel Rosenblum</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Havaldar, Parag </name>
+			<name>Tim Roughgarden</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Heidemann, John</name>
+			<name>Mehran Sahami</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Hill, Randall</name>
+			<name>Kenneth Salisbury</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Hobbs, Jerry</name>
+			<name>Silvio Savarese</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Horowitz, Ellis</name>
+			<name>Sebastian Thrun</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Hovy, Eduard</name>
+			<name>Greg Valiant</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Huang, Ming-Deh</name>
+			<name>Jennifer Widom</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Hwang, Kai</name>
+			<name>Ryan Williams</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Ijspeert, Auke</name>
+			<name>Virginia Williams</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Itti, Laurent</name>
+			<name>Keith Winstein</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Kalia, Rajiv</name>
+			<name>Jay Borenstein</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Katz-Bassett, Ethan</name>
+			<name>Jerry Cain	    	</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Kempe, David</name>
+			<name>Michael Chang	    	</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Kesselman, Carl</name>
+			<name>Cynthia Lee	    	</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Knight, Kevin</name>
+			<name>Nick Parlante</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Knoblock, Craig</name>
+			<name>Chris Piech	    	</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Koenig, Sven</name>
+			<name>Keith Schwarz	    	</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Koolmanojwong, Supannika</name>
+			<name>Marty Stepp</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Korolova, Aleksandra</name>
+			<name>Patrick Young</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Krishnamachari, Bhaskar</name>
+			<name>Julie Zelenski	    	</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Kuo, Jay</name>
+			<name>Edward Feigenbaum</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Lerman, Kristina</name>
+			<name>Richard Fikes</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Leuski, Anton</name>
+			<name>Don Knuth</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Li, Hao</name>
+			<name>Jean-Claude Latombe</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Liu, Yan</name>
+			<name>Marc Levoy</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Lloyd, Wyatt</name>
+			<name>Teresa Meng</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Lu, Stephen</name>
+			<name>Nils Nilsson</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Lucas, Robert</name>
+			<name>Serge Plotkin</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Marcu, Daniel</name>
+			<name>Vaughan Pratt</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Marsella, Stacy</name>
+			<name>Yoav Shoham</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Mataric, Maja</name>
+			<name>Jeff Ullman</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Matthies, Larry</name>
+			<name>Gio Wiederhold</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Mattmann, Chris</name>
+			<name>Terry Winograd</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>McLeod, Dennis</name>
+			<name>Russ Altman</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Medioni, Gerard</name>
+			<name>Paulo Blikstein</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Medvidovic, Neno</name>
+			<name>Stephen Boyd</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Miller, Jeffrey</name>
+			<name>John Duchi	    	</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Mirkovic, Jelena</name>
+			<name>Martin Fischer</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Mitra, Urbashi </name>
+			<name>Sean Follmer</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Morency, Louis-Phillippe</name>
+			<name>Ashish Goel</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Nakano, Aiichiro</name>
+			<name>Noah Goodman</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Natarajan, Premkumar</name>
+			<name>Ramesh Johari	    	</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Narayanan, Anand Kumar</name>
+			<name>Mykel Kochenderfer</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Narayanan, Shrikanth (Shri)</name>
+			<name>Michael Levitt	    	</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Neuman, Clifford</name>
+			<name>Lester Mackey</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Neumann, Ulrich</name>
+			<name>Stephen Montgomery</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Nevatia, Ramakant</name>
+			<name>Allison Okamura	    	</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Papa, Marco</name>
+			<name>Vijay Pande	    	</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Prasanna, Viktor</name>
+			<name>Roy Pea	    	</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Psounis, Konstantinos</name>
+			<name>Fouad Tobagi</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Qian, Xuehai </name>
+			<name>Benjamin Van Roy	    	</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Raghavachary, Saty </name>
+			<name>Ge Wang</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Raghavendra, C.S.</name>
+			<name>Pei Cao</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Rahman, Khaled</name>
+			<name>Stu Card	    	</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Requicha, Ari</name>
+			<name>Martin Casado</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Rohs, Remo</name>
+			<name>Tom Dean	    	</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Rosenbloom, Paul</name>
+			<name>Vladlen Koltun</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Schaal, Stefan</name>
+			<name>Kurt Konolige	    	</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Scherer, Stefan</name>
+			<name>Bill MacCartney</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Schorr, Herbert</name>
+			<name>Pandu Nayak	    	</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Schweighofer, Nicolas</name>
+			<name>Clark Barrett</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Selby, Rick </name>
+			<name>Jeff Heer</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Sha, Fei</name>
+			<name>Axel Hochstein</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Shahabi, Cyrus</name>
+			<name>Scott Klemmer</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Shamsian</name>
+			<name>Youngkeun Kwon	    	</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Shen, Wei-Min</name>
+			<name>Dominik Michels	    	</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Shindler, Michael</name>
+			<name>Norbert Pohlmann</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Sukhatme, Gaurav</name>
+			<name>Alex Russo</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Suma, Evan</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Swartout, William</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Szekely, Pedro</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Tambe, Milind</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Tejada, Sheila</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Teng, Shang-Hua</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Touch, Joe</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Traum, David</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Valero-Cuevas, Francisco</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Vashishta, Priya</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Ver Steeg, Greg</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Vijayakumar, Sethu</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Waterman, Michael</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Weinberg, Richard</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Wilson, John</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Wu, Wensheng</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Yu, Minlan</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Zhang, Zhengyou</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Zhou, Xianghong Jasmine</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Zimmermann, Roger</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Zyda, Michael</name>
+			<name>Jidong Zhai</name>
 			<papers>-1</papers>
 		</professor>
 	</institution>

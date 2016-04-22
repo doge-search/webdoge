@@ -1,83 +1,99 @@
 <?xml version="1.0" ?>
 	<institution>
 		<professor>
-			<name>Daniel Abadi</name>
+			<name>Gregory R. Andrews</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Dana Angluin</name>
+			<name>Kobus Barnard</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>James Aspnes</name>
+			<name>Christian Collberg</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Mahesh Balakrishnan</name>
+			<name>Saumya Debray</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Julie Dorsey</name>
+			<name>Peter J. Downey</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Stanley Eisenstat</name>
+			<name>Alon Efrat</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Joan Feigenbaum</name>
+			<name>Chris Gniady</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Michael Fischer</name>
+			<name>John H. Hartman</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>David Gelernter</name>
+			<name>Patrick Homer</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Drew McDermott</name>
+			<name>Kate Isaacs</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Ruzica Piskac</name>
+			<name>John Kececioglu</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Mariana Raykova</name>
+			<name>Stephen Kobourov</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Vladimir Rokhlin</name>
+			<name>Russell Lewis</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Holly Rushmeier</name>
+			<name>David Lowenthal</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Brian Scassellati</name>
+			<name>Lester I. McCann</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Zhong Shao</name>
+			<name>Rick Mercer</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Abraham Silberschatz</name>
+			<name>Larry Peterson</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Daniel Spielman</name>
+			<name>Todd Proebsting</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Yang Yang</name>
+			<name>Carlos Scheidegger</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Steven Zucker</name>
+			<name>Ravi Sethi</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Richard T. Snodgrass</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Michelle Strout</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Mihai Surdeanu</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Beichuan Zhang</name>
 			<papers>-1</papers>
 		</professor>
 	</institution>

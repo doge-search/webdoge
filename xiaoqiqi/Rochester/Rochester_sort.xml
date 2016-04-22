@@ -1,83 +1,95 @@
 <?xml version="1.0" ?>
 	<institution>
 		<professor>
-			<name>Daniel Abadi</name>
+			<name>Allen, James F.</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Dana Angluin</name>
+			<name>Brown, Christopher M.</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>James Aspnes</name>
+			<name>Criswell, John </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Mahesh Balakrishnan</name>
+			<name>Ding, Chen </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Julie Dorsey</name>
+			<name>Dwarkadas, Sandhya </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Stanley Eisenstat</name>
+			<name>Ferguson, George </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Joan Feigenbaum</name>
+			<name>Gildea, Daniel </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Michael Fischer</name>
+			<name>Guo, Philip </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>David Gelernter</name>
+			<name>Hemaspaandra, Lane A.</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Drew McDermott</name>
+			<name>Hoque, M. Ehsan </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Ruzica Piskac</name>
+			<name>Howard, Thomas M.</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Mariana Raykova</name>
+			<name>Ipek, Engin </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Vladimir Rokhlin</name>
+			<name>Kautz, Henry </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Holly Rushmeier</name>
+			<name>Liu, Ji </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Brian Scassellati</name>
+			<name>Luo, Jiebo </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Zhong Shao</name>
+			<name>Nelson, Randal C.</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Abraham Silberschatz</name>
+			<name>Pawlicki, Thaddeus E.</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Daniel Spielman</name>
+			<name>Schubert, Lenhart K.</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Yang Yang</name>
+			<name>Scott, Michael L.</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Steven Zucker</name>
+			<name>Seiferas, Joel I.</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Shen, Kai </name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Stefankovic, Daniel </name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Venkitasubramaniam, Muthuramakrishnan </name>
 			<papers>-1</papers>
 		</professor>
 	</institution>

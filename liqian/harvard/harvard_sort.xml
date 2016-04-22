@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Ryan P. Adams</name>
+			<papers>33.5051587302</papers>
+		</professor>
+		<professor>
+			<name>Boaz Barak</name>
+			<papers>113.0</papers>
+		</professor>
+		<professor>
+			<name>David M. Brooks</name>
+			<papers>41.7785714286</papers>
+		</professor>
+		<professor>
+			<name>Yiling Chen</name>
+			<papers>53.4166666667</papers>
+		</professor>
+		<professor>
+			<name>Stephen Chong</name>
+			<papers>30.0833333333</papers>
+		</professor>
+		<professor>
+			<name>David Cox</name>
+			<papers>8.11111111111</papers>
+		</professor>
+		<professor>
+			<name>Finale Doshi-Velez</name>
+			<papers>16.3666666667</papers>
+		</professor>
+		<professor>
+			<name>Krzysztof Gajos</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Steven J. Gortler</name>
+			<papers>31.8</papers>
+		</professor>
+		<professor>
+			<name>Barbara J. Grosz</name>
+			<papers>56.6833333333</papers>
+		</professor>
+		<professor>
+			<name>Stratos Idreos</name>
+			<papers>33.5369047619</papers>
+		</professor>
+		<professor>
+			<name>Eddie Kohler</name>
+			<papers>26.5968253968</papers>
+		</professor>
+		<professor>
+			<name>Scott Kuindersma</name>
+			<papers>9.75</papers>
+		</professor>
+		<professor>
+			<name>H.T. Kung</name>
+			<papers>94.1595238095</papers>
+		</professor>
+		<professor>
+			<name>Henry H. Leitner</name>
+			<papers>3.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Harry R. Lewis</name>
+			<papers>22.8333333333</papers>
+		</professor>
+		<professor>
+			<name>David J. Malan</name>
+			<papers>13.575</papers>
+		</professor>
+		<professor>
+			<name>James Mickens</name>
+			<papers>5.53333333333</papers>
+		</professor>
+		<professor>
+			<name>Michael D. Mitzenmacher</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Radhika Nagpal</name>
+			<papers>24.5023809524</papers>
+		</professor>
+		<professor>
+			<name>Jelani Nelson</name>
+			<papers>26.6111111111</papers>
+		</professor>
+		<professor>
+			<name>David C. Parkes</name>
+			<papers>94.4833333333</papers>
+		</professor>
+		<professor>
+			<name>Hanspeter Pfister</name>
+			<papers>60.7627344877</papers>
+		</professor>
+		<professor>
+			<name>Michael O. Rabin</name>
+			<papers>41.1166666667</papers>
+		</professor>
+		<professor>
+			<name>Alexander Sasha Rush</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Margo I. Seltzer</name>
+			<papers>53.244047619</papers>
+		</professor>
+		<professor>
+			<name>Stuart M. Shieber</name>
+			<papers>48.2602564103</papers>
+		</professor>
+		<professor>
+			<name>Yaron Singer</name>
+			<papers>10.8166666667</papers>
+		</professor>
+		<professor>
+			<name>Michael D. Smith</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Madhu Sudan</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Salil P. Vadhan</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Leslie Valiant</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>James H. Waldo</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Jonathan Zittrain</name>
+			<papers>-1</papers>
+		</professor>
+	</institution>

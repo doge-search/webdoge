@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Department Chair</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Roch Guérin</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Kunal Agrawal</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Aaron Bobick</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Michael Brent</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Jeremy Buhler</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Shantanu  Chakrabartty</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Roger Chamberlain</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Yixin Chen</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Patrick Crowley</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Ron Cytron</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Sanmay Das</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Yasutaka  Furukawa</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Roman Garnett</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Christopher Gill</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Viktor Gruev</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Raj Jain</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Tao Ju</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Brendan Juba</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Caitlin   Kelleher</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>I-Ting Angelina Lee</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Chenyang Lu</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Benjamin Moseley </name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Robert Pless</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>William Richard</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Weixiong Zhang</name>
+			<papers>-1</papers>
+		</professor>
+	</institution>

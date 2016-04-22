@@ -1,155 +1,143 @@
 <?xml version="1.0" ?>
 	<institution>
 		<professor>
-			<name>Stan Ahalt</name>
+			<name>Jonathan Appavoo</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Jay Aikat</name>
+			<name>Gary Benson</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Ron Alterovitz</name>
+			<name>Azer Bestavros</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>James Anderson</name>
+			<name>Margrit Betke</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Sanjoy K. Baruah</name>
+			<name>John Byers</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Alexander C. Berg</name>
+			<name>Ran Canetti</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Tamara L. Berg</name>
+			<name>Mark Crovella</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Gary Bishop</name>
+			<name>Sang (Peter) Chin</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Prasun Dewan</name>
+			<name>Perry Donham</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Enrique Dunn</name>
+			<name>Shereif El-Sheikh</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Michael J. Fern</name>
+			<name>Peter Gacs</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Jan-Michael Frahm</name>
+			<name>Sharon Goldberg</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Henry Fuchs</name>
+			<name>Steve Homer</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Kevin Jeffay</name>
+			<name>Assaf Kfoury</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Vladimir Jojic</name>
+			<name>George Kollios</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Kris Jordan</name>
+			<name>Leonid Levin</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Tessa Joseph-Nicholas</name>
+			<name>Abraham Matta</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Jasleen Kaur</name>
+			<name>Lorenzo Orecchia</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Anselmo Lastra</name>
+			<name>Leonid Reyzin</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Ming C. Lin</name>
+			<name>Stan Sclaroff</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Dinesh Manocha</name>
+			<name>Wayne Snyder</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Ketan Mayer-Patel</name>
+			<name>Aaron Stevens</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Leonard McMillan</name>
+			<name>David Sullivan</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Fabian Monrose</name>
+			<name>Evimaria Terzi</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Marc Niethammer</name>
+			<name>Nikos Triandopoulos</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Shahriar Nirjon</name>
+			<name>Richard West</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Stephen M. Pizer</name>
+			<name>Susan Worst</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>David A. Plaisted</name>
+			<name>Hongwei Xi</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Diane Pozefsky</name>
+			<name>Manuel Egele</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Jan F. Prins</name>
+			<name>Orran Krieger</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Michael K. Reiter</name>
+			<name>Brian Kulis</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Montek Singh</name>
+			<name>Venkatesh Saligrama</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>F. Don Smith</name>
+			<name>David Starobinski</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Jack Snoeyink</name>
+			<name>Ari Trachtenberg</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>David Stotts</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Cynthia Sturton</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Martin Styner</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Mary C. Whitton</name>
+			<name>Giorgos Zervas</name>
 			<papers>-1</papers>
 		</professor>
 	</institution>

@@ -1,155 +1,171 @@
 <?xml version="1.0" ?>
 	<institution>
 		<professor>
-			<name>Stan Ahalt</name>
+			<name>Kenneth Anderson</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Jay Aikat</name>
+			<name>John Bennett</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Ron Alterovitz</name>
+			<name>John Black</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>James Anderson</name>
+			<name>Elizabeth Boese</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Sanjoy K. Baruah</name>
+			<name>Jordan Boyd-Graber</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Alexander C. Berg</name>
+			<name>Elizabeth Bradley</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Tamara L. Berg</name>
+			<name>Jed Brown</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Gary Bishop</name>
+			<name>Xiao-Chuan Cai</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Prasun Dewan</name>
+			<name>Bor‐Yuh Evan Chang</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Enrique Dunn</name>
+			<name>Lijun Chen</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Michael J. Fern</name>
+			<name>Aaron Clauset</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Jan-Michael Frahm</name>
+			<name>Nikolaus Correll</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Henry Fuchs</name>
+			<name>Michael Eisenberg</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Kevin Jeffay</name>
+			<name>Ioana Fleming</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Vladimir Jojic</name>
+			<name>Rafael M. Frongillo</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Kris Jordan</name>
+			<name>Mark D. Gross</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Tessa Joseph-Nicholas</name>
+			<name>Dirk Grunwald</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Jasleen Kaur</name>
+			<name>Sangtae Ha</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Anselmo Lastra</name>
+			<name>Matthew Hammer</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Ming C. Lin</name>
+			<name>Richard Han</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Dinesh Manocha</name>
+			<name>Rhonda  Hoenigman </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Ketan Mayer-Patel</name>
+			<name>Elizabeth Jessup</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Leonard McMillan</name>
+			<name>Shaun Kane</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Fabian Monrose</name>
+			<name>Clayton Lewis</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Marc Niethammer</name>
+			<name>Qin Lv</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Shahriar Nirjon</name>
+			<name>James H. Martin</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Stephen M. Pizer</name>
+			<name>Frank Miller</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>David A. Plaisted</name>
+			<name>Shivakant Mishra</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Diane Pozefsky</name>
+			<name>Michael Mozer</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Jan F. Prins</name>
+			<name>Leysia Palen</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Michael K. Reiter</name>
+			<name>Martha Palmer</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Montek Singh</name>
+			<name>Alexander Repenning</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>F. Don Smith</name>
+			<name>Sriram Sankaranarayanan</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Jack Snoeyink</name>
+			<name>Ben Shapiro</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>David Stotts</name>
+			<name>Gabe Sibley</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Cynthia Sturton</name>
+			<name>Douglas Sicker</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Martin Styner</name>
+			<name>Judy Stafford</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Mary C. Whitton</name>
+			<name>Tamara Sumner</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Daniel Szafir</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Henry Tufo</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Wayne Ward</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Tom Yeh</name>
 			<papers>-1</papers>
 		</professor>
 	</institution>

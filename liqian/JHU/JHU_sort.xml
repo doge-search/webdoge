@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Yanif Ahmad</name>
+			<papers>18.6666666667</papers>
+		</professor>
+		<professor>
+			<name>Yair Amir</name>
+			<papers>41.2666666667</papers>
+		</professor>
+		<professor>
+			<name>Raman Arora</name>
+			<papers>28.75</papers>
+		</professor>
+		<professor>
+			<name>Alexis Battle</name>
+			<papers>5.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Vladimir Braverman</name>
+			<papers>40.4761904762</papers>
+		</professor>
+		<professor>
+			<name>Randal Burns</name>
+			<papers>0.25</papers>
+		</professor>
+		<professor>
+			<name>Michael Dinitz</name>
+			<papers>37.5</papers>
+		</professor>
+		<professor>
+			<name>Mark Dredze</name>
+			<papers>45.8159090909</papers>
+		</professor>
+		<professor>
+			<name>Jason Eisner</name>
+			<papers>43.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Peter H. Froehlich</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Matthew D. Green</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Gregory D. Hager</name>
+			<papers>88.3873015873</papers>
+		</professor>
+		<professor>
+			<name>Susan Hohenberger</name>
+			<papers>48.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Abhishek Jain</name>
+			<papers>16.0</papers>
+		</professor>
+		<professor>
+			<name>Peter Kazanzides</name>
+			<papers>24.1107142857</papers>
+		</professor>
+		<professor>
+			<name>Michael Kazhdan</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Philipp Koehn</name>
+			<papers>34.280141977</papers>
+		</professor>
+		<professor>
+			<name>S. Rao Kosaraju</name>
+			<papers>60.6666666667</papers>
+		</professor>
+		<professor>
+			<name>Benjamin Langmead</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Simon Leonard</name>
+			<papers>13.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Xin Li</name>
+			<papers>300.120634921</papers>
+		</professor>
+		<professor>
+			<name>Gerald Masson</name>
+			<papers>0.333333333333</papers>
+		</professor>
+		<professor>
+			<name>Sara Miner More</name>
+			<papers>13.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Nassir Navab</name>
+			<papers>142.72368269</papers>
+		</professor>
+		<professor>
+			<name>Austin Reiter</name>
+			<papers>7.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Aviel Rubin</name>
+			<papers>40.8373015873</papers>
+		</professor>
+		<professor>
+			<name>Steven Salzberg</name>
+			<papers>35.6365440115</papers>
+		</professor>
+		<professor>
+			<name>Suchi Saria</name>
+			<papers>10.7261904762</papers>
+		</professor>
+		<professor>
+			<name>Michael Schatz</name>
+			<papers>1.66666666667</papers>
+		</professor>
+		<professor>
+			<name>Joanne Selinski</name>
+			<papers>1.5</papers>
+		</professor>
+		<professor>
+			<name>Ilya Shpitser</name>
+			<papers>20.8666666667</papers>
+		</professor>
+		<professor>
+			<name>Scott Smith</name>
+			<papers>4.67619047619</papers>
+		</professor>
+		<professor>
+			<name>Alex Szalay</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Russell H. Taylor</name>
+			<papers>58.4738455988</papers>
+		</professor>
+		<professor>
+			<name>Andreas Terzis</name>
+			<papers>28.2464285714</papers>
+		</professor>
+		<professor>
+			<name>Benjamin Van Durme</name>
+			<papers>28.0470238095</papers>
+		</professor>
+		<professor>
+			<name>David Yarowsky</name>
+			<papers>28.3115440115</papers>
+		</professor>
+		<professor>
+			<name>Alan Yuille</name>
+			<papers>121.916666667</papers>
+		</professor>
+	</institution>

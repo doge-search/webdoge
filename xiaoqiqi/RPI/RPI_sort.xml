@@ -1,219 +1,180 @@
 <?xml version="1.0" ?>
 	<institution>
 		<professor>
-			<name>Arindam Banerjee</name>
+			<name>Adali, Sibel </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Daniel Boley</name>
+			<name>Anshelevich, Elliot </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>John V. Carlis</name>
+			<name>Berman, Francine </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Abhishek Chandra</name>
+			<name>Carothers, Christopher </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>David Hung-Chang Du</name>
+			<name>Cutler, Barbara </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Maria Gini</name>
+			<name>Drineas, Petros </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Stephen Guy</name>
+			<name>Hardwick, Martin </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Tian He</name>
+			<name>Hendler, Jim </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Brent Hecht </name>
+			<name>Ji, Heng </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Mats Heimdahl</name>
+			<name>Krishnamoorthy, Mukkai </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Nick Hopper</name>
+			<name>Magdon-Ismail, Malik </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Victoria Interrante</name>
+			<name>McGuinness, Deborah L. 
+</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Volkan Isler</name>
+			<name>Milanova, Ana </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Ravi Janardan</name>
+			<name>Patterson, Stacy </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>George Karypis</name>
+			<name>Spooner, David </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Daniel F. Keefe</name>
+			<name>Stewart, Charles </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Dan Knights</name>
+			<name>Szymanski, Boleslaw </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Joseph Konstan</name>
+			<name>Trinkle, Jeff </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Rui Kuang</name>
+			<name>Varela, Carlos </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Vipin Kumar</name>
+			<name>Xia, Lirong </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Stephen McCamant</name>
+			<name>Yener, B</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Gary Meyer</name>
+			<name>Zaki, Mohammed </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Mohamed F. Mokbel</name>
+			<name>Zikas, Vassilis </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Chad L. Myers</name>
+			<name>Bennett, Kristin </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Gopalan Nadathur</name>
+			<name>Bringsjord, Selmer </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Rahul Narain</name>
+			<name>Bystroff, Christopher </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Claudia Neuhauser</name>
+			<name>Eglash, Ron </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Nikolaos Papanikolopoulos</name>
+			<name>Fox, Peter </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Stergios Roumeliotis</name>
+			<name>Franklin, Wm. Randolph </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Yousef Saad</name>
+			<name>Gray, Wayne </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Junaed Sattar</name>
+			<name>Isaacson, David </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Paul R. Schrater</name>
+			<name>McLaughlin, Harry </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Shashi Shekhar</name>
+			<name>Nirenburg, Sergei </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Jaideep Srivastava</name>
+			<name>Shephard, Mark </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Loren Terveen</name>
+			<name>Sun, Ron </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Anand Tripathi</name>
+			<name>Wozny, Michael </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Eric Van Wyk</name>
+			<name>Goldschmidt, David E. </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Jon Weissman</name>
+			<name>Kotfila, David A. </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Svetlana Yarosh</name>
+			<name>Liu, Ingrid Y. </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Pen-Chung Yew</name>
+			<name>Flaherty, Joseph </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Antonia Zhai</name>
+			<name>Glinert, Ephraim </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Zhi-Li Zhang</name>
+			<name>Goldberg, Mark </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Haiyi Zhu</name>
+			<name>Musser, David </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Phillip Barry</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dan Challou</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Chris Dovolis</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Steve Jensen</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Amy Larson</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>James Moen</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>James Parker</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Carl Sturtivant</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Kevin Wendt</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Arthur Norberg</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Eugene Shragowitz</name>
+			<name>Rogers, Edwin H. </name>
 			<papers>-1</papers>
 		</professor>
 	</institution>

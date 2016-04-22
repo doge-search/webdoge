@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Brenna Argall</name>
+			<papers>21.0333333333</papers>
+		</professor>
+		<professor>
+			<name>Randall Berry</name>
+			<papers>67.7857142857</papers>
+		</professor>
+		<professor>
+			<name>Larry Birnbaum</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Fabian E. Bustamante</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Simone Campanoni</name>
+			<papers>15.4166666667</papers>
+		</professor>
+		<professor>
+			<name>Yan Chen</name>
+			<papers>332.340079365</papers>
+		</professor>
+		<professor>
+			<name>Alok Choudhary</name>
+			<papers>1.16666666667</papers>
+		</professor>
+		<professor>
+			<name>Oliver S. Cossairt</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Anindya De</name>
+			<papers>50.5</papers>
+		</professor>
+		<professor>
+			<name>Peter Dinda</name>
+			<papers>46.9357142857</papers>
+		</professor>
+		<professor>
+			<name>Douglas Downey</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Jennie M. Duggan</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Robby Findler</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Ken Forbus</name>
+			<papers>98.2916666667</papers>
+		</professor>
+		<professor>
+			<name>Kristian J. Hammond</name>
+			<papers>41.4</papers>
+		</professor>
+		<professor>
+			<name>Nikos Hardavellas</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Jason D. Hartline</name>
+			<papers>48.6666666667</papers>
+		</professor>
+		<professor>
+			<name>Larry Henschen</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Michael Horn</name>
+			<papers>1.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Ian Horswill</name>
+			<papers>39.9254901961</papers>
+		</professor>
+		<professor>
+			<name>Russell Joseph</name>
+			<papers>0.2</papers>
+		</professor>
+		<professor>
+			<name>Ming-Yang Kao</name>
+			<papers>126.642857143</papers>
+		</professor>
+		<professor>
+			<name>Aggelos K. Katsaggelos</name>
+			<papers>157.777380952</papers>
+		</professor>
+		<professor>
+			<name>Aleksandar Kuzmanovic</name>
+			<papers>24.0595238095</papers>
+		</professor>
+		<professor>
+			<name>Gokhan Memik</name>
+			<papers>46.054040404</papers>
+		</professor>
+		<professor>
+			<name>Bryan Pardo</name>
+			<papers>36.9166666667</papers>
+		</professor>
+		<professor>
+			<name>Chris Riesbeck</name>
+			<papers>13.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Michael Rubenstein</name>
+			<papers>11.8444444444</papers>
+		</professor>
+		<professor>
+			<name>Peter Scheuermann</name>
+			<papers>64.169047619</papers>
+		</professor>
+		<professor>
+			<name>Sara Owsley Sood </name>
+			<papers>4.83333333333</papers>
+		</professor>
+		<professor>
+			<name>Jesse Tov</name>
+			<papers>4.5</papers>
+		</professor>
+		<professor>
+			<name>Goce Trajcevski</name>
+			<papers>58.4833333333</papers>
+		</professor>
+		<professor>
+			<name>Jack E. Tumblin</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Aravindan Vijayaraghavan</name>
+			<papers>9.10833333333</papers>
+		</professor>
+		<professor>
+			<name>Uri Wilensky</name>
+			<papers>17.603968254</papers>
+		</professor>
+		<professor>
+			<name>Haoqi Zhang</name>
+			<papers>15.6301587302</papers>
+		</professor>
+		<professor>
+			<name>Hai Zhou</name>
+			<papers>80.7166666667</papers>
+		</professor>
+	</institution>

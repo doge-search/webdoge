@@ -1,0 +1,195 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Shannon Alfaro</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Ardalan Amiri Sani</name>
+			<papers>14.9166666667</papers>
+		</professor>
+		<professor>
+			<name>Pierre Baldi</name>
+			<papers>108.111976912</papers>
+		</professor>
+		<professor>
+			<name>Lubomir Bic</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Elaheh (Eli) Bozorgzadeh</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Michael  J Carey</name>
+			<papers>135.701587302</papers>
+		</professor>
+		<professor>
+			<name>Rina Dechter</name>
+			<papers>129.166666667</papers>
+		</professor>
+		<professor>
+			<name>Michael Dillencourt</name>
+			<papers>39.85</papers>
+		</professor>
+		<professor>
+			<name>Nikil Dutt</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Magda El Zarki</name>
+			<papers>29.1333333333</papers>
+		</professor>
+		<professor>
+			<name>David Eppstein</name>
+			<papers>377.283333333</papers>
+		</professor>
+		<professor>
+			<name>Charless Fowlkes</name>
+			<papers>22.5055555556</papers>
+		</professor>
+		<professor>
+			<name>Michael Franz</name>
+			<papers>49.1843253968</papers>
+		</professor>
+		<professor>
+			<name>Dan Frost</name>
+			<papers>10.5</papers>
+		</professor>
+		<professor>
+			<name>Tony Givargis</name>
+			<papers>43.3666666667</papers>
+		</professor>
+		<professor>
+			<name>Michael T. Goodrich</name>
+			<papers>244.2</papers>
+		</professor>
+		<professor>
+			<name>Ian G. Harris</name>
+			<papers>31.6944444444</papers>
+		</professor>
+		<professor>
+			<name>Wayne Hayes</name>
+			<papers>3.58333333333</papers>
+		</professor>
+		<professor>
+			<name>Daniel S. Hirschberg</name>
+			<papers>48.0</papers>
+		</professor>
+		<professor>
+			<name>Alexander Ihler</name>
+			<papers>43.5166666667</papers>
+		</professor>
+		<professor>
+			<name>Sandy Irani</name>
+			<papers>46.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Ramesh Jain</name>
+			<papers>187.881349206</papers>
+		</professor>
+		<professor>
+			<name>Stanislaw Jarecki</name>
+			<papers>48.5833333333</papers>
+		</professor>
+		<professor>
+			<name>Scott Jordan</name>
+			<papers>38.4166666667</papers>
+		</professor>
+		<professor>
+			<name>David G. Kay</name>
+			<papers>19.3666666667</papers>
+		</professor>
+		<professor>
+			<name>Dennis Kibler</name>
+			<papers>25.4166666667</papers>
+		</professor>
+		<professor>
+			<name>Ray Klefstad</name>
+			<papers>15.5761904762</papers>
+		</professor>
+		<professor>
+			<name>Alfred Kobsa</name>
+			<papers>79.9376455845</papers>
+		</professor>
+		<professor>
+			<name>Richard Lathrop</name>
+			<papers>23.4963675214</papers>
+		</professor>
+		<professor>
+			<name>Marco  Levorato</name>
+			<papers>50.1742424242</papers>
+		</professor>
+		<professor>
+			<name>Chen Li</name>
+			<papers>55.8361111111</papers>
+		</professor>
+		<professor>
+			<name>George S. Lueker</name>
+			<papers>25.0</papers>
+		</professor>
+		<professor>
+			<name>Aditi Majumder</name>
+			<papers>34.4583333333</papers>
+		</professor>
+		<professor>
+			<name>Gopi Meenakshisundaram</name>
+			<papers>8.55952380952</papers>
+		</professor>
+		<professor>
+			<name>Sharad Mehrotra</name>
+			<papers>94.6076441103</papers>
+		</professor>
+		<professor>
+			<name>Eric Mjolsness</name>
+			<papers>31.9119047619</papers>
+		</professor>
+		<professor>
+			<name>Alexandru Nicolau</name>
+			<papers>91.1719187675</papers>
+		</professor>
+		<professor>
+			<name>Richard E Pattis</name>
+			<papers>9.06111111111</papers>
+		</professor>
+		<professor>
+			<name>Amelia C. Regan</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Isaac D. Scherson</name>
+			<papers>46.1261904762</papers>
+		</professor>
+		<professor>
+			<name>Padhraic Smyth</name>
+			<papers>84.0261904762</papers>
+		</professor>
+		<professor>
+			<name>Gene Tsudik</name>
+			<papers>112.031746032</papers>
+		</professor>
+		<professor>
+			<name>Alexander Veidenbaum</name>
+			<papers>46.6400793651</papers>
+		</professor>
+		<professor>
+			<name>Nalini Venkatasubramanian</name>
+			<papers>62.3111471861</papers>
+		</professor>
+		<professor>
+			<name>Richert Wang</name>
+			<papers>2.86666666667</papers>
+		</professor>
+		<professor>
+			<name>Xiaohui Xie</name>
+			<papers>23.2932900433</papers>
+		</professor>
+		<professor>
+			<name>Harry Xu</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Shuang Zhao</name>
+			<papers>20.1761904762</papers>
+		</professor>
+	</institution>

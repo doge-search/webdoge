@@ -1,0 +1,191 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>RAJ ACHARYA</name>
+			<papers>34.0833333333</papers>
+		</professor>
+		<professor>
+			<name>MOHAMED ALMEKKAWY</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>GUILLAUME AUPY</name>
+			<papers>27.3333333333</papers>
+		</professor>
+		<professor>
+			<name>JESSE BARLOW</name>
+			<papers>1.45</papers>
+		</professor>
+		<professor>
+			<name>PIOTR BERMAN</name>
+			<papers>152.616666667</papers>
+		</professor>
+		<professor>
+			<name>LENNART BILEN</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>GUOHONG CAO</name>
+			<papers>103.116666667</papers>
+		</professor>
+		<professor>
+			<name>KYUSUN CHOI</name>
+			<papers>3.55952380952</papers>
+		</professor>
+		<professor>
+			<name>ROGER CHRISTMAN</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>ROBERT COLLINS</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>LEE CORAOR</name>
+			<papers>10.4333333333</papers>
+		</professor>
+		<professor>
+			<name>CHITARANJAN DAS</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>MAHFUZA FAROOQUE</name>
+			<papers>6.0</papers>
+		</professor>
+		<professor>
+			<name>JUNICHIRO FUKUYAMA</name>
+			<papers>9.03333333333</papers>
+		</professor>
+		<professor>
+			<name>MARTIN FURER</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>C. Lee Giles</name>
+			<papers>129.548692974</papers>
+		</professor>
+		<professor>
+			<name>SEAN HALLGREN</name>
+			<papers>21.5</papers>
+		</professor>
+		<professor>
+			<name>JOHN HANNAN</name>
+			<papers>22.1666666667</papers>
+		</professor>
+		<professor>
+			<name>DON HELLER</name>
+			<papers>1.66666666667</papers>
+		</professor>
+		<professor>
+			<name>Vasant Honavar</name>
+			<papers>72.8130952381</papers>
+		</professor>
+		<professor>
+			<name>MARY JANE (JANIE) IRWIN</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>TRENT JAEGER</name>
+			<papers>63.4273809524</papers>
+		</professor>
+		<professor>
+			<name>MAHMUT KANDEMIR</name>
+			<papers>285.232539683</papers>
+		</professor>
+		<professor>
+			<name>GEORGE KESIDIS</name>
+			<papers>86.1666666667</papers>
+		</professor>
+		<professor>
+			<name>DANIEL KIFER</name>
+			<papers>23.5833333333</papers>
+		</professor>
+		<professor>
+			<name>THOMAS LAPORTA</name>
+			<papers>0.583333333333</papers>
+		</professor>
+		<professor>
+			<name>WANG LEE</name>
+			<papers>2.0</papers>
+		</professor>
+		<professor>
+			<name>YANXI LIU</name>
+			<papers>44.3920995671</papers>
+		</professor>
+		<professor>
+			<name>KAMESH MADDURI</name>
+			<papers>31.3</papers>
+		</professor>
+		<professor>
+			<name>MARK MAHON</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>PATRICK MCDANIEL</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>PAUL MEDVEDEV</name>
+			<papers>17.6833333333</papers>
+		</professor>
+		<professor>
+			<name>VIJAYKRISHNAN NARAYANAN</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>SUSAN QUICK</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>SOFYA RASKHODNIKOVA</name>
+			<papers>27.8</papers>
+		</professor>
+		<professor>
+			<name>DAVID SALVIA</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>JOHN SAMPSON</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>STEVEN SHAFFER</name>
+			<papers>0.333333333333</papers>
+		</professor>
+		<professor>
+			<name>ANAND SIVASUBRAMANIAM</name>
+			<papers>73.5726190476</papers>
+		</professor>
+		<professor>
+			<name>ADAM SMITH</name>
+			<papers>1.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Brad Sottile</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Gang Tan</name>
+			<papers>21.8666666667</papers>
+		</professor>
+		<professor>
+			<name>CONRAD TUCKER</name>
+			<papers>4.25</papers>
+		</professor>
+		<professor>
+			<name>BHUVAN URGAONKAR</name>
+			<papers>33.05</papers>
+		</professor>
+		<professor>
+			<name>ALAN VERBANEC</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>DANFENG ZHANG</name>
+			<papers>10.5</papers>
+		</professor>
+		<professor>
+			<name>SENCUN ZHU</name>
+			<papers>54.7333333333</papers>
+		</professor>
+	</institution>

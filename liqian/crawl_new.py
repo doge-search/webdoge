@@ -189,8 +189,7 @@ import os
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
-schools = ['ASU', 'Boston', 'CMU', 'Colorado', 'Dartmouth', 'Gatech', 'Indiana', 'MIT', 'NCSU', 'Rochester', 'RPI', 'Rutgers', 'Stanford', 
-			'StonyBrook', 'TAMU', 'UArizona', 'UCB', 'UCDavis', 'UChicago', 'UCSB', 'UFL', 'UPitt', 'Utah', 'VirginiaTech', 'Wustl']
+schools = ['umich', 'UMN', 'UNC', 'upenn', 'USC', 'virginia', 'WISC', 'yale']
 def search(ini_name):
 	name = ini_name.strip()
 	nname = name.split(',')

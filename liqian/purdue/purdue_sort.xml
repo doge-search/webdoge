@@ -1,0 +1,419 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Daniel Aliaga</name>
+			<papers>52.5928571429</papers>
+		</professor>
+		<professor>
+			<name>Walid Aref</name>
+			<papers>86.5492063492</papers>
+		</professor>
+		<professor>
+			<name>Mikhail Atallah</name>
+			<papers>170.333333333</papers>
+		</professor>
+		<professor>
+			<name>Elias Bareinboim</name>
+			<papers>16.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Saugata Basu</name>
+			<papers>64.6666666667</papers>
+		</professor>
+		<professor>
+			<name>Elisa Bertino</name>
+			<papers>492.727380952</papers>
+		</professor>
+		<professor>
+			<name>Bharat Bhargava</name>
+			<papers>8.5</papers>
+		</professor>
+		<professor>
+			<name>Chris Clifton</name>
+			<papers>58.2416666667</papers>
+		</professor>
+		<professor>
+			<name>Douglas Comer</name>
+			<papers>55.7333333333</papers>
+		</professor>
+		<professor>
+			<name>Buster Dunsmore</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Ahmed Elmagarmid</name>
+			<papers>0.142857142857</papers>
+		</professor>
+		<professor>
+			<name>Patrick Eugster</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Sonia Fahmy</name>
+			<papers>65.3023809524</papers>
+		</professor>
+		<professor>
+			<name>Greg Frederickson</name>
+			<papers>82.1666666667</papers>
+		</professor>
+		<professor>
+			<name>David Gleich</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Dan Goldwasser</name>
+			<papers>14.5666666667</papers>
+		</professor>
+		<professor>
+			<name>Ananth Grama</name>
+			<papers>58.1166666667</papers>
+		</professor>
+		<professor>
+			<name>Elena Grigorescu</name>
+			<papers>34.5</papers>
+		</professor>
+		<professor>
+			<name>Susanne Hambrusch</name>
+			<papers>53.5373015873</papers>
+		</professor>
+		<professor>
+			<name>Chris Hoffmann</name>
+			<papers>0.583333333333</papers>
+		</professor>
+		<professor>
+			<name>Jean Honorio</name>
+			<papers>21.95</papers>
+		</professor>
+		<professor>
+			<name>Tony Hosking</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Suresh Jagannathan</name>
+			<papers>64.1833333333</papers>
+		</professor>
+		<professor>
+			<name>Aniket Kate</name>
+			<papers>27.2928571429</papers>
+		</professor>
+		<professor>
+			<name>Daisuke Kihara</name>
+			<papers>9.04722222222</papers>
+		</professor>
+		<professor>
+			<name>Ninghui Li</name>
+			<papers>87.2023809524</papers>
+		</professor>
+		<professor>
+			<name>Zhiyuan Li</name>
+			<papers>84.1442982456</papers>
+		</professor>
+		<professor>
+			<name>Bradley Lucier</name>
+			<papers>8.16666666667</papers>
+		</professor>
+		<professor>
+			<name>Hemanta Maji</name>
+			<papers>27.9</papers>
+		</professor>
+		<professor>
+			<name>Aditya Mathur</name>
+			<papers>2.0</papers>
+		</professor>
+		<professor>
+			<name>Jennifer Neville</name>
+			<papers>38.3944444444</papers>
+		</professor>
+		<professor>
+			<name>Kihong Park</name>
+			<papers>28.3428571429</papers>
+		</professor>
+		<professor>
+			<name>Mathias Payer</name>
+			<papers>20.85</papers>
+		</professor>
+		<professor>
+			<name>Voicu Popescu</name>
+			<papers>33.25</papers>
+		</professor>
+		<professor>
+			<name>Alex Pothen</name>
+			<papers>22.9833333333</papers>
+		</professor>
+		<professor>
+			<name>Sunil Prabhakar</name>
+			<papers>43.2694444444</papers>
+		</professor>
+		<professor>
+			<name>Yuan (Alan) Qi</name>
+			<papers>22.4166666667</papers>
+		</professor>
+		<professor>
+			<name>Vernon Rego</name>
+			<papers>37.0833333333</papers>
+		</professor>
+		<professor>
+			<name>Bruno Ribeiro</name>
+			<papers>9.25</papers>
+		</professor>
+		<professor>
+			<name>Tiark Rompf</name>
+			<papers>20.0666666667</papers>
+		</professor>
+		<professor>
+			<name>Elisha Sacks</name>
+			<papers>44.4222222222</papers>
+		</professor>
+		<professor>
+			<name>Ahmed Sameh</name>
+			<papers>22.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Luo Si</name>
+			<papers>64.8666666667</papers>
+		</professor>
+		<professor>
+			<name>Robert D. Skeel</name>
+			<papers>15.575</papers>
+		</professor>
+		<professor>
+			<name>Eugene Spafford</name>
+			<papers>62.6833333333</papers>
+		</professor>
+		<professor>
+			<name>Wojciech Szpankowski</name>
+			<papers>106.083333333</papers>
+		</professor>
+		<professor>
+			<name>Xavier Tricoche</name>
+			<papers>21.7833333333</papers>
+		</professor>
+		<professor>
+			<name>Samuel Wagstaff</name>
+			<papers>6.15</papers>
+		</professor>
+		<professor>
+			<name>Dongyan Xu</name>
+			<papers>44.7785714286</papers>
+		</professor>
+		<professor>
+			<name>Xiangyu Zhang</name>
+			<papers>65.6</papers>
+		</professor>
+		<professor>
+			<name>Jan Allebach</name>
+			<papers>54.2702380952</papers>
+		</professor>
+		<professor>
+			<name>Saurabh Bagchi</name>
+			<papers>49.8373015873</papers>
+		</professor>
+		<professor>
+			<name>Alok Chaturvedi</name>
+			<papers>3.83333333333</papers>
+		</professor>
+		<professor>
+			<name>William Cleveland</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Melissa Dark</name>
+			<papers>11.825</papers>
+		</professor>
+		<professor>
+			<name>David Ebert</name>
+			<papers>81.7841020091</papers>
+		</professor>
+		<professor>
+			<name>Michael Gribskov</name>
+			<papers>18.1850140056</papers>
+		</professor>
+		<professor>
+			<name>Y. Charlie Hu</name>
+			<papers>66.3761904762</papers>
+		</professor>
+		<professor>
+			<name>Sabre Kais</name>
+			<papers>3.83333333333</papers>
+		</professor>
+		<professor>
+			<name>Charles Killian</name>
+			<papers>2.5</papers>
+		</professor>
+		<professor>
+			<name>Ramana Kompella</name>
+			<papers>27.0833333333</papers>
+		</professor>
+		<professor>
+			<name>Leszek Lilien</name>
+			<papers>23.5095238095</papers>
+		</professor>
+		<professor>
+			<name>Yung-Hsiang Lu</name>
+			<papers>43.2761904762</papers>
+		</professor>
+		<professor>
+			<name>Cristina Nita-Rotaru</name>
+			<papers>34.6023809524</papers>
+		</professor>
+		<professor>
+			<name>Sanjay Rao</name>
+			<papers>0.25</papers>
+		</professor>
+		<professor>
+			<name>Victor Raskin</name>
+			<papers>37.5694444444</papers>
+		</professor>
+		<professor>
+			<name>Jeffrey Siskind</name>
+			<papers>26.4688034188</papers>
+		</professor>
+		<professor>
+			<name>T N Vijaykumar</name>
+			<papers>30.8333333333</papers>
+		</professor>
+		<professor>
+			<name>S.V.N. Vishwanathan</name>
+			<papers>45.6333333333</papers>
+		</professor>
+		<professor>
+			<name>Olga Vitek</name>
+			<papers>6.47364718615</papers>
+		</professor>
+		<professor>
+			<name>Jeff Vitter</name>
+			<papers>129.483766234</papers>
+		</professor>
+		<professor>
+			<name>Jianlin Xia</name>
+			<papers>18.25</papers>
+		</professor>
+		<professor>
+			<name>David Yau</name>
+			<papers>2.2</papers>
+		</professor>
+		<professor>
+			<name>Walter Gautschi</name>
+			<papers>51.0</papers>
+		</professor>
+		<professor>
+			<name>Elias Houstis</name>
+			<papers>0.1</papers>
+		</professor>
+		<professor>
+			<name>Robert Lynch</name>
+			<papers>0.2</papers>
+		</professor>
+		<professor>
+			<name>John Rice</name>
+			<papers>2.7</papers>
+		</professor>
+		<professor>
+			<name>John Steele</name>
+			<papers>0.75</papers>
+		</professor>
+		<professor>
+			<name>Nadia Abdu</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Saleh Basalamah</name>
+			<papers>7.98214285714</papers>
+		</professor>
+		<professor>
+			<name>Umesh Bellur</name>
+			<papers>37.2</papers>
+		</professor>
+		<professor>
+			<name>Lorenzo Bossi</name>
+			<papers>2.5</papers>
+		</professor>
+		<professor>
+			<name>Siarhei Bykau</name>
+			<papers>5.6</papers>
+		</professor>
+		<professor>
+			<name>Somali Chaterji</name>
+			<papers>1.25757575758</papers>
+		</professor>
+		<professor>
+			<name>Omar Chowdhury</name>
+			<papers>8.66666666667</papers>
+		</professor>
+		<professor>
+			<name>Xi Huang</name>
+			<papers>12.5595238095</papers>
+		</professor>
+		<professor>
+			<name>Yauheni Kryvasheyeu</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Peng Liu</name>
+			<papers>169.249206349</papers>
+		</professor>
+		<professor>
+			<name>Tinghuai Ma</name>
+			<papers>24.7333333333</papers>
+		</professor>
+		<professor>
+			<name>Srivatsan Ravi</name>
+			<papers>9.08333333333</papers>
+		</professor>
+		<professor>
+			<name>Antonino Rullo</name>
+			<papers>1.81666666667</papers>
+		</professor>
+		<professor>
+			<name>Vinai Sundaram</name>
+			<papers>11.0</papers>
+		</professor>
+		<professor>
+			<name>Chonghua Wang</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Qian (Kasey) Xiao</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Haoran Xu</name>
+			<papers>6.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Zhaogui Xu</name>
+			<papers>1.75</papers>
+		</professor>
+		<professor>
+			<name>Shi Zhang</name>
+			<papers>12.6666666667</papers>
+		</professor>
+		<professor>
+			<name>Wei Zhang</name>
+			<papers>513.662301587</papers>
+		</professor>
+		<professor>
+			<name>Hongfei Zhu</name>
+			<papers>0.333333333333</papers>
+		</professor>
+		<professor>
+			<name>Alan Bunning</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Marta Crowe</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Bill Crum</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Gary McFall</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Gustavo Rodriguez-Rivera</name>
+			<papers>3.0</papers>
+		</professor>
+	</institution>

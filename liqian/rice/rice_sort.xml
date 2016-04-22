@@ -1,0 +1,187 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Robert &quot;Corky&quot; Cartwright</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Swarat Chaudhuri</name>
+			<papers>23.5666666667</papers>
+		</professor>
+		<professor>
+			<name>Keith D. Cooper</name>
+			<papers>46.0595238095</papers>
+		</professor>
+		<professor>
+			<name>Alan L. Cox</name>
+			<papers>35.35</papers>
+		</professor>
+		<professor>
+			<name>Scott Cutler</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Ronald N. Goldman</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>John Greiner</name>
+			<papers>5.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Christopher M.  Jermaine</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>David B. Johnson</name>
+			<papers>40.7857142857</papers>
+		</professor>
+		<professor>
+			<name>Lydia E. Kavraki</name>
+			<papers>65.4083333333</papers>
+		</professor>
+		<professor>
+			<name>John Mellor-Crummey</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Luay Nakhleh</name>
+			<papers>32.95</papers>
+		</professor>
+		<professor>
+			<name>T. S. Eugene Ng</name>
+			<papers>22.1666666667</papers>
+		</professor>
+		<professor>
+			<name>Krishna V. Palem</name>
+			<papers>38.453968254</papers>
+		</professor>
+		<professor>
+			<name>Scott Rixner</name>
+			<papers>22.0123015873</papers>
+		</professor>
+		<professor>
+			<name>Vivek Sarkar</name>
+			<papers>79.7774743231</papers>
+		</professor>
+		<professor>
+			<name>Anshumali Shrivastava</name>
+			<papers>23.6666666667</papers>
+		</professor>
+		<professor>
+			<name>Devika Subramanian</name>
+			<papers>23.1333333333</papers>
+		</professor>
+		<professor>
+			<name>Linda Torczon</name>
+			<papers>7.9373015873</papers>
+		</professor>
+		<professor>
+			<name>Moshe Y. Vardi</name>
+			<papers>281.204004329</papers>
+		</professor>
+		<professor>
+			<name>Dan S. Wallach</name>
+			<papers>37.1773809524</papers>
+		</professor>
+		<professor>
+			<name>Joe D. Warren</name>
+			<papers>31.5504901961</papers>
+		</professor>
+		<professor>
+			<name>Stephen Wong</name>
+			<papers>3.53333333333</papers>
+		</professor>
+		<professor>
+			<name>Michael Byrne</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Joseph R. Cavallaro</name>
+			<papers>54.6492063492</papers>
+		</professor>
+		<professor>
+			<name>G. Anthony Gorry</name>
+			<papers>5.95833333333</papers>
+		</professor>
+		<professor>
+			<name>Edward W. Knightly</name>
+			<papers>56.3</papers>
+		</professor>
+		<professor>
+			<name>Marcia K. O’Malley</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>James M. Tour</name>
+			<papers>0.694444444444</papers>
+		</professor>
+		<professor>
+			<name>Peter J. Varman</name>
+			<papers>48.9</papers>
+		</professor>
+		<professor>
+			<name>Ashok Veeraraghavan</name>
+			<papers>38.3928571429</papers>
+		</professor>
+		<professor>
+			<name>Lin Zhong</name>
+			<papers>69.7023809524</papers>
+		</professor>
+		<professor>
+			<name>Weiwei Zhong</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Erez Lieberman Aiden</name>
+			<papers>0.333333333333</papers>
+		</professor>
+		<professor>
+			<name>Eric Allen</name>
+			<papers>3.0</papers>
+		</professor>
+		<professor>
+			<name>Fayé Briggs</name>
+			<papers>16.7</papers>
+		</professor>
+		<professor>
+			<name>Robert C. Bronk</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Ken Chen</name>
+			<papers>52.5607142857</papers>
+		</professor>
+		<professor>
+			<name>Wah Chiu</name>
+			<papers>7.62918470418</papers>
+		</professor>
+		<professor>
+			<name>Jack Dongarra</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Mike Fagan</name>
+			<papers>3.0</papers>
+		</professor>
+		<professor>
+			<name>Mark Moll</name>
+			<papers>29.8666666667</papers>
+		</professor>
+		<professor>
+			<name>Dung (Zung) Nguyen</name>
+			<papers>7.0</papers>
+		</professor>
+		<professor>
+			<name>Walid Taha</name>
+			<papers>34.7916666667</papers>
+		</professor>
+		<professor>
+			<name>Steve Wallach</name>
+			<papers>0.111111111111</papers>
+		</professor>
+		<professor>
+			<name>Scott Warren</name>
+			<papers>1.23611111111</papers>
+		</professor>
+	</institution>

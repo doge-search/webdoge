@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Gagan Agrawal</name>
+			<papers>116.966666667</papers>
+		</professor>
+		<professor>
+			<name>Anish Arora</name>
+			<papers>88.3511904762</papers>
+		</professor>
+		<professor>
+			<name>Mikhail Belkin</name>
+			<papers>41.0</papers>
+		</professor>
+		<professor>
+			<name>Spyros Blanas</name>
+			<papers>11.5</papers>
+		</professor>
+		<professor>
+			<name>Michael Bond</name>
+			<papers>1.5</papers>
+		</professor>
+		<professor>
+			<name>Roger Crawfis</name>
+			<papers>27.1833333333</papers>
+		</professor>
+		<professor>
+			<name>James Davis</name>
+			<papers>33.5206349206</papers>
+		</professor>
+		<professor>
+			<name>Tamal Dey</name>
+			<papers>0.25</papers>
+		</professor>
+		<professor>
+			<name>Eric Fosler-Lussier</name>
+			<papers>44.8301587302</papers>
+		</professor>
+		<professor>
+			<name>Ten-Hwang Lai</name>
+			<papers>57.25</papers>
+		</professor>
+		<professor>
+			<name>Raghu Machiraju</name>
+			<papers>35.276984127</papers>
+		</professor>
+		<professor>
+			<name>Facundo Memoli</name>
+			<papers>17.5833333333</papers>
+		</professor>
+		<professor>
+			<name>Arnab Nandi</name>
+			<papers>23.1011904762</papers>
+		</professor>
+		<professor>
+			<name>Dhabaleswar Panda</name>
+			<papers>126.20479798</papers>
+		</professor>
+		<professor>
+			<name>Srinivasan Parthasarathy</name>
+			<papers>83.9095238095</papers>
+		</professor>
+		<professor>
+			<name>Chunyi Peng</name>
+			<papers>24.4416666667</papers>
+		</professor>
+		<professor>
+			<name>Feng Qin</name>
+			<papers>34.8325757576</papers>
+		</professor>
+		<professor>
+			<name>Luis Rademacher</name>
+			<papers>19.1666666667</papers>
+		</professor>
+		<professor>
+			<name>Alan Ritter</name>
+			<papers>15.2291666667</papers>
+		</professor>
+		<professor>
+			<name>Nicoleta Roman</name>
+			<papers>11.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Atanas (Nasko) Rountev</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>P Sadayappan</name>
+			<papers>80.5857142857</papers>
+		</professor>
+		<professor>
+			<name>Han-Wei Shen</name>
+			<papers>53.0837662338</papers>
+		</professor>
+		<professor>
+			<name>Ness Shroff</name>
+			<papers>116.458333333</papers>
+		</professor>
+		<professor>
+			<name>Anastasios (Tasos) Sidiropoulos</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Prasun Sinha</name>
+			<papers>39.1055555556</papers>
+		</professor>
+		<professor>
+			<name>Paul Sivilotti</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Neelam Soundarajan</name>
+			<papers>24.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Kannan Srinivasan</name>
+			<papers>25.2333333333</papers>
+		</professor>
+		<professor>
+			<name>Christopher Stewart</name>
+			<papers>18.8666666667</papers>
+		</professor>
+		<professor>
+			<name>Huan Sun</name>
+			<papers>29.1583333333</papers>
+		</professor>
+		<professor>
+			<name>Kenneth Supowit</name>
+			<papers>18.75</papers>
+		</professor>
+		<professor>
+			<name>Mircea-Radu Teodorescu</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Deliang Wang</name>
+			<papers>6.83333333333</papers>
+		</professor>
+		<professor>
+			<name>Huamin Wang</name>
+			<papers>16.7666666667</papers>
+		</professor>
+		<professor>
+			<name>Yang Wang</name>
+			<papers>208.296825397</papers>
+		</professor>
+		<professor>
+			<name>Yusu Wang</name>
+			<papers>31.7</papers>
+		</professor>
+		<professor>
+			<name>Rephael Wenger</name>
+			<papers>22.6</papers>
+		</professor>
+		<professor>
+			<name>Dong Xuan</name>
+			<papers>37.8380952381</papers>
+		</professor>
+		<professor>
+			<name>Xiaodong Zhang</name>
+			<papers>53.303968254</papers>
+		</professor>
+		<professor>
+			<name>Yinqian Zhang</name>
+			<papers>9.66666666667</papers>
+		</professor>
+	</institution>

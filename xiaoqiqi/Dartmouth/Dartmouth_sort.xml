@@ -1,83 +1,83 @@
 <?xml version="1.0" ?>
 	<institution>
 		<professor>
-			<name>Daniel Abadi</name>
+			<name>Chris Bailey-Kellogg</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Dana Angluin</name>
+			<name>Devin J. Balkcom</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>James Aspnes</name>
+			<name>Andrew Thomas Campbell</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Mahesh Balakrishnan</name>
+			<name>Michael A. Casey</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Julie Dorsey</name>
+			<name>Amit Chakrabarti</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Stanley Eisenstat</name>
+			<name>Thomas H. Cormen</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Joan Feigenbaum</name>
+			<name>Robert Lewis (Scot) Drysdale, III</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Michael Fischer</name>
+			<name>Hany Farid</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>David Gelernter</name>
+			<name>Gevorg Grigoryan</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Drew McDermott</name>
+			<name>Wojciech Jarosz</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Ruzica Piskac</name>
+			<name>Prasad Jayanti</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Mariana Raykova</name>
+			<name>David Kotz</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Vladimir Rokhlin</name>
+			<name>Qiang Liu</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Holly Rushmeier</name>
+			<name>Daniel Rockmore</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Brian Scassellati</name>
+			<name>Sean W. Smith</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Zhong Shao</name>
+			<name>Lorenzo Torresani</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Abraham Silberschatz</name>
+			<name>Emily Whiting</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Daniel Spielman</name>
+			<name>Peter Winkler</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Yang Yang</name>
+			<name>Xing-Dong Yang</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Steven Zucker</name>
+			<name>Xia Zhou</name>
 			<papers>-1</papers>
 		</professor>
 	</institution>

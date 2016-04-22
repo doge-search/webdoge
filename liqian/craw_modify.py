@@ -3,6 +3,7 @@
 import requests
 from lxml import etree
 from collections import namedtuple
+import time
 
 DBLP_BASE_URL = 'http://dblp.uni-trier.de/'
 DBLP_AUTHOR_SEARCH_URL = DBLP_BASE_URL + 'search/author'
@@ -48,6 +49,7 @@ class Author(LazyAPIData):
 		self.xml = xml
 		try: root = etree.fromstring(xml)
 		except etree.XMLSyntaxError as e:
+			time.sleep(2)
 			try: root = etree.fromstring(xml)
 			except etree.XMLSyntaxError as e:
 				print "error again!"
@@ -115,6 +117,7 @@ class Publication(LazyAPIData):
 		self.xml = xml
 		try: root = etree.fromstring(xml)
 		except etree.XMLSyntaxError as e:
+			time.sleep(2)
 			try: root = etree.fromstring(xml)
 			except etree.XMLSyntaxError as e:
 				raise ValueError
@@ -155,6 +158,7 @@ def dblp_search(author_str):
 	#TODO error handling
 	try: root = etree.fromstring(resp.content)
 	except etree.XMLSyntaxError as e:
+		time.sleep(10)
 		try: root = etree.fromstring(resp.content)
 		except etree.XMLSyntaxError as e:
 			raise ValueError
@@ -175,8 +179,7 @@ import os
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
-schools = ['harvard', 'JHU', 'northwestern', 'NYU', 'OSU', 'PSU', 'purdue', 'rice', 'UCI', 'UCLA', 'UCSD', 'UMASS', 'UMD', 'umich', 'UMN', 'UNC',
-			'upenn', 'USC', 'virginia', 'WISC', 'yale']
+schools = ['umich', 'UMN', 'UNC', 'upenn', 'USC', 'virginia', 'WISC', 'yale']
 def search(ini_name):
 	name = ini_name.strip()
 	nname = name.split(',')
@@ -269,13 +272,18 @@ if __name__ == "__main__":
 				if info.tag == 'name':
 					try: name, cnt = search(info.text)
 					except ValueError:
+						print "ValueError!"
 						name = info.text
 						cnt = -1
+						time.sleep(1)
 					except etree.XMLSyntaxError as e:
+						print "SyntaxError!"
 						name = info.text
 						cnt = -1
+						time.sleep(1)
 					print school + ': ' + name.encode('utf-8') + ' with score: ' + "%.4f" % cnt
 					sys.stdout.flush()
+					time.sleep(5)
 					professor = doc.createElement("professor")
 					namenode = doc.createElement("name")
 					namenode.appendChild(doc.createTextNode(name))

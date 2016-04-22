@@ -1,155 +1,177 @@
 <?xml version="1.0" ?>
 	<institution>
 		<professor>
-			<name>Stan Ahalt</name>
+			<name>
+            Yali Amit          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Jay Aikat</name>
+			<name>
+            László Babai          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Ron Alterovitz</name>
+			<name>
+            Andrew A. Chien          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>James Anderson</name>
+			<name>
+            Frederic  Chong          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Sanjoy K. Baruah</name>
+			<name>
+            Ravi Chugh          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Alexander C. Berg</name>
+			<name>
+            Julia Chuzhoy          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Tamara L. Berg</name>
+			<name>
+            Andrew   Drucker          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Gary Bishop</name>
+			<name>
+            Todd Dupont          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Prasun Dewan</name>
+			<name>
+            Aaron  Elmore          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Enrique Dunn</name>
+			<name>
+            Ariel Feldman          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Michael J. Fern</name>
+			<name>
+            Ian Foster          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Jan-Michael Frahm</name>
+			<name>
+            Michael Franklin          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Henry Fuchs</name>
+			<name>
+            John Goldsmith          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Kevin Jeffay</name>
+			<name>
+            Haryadi Gunawi          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Vladimir Jojic</name>
+			<name>
+            Henry Hoffmann          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Kris Jordan</name>
+			<name>
+            Gordon Kindlmann          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Tessa Joseph-Nicholas</name>
+			<name>
+            Risi Kondor          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Jasleen Kaur</name>
+			<name>
+            Stuart Kurtz          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Anselmo Lastra</name>
+			<name>
+            John D Lafferty          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Ming C. Lin</name>
+			<name>
+            Yanjing Li          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Dinesh Manocha</name>
+			<name>
+            Karen Livescu          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Ketan Mayer-Patel</name>
+			<name>
+            Shan Lu          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Leonard McMillan</name>
+			<name>
+            Yury Makarychev          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Fabian Monrose</name>
+			<name>
+            David McAllester          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Marc Niethammer</name>
+			<name>
+            Ketan Mulmuley          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Shahriar Nirjon</name>
+			<name>
+            Michael J. O</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Stephen M. Pizer</name>
+			<name>Donnell          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>David A. Plaisted</name>
+			<name>
+            Alexander A Razborov          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Diane Pozefsky</name>
+			<name>
+            John H Reppy          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Jan F. Prins</name>
+			<name>
+            Anne Rogers          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Michael K. Reiter</name>
+			<name>
+            L. Ridgway Scott          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Montek Singh</name>
+			<name>
+            Gregory Shakhnarovich          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>F. Don Smith</name>
+			<name>
+            Janos Simon          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Jack Snoeyink</name>
+			<name>
+            Nathan Srebro          </name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>David Stotts</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Cynthia Sturton</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Martin Styner</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Mary C. Whitton</name>
+			<name>
+            Rick Stevens          </name>
 			<papers>-1</papers>
 		</professor>
 	</institution>
