@@ -189,7 +189,7 @@ import os
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
-schools = ['umich', 'UMN', 'UNC', 'upenn', 'USC', 'virginia', 'WISC', 'yale']
+schools = ['UMN', 'UNC', 'upenn', 'USC', 'virginia', 'WISC', 'yale']
 def search(ini_name):
 	name = ini_name.strip()
 	nname = name.split(',')
