@@ -76,7 +76,7 @@ class ProfList:
             result += "\t\t</professor>\n"
         result += "\t</institution>\n"
         # print result
-        file = open("UTX.xml","w")
+        file = open("UTK.xml","w")
         file.writelines(result)
 
 
