@@ -6,8 +6,8 @@
 			<office>1c Eaton Hall</office>
 			<email>agah@eecs.ku.edu</email>
 			<phone>785-864-8821</phone>
-			<website>http://people.ku.edu/~agah/<website>
-			<image>http://www.eecs.ku.edu/img/people/agah.jpg<\image>
+			<website>http://people.ku.edu/~agah/</website>
+			<image>http://www.eecs.ku.edu/img/people/agah.jpg</image>
 		</professor>
 		<professor>
 			<name>Reza Ahmadi</name>
@@ -15,8 +15,8 @@
 			<office></office>
 			<email></email>
 			<phone></phone>
-			<website>http://www.eecs.ku.edu/people/faculty/rahmadi<website>
-			<image>http://www.eecs.ku.edu/img/people/rahmadi.jpg<\image>
+			<website>http://www.eecs.ku.edu/people/faculty/rahmadi</website>
+			<image>http://www.eecs.ku.edu/img/people/rahmadi.jpg</image>
 		</professor>
 		<professor>
 			<name>Perry Alexander</name>
@@ -24,8 +24,8 @@
 			<office>2022 Eaton Hall</office>
 			<email>palexand@eecs.ku.edu</email>
 			<phone>785-864-8833</phone>
-			<website>http://www.ittc.ku.edu/~alex<website>
-			<image>http://www.eecs.ku.edu/img/people/palexand.jpg<\image>
+			<website>http://www.ittc.ku.edu/~alex</website>
+			<image>http://www.eecs.ku.edu/img/people/palexand.jpg</image>
 		</professor>
 		<professor>
 			<name>Christopher Allen</name>
@@ -33,8 +33,8 @@
 			<office>3024 Eaton Hall</office>
 			<email>callen@eecs.ku.edu</email>
 			<phone>785-864-8801</phone>
-			<website>http://www.eecs.ku.edu/people/faculty/callen<website>
-			<image>http://www.eecs.ku.edu/img/people/callen.jpg<\image>
+			<website>http://www.eecs.ku.edu/people/faculty/callen</website>
+			<image>http://www.eecs.ku.edu/img/people/callen.jpg</image>
 		</professor>
 		<professor>
 			<name>Nicole Beckage</name>
@@ -42,8 +42,8 @@
 			<office></office>
 			<email>beckage@ku.edu</email>
 			<phone></phone>
-			<website>https://csel.cs.colorado.edu/~nibe3229/<website>
-			<image>http://www.eecs.ku.edu/img/people/nbeckage.jpg<\image>
+			<website>https://csel.cs.colorado.edu/~nibe3229/</website>
+			<image>http://www.eecs.ku.edu/img/people/nbeckage.jpg</image>
 		</professor>
 		<professor>
 			<name>Shannon Blunt</name>
@@ -51,8 +51,8 @@
 			<office>256 Nichols Hall</office>
 			<email>sdblunt@eecs.ku.edu</email>
 			<phone>785-864-7326</phone>
-			<website>http://www.eecs.ku.edu/people/faculty/sdblunt<website>
-			<image>http://www.eecs.ku.edu/img/people/sdblunt.jpg<\image>
+			<website>http://www.eecs.ku.edu/people/faculty/sdblunt</website>
+			<image>http://www.eecs.ku.edu/img/people/sdblunt.jpg</image>
 		</professor>
 		<professor>
 			<name>Michael Branicky</name>
@@ -60,8 +60,8 @@
 			<office>1 Eaton Hall</office>
 			<email>msb@ku.edu</email>
 			<phone>785-864-2930</phone>
-			<website>http://www.eecs.ku.edu/people/faculty/mbranick<website>
-			<image>http://www.eecs.ku.edu/img/people/mbranick.jpg<\image>
+			<website>http://www.eecs.ku.edu/people/faculty/mbranick</website>
+			<image>http://www.eecs.ku.edu/img/people/mbranick.jpg</image>
 		</professor>
 		<professor>
 			<name>Jonathan Brumberg</name>
@@ -69,8 +69,8 @@
 			<office></office>
 			<email>brumberg@ku.edu</email>
 			<phone>785-864-1061</phone>
-			<website>http://splh.ku.edu/Faculty/JonathanBrumberg.shtml<website>
-			<image>http://www.eecs.ku.edu/img/people/jbrumber.jpg<\image>
+			<website>http://splh.ku.edu/Faculty/JonathanBrumberg.shtml</website>
+			<image>http://www.eecs.ku.edu/img/people/jbrumber.jpg</image>
 		</professor>
 		<professor>
 			<name>Swapan Chakrabarti</name>
@@ -78,8 +78,8 @@
 			<office>3022 Eaton Hall</office>
 			<email>chakra@eecs.ku.edu</email>
 			<phone>785-864-8811</phone>
-			<website>http://www.eecs.ku.edu/people/faculty/chakra<website>
-			<image>http://www.eecs.ku.edu/img/people/chakra.jpg<\image>
+			<website>http://www.eecs.ku.edu/people/faculty/chakra</website>
+			<image>http://www.eecs.ku.edu/img/people/chakra.jpg</image>
 		</professor>
 		<professor>
 			<name>Kenneth Demarest</name>
@@ -87,8 +87,8 @@
 			<office>3028 Eaton Hall</office>
 			<email>demarest@eecs.ku.edu</email>
 			<phone>785-864-7395</phone>
-			<website>http://people.eecs.ku.edu/~demarest/<website>
-			<image>http://www.eecs.ku.edu/img/people/demarest.jpg<\image>
+			<website>http://people.eecs.ku.edu/~demarest/</website>
+			<image>http://www.eecs.ku.edu/img/people/demarest.jpg</image>
 		</professor>
 		<professor>
 			<name>Tyrone Duncan</name>
@@ -96,8 +96,8 @@
 			<office>512 Snow</office>
 			<email>duncan@math.ku.edu</email>
 			<phone>785-864-3032</phone>
-			<website>http://www.eecs.ku.edu/people/faculty/tduncan<website>
-			<image>http://www.eecs.ku.edu/img/people/tduncan.jpg<\image>
+			<website>http://www.eecs.ku.edu/people/faculty/tduncan</website>
+			<image>http://www.eecs.ku.edu/img/people/tduncan.jpg</image>
 		</professor>
 		<professor>
 			<name>Aveek Dutta</name>
@@ -105,8 +105,8 @@
 			<office>3046 Eaton</office>
 			<email>aveekd@ku.edu</email>
 			<phone>785-864-8806</phone>
-			<website>http://www.ittc.ku.edu/~aveekd/<website>
-			<image>http://www.eecs.ku.edu/img/people/adutta.jpg<\image>
+			<website>http://www.ittc.ku.edu/~aveekd/</website>
+			<image>http://www.eecs.ku.edu/img/people/adutta.jpg</image>
 		</professor>
 		<professor>
 			<name>Esam El-Araby</name>
@@ -114,8 +114,8 @@
 			<office>2020 Eaton Hall</office>
 			<email>esam@ku.edu </email>
 			<phone>785-864-3171</phone>
-			<website>http://www.eecs.ku.edu/people/faculty/eelaraby<website>
-			<image>http://www.eecs.ku.edu/img/people/eelaraby.jpg<\image>
+			<website>http://www.eecs.ku.edu/people/faculty/eelaraby</website>
+			<image>http://www.eecs.ku.edu/img/people/eelaraby.jpg</image>
 		</professor>
 		<professor>
 			<name>Joseph Evans</name>
@@ -123,8 +123,8 @@
 			<office>2048 Eaton Hall</office>
 			<email>evans@eecs.ku.edu</email>
 			<phone>785-864-8808</phone>
-			<website>http://www.ittc.ku.edu/~evans/<website>
-			<image>http://www.eecs.ku.edu/img/people/evans.jpg<\image>
+			<website>http://www.ittc.ku.edu/~evans/</website>
+			<image>http://www.eecs.ku.edu/img/people/evans.jpg</image>
 		</professor>
 		<professor>
 			<name>Victor Frost</name>
@@ -132,8 +132,8 @@
 			<office>2001G Eaton Hall</office>
 			<email>frost@eecs.ku.edu</email>
 			<phone>785-864-4486</phone>
-			<website>http://www.ittc.ku.edu/~frost/<website>
-			<image>http://www.eecs.ku.edu/img/people/frost.jpg<\image>
+			<website>http://www.ittc.ku.edu/~frost/</website>
+			<image>http://www.eecs.ku.edu/img/people/frost.jpg</image>
 		</professor>
 		<professor>
 			<name>John Gibbons</name>
@@ -141,8 +141,8 @@
 			<office>2043 Eaton</office>
 			<email>jwgibbo@ku.edu</email>
 			<phone></phone>
-			<website>http://www.eecs.ku.edu/people/faculty/jgibbons<website>
-			<image>http://www.eecs.ku.edu/img/people/jgibbons.jpg<\image>
+			<website>http://www.eecs.ku.edu/people/faculty/jgibbons</website>
+			<image>http://www.eecs.ku.edu/img/people/jgibbons.jpg</image>
 		</professor>
 		<professor>
 			<name>Andy Gill</name>
@@ -150,8 +150,8 @@
 			<office>2024 Eaton Hall</office>
 			<email>andygill@ku.edu</email>
 			<phone>785-864-8817</phone>
-			<website>http://www.ittc.ku.edu/~andygill/<website>
-			<image>http://www.eecs.ku.edu/img/people/andygill.jpg<\image>
+			<website>http://www.ittc.ku.edu/~andygill/</website>
+			<image>http://www.eecs.ku.edu/img/people/andygill.jpg</image>
 		</professor>
 		<professor>
 			<name>Jerzy Grzymala-Busse</name>
@@ -159,8 +159,8 @@
 			<office>3014 Eaton Hall</office>
 			<email>jerzy@eecs.ku.edu</email>
 			<phone>785-864-4488</phone>
-			<website>http://www.eecs.ku.edu/people/faculty/jerzy<website>
-			<image>http://www.eecs.ku.edu/img/people/jerzy.jpg<\image>
+			<website>http://www.eecs.ku.edu/people/faculty/jerzy</website>
+			<image>http://www.eecs.ku.edu/img/people/jerzy.jpg</image>
 		</professor>
 		<professor>
 			<name>Jun (Luke) Huan</name>
@@ -168,8 +168,8 @@
 			<office>2034 Eaton Hall</office>
 			<email>jhuan@eecs.ku.edu</email>
 			<phone>785-864-5072</phone>
-			<website>http://people.eecs.ku.edu/~jhuan/<website>
-			<image>http://www.eecs.ku.edu/img/people/jhuan.jpg<\image>
+			<website>http://people.eecs.ku.edu/~jhuan/</website>
+			<image>http://www.eecs.ku.edu/img/people/jhuan.jpg</image>
 		</professor>
 		<professor>
 			<name>Rongqing Hui</name>
@@ -177,8 +177,8 @@
 			<office>3026 Eaton Hall</office>
 			<email>hui@eecs.ku.edu</email>
 			<phone>785-864-8814</phone>
-			<website>http://www.ittc.ku.edu/~hui/<website>
-			<image>http://www.eecs.ku.edu/img/people/hui.jpg<\image>
+			<website>http://www.ittc.ku.edu/~hui/</website>
+			<image>http://www.eecs.ku.edu/img/people/hui.jpg</image>
 		</professor>
 		<professor>
 			<name>Tim Johnson</name>
@@ -186,8 +186,8 @@
 			<office>BEST 250C</office>
 			<email>johnson@ku.edu</email>
 			<phone>913-897-8666</phone>
-			<website>http://www.eecs.ku.edu/people/faculty/johnson<website>
-			<image>http://www.eecs.ku.edu/img/people/johnson.jpg<\image>
+			<website>http://www.eecs.ku.edu/people/faculty/johnson</website>
+			<image>http://www.eecs.ku.edu/img/people/johnson.jpg</image>
 		</professor>
 		<professor>
 			<name>Nancy Kinnersley</name>
@@ -195,8 +195,8 @@
 			<office>2040 Eaton Hall</office>
 			<email>kinners@eecs.ku.edu</email>
 			<phone>785-864-7390</phone>
-			<website>http://people.eecs.ku.edu/~kinners<website>
-			<image>http://www.eecs.ku.edu/img/people/kinners.jpg<\image>
+			<website>http://people.eecs.ku.edu/~kinners</website>
+			<image>http://www.eecs.ku.edu/img/people/kinners.jpg</image>
 		</professor>
 		<professor>
 			<name>Kosta Kokkinakis</name>
@@ -204,8 +204,8 @@
 			<office></office>
 			<email>kokkinak@ku.edu</email>
 			<phone>785-864-4467</phone>
-			<website>http://splh.ku.edu/Faculty/KokkinakisBio.shtml<website>
-			<image>http://www.eecs.ku.edu/img/people/kkokkina.jpg<\image>
+			<website>http://splh.ku.edu/Faculty/KokkinakisBio.shtml</website>
+			<image>http://www.eecs.ku.edu/img/people/kkokkina.jpg</image>
 		</professor>
 		<professor>
 			<name>Man Kong</name>
@@ -213,8 +213,8 @@
 			<office>2038 Eaton Hall</office>
 			<email>kong@eecs.ku.edu</email>
 			<phone>785-864-7389</phone>
-			<website>http://www.eecs.ku.edu/people/faculty/kong<website>
-			<image>http://www.eecs.ku.edu/img/people/kong.jpg<\image>
+			<website>http://www.eecs.ku.edu/people/faculty/kong</website>
+			<image>http://www.eecs.ku.edu/img/people/kong.jpg</image>
 		</professor>
 		<professor>
 			<name>Prasad Kulkarni</name>
@@ -222,8 +222,8 @@
 			<office>2030 Eaton Hall</office>
 			<email>kulkarni@eecs.ku.edu</email>
 			<phone>785-864-8819</phone>
-			<website>http://www.ittc.ku.edu/~kulkarni<website>
-			<image>http://www.eecs.ku.edu/img/people/kulkarni.jpg<\image>
+			<website>http://www.ittc.ku.edu/~kulkarni</website>
+			<image>http://www.eecs.ku.edu/img/people/kulkarni.jpg</image>
 		</professor>
 		<professor>
 			<name>Carlton Leuschen</name>
@@ -231,8 +231,8 @@
 			<office>2052 Eaton Hall</office>
 			<email>leuschen@eecs.ku.edu</email>
 			<phone>785-864-7723</phone>
-			<website>http://www.eecs.ku.edu/people/faculty/leuschen<website>
-			<image>http://www.eecs.ku.edu/img/people/leuschen.jpg<\image>
+			<website>http://www.eecs.ku.edu/people/faculty/leuschen</website>
+			<image>http://www.eecs.ku.edu/img/people/leuschen.jpg</image>
 		</professor>
 		<professor>
 			<name>Fengjun Li</name>
@@ -240,8 +240,8 @@
 			<office>2032 Eaton Hall</office>
 			<email>fli@ittc.ku.edu</email>
 			<phone></phone>
-			<website>http://www.ittc.ku.edu/~fli<website>
-			<image>http://www.eecs.ku.edu/img/people/fli.jpg<\image>
+			<website>http://www.ittc.ku.edu/~fli</website>
+			<image>http://www.eecs.ku.edu/img/people/fli.jpg</image>
 		</professor>
 		<professor>
 			<name>Jilu Li</name>
@@ -249,8 +249,8 @@
 			<office>325 Nichols Hall</office>
 			<email>jiluli@ku.edu</email>
 			<phone>785-864-1692</phone>
-			<website>http://www.eecs.ku.edu/people/faculty/<website>
-			<image>http://www.eecs.ku.edu/img/people/no_photo.jpg<\image>
+			<website>http://www.eecs.ku.edu/people/faculty/</website>
+			<image>http://www.eecs.ku.edu/img/people/no_photo.jpg</image>
 		</professor>
 		<professor>
 			<name>Lingjia Liu</name>
@@ -258,8 +258,8 @@
 			<office>2028 Eaton</office>
 			<email>lingjialiu@ittc.ku.edu</email>
 			<phone>785-864-4635</phone>
-			<website>http://people.eecs.ku.edu/~lingjialiu<website>
-			<image>http://www.eecs.ku.edu/img/people/lingjialiu.jpg<\image>
+			<website>http://people.eecs.ku.edu/~lingjialiu</website>
+			<image>http://www.eecs.ku.edu/img/people/lingjialiu.jpg</image>
 		</professor>
 		<professor>
 			<name>Bo Luo</name>
@@ -267,8 +267,8 @@
 			<office>2044 Eaton Hall</office>
 			<email>bluo@ku.edu</email>
 			<phone>785-864-7393</phone>
-			<website>http://www.ittc.ku.edu/~bluo/<website>
-			<image>http://www.eecs.ku.edu/img/people/bluo.jpg<\image>
+			<website>http://www.ittc.ku.edu/~bluo/</website>
+			<image>http://www.eecs.ku.edu/img/people/bluo.jpg</image>
 		</professor>
 		<professor>
 			<name>Brian McClendon</name>
@@ -276,8 +276,8 @@
 			<office></office>
 			<email></email>
 			<phone></phone>
-			<website>http://www.eecs.ku.edu/people/faculty/bmcclend<website>
-			<image>http://www.eecs.ku.edu/img/people/bmcclend.jpg<\image>
+			<website>http://www.eecs.ku.edu/people/faculty/bmcclend</website>
+			<image>http://www.eecs.ku.edu/img/people/bmcclend.jpg</image>
 		</professor>
 		<professor>
 			<name>James Miller</name>
@@ -285,8 +285,8 @@
 			<office>2036 Eaton Hall</office>
 			<email>miller@eecs.ku.edu</email>
 			<phone>785-864-7384</phone>
-			<website>http://people.eecs.ku.edu/~miller/<website>
-			<image>http://www.eecs.ku.edu/img/people/miller.jpg<\image>
+			<website>http://people.eecs.ku.edu/~miller/</website>
+			<image>http://www.eecs.ku.edu/img/people/miller.jpg</image>
 		</professor>
 		<professor>
 			<name>Gary Minden</name>
@@ -294,8 +294,8 @@
 			<office>2046 Eaton Hall</office>
 			<email>gminden@eecs.ku.edu</email>
 			<phone>785-864-8813</phone>
-			<website>http://www.eecs.ku.edu/people/faculty/gminden<website>
-			<image>http://www.eecs.ku.edu/img/people/gminden.jpg<\image>
+			<website>http://www.eecs.ku.edu/people/faculty/gminden</website>
+			<image>http://www.eecs.ku.edu/img/people/gminden.jpg</image>
 		</professor>
 		<professor>
 			<name>John Paden</name>
@@ -303,8 +303,8 @@
 			<office>325 Nichols Hall</office>
 			<email>paden@ku.edu</email>
 			<phone>785-864-1692</phone>
-			<website>https://cresis.ku.edu/~paden<website>
-			<image>http://www.eecs.ku.edu/img/people/paden.jpg<\image>
+			<website>https://cresis.ku.edu/~paden</website>
+			<image>http://www.eecs.ku.edu/img/people/paden.jpg</image>
 		</professor>
 		<professor>
 			<name>Bozenna Pasik-Duncan</name>
@@ -312,8 +312,8 @@
 			<office>503 Snow</office>
 			<email>bozenna@math.ku.edu</email>
 			<phone>785-864-5162</phone>
-			<website>http://www.eecs.ku.edu/people/faculty/bozenna<website>
-			<image>http://www.eecs.ku.edu/img/people/bozenna.jpg<\image>
+			<website>http://www.eecs.ku.edu/people/faculty/bozenna</website>
+			<image>http://www.eecs.ku.edu/img/people/bozenna.jpg</image>
 		</professor>
 		<professor>
 			<name>Erik Perrins</name>
@@ -321,8 +321,8 @@
 			<office>2054 Eaton Hall</office>
 			<email>esp@eecs.ku.edu</email>
 			<phone>785-864-7370</phone>
-			<website>http://people.eecs.ku.edu/~esp/<website>
-			<image>http://www.eecs.ku.edu/img/people/esp.jpg<\image>
+			<website>http://people.eecs.ku.edu/~esp/</website>
+			<image>http://www.eecs.ku.edu/img/people/esp.jpg</image>
 		</professor>
 		<professor>
 			<name>David Petr</name>
@@ -330,8 +330,8 @@
 			<office>2001C Eaton Hall</office>
 			<email>dwp@ku.edu</email>
 			<phone>785-864-8823</phone>
-			<website>http://www.ittc.ku.edu/~dwp/<website>
-			<image>http://www.eecs.ku.edu/img/people/dwp.jpg<\image>
+			<website>http://www.ittc.ku.edu/~dwp/</website>
+			<image>http://www.eecs.ku.edu/img/people/dwp.jpg</image>
 		</professor>
 		<professor>
 			<name>Glenn Prescott</name>
@@ -339,8 +339,8 @@
 			<office>3018 Eaton Hall</office>
 			<email>prescott@eecs.ku.edu</email>
 			<phone>785-864-8815</phone>
-			<website>http://www.eecs.ku.edu/people/faculty/prescott<website>
-			<image>http://www.eecs.ku.edu/img/people/prescott.jpg<\image>
+			<website>http://www.eecs.ku.edu/people/faculty/prescott</website>
+			<image>http://www.eecs.ku.edu/img/people/prescott.jpg</image>
 		</professor>
 		<professor>
 			<name>Fernando Rodriguez-Morales</name>
@@ -348,8 +348,8 @@
 			<office></office>
 			<email>frodrigu@ku.edu</email>
 			<phone>785-864-7754</phone>
-			<website>http://www.eecs.ku.edu/people/faculty/frodrigu<website>
-			<image>http://www.eecs.ku.edu/img/people/no_photo.jpg<\image>
+			<website>http://www.eecs.ku.edu/people/faculty/frodrigu</website>
+			<image>http://www.eecs.ku.edu/img/people/no_photo.jpg</image>
 		</professor>
 		<professor>
 			<name>James Rowland</name>
@@ -357,8 +357,8 @@
 			<office>3020 Eaton Hall</office>
 			<email>jrowland@eecs.ku.edu</email>
 			<phone>785-864-8822</phone>
-			<website>http://www.eecs.ku.edu/people/faculty/jrowland<website>
-			<image>http://www.eecs.ku.edu/img/people/jrowland.jpg<\image>
+			<website>http://www.eecs.ku.edu/people/faculty/jrowland</website>
+			<image>http://www.eecs.ku.edu/img/people/jrowland.jpg</image>
 		</professor>
 		<professor>
 			<name>Rassul Saeedipour</name>
@@ -366,8 +366,8 @@
 			<office>BEST 250E</office>
 			<email>rassul@ku.edu</email>
 			<phone>913-897-8624</phone>
-			<website>http://people.eecs.ku.edu/~rassul<website>
-			<image>http://www.eecs.ku.edu/img/people/rassul.jpg<\image>
+			<website>http://people.eecs.ku.edu/~rassul</website>
+			<image>http://www.eecs.ku.edu/img/people/rassul.jpg</image>
 		</professor>
 		<professor>
 			<name>Dola Saha</name>
@@ -375,8 +375,8 @@
 			<office>137 Nichols Hall</office>
 			<email>dola@ku.edu</email>
 			<phone></phone>
-			<website>http://winlab.rutgers.edu/~dola/<website>
-			<image>http://www.eecs.ku.edu/img/people/dsaha.jpg<\image>
+			<website>http://winlab.rutgers.edu/~dola/</website>
+			<image>http://www.eecs.ku.edu/img/people/dsaha.jpg</image>
 		</professor>
 		<professor>
 			<name>Hossein Saiedian</name>
@@ -384,8 +384,8 @@
 			<office>2005C Eaton Hall</office>
 			<email>saiedian@eecs.ku.edu</email>
 			<phone>785-864-8812</phone>
-			<website>http://people.eecs.ku.edu/~saiedian/<website>
-			<image>http://www.eecs.ku.edu/img/people/saiedian.jpg<\image>
+			<website>http://people.eecs.ku.edu/~saiedian/</website>
+			<image>http://www.eecs.ku.edu/img/people/saiedian.jpg</image>
 		</professor>
 		<professor>
 			<name>Alessandro Salandrino</name>
@@ -393,8 +393,8 @@
 			<office>3030 Eaton Hall</office>
 			<email>a.salandrino@ku.edu</email>
 			<phone>785-864-8081</phone>
-			<website>http://people.eecs.ku.edu/~asalandr/Alessandro%20Salandrino's%20Homepage.html<website>
-			<image>http://www.eecs.ku.edu/img/people/asalandr.jpg<\image>
+			<website>http://people.eecs.ku.edu/~asalandr/Alessandro%20Salandrino's%20Homepage.html</website>
+			<image>http://www.eecs.ku.edu/img/people/asalandr.jpg</image>
 		</professor>
 		<professor>
 			<name>Sam Shanmugan</name>
@@ -402,8 +402,8 @@
 			<office>3018 Eaton Hall</office>
 			<email>shanmuga@eecs.ku.edu</email>
 			<phone>785-864-8815</phone>
-			<website>http://www.eecs.ku.edu/people/faculty/shanmuga<website>
-			<image>http://www.eecs.ku.edu/img/people/shanmuga.jpg<\image>
+			<website>http://www.eecs.ku.edu/people/faculty/shanmuga</website>
+			<image>http://www.eecs.ku.edu/img/people/shanmuga.jpg</image>
 		</professor>
 		<professor>
 			<name>Suzanne Shontz</name>
@@ -411,8 +411,8 @@
 			<office>3016 Eaton Hall</office>
 			<email>shontz@ku.edu</email>
 			<phone>785-864-8816</phone>
-			<website>http://people.eecs.ku.edu/~shontz<website>
-			<image>http://www.eecs.ku.edu/img/people/shontz.jpg<\image>
+			<website>http://people.eecs.ku.edu/~shontz</website>
+			<image>http://www.eecs.ku.edu/img/people/shontz.jpg</image>
 		</professor>
 		<professor>
 			<name>James Sterbenz</name>
@@ -420,8 +420,8 @@
 			<office>3036 Eaton Hall</office>
 			<email>jpgs@eecs.ku.edu</email>
 			<phone>785-864-8846</phone>
-			<website>http://www.ittc.ku.edu/~jpgs/<website>
-			<image>http://www.eecs.ku.edu/img/people/jpgs.jpg<\image>
+			<website>http://www.ittc.ku.edu/~jpgs/</website>
+			<image>http://www.eecs.ku.edu/img/people/jpgs.jpg</image>
 		</professor>
 		<professor>
 			<name>James Stiles</name>
@@ -429,8 +429,8 @@
 			<office>3030 Eaton Hall</office>
 			<email>jstiles@eecs.ku.edu</email>
 			<phone>785-864-8803</phone>
-			<website>http://www.eecs.ku.edu/people/faculty/jstiles<website>
-			<image>http://www.eecs.ku.edu/img/people/jstiles.jpg<\image>
+			<website>http://www.eecs.ku.edu/people/faculty/jstiles</website>
+			<image>http://www.eecs.ku.edu/img/people/jstiles.jpg</image>
 		</professor>
 		<professor>
 			<name>Stanislav Svojanovsky</name>
@@ -438,8 +438,8 @@
 			<office></office>
 			<email>ssvojano@jccc.edu</email>
 			<phone>913-469-8500 x5919</phone>
-			<website>http://www.eecs.ku.edu/people/faculty/ssvojano<website>
-			<image>http://www.eecs.ku.edu/img/people/ssvojano.jpg<\image>
+			<website>http://www.eecs.ku.edu/people/faculty/ssvojano</website>
+			<image>http://www.eecs.ku.edu/img/people/ssvojano.jpg</image>
 		</professor>
 		<professor>
 			<name>Annette Tetmeyer</name>
@@ -447,8 +447,8 @@
 			<office>12600 Quivira Rd.</office>
 			<email>tetmeyer@ku.edu</email>
 			<phone>913-897-8400</phone>
-			<website>http://people.eecs.ku.edu/~atetmeye/<website>
-			<image>http://www.eecs.ku.edu/img/people/atetmeye.jpg<\image>
+			<website>http://people.eecs.ku.edu/~atetmeye/</website>
+			<image>http://www.eecs.ku.edu/img/people/atetmeye.jpg</image>
 		</professor>
 		<professor>
 			<name>Guanghui Wang</name>
@@ -456,8 +456,8 @@
 			<office>3012 Eaton Hall</office>
 			<email>ghwang@ku.edu</email>
 			<phone>785-864-8800</phone>
-			<website>http://www.ittc.ku.edu/~ghwang/<website>
-			<image>http://www.eecs.ku.edu/img/people/ghwang.jpg<\image>
+			<website>http://www.ittc.ku.edu/~ghwang/</website>
+			<image>http://www.eecs.ku.edu/img/people/ghwang.jpg</image>
 		</professor>
 		<professor>
 			<name>Jie-Bang Yan</name>
@@ -465,8 +465,8 @@
 			<office>310 Nichols Hall</office>
 			<email>syan@ku.edu</email>
 			<phone>785-864-2185</phone>
-			<website>http://www.eecs.ku.edu/people/faculty/jyan<website>
-			<image>http://www.eecs.ku.edu/img/people/jyan.jpg<\image>
+			<website>http://www.eecs.ku.edu/people/faculty/jyan</website>
+			<image>http://www.eecs.ku.edu/img/people/jyan.jpg</image>
 		</professor>
 		<professor>
 			<name>Yang Yi</name>
@@ -474,8 +474,8 @@
 			<office>2050 Eaton Hall</office>
 			<email>yyi@ku.edu</email>
 			<phone>785-864-8840</phone>
-			<website>http://www.ittc.ku.edu/~yangyi/<website>
-			<image>http://www.eecs.ku.edu/img/people/yangyi.jpg<\image>
+			<website>http://www.ittc.ku.edu/~yangyi/</website>
+			<image>http://www.eecs.ku.edu/img/people/yangyi.jpg</image>
 		</professor>
 		<professor>
 			<name>Heechul Yun</name>
@@ -483,8 +483,8 @@
 			<office>3040 Eaton</office>
 			<email>heechul.yun@ku.edu</email>
 			<phone></phone>
-			<website>http://www.ittc.ku.edu/~heechul/<website>
-			<image>http://www.eecs.ku.edu/img/people/hyun.jpg<\image>
+			<website>http://www.ittc.ku.edu/~heechul/</website>
+			<image>http://www.eecs.ku.edu/img/people/hyun.jpg</image>
 		</professor>
 		<professor>
 			<name>Cuncong Zhong</name>
@@ -492,7 +492,7 @@
 			<office></office>
 			<email>cczhong@ku.edu</email>
 			<phone></phone>
-			<website>http://www.eecs.ku.edu/people/faculty/czhong<website>
-			<image>http://www.eecs.ku.edu/img/people/czhong.jpg<\image>
+			<website>http://www.eecs.ku.edu/people/faculty/czhong</website>
+			<image>http://www.eecs.ku.edu/img/people/czhong.jpg</image>
 		</professor>
 	</institution>

@@ -6,8 +6,8 @@
 			<office></office>
 			<email>cheng@gwu.edu</email>
 			<phone>202-994-9751</phone>
-			<website>http://www.seas.gwu.edu/~cheng/<website>
-			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/xiuzhen_cheng_thumb.jpg<\image>
+			<website>http://www.seas.gwu.edu/~cheng/</website>
+			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/xiuzhen_cheng_thumb.jpg</image>
 		</professor>
 		<professor>
 			<name>Hyeong-Ah Choi</name>
@@ -15,8 +15,8 @@
 			<office></office>
 			<email>hchoi@gwu.edu</email>
 			<phone>202-994-5916</phone>
-			<website>http://www.seas.gwu.edu/~hchoi<website>
-			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/HyeongAh_Choi_thumb.jpg<\image>
+			<website>http://www.seas.gwu.edu/~hchoi</website>
+			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/HyeongAh_Choi_thumb.jpg</image>
 		</professor>
 		<professor>
 			<name>Mona Diab</name>
@@ -24,8 +24,8 @@
 			<office></office>
 			<email>mtdiab@gwu.edu</email>
 			<phone>202-994-8109</phone>
-			<website>http://www.cs.seas.gwu.edu/node/147<website>
-			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/mona_diab_thumb.jpg<\image>
+			<website>http://www.cs.seas.gwu.edu/node/147</website>
+			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/mona_diab_thumb.jpg</image>
 		</professor>
 		<professor>
 			<name>James Hahn</name>
@@ -33,8 +33,8 @@
 			<office></office>
 			<email>hahn@gwu.edu</email>
 			<phone>202-994-5920</phone>
-			<website>http://www.seas.gwu.edu/~hahn/<website>
-			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/Jame_Hahn_thumb.jpg<\image>
+			<website>http://www.seas.gwu.edu/~hahn/</website>
+			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/Jame_Hahn_thumb.jpg</image>
 		</professor>
 		<professor>
 			<name>Rachelle S. Heller</name>
@@ -42,8 +42,8 @@
 			<office></office>
 			<email>sheller@gwu.edu</email>
 			<phone>202-994-6698</phone>
-			<website>http://www.seas.gwu.edu/~sheller/<website>
-			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/Rachelle_Heller_thumb.jpg<\image>
+			<website>http://www.seas.gwu.edu/~sheller/</website>
+			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/Rachelle_Heller_thumb.jpg</image>
 		</professor>
 		<professor>
 			<name>Claire Monteleoni</name>
@@ -51,8 +51,8 @@
 			<office></office>
 			<email>cmontel@gwu.edu</email>
 			<phone>202-994-6569</phone>
-			<website>http://www.seas.gwu.edu/~cmontel<website>
-			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/Claire_Monteleoni.jpg<\image>
+			<website>http://www.seas.gwu.edu/~cmontel</website>
+			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/Claire_Monteleoni.jpg</image>
 		</professor>
 		<professor>
 			<name>Bhagirath Narahari</name>
@@ -60,8 +60,8 @@
 			<office></office>
 			<email>narahari@gwu.edu</email>
 			<phone>202-994-8323</phone>
-			<website>http://www.seas.gwu.edu/~narahari/<website>
-			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/narahari_bhagi_thumb.jpg<\image>
+			<website>http://www.seas.gwu.edu/~narahari/</website>
+			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/narahari_bhagi_thumb.jpg</image>
 		</professor>
 		<professor>
 			<name>Gabriel Parmer</name>
@@ -69,8 +69,8 @@
 			<office></office>
 			<email>gparmer@gwu.edu</email>
 			<phone>202-994-9741</phone>
-			<website>http://www.cs.seas.gwu.edu/node/154<website>
-			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/gabriel_parmer_thumb.jpg<\image>
+			<website>http://www.cs.seas.gwu.edu/node/154</website>
+			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/gabriel_parmer_thumb.jpg</image>
 		</professor>
 		<professor>
 			<name>Rahul Simha</name>
@@ -78,8 +78,8 @@
 			<office></office>
 			<email>simha@gwu.edu</email>
 			<phone>202-994-0396</phone>
-			<website>http://www.seas.gwu.edu/~simha/<website>
-			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/Rahul_Simha_thumb.jpg<\image>
+			<website>http://www.seas.gwu.edu/~simha/</website>
+			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/Rahul_Simha_thumb.jpg</image>
 		</professor>
 		<professor>
 			<name>Poorvi Vora</name>
@@ -87,8 +87,8 @@
 			<office></office>
 			<email>poorvi@gwu.edu</email>
 			<phone>202-994-1864</phone>
-			<website>http://www.seas.gwu.edu/~poorvi/<website>
-			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/poorvi_3.jpg<\image>
+			<website>http://www.seas.gwu.edu/~poorvi/</website>
+			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/poorvi_3.jpg</image>
 		</professor>
 		<professor>
 			<name>Timothy Wood</name>
@@ -96,8 +96,8 @@
 			<office></office>
 			<email>timwood@gwu.edu</email>
 			<phone>202-994-1918</phone>
-			<website>http://faculty.cs.gwu.edu/~timwood<website>
-			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/Timothy_Wood_thumb.jpg<\image>
+			<website>http://faculty.cs.gwu.edu/~timwood</website>
+			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/Timothy_Wood_thumb.jpg</image>
 		</professor>
 		<professor>
 			<name>Abdou Youssef</name>
@@ -105,8 +105,8 @@
 			<office></office>
 			<email>ayoussef@gwu.edu</email>
 			<phone>202-994-4953</phone>
-			<website>http://www.seas.gwu.edu/~ayoussef/<website>
-			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/Abdou_Youssef_thumb.jpg<\image>
+			<website>http://www.seas.gwu.edu/~ayoussef/</website>
+			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/Abdou_Youssef_thumb.jpg</image>
 		</professor>
 		<professor>
 			<name>Nan Zhang</name>
@@ -114,7 +114,7 @@
 			<office></office>
 			<email>nzhang10@gwu.edu</email>
 			<phone>202-994-5919</phone>
-			<website>http://www.seas.gwu.edu/~nzhang10<website>
-			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/nan_zhang_thumb.jpg<\image>
+			<website>http://www.seas.gwu.edu/~nzhang10</website>
+			<image>http://www.seas.gwu.edu/sites/www.seas.gwu.edu/files/image/nan_zhang_thumb.jpg</image>
 		</professor>
 	</institution>

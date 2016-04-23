@@ -34,14 +34,21 @@ class ProfList:
 
     def getProfList(self):
         page = self.getPage()
-        regex = '<div class=\"one-third column\">.*?<li>(.*?)</li>.*?</div>'
+        #regex = '<div class=\"one-third column\">.*?<li>(.*?)</li>.*?</div>'
+        regex = '<div class="one-third column clear">.*?<h2>Full-Time</h2>.*?<ul>(.*?)</ul>.*?</div>'
         #regex = '<tr>.*?<img src=\"(.*?)\".*?</tr>'
         myItems = re.findall(regex, page.read(), re.S)
+        tmpStr = myItems[0]
+        # print tmpStr
+        regex = '<li>.*?<a.*?href="(.*?)">(.*?)</a>.*?</li>'
+        myItems = re.findall(regex, tmpStr, re.S)
+        # print myItems
+        # return
         for item in myItems:
-            print item
+            # print item
             ProfName = item[1]
             ProfPhotoUrl = ""
-            ProfPUrl = item[0]
+            ProfPUrl = "http://www.eecs.utk.edu/people/faculty" + item[0]
             ProfTitle = ""
             ProfArea = ""
             ProfOffice = ""
@@ -64,12 +71,12 @@ class ProfList:
             result += "\t\t\t<office>%s</office>\n" % (prof.office)
             result += "\t\t\t<email></email>\n"
             result += "\t\t\t<phone></phone>\n"
-            result += "\t\t\t<website>%s<website>\n" % (prof.pUrl)
-            result += "\t\t\t<image>%s<\image>\n" % (prof.photoUrl)
+            result += "\t\t\t<website>%s</website>\n" % (prof.pUrl)
+            result += "\t\t\t<image>%s</image>\n" % (prof.photoUrl)
             result += "\t\t</professor>\n"
         result += "\t</institution>\n"
         # print result
-        file = open("UniversityOfDeleware.txt","w")
+        file = open("UTX.xml","w")
         file.writelines(result)
 
 
@@ -78,5 +85,5 @@ class ProfList:
 baseURL = 'http://www.eecs.utk.edu/people/faculty/'
 pl = ProfList(baseURL)
 # pl.getPage()
-# pl.outPutProf()
-pl.getProfList()
+pl.outPutProf()
+# pl.getProfList()

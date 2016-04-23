@@ -36,9 +36,11 @@ class ProfList:
 
     def getProfList(self):
         page = self.getPage()
-        regex = '<div class=\"wdn-grid-set\">.*?<a class=\"wdn-button\" title=\"Web page for.*?\" href=\"(.*?)\".*?<strong>(.*?)</strong>.*?<div class=\"gs-fac-rsch\">(.*?)(<br />)?</div>'
+        regex = '<p><em><img src="(.*?)".*?><span.*?>.*?<a href="(.*?)">(.*?)<br></a></span></em></span></em></span></em><em>(.*?)</em></p>'
         #regex = '<tr>.*?<img src=\"(.*?)\".*?</tr>'
         myItems = re.findall(regex, page.read(), re.S)
+        print myItems
+        return
         for item in myItems:
             ProfName = ""
             ProfPhotoUrl = ""
@@ -61,29 +63,29 @@ class ProfList:
 
     def outPutProf(self):
         result = "<?xml version=\"1.0\" ?>\n\t<institution>\n"
-        # self.getProfList()
-        # for prof in self.profs:
-        result += "\t\t<professor>\n"
-        result += "\t\t\t<name></name>\n" #% (prof.name)
-        result += "\t\t\t<title></title>\n" #% (prof.title)
-        result += "\t\t\t<office></office>\n" #% (prof.office)
-        result += "\t\t\t<email></email>\n" #% (prof.email)
-        result += "\t\t\t<phone></phone>\n" #% (prof.phone)
-        result += "\t\t\t<website><website>\n" #% (prof.pUrl)
-        result += "\t\t\t<image><\image>\n" #% (prof.photoUrl)
-        result += "\t\t</professor>\n"
+        self.getProfList()
+        for prof in self.profs:
+            result += "\t\t<professor>\n"
+            result += "\t\t\t<name>%s</name>\n" % (prof.name)
+            result += "\t\t\t<title>%s</title>\n" % (prof.title)
+            result += "\t\t\t<office>%s</office>\n" % (prof.office)
+            result += "\t\t\t<email>%s</email>\n" % (prof.email)
+            result += "\t\t\t<phone>%s</phone>\n" % (prof.phone)
+            result += "\t\t\t<website>%s</website>\n" % (prof.pUrl)
+            result += "\t\t\t<image>%s</image>\n" % (prof.photoUrl)
+            result += "\t\t</professor>\n"
         result += "\t</institution>\n"
         # print result
-        fileName = "OHSU.txt"
+        fileName = "UKY.xml"
         outputDir = "result"
-        file = open(outputDir + "/" + fileName,"w")
+        file = open(fileName,"w")
         file.writelines(result)
 
 
 
 
-baseURL = 'http://www.eecs.utk.edu/people/faculty/'
+baseURL = 'https://www.cs.uky.edu/people/faculty'
 pl = ProfList(baseURL)
-pl.outPutProf()
+# pl.outPutProf()
 # pl.getPage()
-#pl.getProfList()
+pl.getProfList()

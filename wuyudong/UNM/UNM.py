@@ -27,7 +27,7 @@ class ProfList:
             url = self.baseUrl
             request = urllib2.Request(url)
             response = urllib2.urlopen(request)
-            print response.read()
+            # print response.read()
             return response
         except urllib2.URLError, e:
             if hasattr(e,"reason"):
@@ -36,28 +36,41 @@ class ProfList:
 
     def getProfList(self):
         page = self.getPage()
-        regex = '<td.*?<a href="(.*?)"><img.*?src="(.*?)".*?></a>.*?<a.*?>(<br />\n)?(<strong>)?(.*?)<.*?</td>'
-        #regex = '<tr>.*?<img src=\"(.*?)\".*?</tr>'
+        # regex = '<div class=\"wdn-grid-set\">.*?<a class=\"wdn-button\" title=\"Web page for.*?\" href=\"(.*?)\".*?<strong>(.*?)</strong>.*?<div class=\"gs-fac-rsch\">(.*?)(<br />)?</div>'
+        regex = '<div class="single-person-entry computer-science">(.*?)</div>'
         myItems = re.findall(regex, page.read(), re.S)
-        # print myItems
-        # for item in myItems:
-            # if item[]
+        # print myItems[0]
         # return
         for item in myItems:
-            ProfName = item[4]
-            ProfPhotoUrl = item[1]
-            ProfPUrl = item[0]
-            ProfTitle = ""
+            tmpStr = item
+            regex = '<h4><a href="(.*?)">(.*?)</a>'
+            myTokens = re.findall(regex, tmpStr, re.S)
+            ProfName = myTokens[0][1]
+            ProfPUrl = "http://www.cs.unm.edu/directory/" + myTokens[0][0]
+            regex = '<img.*?src="(.*?)".*?>'
+            myTokens = re.findall(regex, tmpStr, re.S)
+            ProfPhotoUrl = "http://www.cs.unm.edu/directory/" + myTokens[0]
+            regex = '<span class="personlist-title">(.*?)</span></h4>'
+            myTokens = re.findall(regex, tmpStr, re.S)
+            ProfTitle = myTokens[0]
             ProfArea = ""
-            ProfOffice = ""
-            ProfPhone = ""
-            ProfEmail = ""
+            regex = '<tr><td>Office: </td><td>(.*?)</td></tr>'
+            myTokens = re.findall(regex, tmpStr, re.S)
+            ProfOffice = myTokens[0][6:]
+            regex = '<tr><td>Phone: </td><td>(.*?)</td></tr>'
+            myTokens = re.findall(regex, tmpStr, re.S)
+            ProfPhone = myTokens[0][6:]
+            regex = '<tr><td>Email: </td><td>.*?<a href="mailto:(.*?)">.*?</a></td></tr>'
+            myTokens = re.findall(regex, tmpStr, re.S)
+            ProfEmail = myTokens[0]
             # print ProfName
             # print ProfPhotoUrl
             # print ProfPUrl
             # print ProfTitle
             # print ProfArea
             # print ProfOffice
+            # print ProfPhone
+            # print ProfEmail
             # print " "
             self.profs.append(Prof(ProfName, ProfPhotoUrl, ProfPUrl, ProfTitle, ProfArea, ProfOffice, ProfPhone, ProfEmail))
 
@@ -76,13 +89,15 @@ class ProfList:
             result += "\t\t</professor>\n"
         result += "\t</institution>\n"
         # print result
-        file = open("FSU.xml","w")
+        fileName = "UNM.xml"
+        outputDir = "result"
+        file = open(fileName,"w")
         file.writelines(result)
 
 
 
 
-baseURL = 'http://www.cs.fsu.edu/department/faculty/'
+baseURL = 'http://www.cs.unm.edu/directory/index.html'
 pl = ProfList(baseURL)
 pl.outPutProf()
 # pl.getPage()

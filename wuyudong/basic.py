@@ -69,14 +69,14 @@ class ProfList:
             result += "\t\t\t<office>%s</office>\n" % (prof.office)
             result += "\t\t\t<email>%s</email>\n" % (prof.email)
             result += "\t\t\t<phone>%s</phone>\n" % (prof.phone)
-            result += "\t\t\t<website>%s<website>\n" % (prof.pUrl)
-            result += "\t\t\t<image>%s<\image>\n" % (prof.photoUrl)
+            result += "\t\t\t<website>%s</website>\n" % (prof.pUrl)
+            result += "\t\t\t<image>%s</image>\n" % (prof.photoUrl)
             result += "\t\t</professor>\n"
         result += "\t</institution>\n"
         # print result
-        fileName = "basic.txt"
+        fileName = "basic.xml"
         outputDir = "result"
-        file = open(outputDir + "/" + fileName,"w")
+        file = open(fileName,"w")
         file.writelines(result)
 
 
@@ -84,6 +84,6 @@ class ProfList:
 
 baseURL = 'http://www.eecs.utk.edu/people/faculty/'
 pl = ProfList(baseURL)
-pl.outPutProf()
+# pl.outPutProf()
 # pl.getPage()
-#pl.getProfList()
+pl.getProfList()

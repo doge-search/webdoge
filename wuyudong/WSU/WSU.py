@@ -63,12 +63,12 @@ class ProfList:
             result += "\t\t\t<office>%s</office>\n" % (prof.office)
             result += "\t\t\t<email></email>\n"
             result += "\t\t\t<phone></phone>\n"
-            result += "\t\t\t<website>%s<website>\n" % (prof.pUrl)
-            result += "\t\t\t<image>%s<\image>\n" % (prof.photoUrl)
+            result += "\t\t\t<website>%s</website>\n" % (prof.pUrl)
+            result += "\t\t\t<image>%s</image>\n" % (prof.photoUrl)
             result += "\t\t</professor>\n"
         result += "\t</institution>\n"
         # print result
-        file = open("WSU.txt","w")
+        file = open("WSU.xml","w")
         file.writelines(result)
 
 
@@ -78,3 +78,4 @@ baseURL = 'http://school.eecs.wsu.edu/all_faculty'
 pl = ProfList(baseURL)
 pl.outPutProf()
 # pl.getProfList()
+# pl.getPage()

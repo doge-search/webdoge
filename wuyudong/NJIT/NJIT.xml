@@ -6,8 +6,8 @@
 			<office></office>
 			<email>cristian.m.borcea@njit.edu</email>
 			<phone>973-596-2866</phone>
-			<website>http://cs.njit.edu/people/borcea.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/borcea.png<\image>
+			<website>http://cs.njit.edu/people/borcea.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/borcea.png</image>
 		</professor>
 		<professor>
 			<name>Vincent Oria</name>
@@ -15,8 +15,8 @@
 			<office></office>
 			<email>vincent.oria@njit.edu</email>
 			<phone>973-596-5767</phone>
-			<website>http://cs.njit.edu/people/oria.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/oria.png<\image>
+			<website>http://cs.njit.edu/people/oria.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/oria.png</image>
 		</professor>
 		<professor>
 			<name>Joseph Y Leung</name>
@@ -24,8 +24,8 @@
 			<office></office>
 			<email>joseph.y.leung@njit.edu</email>
 			<phone>973-596-3387</phone>
-			<website>http://cs.njit.edu/people/leung.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/leung.png<\image>
+			<website>http://cs.njit.edu/people/leung.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/leung.png</image>
 		</professor>
 		<professor>
 			<name>James M Calvin</name>
@@ -33,8 +33,8 @@
 			<office></office>
 			<email>james.m.calvin@njit.edu</email>
 			<phone>973-596-3378</phone>
-			<website>http://cs.njit.edu/people/calvin.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/calvin.png<\image>
+			<website>http://cs.njit.edu/people/calvin.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/calvin.png</image>
 		</professor>
 		<professor>
 			<name>Narain Gehani</name>
@@ -42,8 +42,8 @@
 			<office></office>
 			<email>narain.gehani@njit.edu</email>
 			<phone>973-596-2318</phone>
-			<website>http://cs.njit.edu/people/gehani.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/gehani.png<\image>
+			<website>http://cs.njit.edu/people/gehani.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/gehani.png</image>
 		</professor>
 		<professor>
 			<name>James Geller</name>
@@ -51,8 +51,8 @@
 			<office></office>
 			<email>james.geller@njit.edu</email>
 			<phone>973-596-3383</phone>
-			<website>http://cs.njit.edu/people/geller.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/geller.png<\image>
+			<website>http://cs.njit.edu/people/geller.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/geller.png</image>
 		</professor>
 		<professor>
 			<name>Chengjun Liu</name>
@@ -60,8 +60,8 @@
 			<office></office>
 			<email>chengjun.liu@njit.edu</email>
 			<phone>973-596-5280</phone>
-			<website>http://cs.njit.edu/people/liu.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/cliu.png<\image>
+			<website>http://cs.njit.edu/people/liu.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/cliu.png</image>
 		</professor>
 		<professor>
 			<name>James McHugh</name>
@@ -69,8 +69,8 @@
 			<office></office>
 			<email>james.mchugh@njit.edu</email>
 			<phone>973-596-3394</phone>
-			<website>http://cs.njit.edu/people/mchugh.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/mchugh.png<\image>
+			<website>http://cs.njit.edu/people/mchugh.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/mchugh.png</image>
 		</professor>
 		<professor>
 			<name>Ali Mili</name>
@@ -78,8 +78,8 @@
 			<office></office>
 			<email>ali.mili@njit.edu</email>
 			<phone>973-596-5215</phone>
-			<website>http://cs.njit.edu/people/mili.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/mili.png<\image>
+			<website>http://cs.njit.edu/people/mili.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/mili.png</image>
 		</professor>
 		<professor>
 			<name>Marvin K Nakayama</name>
@@ -87,8 +87,8 @@
 			<office></office>
 			<email>marvin@njit.edu</email>
 			<phone>973-596-3398</phone>
-			<website>http://cs.njit.edu/people/nakayama.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/marvin.png<\image>
+			<website>http://cs.njit.edu/people/nakayama.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/marvin.png</image>
 		</professor>
 		<professor>
 			<name>Yehoshua Perl</name>
@@ -96,8 +96,8 @@
 			<office></office>
 			<email>yehoshua.perl@njit.edu</email>
 			<phone>973-596-3392</phone>
-			<website>http://cs.njit.edu/people/perl.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/perl.png<\image>
+			<website>http://cs.njit.edu/people/perl.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/perl.png</image>
 		</professor>
 		<professor>
 			<name>Frank Y Shih</name>
@@ -105,8 +105,8 @@
 			<office></office>
 			<email>frank.y.shih@njit.edu</email>
 			<phone>973-596-5654</phone>
-			<website>http://cs.njit.edu/people/shih.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/shih.png<\image>
+			<website>http://cs.njit.edu/people/shih.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/shih.png</image>
 		</professor>
 		<professor>
 			<name>Jason T Wang</name>
@@ -114,8 +114,8 @@
 			<office></office>
 			<email>jason.t.wang@njit.edu</email>
 			<phone>973-596-3396</phone>
-			<website>http://cs.njit.edu/people/wang.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/wangj.png<\image>
+			<website>http://cs.njit.edu/people/wang.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/wangj.png</image>
 		</professor>
 		<professor>
 			<name>Michael A Baltrush</name>
@@ -123,8 +123,8 @@
 			<office></office>
 			<email>michael.a.baltrush@njit.edu</email>
 			<phone>973-596-3386</phone>
-			<website>http://cs.njit.edu/people/baltrush.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/baltrush.png<\image>
+			<website>http://cs.njit.edu/people/baltrush.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/baltrush.png</image>
 		</professor>
 		<professor>
 			<name>Reza Curtmola</name>
@@ -132,8 +132,8 @@
 			<office></office>
 			<email>reza.curtmola@njit.edu</email>
 			<phone>973-596-5776</phone>
-			<website>http://cs.njit.edu/people/curtmola.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/crix.png<\image>
+			<website>http://cs.njit.edu/people/curtmola.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/crix.png</image>
 		</professor>
 		<professor>
 			<name>Alexandros Gerbessiotis</name>
@@ -141,8 +141,8 @@
 			<office></office>
 			<email>alexg@njit.edu</email>
 			<phone>973-596-3244</phone>
-			<website>http://cs.njit.edu/people/gerbessiotis.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/alexg.png<\image>
+			<website>http://cs.njit.edu/people/gerbessiotis.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/alexg.png</image>
 		</professor>
 		<professor>
 			<name>Daochuan Hung</name>
@@ -150,8 +150,8 @@
 			<office></office>
 			<email>d.c.hung@njit.edu</email>
 			<phone>973-596-3384</phone>
-			<website>http://cs.njit.edu/people/hung.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/hung.png<\image>
+			<website>http://cs.njit.edu/people/hung.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/hung.png</image>
 		</professor>
 		<professor>
 			<name>David Nassimi</name>
@@ -159,8 +159,8 @@
 			<office></office>
 			<email>david.nassimi@njit.edu</email>
 			<phone>973-596-5645</phone>
-			<website>http://cs.njit.edu/people/nassimi.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/nassimi.png<\image>
+			<website>http://cs.njit.edu/people/nassimi.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/nassimi.png</image>
 		</professor>
 		<professor>
 			<name>Iulian Neamtiu</name>
@@ -168,8 +168,8 @@
 			<office></office>
 			<email>iulian.neamtiu@njit.edu</email>
 			<phone>973-596-3340</phone>
-			<website>http://cs.njit.edu/people/neamtiu.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/ineamtiu.png<\image>
+			<website>http://cs.njit.edu/people/neamtiu.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/ineamtiu.png</image>
 		</professor>
 		<professor>
 			<name>Kurt Rohloff</name>
@@ -177,8 +177,8 @@
 			<office></office>
 			<email>kurt.rohloff@njit.edu</email>
 			<phone>973-596-3382</phone>
-			<website><website>
-			<image>http://www.njit.edu/uws/ldapimage.php?uid=rohloff&format=thumb<\image>
+			<website></website>
+			<image>http://www.njit.edu/uws/ldapimage.php?uid=rohloff&format=thumb</image>
 		</professor>
 		<professor>
 			<name>Usman W Roshan</name>
@@ -186,8 +186,8 @@
 			<office></office>
 			<email>usman.w.roshan@njit.edu</email>
 			<phone>973-596-2872</phone>
-			<website>http://cs.njit.edu/people/roshan.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/usman.png<\image>
+			<website>http://cs.njit.edu/people/roshan.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/usman.png</image>
 		</professor>
 		<professor>
 			<name>Andrew Sohn</name>
@@ -195,8 +195,8 @@
 			<office></office>
 			<email>andrew.sohn@njit.edu</email>
 			<phone>973-596-2315</phone>
-			<website>http://cs.njit.edu/people/sohn.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/sohna.png<\image>
+			<website>http://cs.njit.edu/people/sohn.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/sohna.png</image>
 		</professor>
 		<professor>
 			<name>Dimitrios Theodoratos</name>
@@ -204,8 +204,8 @@
 			<office></office>
 			<email>dimitri.theodoratos@njit.edu</email>
 			<phone>973-596-5213</phone>
-			<website>http://cs.njit.edu/people/theodoratos.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/dth.png<\image>
+			<website>http://cs.njit.edu/people/theodoratos.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/dth.png</image>
 		</professor>
 		<professor>
 			<name>Guiling Wang</name>
@@ -213,8 +213,8 @@
 			<office></office>
 			<email>guiling.wang@njit.edu</email>
 			<phone>973-596-5211</phone>
-			<website>http://cs.njit.edu/people/grace-wang.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/gwang.png<\image>
+			<website>http://cs.njit.edu/people/grace-wang.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/gwang.png</image>
 		</professor>
 		<professor>
 			<name>Zhi Wei</name>
@@ -222,8 +222,8 @@
 			<office></office>
 			<email>zhi.wei@njit.edu</email>
 			<phone>973-642-4497</phone>
-			<website>http://cs.njit.edu/people/wei.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/zhiwei.png<\image>
+			<website>http://cs.njit.edu/people/wei.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/zhiwei.png</image>
 		</professor>
 		<professor>
 			<name>Chase Q Wu</name>
@@ -231,8 +231,8 @@
 			<office></office>
 			<email>chase.q.wu@njit.edu</email>
 			<phone>973-642-4579</phone>
-			<website>http://cs.njit.edu/people/wu.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/chasewu.png<\image>
+			<website>http://cs.njit.edu/people/wu.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/chasewu.png</image>
 		</professor>
 		<professor>
 			<name>Xiaoning Ding</name>
@@ -240,8 +240,8 @@
 			<office></office>
 			<email>xiaoning.ding@njit.edu</email>
 			<phone>973-596-3390</phone>
-			<website>http://cs.njit.edu/people/dingxn.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/dingxn.png<\image>
+			<website>http://cs.njit.edu/people/dingxn.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/dingxn.png</image>
 		</professor>
 		<professor>
 			<name>George Blank</name>
@@ -249,8 +249,8 @@
 			<office></office>
 			<email>george.blank@njit.edu</email>
 			<phone>973-596-5485</phone>
-			<website>http://cs.njit.edu/people/blank.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/gblank.png<\image>
+			<website>http://cs.njit.edu/people/blank.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/gblank.png</image>
 		</professor>
 		<professor>
 			<name>Nafi C Diallo</name>
@@ -258,8 +258,8 @@
 			<office></office>
 			<email>nafi.c.diallo@njit.edu</email>
 			<phone>973-596-3234</phone>
-			<website><website>
-			<image>http://www.njit.edu/uws/ldapimage.php?uid=ncd8&format=thumb<\image>
+			<website></website>
+			<image>http://www.njit.edu/uws/ldapimage.php?uid=ncd8&format=thumb</image>
 		</professor>
 		<professor>
 			<name>Osama Eljabiri</name>
@@ -267,8 +267,8 @@
 			<office></office>
 			<email>osama.eljabiri@njit.edu</email>
 			<phone>973-642-7123</phone>
-			<website>http://cs.njit.edu/people/eljabiri.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/oe2.png<\image>
+			<website>http://cs.njit.edu/people/eljabiri.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/oe2.png</image>
 		</professor>
 		<professor>
 			<name>Jonathan J Kapleau</name>
@@ -276,8 +276,8 @@
 			<office></office>
 			<email>kapleau@njit.edu</email>
 			<phone>973-596-2657</phone>
-			<website>http://cs.njit.edu/people/kapleau.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/kapleau.png<\image>
+			<website>http://cs.njit.edu/people/kapleau.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/kapleau.png</image>
 		</professor>
 		<professor>
 			<name>Dionissios Karvelas</name>
@@ -285,8 +285,8 @@
 			<office></office>
 			<email>dionissios.karvelas@njit.edu</email>
 			<phone>973-596-2987</phone>
-			<website>http://cs.njit.edu/people/karvelas.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/karvelas.png<\image>
+			<website>http://cs.njit.edu/people/karvelas.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/karvelas.png</image>
 		</professor>
 		<professor>
 			<name>Morty D Kwestel</name>
@@ -294,8 +294,8 @@
 			<office></office>
 			<email>kwestel@njit.edu</email>
 			<phone>973-596-5683</phone>
-			<website>http://cs.njit.edu/people/kwestel.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/kwestel.png<\image>
+			<website>http://cs.njit.edu/people/kwestel.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/kwestel.png</image>
 		</professor>
 		<professor>
 			<name>Theodore L Nicholson</name>
@@ -303,8 +303,8 @@
 			<office></office>
 			<email>theo@njit.edu</email>
 			<phone>973-596-5750</phone>
-			<website>http://cs.njit.edu/people/nicholson.php<website>
-			<image>http://www.njit.edu/uws/faculty/portraits/theo.png<\image>
+			<website>http://cs.njit.edu/people/nicholson.php</website>
+			<image>http://www.njit.edu/uws/faculty/portraits/theo.png</image>
 		</professor>
 		<professor>
 			<name>Gerard W Ryan</name>
@@ -312,8 +312,8 @@
 			<office></office>
 			<email>gerard.w.ryan@njit.edu</email>
 			<phone>973-642-4029</phone>
-			<website><website>
-			<image>http://www.njit.edu/uws/ldapimage.php?uid=gwryan&format=thumb<\image>
+			<website></website>
+			<image>http://www.njit.edu/uws/ldapimage.php?uid=gwryan&format=thumb</image>
 		</professor>
 		<professor>
 			<name>Junilda Spirollari</name>
@@ -321,8 +321,8 @@
 			<office></office>
 			<email>js9@njit.edu</email>
 			<phone>973-596-2666</phone>
-			<website><website>
-			<image>http://www.njit.edu/uws/ldapimage.php?uid=js9&format=thumb<\image>
+			<website></website>
+			<image>http://www.njit.edu/uws/ldapimage.php?uid=js9&format=thumb</image>
 		</professor>
 		<professor>
 			<name>Leon Vaks</name>
@@ -330,7 +330,7 @@
 			<office></office>
 			<email>lv55@njit.edu</email>
 			<phone>973-642-7198</phone>
-			<website><website>
-			<image>http://www.njit.edu/uws/ldapimage.php?uid=lv55&format=thumb<\image>
+			<website></website>
+			<image>http://www.njit.edu/uws/ldapimage.php?uid=lv55&format=thumb</image>
 		</professor>
 	</institution>

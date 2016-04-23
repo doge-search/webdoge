@@ -36,33 +36,39 @@ class ProfList:
 
     def getProfList(self):
         page = self.getPage()
-        regex = '<div class="titlecard">.*?<img.*?src="(.*?)"/>.*?<h3>(.*?)</h3>(.*?)</ul></div>'
-        #regex = '<tr>.*?<img src=\"(.*?)\".*?</tr>'
+        # pageString = page.read()
+        #regex = r'<tr>.*?<td valign="top">.*?<a.*?>.*?<strong>([^<].*?)(<br />\n)?</strong>.*?</a>.*?</td>.*?</tr>'
+        regex = '<table align="left" border="0" cellpadding="6" cellspacing="8" class="table-590">.*?<tbody>(.*?)<h4>Instructors and Visiting Faculty</h4>'
         myItems = re.findall(regex, page.read(), re.S)
+        #regex = r'<tr>.*?<td valign="top">.*?<strong>.*?<a.*?>(.*?)</a>.*?</strong>.*?</td>.*?</tr>'
+        #myItems += re.findall(regex, pageString, re.S)
+        tmpStr = myItems[0]
+        regex = '<tr>(.*?)</tr>'
+        myItems = re.findall(regex, tmpStr, re.S)
         # print myItems
+        # for item in myItems:
+            # print item[0]
+            # print item[1]
         # return
         for item in myItems:
-            ProfName = item[1]
-            ProfPhotoUrl = item[0]
-            ProfPUrl = ""
-            ProfTitle = ""
-            ProfArea = ""
-            ProfOffice = ""
-            ProfPhone = ""
-            ProfEmail = ""
-            regex1 = r'<a href="(.*?)">(.*?)</a>'
-            reObj = re.findall(regex1, ProfName, re.S)
-            if len(reObj) > 0:
-                ProfName = reObj[0][1]
-                ProfPUrl = reObj[0][0]
-            regex1 = r'<li.*?phone.*?>(.*?)</li>'
-            reObj = re.findall(regex1, item[2], re.S)
-            if len(reObj) > 0:
-                ProfPhone = reObj[0]
-            regex1 = r'<li.*?email.*?><a.*?>(.*?)</a></li>'
-            reObj = re.findall(regex1, item[2], re.S)
-            if len(reObj) > 0:
-                ProfEmail = reObj[0]
+            regex = '<td.*?>.*?<img.*?src="(.*?)".*?>.*?</td>.*?<td.*?>.*?</td>.*?<td.*?>.*?</td>'
+            tmpStr = item
+            myTokens = re.findall(regex, tmpStr, re.S)
+            if len(myTokens) > 0:
+                ProfPhotoUrl = "http://www.brandeis.edu/programs/computerscience/" + myTokens[0]
+            print myTokens
+            regex = '<td.*?>.*?</td>.*?<td.*?>.*?<a href="(.*?)".*?>(<strong>)?(.*?)(</strong>)?</a>.*?</td>.*?<td.*?>.*?</td>'
+            myTokens = re.findall(regex, tmpStr, re.S)
+            print myTokens
+            if len(myTokens) > 0:
+                ProfName = ""
+                # ProfPhotoUrl = "http://www.brandeis.edu/programs/computerscience/"
+                ProfPUrl = ""
+                ProfTitle = ""#item[3]
+                ProfArea = ""#item[7]
+                ProfOffice = ""#item[4]
+                ProfPhone = ""#item[5]
+                ProfEmail = ""#item[6]
             # print ProfName
             # print ProfPhotoUrl
             # print ProfPUrl
@@ -72,39 +78,33 @@ class ProfList:
             # print ProfPhone
             # print ProfEmail
             # print " "
-            flag = 0
-            for prof in self.profs:
-                if ProfEmail == prof.email:
-                    flag = 1
-                    break
-            if flag == 0:
+            if ProfName != "":
                 self.profs.append(Prof(ProfName, ProfPhotoUrl, ProfPUrl, ProfTitle, ProfArea, ProfOffice, ProfPhone, ProfEmail))
 
     def outPutProf(self):
         result = "<?xml version=\"1.0\" ?>\n\t<institution>\n"
-        self.getProfList()
+        # self.getProfList()
+        self.profs.append(Prof("", "", "", "", "", "", "", ""))
         for prof in self.profs:
             result += "\t\t<professor>\n"
             result += "\t\t\t<name>%s</name>\n" % (prof.name)
             result += "\t\t\t<title>%s</title>\n" % (prof.title)
             result += "\t\t\t<office>%s</office>\n" % (prof.office)
-            result += "\t\t\t<email>%s</email>\n" % (prof.email)
-            result += "\t\t\t<phone>%s</phone>\n" % (prof.phone)
+            result += "\t\t\t<email>%s</email>\n" % (prof.phone)
+            result += "\t\t\t<phone>%s</phone>\n" % (prof.email)
             result += "\t\t\t<website>%s</website>\n" % (prof.pUrl)
             result += "\t\t\t<image>%s</image>\n" % (prof.photoUrl)
             result += "\t\t</professor>\n"
         result += "\t</institution>\n"
         # print result
-        fileName = "NJIT.xml"
-        outputDir = "result"
-        file = open(fileName,"w")
+        file = open("brandeis.xml","w")
         file.writelines(result)
 
 
 
 
-baseURL = 'http://cs.njit.edu/people/faculty.php'
+baseURL = 'http://www.brandeis.edu/programs/computerscience/cs-faculty.html'
 pl = ProfList(baseURL)
 pl.outPutProf()
-# pl.getPage()
 # pl.getProfList()
+# pl.getPage()
