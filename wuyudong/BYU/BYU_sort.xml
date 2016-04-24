@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Adams, R. Brent</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Barrett, William A.</name>
+			<papers>22.1428571429</papers>
+		</professor>
+		<professor>
+			<name>Burton, Robert P.</name>
+			<papers>5.66666666667</papers>
+		</professor>
+		<professor>
+			<name>Clement, Mark J.</name>
+			<papers>37.6607142857</papers>
+		</professor>
+		<professor>
+			<name>Egbert, Parris K.</name>
+			<papers>19.9166666667</papers>
+		</professor>
+		<professor>
+			<name>Farrell, Ryan</name>
+			<papers>6.7</papers>
+		</professor>
+		<professor>
+			<name>Flanagan, J. Kelly</name>
+			<papers>8.2</papers>
+		</professor>
+		<professor>
+			<name>Giraud-Carrier, Christophe G.</name>
+			<papers>47.7</papers>
+		</professor>
+		<professor>
+			<name>Goodrich, Michael A.</name>
+			<papers>48.3130952381</papers>
+		</professor>
+		<professor>
+			<name>Holladay, Seth</name>
+			<papers>3.11111111111</papers>
+		</professor>
+		<professor>
+			<name>Jones, Michael D.</name>
+			<papers>13.1166666667</papers>
+		</professor>
+		<professor>
+			<name>Martinez, Tony</name>
+			<papers>39.0833333333</papers>
+		</professor>
+		<professor>
+			<name>Mercer, Eric G.</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Morse, Bryan S.</name>
+			<papers>34.2</papers>
+		</professor>
+		<professor>
+			<name>Ng, Dennis</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Ringger, Eric K.</name>
+			<papers>20.6857142857</papers>
+		</professor>
+		<professor>
+			<name>Seamons, Kent E.</name>
+			<papers>25.7583333333</papers>
+		</professor>
+		<professor>
+			<name>Sederberg, Thomas W.</name>
+			<papers>53.85</papers>
+		</professor>
+		<professor>
+			<name>Seppi, Kevin</name>
+			<papers>21.9833333333</papers>
+		</professor>
+		<professor>
+			<name>Snell, Quinn O.</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Ventura, Dan</name>
+			<papers>32.55</papers>
+		</professor>
+		<professor>
+			<name>Warnick, Sean C.</name>
+			<papers>14.05</papers>
+		</professor>
+		<professor>
+			<name>Zappala, Daniel M. A.</name>
+			<papers>-1</papers>
+		</professor>
+	</institution>
