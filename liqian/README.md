@@ -7,7 +7,7 @@
 进展：
 - [x] 完成25个学校的教授列表
 - [x] 完成25个学校的research group 列表 (virginia的信息缺失)
-- [ ] 所有教授论文信息
+- [x] 所有教授论文信息
 
 
 (Caltech) California Institute of Technology:
