@@ -1,0 +1,174 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>David Ackley</name>
+			<title>Associate Professor</title>
+			<office>Farris Engineering Center Room 349D</office>
+			<email> Ackley@cs.unm.edu</email>
+			<phone>505.277.9149</phone>
+			<website>http://www.cs.unm.edu/directory/faculty-profiles/david-ackley.html</website>
+			<image>http://www.cs.unm.edu/directory/faculty-profiles/images/david-ackley.jpg</image>
+		</professor>
+		<professor>
+			<name>Dorian Arnold</name>
+			<title>Associate Professor</title>
+			<office>Farris Engineering Center Room 301-F</office>
+			<email>Darnold@cs.unm.edu</email>
+			<phone>505.277.1546</phone>
+			<website>http://www.cs.unm.edu/directory/faculty-profiles/dorian-arnold.html</website>
+			<image>http://www.cs.unm.edu/directory/faculty-profiles/images/dorian-arnold.jpg</image>
+		</professor>
+		<professor>
+			<name>Patrick G. Bridges </name>
+			<title>Associate Professor</title>
+			<office>Farris Engineering Center Room 301H</office>
+			<email>Bridges@cs.unm.edu</email>
+			<phone>505-277-3032</phone>
+			<website>http://www.cs.unm.edu/directory/faculty-profiles/patrick-bridges.html</website>
+			<image>http://www.cs.unm.edu/directory/faculty-profiles/images/patrick-bridges.jpg</image>
+		</professor>
+		<professor>
+			<name>Joel Castellanos</name>
+			<title>Lecturer II</title>
+			<office>Farris Engineering Center Room 319</office>
+			<email>joel@unm.edu</email>
+			<phone>505-277-3052</phone>
+			<website>http://www.cs.unm.edu/directory/faculty-profiles/joel-castellanos.html</website>
+			<image>http://www.cs.unm.edu/directory/faculty-profiles/images/joel-castellanos.jpg</image>
+		</professor>
+		<professor>
+			<name>Brooke Chenoweth</name>
+			<title>Lecturer II</title>
+			<office>Farris Engineering Center Room 321</office>
+			<email>bchenoweth@cs.unm.edu</email>
+			<phone>505-277-7146</phone>
+			<website>http://www.cs.unm.edu/directory/faculty-profiles/brooke-creel.html</website>
+			<image>http://www.cs.unm.edu/directory/faculty-profiles/images/brooke-creel.jpg</image>
+		</professor>
+		<professor>
+			<name>Jedidiah R. Crandall</name>
+			<title>Associate Professor</title>
+			<office>Farris Engineering Center Room 335</office>
+			<email>Crandall@cs.unm.edu</email>
+			<phone>505.277.0380</phone>
+			<website>http://www.cs.unm.edu/directory/faculty-profiles/jedidiah-crandall.html</website>
+			<image>http://www.cs.unm.edu/directory/faculty-profiles/images/jed-crandall.jpg</image>
+		</professor>
+		<professor>
+			<name>Trilce Estrada</name>
+			<title>Assistant Professor</title>
+			<office>Farris Engineering Center Room 325</office>
+			<email>Estrada@cs.unm.edu</email>
+			<phone>505.277.9609</phone>
+			<website>http://www.cs.unm.edu/directory/faculty-profiles/trilce-estrada.html</website>
+			<image>http://www.cs.unm.edu/directory/faculty-profiles/images/trice-estrada.jpg</image>
+		</professor>
+		<professor>
+			<name>Stephanie Forrest</name>
+			<title>Distinguished Regents' Professor</title>
+			<office>Farris Engineering Center Room 355E</office>
+			<email>Forrest@cs.unm.edu</email>
+			<phone>505.277.7104</phone>
+			<website>http://www.cs.unm.edu/directory/faculty-profiles/stephanie-forrest.html</website>
+			<image>http://www.cs.unm.edu/directory/faculty-profiles/images/stephanie-forrest.jpg</image>
+		</professor>
+		<professor>
+			<name>Thomas P. Hayes</name>
+			<title>Associate Professor</title>
+			<office>Farris Engineering Center Room 149</office>
+			<email>Hayes@cs.unm.edu</email>
+			<phone>505-277-9328 </phone>
+			<website>http://www.cs.unm.edu/directory/faculty-profiles/thomas-hayes.html</website>
+			<image>http://www.cs.unm.edu/directory/faculty-profiles/images/tom-hayes.jpg</image>
+		</professor>
+		<professor>
+			<name>Deepak Kapur</name>
+			<title>Distinguished Professor</title>
+			<office>Farris Engineering Center Room 339</office>
+			<email>Kapur@cs.unm.edu</email>
+			<phone>505-277-1581</phone>
+			<website>http://www.cs.unm.edu/directory/faculty-profiles/deepak-kapur.html</website>
+			<image>http://www.cs.unm.edu/directory/faculty-profiles/images/deepak-kapur.jpg</image>
+		</professor>
+		<professor>
+			<name>Patrick GageKelley</name>
+			<title>Assistant Professor</title>
+			<office>Farris Engineering Center Room 301B</office>
+			<email>Pgk@cs.unm.edu</email>
+			<phone>505-277-2793</phone>
+			<website>http://www.cs.unm.edu/directory/faculty-profiles/patrick-kelley.html</website>
+			<image>http://www.cs.unm.edu/directory/faculty-profiles/images/patrick-kelley.jpg</image>
+		</professor>
+		<professor>
+			<name>Shuang (Sean) Luan</name>
+			<title>Associate Professor</title>
+			<office>Farris Engineering Center Room 151</office>
+			<email>Sluan@cs.unm.edu</email>
+			<phone>505.277.9620</phone>
+			<website>http://www.cs.unm.edu/directory/faculty-profiles/shuang-luan.html</website>
+			<image>http://www.cs.unm.edu/directory/faculty-profiles/images/shuang-luan.jpg</image>
+		</professor>
+		<professor>
+			<name>Melanie Moses</name>
+			<title>Associate Professor</title>
+			<office>Farris Engineering Center Room 327</office>
+			<email>Melaniem@cs.unm.edu</email>
+			<phone>505.277.9140</phone>
+			<website>http://www.cs.unm.edu/directory/faculty-profiles/melanie-moses.html</website>
+			<image>http://www.cs.unm.edu/directory/faculty-profiles/images/melanie-moses.jpg</image>
+		</professor>
+		<professor>
+			<name>Abdullah A. Mueen </name>
+			<title>Assistant Professor</title>
+			<office>Farris Engineering Center Room 340</office>
+			<email>Mueen@cs.unm.edu</email>
+			<phone>505-277-1914</phone>
+			<website>http://www.cs.unm.edu/directory/faculty-profiles/abdullah-mueen.html</website>
+			<image>http://www.cs.unm.edu/directory/faculty-profiles/images/abdullah-mueen.jpg</image>
+		</professor>
+		<professor>
+			<name>Gruia-Catalin Roman</name>
+			<title>Professor</title>
+			<office>Farris Engineering Center Room 301G</office>
+			<email>gcroman@unm.edu</email>
+			<phone>505-277-6967</phone>
+			<website>http://www.cs.unm.edu/directory/faculty-profiles/gruia-catalin-roman.html</website>
+			<image>http://www.cs.unm.edu/directory/faculty-profiles/images/gruia-catalin-roman.jpg</image>
+		</professor>
+		<professor>
+			<name>Jared Saia</name>
+			<title>Professor</title>
+			<office>Farris Engineering Center Room 110</office>
+			<email>Saia@cs.unm.edu</email>
+			<phone>505-277-5446</phone>
+			<website>http://www.cs.unm.edu/directory/faculty-profiles/jared-saia.html</website>
+			<image>http://www.cs.unm.edu/directory/faculty-profiles/images/jared-saia.jpg</image>
+		</professor>
+		<professor>
+			<name>Darko Stefanovic</name>
+			<title>Professor</title>
+			<office>Farris Engineering Center Room 345C</office>
+			<email>darko@cs.unm.edu</email>
+			<phone>505.277.6561</phone>
+			<website>http://www.cs.unm.edu/directory/faculty-profiles/darko-stefanovic.html</website>
+			<image>http://www.cs.unm.edu/directory/faculty-profiles/images/darko-stefanovic.jpg</image>
+		</professor>
+		<professor>
+			<name>Lydia Tapia</name>
+			<title>Assistant Professor</title>
+			<office>Farris Engineering Center Room 349E</office>
+			<email>Tapia@cs.unm.edu</email>
+			<phone>505.277.0858</phone>
+			<website>http://www.cs.unm.edu/directory/faculty-profiles/lydia-tapia.html</website>
+			<image>http://www.cs.unm.edu/directory/faculty-profiles/images/lydia-tapia.jpg</image>
+		</professor>
+		<professor>
+			<name>Lance Williams</name>
+			<title>Associate Professor</title>
+			<office>Farris Engineering Center Room 349C</office>
+			<email>Williams@cs.unm.edu</email>
+			<phone>505-277-3914</phone>
+			<website>http://www.cs.unm.edu/directory/faculty-profiles/lance-williams.html</website>
+			<image>http://www.cs.unm.edu/directory/faculty-profiles/images/lance-williams.jpg</image>
+		</professor>
+	</institution>

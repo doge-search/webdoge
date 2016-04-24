@@ -6,8 +6,8 @@
 			<office>ITE 260</office>
 			<email>sahar.alseesi@engr.uconn.edu</email>
 			<phone>(860) 486-6282</phone>
-			<website>http://dna.engr.uconn.edu/?page_id=199<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/sahar-e1412013192956.jpg<\image>
+			<website>http://dna.engr.uconn.edu/?page_id=199</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/sahar-e1412013192956.jpg</image>
 		</professor>
 		<professor>
 			<name>Abdelfattah Amamra</name>
@@ -15,8 +15,8 @@
 			<office>ITE 262A</office>
 			<email>abdelfattah@engr.uconn.edu</email>
 			<phone>(860) 486-9304</phone>
-			<website>http://www.engr.uconn.edu/~abdelfattah<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2016/02/amamra-100.jpg<\image>
+			<website>http://www.engr.uconn.edu/~abdelfattah</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2016/02/amamra-100.jpg</image>
 		</professor>
 		<professor>
 			<name>Reda A. Ammar</name>
@@ -24,8 +24,8 @@
 			<office>ITE 256</office>
 			<email>reda@engr.uconn.edu</email>
 			<phone>(860) 486-5285</phone>
-			<website>http://www.engr.uconn.edu/~reda<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/10/reda-new-e1413921605208.jpg<\image>
+			<website>http://www.engr.uconn.edu/~reda</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/10/reda-new-e1413921605208.jpg</image>
 		</professor>
 		<professor>
 			<name>Mukul Bansal</name>
@@ -33,8 +33,8 @@
 			<office>ITE 359</office>
 			<email>mukul@engr.uconn.edu</email>
 			<phone>(860) 486-2207</phone>
-			<website>http://www.engr.uconn.edu/~mukul<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/mukul.jpg<\image>
+			<website>http://www.engr.uconn.edu/~mukul</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/mukul.jpg</image>
 		</professor>
 		<professor>
 			<name>Keith Barker</name>
@@ -42,8 +42,8 @@
 			<office>ITE 357</office>
 			<email>keith@engr.uconn.edu</email>
 			<phone>(860) 486-0662</phone>
-			<website><website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/10/KBcolorpic-e1413922127821.jpg<\image>
+			<website></website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/10/KBcolorpic-e1413922127821.jpg</image>
 		</professor>
 		<professor>
 			<name>Jinbo Bi</name>
@@ -51,8 +51,8 @@
 			<office>ITE 233</office>
 			<email>jinbo@engr.uconn.edu</email>
 			<phone>(860) 486-1458</phone>
-			<website>http://www.engr.uconn.edu/~jinbo/<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/jinbo-action-small-e1398195314440.png<\image>
+			<website>http://www.engr.uconn.edu/~jinbo/</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/jinbo-action-small-e1398195314440.png</image>
 		</professor>
 		<professor>
 			<name>Jun-Hong Cui</name>
@@ -60,8 +60,8 @@
 			<office>ITE 267</office>
 			<email>jcui@engr.uconn.edu</email>
 			<phone>(860) 486-8951</phone>
-			<website>http://www.engr.uconn.edu/~jcui/<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/10/June-e1413922387192.jpg<\image>
+			<website>http://www.engr.uconn.edu/~jcui/</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/10/June-e1413922387192.jpg</image>
 		</professor>
 		<professor>
 			<name>Steven Demurjian</name>
@@ -69,8 +69,8 @@
 			<office>ITE 265</office>
 			<email>steve@engr.uconn.edu</email>
 			<phone>(860) 486-4818</phone>
-			<website>http://www.cse.uconn.edu/~steve/<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/steve-action-e1400612869743.jpg<\image>
+			<website>http://www.cse.uconn.edu/~steve/</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/steve-action-e1400612869743.jpg</image>
 		</professor>
 		<professor>
 			<name>Sridhar Duggirala</name>
@@ -78,8 +78,8 @@
 			<office>ITE 245</office>
 			<email>psd@engr.uconn.edu</email>
 			<phone>(860) 486-2687</phone>
-			<website>http://engr.uconn.edu/~psd<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2015/07/Sridhar.jpg<\image>
+			<website>http://engr.uconn.edu/~psd</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2015/07/Sridhar.jpg</image>
 		</professor>
 		<professor>
 			<name>Padraic Edgington</name>
@@ -87,8 +87,8 @@
 			<office>ITE 258</office>
 			<email>padraic@engr.uconn.edu</email>
 			<phone>(860) 486-4857</phone>
-			<website>http://engr.uconn.edu/~padraic<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2015/09/Padraic100x106.jpg<\image>
+			<website>http://engr.uconn.edu/~padraic</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2015/09/Padraic100x106.jpg</image>
 		</professor>
 		<professor>
 			<name>Gerald Engel</name>
@@ -96,8 +96,8 @@
 			<office></office>
 			<email>engel@engr.uconn.edu</email>
 			<phone>(203) 251-8431</phone>
-			<website><website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/engel-e1412011110965.jpg<\image>
+			<website></website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/engel-e1412011110965.jpg</image>
 		</professor>
 		<professor>
 			<name>Terry Glagowski</name>
@@ -105,8 +105,8 @@
 			<office>ITE 258</office>
 			<email>glagowski@engr.uconn.edu</email>
 			<phone>(860) 486-4857</phone>
-			<website>http://www.engr.uconn.edu/~glagowski<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2015/02/Glagowski.jpg<\image>
+			<website>http://www.engr.uconn.edu/~glagowski</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2015/02/Glagowski.jpg</image>
 		</professor>
 		<professor>
 			<name>Swapna Gokhale</name>
@@ -114,8 +114,8 @@
 			<office>ITE 237</office>
 			<email>ssg@engr.uconn.edu</email>
 			<phone>(860) 486-2772</phone>
-			<website>http://www.engr.uconn.edu/~ssg/<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/swapna-mug-small-e1399492668710.jpg<\image>
+			<website>http://www.engr.uconn.edu/~ssg/</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/swapna-mug-small-e1399492668710.jpg</image>
 		</professor>
 		<professor>
 			<name>Song Han</name>
@@ -123,8 +123,8 @@
 			<office>ITE 355</office>
 			<email>song@engr.uconn.edu</email>
 			<phone>(860) 486-8771</phone>
-			<website>http://www.engr.uconn.edu/~song/<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/song-e1399492824489.png<\image>
+			<website>http://www.engr.uconn.edu/~song/</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/song-e1399492824489.png</image>
 		</professor>
 		<professor>
 			<name>Chun-Hsi Huang</name>
@@ -132,8 +132,8 @@
 			<office>ITE 259</office>
 			<email>huang@engr.uconn.edu</email>
 			<phone>(860) 486-5472</phone>
-			<website>http://www.engr.uconn.edu/~huang/<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/vincent-small.jpg<\image>
+			<website>http://www.engr.uconn.edu/~huang/</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/vincent-small.jpg</image>
 		</professor>
 		<professor>
 			<name>Mohammad Khan</name>
@@ -141,8 +141,8 @@
 			<office>ITE 363</office>
 			<email>mok11002@engr.uconn.edu</email>
 			<phone>(860) 486-0609</phone>
-			<website>http://www.engr.uconn.edu/~mok11002/public_html/<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/khan-e1412011209971.jpg<\image>
+			<website>http://www.engr.uconn.edu/~mok11002/public_html/</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/khan-e1412011209971.jpg</image>
 		</professor>
 		<professor>
 			<name>Aggelos Kiayias</name>
@@ -150,8 +150,8 @@
 			<office></office>
 			<email>aggelos@engr.uconn.edu</email>
 			<phone></phone>
-			<website>http://www.engr.uconn.edu/~akiayias<website>
-			<image> http://www.cse.uconn.edu/wp-content/uploads/2015/01/aggelos-e1422046114316.jpg<\image>
+			<website>http://www.engr.uconn.edu/~akiayias</website>
+			<image> http://www.cse.uconn.edu/wp-content/uploads/2015/01/aggelos-e1422046114316.jpg</image>
 		</professor>
 		<professor>
 			<name>Lester Lipsky</name>
@@ -159,8 +159,8 @@
 			<office></office>
 			<email>lester@engr.uconn.edu</email>
 			<phone></phone>
-			<website>http://www.engr.uconn.edu/~lester/<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/lester-action-small-e1400867861202.jpg<\image>
+			<website>http://www.engr.uconn.edu/~lester/</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/lester-action-small-e1400867861202.jpg</image>
 		</professor>
 		<professor>
 			<name>Ion Mandoiu</name>
@@ -168,8 +168,8 @@
 			<office>ITE 261</office>
 			<email>ion@engr.uconn.edu</email>
 			<phone>(860) 486-3784</phone>
-			<website>http://www.engr.uconn.edu/~ion/<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/ion-mug-small1-e1400866868150.jpg<\image>
+			<website>http://www.engr.uconn.edu/~ion/</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/ion-mug-small1-e1400866868150.jpg</image>
 		</professor>
 		<professor>
 			<name>Robert McCartney</name>
@@ -177,8 +177,8 @@
 			<office>ITE 239</office>
 			<email>robert@engr.uconn.edu</email>
 			<phone>(860) 486-5232</phone>
-			<website>http://www.engr.uconn.edu/~robert/<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/robert-mug-small-e1400869826938.jpg<\image>
+			<website>http://www.engr.uconn.edu/~robert/</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/robert-mug-small-e1400869826938.jpg</image>
 		</professor>
 		<professor>
 			<name>Jeff Meunier</name>
@@ -186,8 +186,8 @@
 			<office>ITE 255</office>
 			<email>jeffm@engr.uconn.edu</email>
 			<phone>(860) 486-4825</phone>
-			<website>http://www.engr.uconn.edu/~jeffm/<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/jeffm-action-small-e1412011503703.png<\image>
+			<website>http://www.engr.uconn.edu/~jeffm/</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/jeffm-action-small-e1412011503703.png</image>
 		</professor>
 		<professor>
 			<name>Laurent Michel</name>
@@ -195,8 +195,8 @@
 			<office>ITE 247</office>
 			<email>ldm@engr.uconn.edu</email>
 			<phone>(860) 486-2584</phone>
-			<website>http://www.engr.uconn.edu/~ldm<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/laurent-mug-small-e1400872140951.jpg<\image>
+			<website>http://www.engr.uconn.edu/~ldm</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/laurent-mug-small-e1400872140951.jpg</image>
 		</professor>
 		<professor>
 			<name>Sheida Nabavi</name>
@@ -204,8 +204,8 @@
 			<office>ITE 256</office>
 			<email>nabavi@engr.uconn.edu</email>
 			<phone>(860) 486-0756</phone>
-			<website>http://engr.uconn.edu/~nabavi<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2015/07/Sheida.jpg<\image>
+			<website>http://engr.uconn.edu/~nabavi</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2015/07/Sheida.jpg</image>
 		</professor>
 		<professor>
 			<name>Thomas Peters</name>
@@ -213,8 +213,8 @@
 			<office>ITE 231</office>
 			<email>tpeters@engr.uconn.edu</email>
 			<phone>(860) 486-5045</phone>
-			<website>http://www.engr.uconn.edu/~tpeters/<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/peters-e1400873155742.jpg<\image>
+			<website>http://www.engr.uconn.edu/~tpeters/</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/peters-e1400873155742.jpg</image>
 		</professor>
 		<professor>
 			<name>Sanguthevar Rajasekaran</name>
@@ -222,8 +222,8 @@
 			<office>ITE 257</office>
 			<email>rajasek@engr.uconn.edu</email>
 			<phone>(860) 486-2428</phone>
-			<website>http://www.engr.uconn.edu/~rajasek/<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/raj-mug-small-e1412011582536.jpg<\image>
+			<website>http://www.engr.uconn.edu/~rajasek/</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/raj-mug-small-e1412011582536.jpg</image>
 		</professor>
 		<professor>
 			<name>Jack Roulier</name>
@@ -231,8 +231,8 @@
 			<office></office>
 			<email>jrou@engr.uconn.edu</email>
 			<phone></phone>
-			<website>http://www.engr.uconn.edu/~jrou/<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/10/jackroulier-e1413921156628.jpg<\image>
+			<website>http://www.engr.uconn.edu/~jrou/</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/10/jackroulier-e1413921156628.jpg</image>
 		</professor>
 		<professor>
 			<name>Alexander Russell</name>
@@ -240,8 +240,8 @@
 			<office>ITE 241</office>
 			<email>acr@engr.uconn.edu</email>
 			<phone>(860) 486-4290</phone>
-			<website>http://www.engr.uconn.edu/~acr/<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/alexr-mug-small-e1401219391931.jpg<\image>
+			<website>http://www.engr.uconn.edu/~acr/</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/alexr-mug-small-e1401219391931.jpg</image>
 		</professor>
 		<professor>
 			<name>Don Sheehy</name>
@@ -249,8 +249,8 @@
 			<office>ITE 361</office>
 			<email>donald@engr.uconn.edu</email>
 			<phone>(860) 486-0006</phone>
-			<website>http://donsheehy.net/<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/sheehy-e1412013261990.jpg<\image>
+			<website>http://donsheehy.net/</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/sheehy-e1412013261990.jpg</image>
 		</professor>
 		<professor>
 			<name>Zhijie Jerry Shi</name>
@@ -258,8 +258,8 @@
 			<office>ITE 365</office>
 			<email>zshi@engr.uconn.edu</email>
 			<phone>(860) 486-0599</phone>
-			<website>http://www.engr.uconn.edu/~zshi/<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/jerry-e1412013313880.jpg<\image>
+			<website>http://www.engr.uconn.edu/~zshi/</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/jerry-e1412013313880.jpg</image>
 		</professor>
 		<professor>
 			<name>Dong-Guk Shin</name>
@@ -267,8 +267,8 @@
 			<office>ITE 263</office>
 			<email>shin@engr.uconn.edu</email>
 			<phone>(860) 486-2783</phone>
-			<website>http://www.cse.uconn.edu/dgshin/<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/shin-e1412013352352.jpg<\image>
+			<website>http://www.cse.uconn.edu/dgshin/</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/shin-e1412013352352.jpg</image>
 		</professor>
 		<professor>
 			<name>Alexander Schwarzmann</name>
@@ -276,8 +276,8 @@
 			<office>ITE 252</office>
 			<email>aas@engr.uconn.edu</email>
 			<phone>(860) 486-2672</phone>
-			<website>http://www.engr.uconn.edu/~aas/<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2015/01/alexander-2015.jpg<\image>
+			<website>http://www.engr.uconn.edu/~aas/</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2015/01/alexander-2015.jpg</image>
 		</professor>
 		<professor>
 			<name>T. C. Ting</name>
@@ -285,8 +285,8 @@
 			<office></office>
 			<email>ting@engr.uconn.edu</email>
 			<phone></phone>
-			<website><website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/10/TC-Ting-e1413922633413.jpg<\image>
+			<website></website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/10/TC-Ting-e1413922633413.jpg</image>
 		</professor>
 		<professor>
 			<name>Bing Wang</name>
@@ -294,8 +294,8 @@
 			<office>ITE 367</office>
 			<email>bing@engr.uconn.edu</email>
 			<phone>(860) 486-0582</phone>
-			<website>http://www.engr.uconn.edu/~bing/<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/bing.jpg<\image>
+			<website>http://www.engr.uconn.edu/~bing/</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/bing.jpg</image>
 		</professor>
 		<professor>
 			<name>Fei Wang</name>
@@ -303,8 +303,8 @@
 			<office>ITE 243</office>
 			<email>fei_wang@engr.uconn.edu</email>
 			<phone>(860) 486-2122</phone>
-			<website>http://www.engr.uconn.edu/~fwang/<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2015/01/feiwang.jpg<\image>
+			<website>http://www.engr.uconn.edu/~fwang/</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2015/01/feiwang.jpg</image>
 		</professor>
 		<professor>
 			<name>Yufeng Wu</name>
@@ -312,7 +312,7 @@
 			<office>ITE 235</office>
 			<email>ywu@engr.uconn.edu</email>
 			<phone>(860) 486-234</phone>
-			<website>http://www.engr.uconn.edu/~ywu/<website>
-			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/yufeng-mug-small-e1401389064858.jpg<\image>
+			<website>http://www.engr.uconn.edu/~ywu/</website>
+			<image>http://www.cse.uconn.edu/wp-content/uploads/2014/09/yufeng-mug-small-e1401389064858.jpg</image>
 		</professor>
 	</institution>

@@ -36,15 +36,16 @@ class ProfList:
 
     def getProfList(self):
         page = self.getPage()
-        regex = '<p><em><img src="(.*?)".*?><span.*?>.*?<a href="(.*?)">(.*?)<br></a></span></em></span></em></span></em><em>(.*?)</em></p>'
-        #regex = '<tr>.*?<img src=\"(.*?)\".*?</tr>'
+        # regex = '<div class=\"wdn-grid-set\">.*?<a class=\"wdn-button\" title=\"Web page for.*?\" href=\"(.*?)\".*?<strong>(.*?)</strong>.*?<div class=\"gs-fac-rsch\">(.*?)(<br />)?</div>'
+        regex = '<div class="people-listing">.*?<div.*?>.*?<img.*?src="(.*?)".*?>.*?</div>.*?<div.*?>.*?</div>.*?<h2>.*?<a href="(.*?)">(.*?)</a>.*?</h2>.*?</div>'
+        # regex = '<div class="people-listing">(.*?)</div>'
         myItems = re.findall(regex, page.read(), re.S)
-        print myItems
-        return
+        # print myItems
+        # return
         for item in myItems:
-            ProfName = ""
-            ProfPhotoUrl = ""
-            ProfPUrl = ""
+            ProfName = item[2]
+            ProfPhotoUrl = item[0]
+            ProfPUrl = item[1]
             ProfTitle = ""
             ProfArea = ""
             ProfOffice = ""
@@ -71,21 +72,21 @@ class ProfList:
             result += "\t\t\t<office>%s</office>\n" % (prof.office)
             result += "\t\t\t<email>%s</email>\n" % (prof.email)
             result += "\t\t\t<phone>%s</phone>\n" % (prof.phone)
-            result += "\t\t\t<website>%s<website>\n" % (prof.pUrl)
-            result += "\t\t\t<image>%s<\image>\n" % (prof.photoUrl)
+            result += "\t\t\t<website>%s</website>\n" % (prof.pUrl)
+            result += "\t\t\t<image>%s</image>\n" % (prof.photoUrl)
             result += "\t\t</professor>\n"
         result += "\t</institution>\n"
         # print result
-        fileName = "UKY.txt"
+        fileName = "WPI.xml"
         outputDir = "result"
-        file = open(outputDir + "/" + fileName,"w")
+        file = open(fileName,"w")
         file.writelines(result)
 
 
 
 
-baseURL = 'https://www.cs.uky.edu/people/faculty'
+baseURL = 'https://www.wpi.edu/academics/cs/faculty.html'
 pl = ProfList(baseURL)
-# pl.outPutProf()
+pl.outPutProf()
 # pl.getPage()
-pl.getProfList()
+# pl.getProfList()

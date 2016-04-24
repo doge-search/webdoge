@@ -6,15 +6,13 @@ import urllib2
 import re
 
 class Prof:
-    def __init__(self, name, photoUrl, pUrl, title, area, office, phone, email):
+    def __init__(self, name, photoUrl, pUrl, title, area, office):
         self.name = name
         self.photoUrl = photoUrl
         self.pUrl = pUrl
         self.title = title
         self.area = area
         self.office = office
-        self.phone = phone
-        self.email = email
 
 class ProfList:
 
@@ -36,32 +34,24 @@ class ProfList:
 
     def getProfList(self):
         page = self.getPage()
-        regex = '<tr class="field_collection_item (odd|even)">.*?<td class="field_dep_faculty_name">.*?<div class="field-item even">(.*?)</div>.*?</td>.*?<td class="field_dep_faculty_status">.*?<div class="field-item even">(.*?)</div>.*?</td>.*?<td class="field_dep_faculty_discipline">.*?<div class="field-item even">(.*?)</div>.*?</td>.*?</tr>'
+        regex = '<tr>.*?<img src=\"(.*?)\".*?<td>.*?<a href=\"(.*?)\".*?>(.*?)</a>.*?</td>.*?<td>(.*?)</td>.*?<td>(.*?)</td>.*?<td>(.*?)</td>.*?</tr>'
         #regex = '<tr>.*?<img src=\"(.*?)\".*?</tr>'
         myItems = re.findall(regex, page.read(), re.S)
-        # print myItems
-        # return
         for item in myItems:
-            ProfName = item[1]
-            ProfPhotoUrl = ""
-            ProfPUrl = ""
-            ProfTitle = item[2]
-            ProfArea = item[3]
-            ProfOffice = ""
-            ProfPhone = ""
-            ProfEmail = ""
+            ProfName = item[2]
+            ProfPhotoUrl = "http://www.cis.udel.edu/people/" + item[0]
+            ProfPUrl = item[1]
+            ProfTitle = item[3]
+            ProfArea = item[4]
+            ProfOffice = item[5]
             # print ProfName
             # print ProfPhotoUrl
             # print ProfPUrl
             # print ProfTitle
             # print ProfArea
             # print ProfOffice
-            # print ProfPhone
-            # print ProfEmail
-            print " "
-            self.profs.append(Prof(ProfName, ProfPhotoUrl, ProfPUrl, ProfTitle, ProfArea, ProfOffice, ProfPhone, ProfEmail))
-            if ProfName == 'Zappala, Daniel M. A.':
-                break
+            # print " "
+            self.profs.append(Prof(ProfName, ProfPhotoUrl, ProfPUrl, ProfTitle, ProfArea, ProfOffice))
 
     def outPutProf(self):
         result = "<?xml version=\"1.0\" ?>\n\t<institution>\n"
@@ -71,23 +61,20 @@ class ProfList:
             result += "\t\t\t<name>%s</name>\n" % (prof.name)
             result += "\t\t\t<title>%s</title>\n" % (prof.title)
             result += "\t\t\t<office>%s</office>\n" % (prof.office)
-            result += "\t\t\t<email>%s</email>\n" % (prof.email)
-            result += "\t\t\t<phone>%s</phone>\n" % (prof.phone)
-            result += "\t\t\t<website>%s<website>\n" % (prof.pUrl)
-            result += "\t\t\t<image>%s<\image>\n" % (prof.photoUrl)
+            result += "\t\t\t<email></email>\n"
+            result += "\t\t\t<phone></phone>\n"
+            result += "\t\t\t<website>%s</website>\n" % (prof.pUrl)
+            result += "\t\t\t<image>%s</image>\n" % (prof.photoUrl)
             result += "\t\t</professor>\n"
         result += "\t</institution>\n"
         # print result
-        fileName = "BYU.txt"
-        outputDir = "result"
-        file = open(outputDir + "/" + fileName,"w")
+        file = open("UDEL.xml","w")
         file.writelines(result)
 
 
 
 
-baseURL = 'http://graduatestudies.byu.edu/content/computer-science?qt-dep_quicktab=4#qt-dep_quicktab'
+baseURL = 'http://www.cis.udel.edu/people/faculty_list.html'
 pl = ProfList(baseURL)
 pl.outPutProf()
-# pl.getPage()
-# pl.getProfList()
+#pl.getProfList()

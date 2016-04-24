@@ -34,16 +34,23 @@ class ProfList:
 
     def getProfList(self):
         page = self.getPage()
-        regex = '<tr>.*?<img src=\"(.*?)\".*?<td>.*?<a href=\"(.*?)\".*?>(.*?)</a>.*?</td>.*?<td>(.*?)</td>.*?<td>(.*?)</td>.*?<td>(.*?)</td>.*?</tr>'
+        #regex = '<tr>.*?<img src=\"(.*?)\".*?<td>.*?<a href=\"(.*?)\".*?>(.*?)</a>.*?</td>.*?<td>(.*?)</td>.*?<td>(.*?)</td>.*?<td>(.*?)</td>.*?</tr>'
+        #regex = '<div id="page-content" class="grid_9">.*?<p><a href=\"(.*?)\">(.*?)</a><br />.*?</div>'
+        regex = '<ul class="side-nav-menu">.*?<ul>.*?<ul>(.*?)</ul>.*?</ul>.*?</ul>'
         #regex = '<tr>.*?<img src=\"(.*?)\".*?</tr>'
         myItems = re.findall(regex, page.read(), re.S)
+        tmpStr = myItems[0]
+        regex = '<li><a href="(.*?)">(.*?)</a></li>'
+        myItems = re.findall(regex, tmpStr, re.S)
+        # print myItems
+        # return
         for item in myItems:
-            ProfName = item[2]
-            ProfPhotoUrl = "http://www.cis.udel.edu/people/" + item[0]
-            ProfPUrl = item[1]
-            ProfTitle = item[3]
-            ProfArea = item[4]
-            ProfOffice = item[5]
+            ProfName = item[1]
+            ProfPhotoUrl = ""
+            ProfPUrl = item[0]
+            ProfTitle = ""
+            ProfArea = ""
+            ProfOffice = ""
             # print ProfName
             # print ProfPhotoUrl
             # print ProfPUrl
@@ -63,18 +70,19 @@ class ProfList:
             result += "\t\t\t<office>%s</office>\n" % (prof.office)
             result += "\t\t\t<email></email>\n"
             result += "\t\t\t<phone></phone>\n"
-            result += "\t\t\t<website>%s<website>\n" % (prof.pUrl)
-            result += "\t\t\t<image>%s<\image>\n" % (prof.photoUrl)
+            result += "\t\t\t<website>%s</website>\n" % (prof.pUrl)
+            result += "\t\t\t<image>%s</image>\n" % (prof.photoUrl)
             result += "\t\t</professor>\n"
         result += "\t</institution>\n"
         # print result
-        file = open("UniversityOfDeleware.txt","w")
+        file = open("UMBC.xml","w")
         file.writelines(result)
 
 
 
 
-baseURL = 'http://www.cis.udel.edu/people/faculty_list.html'
+baseURL = 'http://www.csee.umbc.edu/people/faculty/'
 pl = ProfList(baseURL)
 pl.outPutProf()
-#pl.getProfList()
+# pl.getProfList()
+# pl.getPage()

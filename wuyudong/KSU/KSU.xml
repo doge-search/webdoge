@@ -1,0 +1,165 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Torben Amtoft</name>
+			<title>Associate Professor</title>
+			<office>E2179</office>
+			<email>tamtoft@cis.ksu.edu</email>
+			<phone>(785) 532-7917</phone>
+			<website>http://people.cis.ksu.edu/~tamtoft</website>
+			<image>https://www.cis.ksu.edu/sites/default/files/pictures/picture-288.jpg</image>
+		</professor>
+		<professor>
+			<name>Daniel A. Andresen</name>
+			<title>Associate Professor</title>
+			<office>E2178</office>
+			<email>dan@cis.ksu.edu</email>
+			<phone>(785) 532-7914</phone>
+			<website>http://people.cis.ksu.edu/~dan</website>
+			<image>https://www.cis.ksu.edu/sites/default/files/pictures/picture-249.jpg</image>
+		</professor>
+		<professor>
+			<name>Nathan H Bean</name>
+			<title>GK-12 Program Coordinator, Instructor, Advisor</title>
+			<office>E2216</office>
+			<email>nhb7817@ksu.edu</email>
+			<phone>(785) 532-7942</phone>
+			<website>http://people.cis.ksu.edu/~nhb7817</website>
+			<image>https://www.cis.ksu.edu/sites/default/files/pictures/picture-252.png</image>
+		</professor>
+		<professor>
+			<name>Doina Caragea</name>
+			<title>Associate Professor</title>
+			<office>E2166</office>
+			<email>dcaragea@ksu.edu</email>
+			<phone>(785) 532-7908</phone>
+			<website>http://people.cis.ksu.edu/~dcaragea</website>
+			<image>https://www.cis.ksu.edu/sites/default/files/pictures/picture-286.jpg</image>
+		</professor>
+		<professor>
+			<name>Scott A. Deloach</name>
+			<title>Professor and Interim Department Head</title>
+			<office>E2184E</office>
+			<email>sdeloach@ksu.edu</email>
+			<phone>(785) 532-6350</phone>
+			<website>http://people.cis.ksu.edu/~sdeloach</website>
+			<image>https://www.cis.ksu.edu/sites/default/files/pictures/picture-16.png</image>
+		</professor>
+		<professor>
+			<name>Russell A Feldhausen</name>
+			<title>Instructor</title>
+			<office>E2214</office>
+			<email>russfeld@ksu.edu</email>
+			<phone>(785) 532-7929</phone>
+			<website>http://people.cis.ksu.edu/~russfeld</website>
+			<image>https://www.cis.ksu.edu/sites/default/files/pictures/picture-503.jpg</image>
+		</professor>
+		<professor>
+			<name>John Hatcliff</name>
+			<title>University Distinguished Professor</title>
+			<office>E2160</office>
+			<email>hatcliff@cis.ksu.edu</email>
+			<phone>(785) 532-6350</phone>
+			<website>http://people.cis.ksu.edu/~hatcliff</website>
+			<image>https://www.cis.ksu.edu/sites/default/files/pictures/picture-253.jpg</image>
+		</professor>
+		<professor>
+			<name>Rod Howell</name>
+			<title>Associate Professor</title>
+			<office>E2163</office>
+			<email>rhowell@ksu.edu</email>
+			<phone>(785) 532-7735</phone>
+			<website>http://people.cis.ksu.edu/~rhowell</website>
+			<image>https://www.cis.ksu.edu/sites/default/files/pictures/picture-189.jpg</image>
+		</professor>
+		<professor>
+			<name>Bill Hsu</name>
+			<title>Associate Professor</title>
+			<office>E2164</office>
+			<email>bhsu@cis.ksu.edu</email>
+			<phone>(785) 532-7905</phone>
+			<website>http://people.cis.ksu.edu/~bhsu</website>
+			<image>https://www.cis.ksu.edu/sites/default/files/pictures/picture-35.jpg</image>
+		</professor>
+		<professor>
+			<name>Dennis Lang</name>
+			<title>Instructor / Adviser</title>
+			<office>DUE 2211</office>
+			<email>dlang1@ksu.edu</email>
+			<phone>785-532-7768</phone>
+			<website>http://people.cis.ksu.edu/~dlang1</website>
+			<image>https://www.cis.ksu.edu/sites/default/files/pictures/picture-355.jpg</image>
+		</professor>
+		<professor>
+			<name>Masaaki Mizuno</name>
+			<title>Professor</title>
+			<office>E2167</office>
+			<email>masaaki@cis.ksu.edu</email>
+			<phone></phone>
+			<website>http://people.cis.ksu.edu/~masaaki</website>
+			<image>https://www.cis.ksu.edu/sites/default/files/pictures/picture-301.jpg</image>
+		</professor>
+		<professor>
+			<name>Mitch Neilsen</name>
+			<title>Professor</title>
+			<office>2173 Engineering Hall</office>
+			<email>neilsen@cis.ksu.edu</email>
+			<phone>(785) 532-7918</phone>
+			<website>http://people.cis.ksu.edu/~neilsen</website>
+			<image>https://www.cis.ksu.edu/sites/default/files/pictures/picture-241.jpg</image>
+		</professor>
+		<professor>
+			<name>Pavithra Prabhakar</name>
+			<title>Assistant Professor</title>
+			<office>E2176</office>
+			<email>pprabhakar@ksu.edu</email>
+			<phone></phone>
+			<website>http://people.cis.ksu.edu/~pprabhakar</website>
+			<image>https://www.cis.ksu.edu/sites/default/files/pictures/picture-771.png</image>
+		</professor>
+		<professor>
+			<name>Venkatesh P Ranganath</name>
+			<title>Assistant Professor</title>
+			<office>E2161</office>
+			<email>rvprasad@ksu.edu</email>
+			<phone>785-532-7365</phone>
+			<website>http://people.cis.ksu.edu/~rvprasad</website>
+			<image>https://www.cis.ksu.edu/sites/default/files/pictures/picture-617.jpg</image>
+		</professor>
+		<professor>
+			<name>Robby</name>
+			<title>Professor</title>
+			<office>E2181</office>
+			<email>robby@ksu.edu</email>
+			<phone>(785) 532-7904</phone>
+			<website>http://people.cis.ksu.edu/~robby</website>
+			<image>https://www.cis.ksu.edu/sites/default/files/pictures/picture-302.jpg</image>
+		</professor>
+		<professor>
+			<name>Gurdip Singh</name>
+			<title>Professor</title>
+			<office>E2174</office>
+			<email>singh@cis.ksu.edu</email>
+			<phone>(785) 532-6350</phone>
+			<website>http://people.cis.ksu.edu/~singh</website>
+			<image>https://www.cis.ksu.edu/sites/default/files/pictures/picture-20.jpg</image>
+		</professor>
+		<professor>
+			<name>Julie A Thornton</name>
+			<title>Instructor / Advisor</title>
+			<office>DUE 2212</office>
+			<email>juliet@cis.ksu.edu</email>
+			<phone></phone>
+			<website>http://people.cis.ksu.edu/~juliet</website>
+			<image>https://www.cis.ksu.edu/sites/default/files/pictures/picture-128.jpg</image>
+		</professor>
+		<professor>
+			<name>Eugene Vasserman</name>
+			<title>Assistant Professor</title>
+			<office>E2171</office>
+			<email>eyv@ksu.edu</email>
+			<phone>(785) 532-7944</phone>
+			<website>http://people.cis.ksu.edu/~eyv</website>
+			<image>https://www.cis.ksu.edu/sites/default/files/pictures/picture-184.jpg</image>
+		</professor>
+	</institution>
