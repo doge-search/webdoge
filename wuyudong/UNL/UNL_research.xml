@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Cyber-Physical Network</groupname>
+			<professorname>Mehmet Can Vuran</professorname>
+      <professorname>Steve Goddard</professorname>
+      <professorname>Suat Irmak</professorname>
+      <professorname>Changbum Ahn</professorname>
+      <professorname>International Crane Foundation</professorname>
+		</research>
+    <research>
+			<groupname>Nimbus</groupname>
+			<professorname>Justin Bradley</professorname>
+      <professorname>Carrick Detweiler</professorname>
+      <professorname>Brittany Duncan</professorname>
+      <professorname>Sebastian Elbaum</professorname>
+		</research>
+	</institution>

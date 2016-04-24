@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Algorithms and Theory</groupname>
+			<professorname>Omkant Pandey</professorname>
+			<professorname>Ali Shokoufandeh</professorname>
+		</research>
+		<research>
+			<groupname>Artificial Intelligence</groupname>
+			<professorname>Marcello Balduccini</professorname>
+			<professorname>Christopher Geib</professorname>
+			<professorname>Ko Nishino</professorname>
+			<professorname>Santiago Ontanon</professorname>
+			<professorname>William Regli</professorname>
+		</research>
+		<research>
+			<groupname>Biomedical Computing</groupname>
+			<professorname>David Breen</professorname>
+		</research>
+		<research>
+			<groupname>Computer Graphics</groupname>
+			<professorname>David Breen</professorname>
+			<professorname>Ko Nishino</professorname>
+		</research>
+		<research>
+			<groupname>Computer Science Education</groupname>
+			<professorname>William Mongan</professorname>
+			<professorname>Jeffrey Popyack</professorname>
+			<professorname>Bruce Char</professorname>
+		</research>
+		<research>
+			<groupname>Computer Security and Privacy</groupname>
+			<professorname>Marcello Balduccini</professorname>
+			<professorname>Christopher Geib</professorname>
+			<professorname>Rachel Greenstadt</professorname>
+			<professorname>Spiros Mancoridis</professorname>
+			<professorname>Gaurav Naik</professorname>
+			<professorname>Omkant Pandey</professorname>
+		</research>
+		<research>
+			<groupname>Computer Vision</groupname>
+			<professorname>Ko Nishino</professorname>
+			<professorname>Ali Shokoufandeh</professorname>
+		</research>
+		<research>
+			<groupname>Database Systems</groupname>
+			<professorname>Julia Stoyanovich</professorname>
+		</research>
+		<research>
+			<groupname>Game Design and Development</groupname>
+			<professorname>Santiago Ontanon</professorname>
+		</research>
+		<research>
+			<groupname>High-Performance Computing</groupname>
+			<professorname>Jeremy Johnson</professorname>
+		</research>
+		<research>
+			<groupname>Human-Computer Interaction</groupname>
+			<professorname>Dario Salvucci</professorname>
+			<professorname>Erin Solovey</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning</groupname>
+			<professorname>Ko Nishino</professorname>
+			<professorname>Santiago Ontanon</professorname>
+		</research>
+		<research>
+			<groupname>Networks</groupname>
+			<professorname>Gaurav Naik</professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages and Verification:</groupname>
+			<professorname>Colin Gordon</professorname>
+			<professorname>Jeremy Johnson</professorname>
+			<professorname>Geoffrey Mainland</professorname>
+		</research>
+		<research>
+			<groupname>Software Engineering</groupname>
+			<professorname>M. Brian Blake</professorname>
+			<professorname>Yuanfang Cai</professorname>
+			<professorname>Spiros Mancoridis</professorname>
+		</research>
+		<research>
+			<groupname>Symbolic Computation</groupname>
+			<professorname>Bruce Char</professorname>
+			<professorname>Jeremy Johnson</professorname>
+		</research>
+	</institution>

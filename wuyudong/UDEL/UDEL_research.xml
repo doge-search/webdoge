@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Artificial Intelligence</groupname>
+			<professorname>Sandra Carberry</professorname>
+			<professorname>Ben Carterette</professorname>
+			<professorname>Daniel Chester</professorname>
+			<professorname>Keith Decker</professorname>
+			<professorname>Chandra Kambhamettu</professorname>
+			<professorname>Kathleen McCoy</professorname>
+			<professorname>Vijay Shanker</professorname>
+		</research>
+		<research>
+			<groupname>Bioinformatics</groupname>
+			<professorname>Keith Decker</professorname>
+			<professorname>Chandra Kambhamettu</professorname>
+			<professorname>Li Liao</professorname>
+			<professorname>Vijay Shanker</professorname>
+			<professorname>Hagit Shatkay</professorname>
+			<professorname>Michela Taufer</professorname>
+			<professorname>Cathy Wu</professorname>
+		</research>
+		<research>
+			<groupname>Computer Graphics</groupname>
+			<professorname>Chandra Kambhamettu</professorname>
+			<professorname>Jingyi Yu</professorname>
+		</research>
+		<research>
+			<groupname>Computer Networks</groupname>
+			<professorname>Paul D. Amer</professorname>
+			<professorname>Adarshpal S. Sethi</professorname>
+			<professorname>Chien-Chung Shen</professorname>
+			<professorname>Michela Taufer</professorname>
+			<professorname>Errol L. Lloyd</professorname>
+			<professorname>Stephan Bohacek</professorname>
+			<professorname>Charles Boncelet</professorname>
+			<professorname>Gonzalo R. Arce</professorname>
+		</research>
+		<research>
+			<groupname>Computer Vision</groupname>
+			<professorname>Chandra Kambhamettu</professorname>
+			<professorname>Christopher Rasmussen</professorname>
+			<professorname>Jingyi Yu</professorname>
+		</research>
+		<research>
+			<groupname>High Performance Computing</groupname>
+			<professorname>John Cavazos</professorname>
+			<professorname>Lori Pollock</professorname>
+			<professorname>B. David Saunders</professorname>
+			<professorname>Stephen Siegel</professorname>
+			<professorname>Michela Taufer</professorname>
+		</research>
+		<research>
+			<groupname>Natural Language Processing and Information Retrieval</groupname>
+			<professorname>Timothy Bunnell</professorname>
+			<professorname>Sandra Carberry</professorname>
+			<professorname>Ben Carterette</professorname>
+			<professorname>Daniel Chester</professorname>
+			<professorname>Kathleen McCoy</professorname>
+			<professorname>Vijay Shanker</professorname>
+			<professorname>Hagit Shatkay</professorname>
+		</research>
+		<research>
+			<groupname>Software Engineering</groupname>
+			<professorname>James Clause</professorname>
+			<professorname>Lori Pollock</professorname>
+			<professorname>Stephen F. Siegel</professorname>
+		</research>
+		<research>
+			<groupname>Theory of Computation</groupname>
+			<professorname>Errol L. Lloyd</professorname>
+			<professorname>B. David Saunders</professorname>
+		</research>
+	</institution>

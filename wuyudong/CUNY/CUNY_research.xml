@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Algorithms</groupname>
+			<professorname>Amotz Bar-Noy</professorname>
+			<professorname>Peter Brass</professorname>
+      <professorname>Theodore Brown</professorname>
+			<professorname>Leonid Gurvits</professorname>
+      <professorname>Gabor T. Herman</professorname>
+			<professorname>Yumei Huo</professorname>
+      <professorname>Matthew Johnson</professorname>
+			<professorname>Saad Mneimneh</professorname>
+      <professorname>Victor Pan</professorname>
+			<professorname>Dina Sokol</professorname>
+      <professorname>Felisa Vazquez-Abad</professorname>
+			<professorname>Stathis Zachos</professorname>
+		</research>
+    <research>
+			<groupname>Data Science</groupname>
+      <professorname>Amotz Bar-Noy</professorname>
+			<professorname>Peter Brass</professorname>
+			<professorname>Chen Chao</professorname>
+			<professorname>Soon Ae Chun</professorname>
+			<professorname>Scott Dexter</professorname>
+			<professorname>Susan Epstein</professorname>
+			<professorname>Michael Grossberg</professorname>
+			<professorname>Feng Gu</professorname>
+			<professorname>Olympia Hadjiliadis</professorname>
+			<professorname>Robert M Haralick</professorname>
+			<professorname>Matthew Johnson</professorname>
+			<professorname>Delaram Kahrobaei</professorname>
+			<professorname>Akira Kawaguchi</professorname>
+			<professorname>Devorah Kletenik</professorname>
+			<professorname>Danny Kopec</professorname>
+			<professorname>Rivka Levitan</professorname>
+			<professorname>Michael Mandel</professorname>
+			<professorname>Lev Manovich</professorname>
+			<professorname>Louis Petingi</professorname>
+			<professorname>Theodore Raphan</professorname>
+			<professorname>Dina Sokol</professorname>
+			<professorname>Katherine St. John</professorname>
+			<professorname>Ioannis Stamos</professorname>
+			<professorname>Bon K. Sy</professorname>
+			<professorname>Abdullah Uz Tansel</professorname>
+			<professorname>Ying-Li Tian</professorname>
+			<professorname>Felisa Vazquez-Abad</professorname>
+			<professorname>Jie Wei</professorname>
+			<professorname>Paula Whitlock</professorname>
+			<professorname>George Wolberg</professorname>
+			<professorname>Changhe Yuan</professorname>
+			<professorname>Sarah Zelikovitz</professorname>
+			<professorname>Jianting Zhang</professorname>
+			<professorname>Shuqun Zhang</professorname>
+			<professorname>Zhigang Zhu</professorname>
+		</research>
+    <research>
+			<groupname>Artificial Intelligence</groupname>
+      <professorname>Sergei Artemov</professorname>
+			<professorname>Susan Epstein</professorname>
+			<professorname>Susan Imberman</professorname>
+			<professorname>Danny Kopec</professorname>
+			<professorname>Rohit Parikh</professorname>
+			<professorname>Theodore Raphan</professorname>
+			<professorname>Jizhong Xiao</professorname>
+			<professorname>Changhe Yuan</professorname>
+			<professorname>Sarah Zelikovitz</professorname>
+			<professorname>Neng Fa Zhou</professorname>
+			<professorname>Zhigang Zhu</professorname>
+		</research>
+    <research>
+			<groupname>Communication Networks and Computer Systems</groupname>
+      <professorname>Shweta Jain</professorname>
+			<professorname>Ping Ji</professorname>
+			<professorname>Matthew Johnson</professorname>
+			<professorname>Bilal Khan</professorname>
+			<professorname>Myung Jong Lee</professorname>
+			<professorname>Saad Mneimneh</professorname>
+			<professorname>Louis Petingi</professorname>
+			<professorname>Kaliappa Ravindran</professorname>
+			<professorname>Felisa Vazquez-Abad</professorname>
+			<professorname>Danyang Zhang</professorname>
+			<professorname>Xiaowen Zhang</professorname>
+			<professorname>Zhanyang Zhang</professorname>
+		</research>
+    <research>
+			<groupname>Computational Biology</groupname>
+      <professorname>Candido Cabo</professorname>
+			<professorname>Yedidyah Langsam</professorname>
+			<professorname>Saad Mneimneh</professorname>
+			<professorname>Theodore Raphan</professorname>
+			<professorname>Dina Sokol</professorname>
+			<professorname>Katherine St. John</professorname>
+			<professorname>M. Umit Uyar</professorname>
+			<professorname>Lei Xie</professorname>
+		</research>
+    <research>
+			<groupname>Computational Science and Modeling</groupname>
+      <professorname>Candido Cabo</professorname>
+			<professorname>Susan Epstein</professorname>
+			<professorname>Feng Gu</professorname>
+			<professorname>Olympia Hadjiliadis</professorname>
+			<professorname>Gabor T. Herman</professorname>
+			<professorname>Shweta Jain</professorname>
+			<professorname>Matthew Johnson</professorname>
+			<professorname>Brian Murphy</professorname>
+			<professorname>Victor Pan</professorname>
+			<professorname>Kaliappa Ravindran</professorname>
+			<professorname>Felisa Vazquez-Abad</professorname>
+			<professorname>Paula Whitlock</professorname>
+			<professorname>Jianting Zhang</professorname>
+		</research>
+    <research>
+			<groupname>Computer and Network Security</groupname>
+      <professorname>Michael Anshel</professorname>
+			<professorname>Spiridon Bakiras</professorname>
+			<professorname>Sven Dietrich</professorname>
+			<professorname>Nelly Fazio</professorname>
+			<professorname>Rosario Gennaro</professorname>
+			<professorname>Ping Ji</professorname>
+			<professorname>Delaram Kahrobaei</professorname>
+			<professorname>Bilal Khan</professorname>
+			<professorname>Xiangdong Li</professorname>
+			<professorname>William Skeith</professorname>
+			<professorname>Bon K. Sy</professorname>
+			<professorname>Xiaowen Zhang</professorname>
+		</research>
+    <research>
+			<groupname>Logic</groupname>
+      <professorname>Sergei Artemov</professorname>
+			<professorname>Melvin Fitting</professorname>
+			<professorname>Joel David Hamkins</professorname>
+			<professorname>Danny Kopec</professorname>
+			<professorname>Saul Kripke</professorname>
+			<professorname>Rohit Parikh</professorname>
+			<professorname>Subash Shankar</professorname>
+		</research>
+    <research>
+			<groupname>Machine Learning</groupname>
+      <professorname>Chen Chao</professorname>
+			<professorname>Susan Epstein</professorname>
+			<professorname>Robert M Haralick</professorname>
+			<professorname>Susan Imberman</professorname>
+			<professorname>Devorah Kletenik</professorname>
+			<professorname>Michael Mandel</professorname>
+			<professorname>Theodore Raphan</professorname>
+			<professorname>Lei Xie</professorname>
+			<professorname>Changhe Yuan</professorname>
+			<professorname>Sarah Zelikovitz</professorname>
+			<professorname>Zhigang Zhu</professorname>
+		</research>
+    <research>
+			<groupname>Natural Language Processing</groupname>
+      <professorname>Rivka Levitan</professorname>
+			<professorname>William Sakas</professorname>
+		</research>
+    <research>
+			<groupname>Signal/Image Processing</groupname>
+      <professorname>Chen Chao</professorname>
+			<professorname>Izidor Gertner</professorname>
+			<professorname>Irina Gladkova</professorname>
+			<professorname>Michael Grossberg</professorname>
+			<professorname>Olympia Hadjiliadis</professorname>
+			<professorname>Gabor T. Herman</professorname>
+			<professorname>T. Yung Kong</professorname>
+			<professorname>Michael Mandel</professorname>
+			<professorname>Theodore Raphan</professorname>
+			<professorname>Ioannis Stamos</professorname>
+			<professorname>Ying-Li Tian</professorname>
+			<professorname>Jie Wei</professorname>
+			<professorname>George Wolberg</professorname>
+			<professorname>Zhigang Xiang</professorname>
+			<professorname>Danyang Zhang</professorname>
+			<professorname>Shuqun Zhang</professorname>
+			<professorname>Zhigang Zhu</professorname>
+		</research>
+    <research>
+      <groupname>Theory</groupname>
+      <professorname>Louis D'Alotto</professorname>
+			<professorname>Leonid Gurvits</professorname>
+			<professorname>Joel David Hamkins</professorname>
+			<professorname>Matthew Johnson</professorname>
+			<professorname>T. Yung Kong</professorname>
+			<professorname>Russell Miller</professorname>
+			<professorname>Louis Petingi</professorname>
+			<professorname>Subash Shankar</professorname>
+			<professorname>Douglas Troeger</professorname>
+    </research>
+	</institution>

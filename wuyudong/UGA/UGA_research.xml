@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Cortical Architecture Imaging and Discovery (CAID) Lab</groupname>
+			<professorname>Tianming Liu</professorname>
+		</research>
+    <research>
+			<groupname>Data Intensive Pervasive Systems(DIPS) Lab</groupname>
+			<professorname>LAKSHMISH RAMSASWAMY</professorname>
+		</research>
+    <research>
+			<groupname>Evolutionary Computing and Machine Learning (ECML) Lab</groupname>
+			<professorname>Rasheed, Khaled</professorname>
+		</research>
+    <research>
+			<groupname>Intelligent Thought and Action Lab (THINC) Lab</groupname>
+			<professorname>Prashant Doshi</professorname>
+		</research>
+    <research>
+			<groupname>Large Scale Distributed Information Systems Lab (LSDIS)</groupname>
+			<professorname>Budak Arpinar</professorname>
+			<professorname>Prashant Doshi</professorname>
+      <professorname>Krys Kochut</professorname>
+      <professorname>John Miller</professorname>
+      <professorname>Amit Sheth</professorname>
+		</research>
+    <research>
+			<groupname>Network Systems and Security (NSS) Lab</groupname>
+			<professorname>Kang Li</professorname>
+		</research>
+    <research>
+			<groupname>RNA Informatics Group</groupname>
+			<professorname>Liming Cai</professorname>
+			<professorname>Russell Malmberg</professorname>
+		</research>
+	</institution>
