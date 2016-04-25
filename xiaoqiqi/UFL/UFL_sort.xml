@@ -1,243 +1,195 @@
 <?xml version="1.0" ?>
 	<institution>
 		<professor>
-			<name>
-          Lisa Anthony, Ph.D.         </name>
-			<papers>-1</papers>
+			<name>Lisa Anthony</name>
+			<papers>20.4166666667</papers>
 		</professor>
 		<professor>
-			<name>
-          Arunava Banerjee, Ph.D.        </name>
-			<papers>-1</papers>
+			<name>Arunava Banerjee</name>
+			<papers>22.9166666667</papers>
 		</professor>
 		<professor>
-			<name>
-          Manuel E. Bermudez, Ph.D.        </name>
-			<papers>-1</papers>
+			<name>Manuel E. Bermudez</name>
+			<papers>8.33333333333</papers>
 		</professor>
 		<professor>
-			<name>
-          Kristy Elizabeth Boyer        </name>
+			<name>Kristy Elizabeth Boyer</name>
 			<papers>34.3666666667</papers>
 		</professor>
 		<professor>
-			<name>
-          Kevin R. B. Butler        </name>
+			<name>Kevin R. B. Butler</name>
 			<papers>25.05</papers>
 		</professor>
 		<professor>
-			<name>
-          Shigang Chen, Ph.D.        </name>
-			<papers>-1</papers>
+			<name>Shigang Chen</name>
+			<papers>70.0166666667</papers>
 		</professor>
 		<professor>
-			<name>
-          Su-Shing Chen, Ph.D.         </name>
-			<papers>-1</papers>
+			<name>Su-Shing Chen</name>
+			<papers>42.5261904762</papers>
 		</professor>
 		<professor>
-			<name>
-          Randy Chow, Ph.D.        </name>
-			<papers>-1</papers>
+			<name>Randy Chow</name>
+			<papers>19.5</papers>
 		</professor>
 		<professor>
-			<name>
-          Shaundra B. Daily, Ph.D.        </name>
-			<papers>-1</papers>
+			<name>Shaundra B. Daily</name>
+			<papers>0.0666666666667</papers>
 		</professor>
 		<professor>
-			<name>
-          Douglas D. Dankel II, Ph.D.        </name>
-			<papers>-1</papers>
+			<name>Douglas D. Dankel II</name>
+			<papers>13.0833333333</papers>
 		</professor>
 		<professor>
-			<name>
-          Alin Dobra        </name>
+			<name>Alin Dobra</name>
 			<papers>26.5595238095</papers>
 		</professor>
 		<professor>
-			<name>
-          Alireza Entezari, Ph.D.        </name>
+			<name>Alireza Entezari</name>
+			<papers>18.8666666667</papers>
+		</professor>
+		<professor>
+			<name>Jose A.B. Fortes</name>
+			<papers>79.7840007215</papers>
+		</professor>
+		<professor>
+			<name>Paul D. Gader</name>
+			<papers>73.4</papers>
+		</professor>
+		<professor>
+			<name>Christina Gardner-McCune</name>
+			<papers>1.12424242424</papers>
+		</professor>
+		<professor>
+			<name>Juan E. Gilbert</name>
+			<papers>33.0928571429</papers>
+		</professor>
+		<professor>
+			<name>Abdelsalam (Sumi) Helal</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>
-          Jose A.B. Fortes, Ph.D.        </name>
+			<name>Ahmed Helmy</name>
+			<papers>87.7666666667</papers>
+		</professor>
+		<professor>
+			<name>Eakta Jain</name>
+			<papers>6.66666666667</papers>
+		</professor>
+		<professor>
+			<name>Tamer Kahveci</name>
+			<papers>39.5333333333</papers>
+		</professor>
+		<professor>
+			<name>Jonathan (Chien-Liang) Liu</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>
-          Paul D. Gader, Ph.D.        </name>
+			<name>Benjamin C. Lok</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>
-          Christina Gardner-McCune, Ph.D.        </name>
+			<name>Kyla McMullen</name>
+			<papers>2.16666666667</papers>
+		</professor>
+		<professor>
+			<name>Prabhat Mishra</name>
+			<papers>65.5666666667</papers>
+		</professor>
+		<professor>
+			<name>Richard Newman</name>
+			<papers>3.5</papers>
+		</professor>
+		<professor>
+			<name>Jih-Kwon Peir</name>
+			<papers>31.4333333333</papers>
+		</professor>
+		<professor>
+			<name>Jorg Peters</name>
+			<papers>82.6916666667</papers>
+		</professor>
+		<professor>
+			<name>Anand Rangarajan</name>
+			<papers>60.8416666667</papers>
+		</professor>
+		<professor>
+			<name>Sanjay Ranka</name>
+			<papers>85.1916666667</papers>
+		</professor>
+		<professor>
+			<name>Gerhard X Ritter</name>
+			<papers>49.0833333333</papers>
+		</professor>
+		<professor>
+			<name>Sartaj Sahni</name>
+			<papers>173.761601307</papers>
+		</professor>
+		<professor>
+			<name>Beverly Sanders</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Mark S. Schmalzname</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>
-          Juan E. Gilbert, Ph.D.        </name>
-			<papers>-1</papers>
+			<name>Markus Schneider</name>
+			<papers>5.33333333333</papers>
 		</professor>
 		<professor>
-			<name>
-          Abdelsalam (Sumi) Helal, Ph.D.        </name>
-			<papers>-1</papers>
+			<name>Tom Shrimpton</name>
+			<papers>0</papers>
 		</professor>
 		<professor>
-			<name>
-          Ahmed Helmy, Ph.D.        </name>
-			<papers>-1</papers>
+			<name>Meera Sitharam</name>
+			<papers>41.1166666667</papers>
 		</professor>
 		<professor>
-			<name>
-          Eakta Jain, Ph. D.        </name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>
-          Tamer Kahveci, Ph.D.        </name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>
-          Jonathan (Chien-Liang) Liu, Ph.D.        </name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>
-          Benjamin C. Lok, Ph.D.        </name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>
-          Kyla McMullen, Ph.D.        </name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>
-          Prabhat Mishra, Ph.D.         </name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>
-          Richard Newman, Ph.D.        </name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>
-          Jih-Kwon Peir, Ph.D.         </name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>
-          Jorg Peters, Ph.D.        </name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>
-          Anand Rangarajan, Ph.D.        </name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>
-          Sanjay Ranka, Ph.D.        </name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>
-          Gerhard X Ritter, Ph.D.        </name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>
-          Sartaj Sahni, Ph.D.        </name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>
-          Beverly Sanders, Ph.D.        </name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>
-          Mark S. Schmalz, Ph.D., O.D.        </name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>
-          Markus Schneider, PhD        </name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>
-          Tom Shrimpton, Ph.D.        </name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>
-          Meera Sitharam, Ph.D.        </name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>
-          David Small        </name>
+			<name>David Small</name>
 			<papers>13.3095238095</papers>
 		</professor>
 		<professor>
-			<name>
-          Stanley Y. W. Su, Ph.D.        </name>
-			<papers>-1</papers>
+			<name>Stanley Y. W. Su</name>
+			<papers>100.711111111</papers>
 		</professor>
 		<professor>
-			<name>
-          My T. Thai, Ph.D.        </name>
-			<papers>-1</papers>
+			<name>My T. Thai</name>
+			<papers>45.0666666667</papers>
 		</professor>
 		<professor>
-			<name>
-          Stephen M. Thebaut, Ph.D.        </name>
-			<papers>-1</papers>
+			<name>Stephen M. Thebaut</name>
+			<papers>3.33333333333</papers>
 		</professor>
 		<professor>
-			<name>
-          Corey Toler-Franklin, Ph.D.        </name>
-			<papers>-1</papers>
+			<name>Corey Toler-Franklin</name>
+			<papers>3.16666666667</papers>
 		</professor>
 		<professor>
-			<name>
-          Patrick Traynor        </name>
+			<name>Patrick Traynor</name>
 			<papers>33.9833333333</papers>
 		</professor>
 		<professor>
-			<name>
-          Alper Ungor, Ph. D.        </name>
-			<papers>-1</papers>
+			<name>Alper Ungor</name>
+			<papers>21.6428571429</papers>
 		</professor>
 		<professor>
-			<name>
-          Baba C. Vemuri, Ph.D.        </name>
-			<papers>-1</papers>
+			<name>Baba C. Vemuri</name>
+			<papers>97.1011904762</papers>
 		</professor>
 		<professor>
-			<name>
-          Daisy Zhe Wang, Ph.D.        </name>
-			<papers>-1</papers>
+			<name>Daisy Zhe Wang</name>
+			<papers>14.8666666667</papers>
 		</professor>
 		<professor>
-			<name>
-          Joseph N Wilson, Ph.D.        </name>
-			<papers>-1</papers>
+			<name>Joseph N Wilson</name>
+			<papers>13.5333333333</papers>
 		</professor>
 		<professor>
-			<name>
-          Ye Xia        </name>
+			<name>Ye Xia</name>
 			<papers>2.33333333333</papers>
 		</professor>
 		<professor>
-			<name>
-          Rong Zhang, Ph. D.        </name>
-			<papers>-1</papers>
+			<name>Rong Zhang</name>
+			<papers>142.219444444</papers>
 		</professor>
 	</institution>
