@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Torben Amtoft</name>
+			<papers>28.0</papers>
+		</professor>
+		<professor>
+			<name>Daniel A. Andresen</name>
+			<papers>31.2833333333</papers>
+		</professor>
+		<professor>
+			<name>Nathan H Bean</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Doina Caragea</name>
+			<papers>43.8166666667</papers>
+		</professor>
+		<professor>
+			<name>Scott A. Deloach</name>
+			<papers>36.4833333333</papers>
+		</professor>
+		<professor>
+			<name>Russell A Feldhausen</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>John Hatcliff</name>
+			<papers>54.5928571429</papers>
+		</professor>
+		<professor>
+			<name>Rod Howell</name>
+			<papers>0.2</papers>
+		</professor>
+		<professor>
+			<name>Bill Hsu</name>
+			<papers>3.0</papers>
+		</professor>
+		<professor>
+			<name>Dennis Lang</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Masaaki Mizuno</name>
+			<papers>23.5583333333</papers>
+		</professor>
+		<professor>
+			<name>Mitch Neilsen</name>
+			<papers>24.5833333333</papers>
+		</professor>
+		<professor>
+			<name>Pavithra Prabhakar</name>
+			<papers>28.4166666667</papers>
+		</professor>
+		<professor>
+			<name>Venkatesh P Ranganath</name>
+			<papers>10.3761904762</papers>
+		</professor>
+		<professor>
+			<name>Robby</name>
+			<papers>22.2166666667</papers>
+		</professor>
+		<professor>
+			<name>Gurdip Singh</name>
+			<papers>45.6944444444</papers>
+		</professor>
+		<professor>
+			<name>Julie A Thornton</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Eugene Vasserman</name>
+			<papers>0.333333333333</papers>
+		</professor>
+	</institution>

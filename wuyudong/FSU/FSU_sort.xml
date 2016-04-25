@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Margareta Ackerman</name>
+			<papers>20.5</papers>
+		</professor>
+		<professor>
+			<name>Sudhir Aggarwal</name>
+			<papers>32.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Theodore P. Baker</name>
+			<papers>44.7</papers>
+		</professor>
+		<professor>
+			<name>Mike Burmester</name>
+			<papers>82.7261904762</papers>
+		</professor>
+		<professor>
+			<name>Caitlin Carnahan</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Zhenhai Duan</name>
+			<papers>28.75</papers>
+		</professor>
+		<professor>
+			<name>Robert A. van Engelen</name>
+			<papers>37.8666666667</papers>
+		</professor>
+		<professor>
+			<name>David Gaitros</name>
+			<papers>1.66666666667</papers>
+		</professor>
+		<professor>
+			<name>Sonia Haiduc</name>
+			<papers>14.25</papers>
+		</professor>
+		<professor>
+			<name>Lois Wright Hawkes</name>
+			<papers>11.0</papers>
+		</professor>
+		<professor>
+			<name>Piyush Kumar</name>
+			<papers>17.9166666667</papers>
+		</professor>
+		<professor>
+			<name>R. Christopher Lacher</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Randolph Langley</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Hilbert Levitz</name>
+			<papers>2.5</papers>
+		</professor>
+		<professor>
+			<name>Xiuwen Liu</name>
+			<papers>59.65</papers>
+		</professor>
+		<professor>
+			<name>Michael Mascagni</name>
+			<papers>38.5</papers>
+		</professor>
+		<professor>
+			<name>Bob Myers</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>H. Sarp Oral</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Daniel Schwartz</name>
+			<papers>6.35</papers>
+		</professor>
+		<professor>
+			<name>Ashok Srinivasan</name>
+			<papers>18.0928571429</papers>
+		</professor>
+		<professor>
+			<name>Gary Tyson</name>
+			<papers>1.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Melina Vastola</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>An-I Andy Wang</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Yu Wang</name>
+			<papers>207.186130433</papers>
+		</professor>
+		<professor>
+			<name>Zhi Wang</name>
+			<papers>111.331349206</papers>
+		</professor>
+		<professor>
+			<name>David Whalley</name>
+			<papers>1.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Jack Winston</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Jie Yang</name>
+			<papers>130.601190476</papers>
+		</professor>
+		<professor>
+			<name>Weikuan Yu</name>
+			<papers>39.0465580171</papers>
+		</professor>
+		<professor>
+			<name>Xin Yuan</name>
+			<papers>93.669047619</papers>
+		</professor>
+		<professor>
+			<name>Zhenghao Zhang</name>
+			<papers>62.0333333333</papers>
+		</professor>
+		<professor>
+			<name>Peixiang Zhao</name>
+			<papers>15.8261904762</papers>
+		</professor>
+	</institution>
