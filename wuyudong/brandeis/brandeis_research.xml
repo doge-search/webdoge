@@ -5,21 +5,21 @@
 			<professorname>Jordan B. Pollack</professorname>
 			<professorname>Kyle Harrington</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Alterman Lab</groupname>
 			<professorname>Rick Alterman</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>The Brandeis Laboratory for Linguistics and Computation</groupname>
 			<professorname>James Pustejovsky</professorname>
-      <professorname>Nianwen Xue</professorname>
+			<professorname>Nianwen Xue</professorname>
 			<professorname>Sophia Malamud</professorname>
-      <professorname>Marc Verhagen</professorname>
+			<professorname>Marc Verhagen</professorname>
 			<professorname>Lotus Goldberg</professorname>
-      <professorname>Roser Saurí</professorname>
+			<professorname>Roser Saurí</professorname>
 			<professorname>Anna Rumshisky</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Chinese Language Processing Group</groupname>
 			<professorname>Nianwen Xue</professorname>
 		</research>

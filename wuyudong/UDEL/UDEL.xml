@@ -218,8 +218,7 @@
 		</professor>
 		<professor>
 			<name>Cathy Wu</name>
-			<title>Professor, Edward G. Jefferson Chair of Bioinformatics & Computational Biology/td>
-		  <td>Bioinformatics and Computational Biology: Biological Text Mining, Biological Ontology, Computational Systems Biology, Protein Structure-Function-Network Analysis, Bioinformatics Cyberinfrastructure</title>
+			<title>Professor, Edward G. Jefferson Chair of Bioinformatics &amp; Computational Biology</title>
 			<office><a href="http://www.cis.udel.edu/~yarringt/" target="_top">Debra Yarrington</a></office>
 			<email></email>
 			<phone></phone>

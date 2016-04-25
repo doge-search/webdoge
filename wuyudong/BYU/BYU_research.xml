@@ -4,43 +4,43 @@
 			<groupname>Artificial Intelligence and Machine Learning</groupname>
 			<professorname>Tony Martinez</professorname>
 			<professorname>Dan Ventura</professorname>
-      <professorname>Christophe Giraud-Carrier</professorname>
+			<professorname>Christophe Giraud-Carrier</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Computational Science and Control</groupname>
 			<professorname>Quin Snell</professorname>
 			<professorname>Mark Clement</professorname>
-      <professorname>Hyrum Carroll</professorname>
-      <professorname>Mark T. W. Ebbert</professorname>
-      <professorname>Sean Warnick</professorname>
+			<professorname>Hyrum Carroll</professorname>
+			<professorname>Mark T. W. Ebbert</professorname>
+			<professorname>Sean Warnick</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Computer Networks, Systems, and Security</groupname>
 			<professorname>Daniel Zappala</professorname>
 			<professorname>Kent Seamons</professorname>
-      <professorname>Sean Warnick</professorname>
+			<professorname>Sean Warnick</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Data and Text Analytics</groupname>
-      <professorname>David W. Embley</professorname>
-      <professorname>Stephen W. Liddle</professorname>
-      <professorname>Deryle W. Lonsdale</professorname>
-      <professorname>Yuri A. Tijerino</professorname>
-      <professorname>Scott N. Woodfield</professorname>
+			<professorname>David W. Embley</professorname>
+			<professorname>Stephen W. Liddle</professorname>
+			<professorname>Deryle W. Lonsdale</professorname>
+			<professorname>Yuri A. Tijerino</professorname>
+			<professorname>Scott N. Woodfield</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Graphics, Animation, and Computer Vision</groupname>
 			<professorname>R. Brent Adams</professorname>
 			<professorname>Kelly Loosli</professorname>
-      <professorname>Seth Holladay</professorname>
-      <professorname>Darl Larsen</professorname>
-      <professorname>Cynthia Hogan</professorname>
-      <professorname>Parris K. Egbert</professorname>
-      <professorname>Bill Barrett</professorname>
-      <professorname>Robert P. Burton</professorname>
-      <professorname>Bryan Morse</professorname>
+			<professorname>Seth Holladay</professorname>
+			<professorname>Darl Larsen</professorname>
+			<professorname>Cynthia Hogan</professorname>
+			<professorname>Parris K. Egbert</professorname>
+			<professorname>Bill Barrett</professorname>
+			<professorname>Robert P. Burton</professorname>
+			<professorname>Bryan Morse</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Human-Computer Interaction and Software Development</groupname>
 			<professorname>Dan R. Olsen Jr.</professorname>
 			<professorname>Charles D. Knutson</professorname>
