@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Algorithms</groupname>
+			<professorname>James Calvin</professorname>
+			<professorname>Barry Cohen</professorname>
+			<professorname>Alexandros Gerbessiotis</professorname>
+			<professorname>Joseph Leung</professorname>
+			<professorname>James A.M. McHugh</professorname>
+			<professorname>David Nassimi</professorname>
+			<professorname>Usman Roshan</professorname>
+		</research>
+		<research>
+			<groupname>BioInformatics / Biomedical Informatics</groupname>
+			<professorname>Barry Cohen</professorname>
+			<professorname>James Geller</professorname>
+			<professorname>Yehoshua Perl</professorname>
+			<professorname>Usman Roshan</professorname>
+			<professorname>Frank Shih</professorname>
+			<professorname>Jason T. L. Wang</professorname>
+		</research>
+		<research>
+			<groupname>Database / Data Mining</groupname>
+			<professorname>Vincent Oria</professorname>
+			<professorname>Yehoshua Perl</professorname>
+			<professorname>Dimitri Theodoratos</professorname>
+			<professorname>Jason T. L. Wang</professorname>
+		</research>
+		<research>
+			<groupname>Image Processing</groupname>
+			<professorname>Dao-Chuan Hung</professorname>
+			<professorname>Frank Shih</professorname>
+		</research>
+		<research>
+			<groupname>Pervasive and Mobile Computing</groupname>
+			<professorname>Cristian Borcea</professorname>
+			<professorname>Reza Curtmola</professorname>
+			<professorname>Guiling Wang</professorname>
+		</research>
+		<research>
+			<groupname>Systems and Software Engineering</groupname>
+			<professorname>James Calvin</professorname>
+			<professorname>Cristian Borcea</professorname>
+			<professorname>Reza Curtmola</professorname>
+			<professorname>Joseph Leung</professorname>
+			<professorname>James A.M. McHugh</professorname>
+			<professorname>Ali Mili</professorname>
+			<professorname>Marvin K. Nakayama</professorname>
+			<professorname>Guiling Wang</professorname>
+			<professorname>Andrew Sohn</professorname>
+		</research>
+		<research>
+			<groupname>Telecommunications, Networking and Security</groupname>
+			<professorname>Cristian Borcea</professorname>
+			<professorname>Reza Curtmola</professorname>
+			<professorname>Guiling Wang</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning, Computer Vision, Pattern Recognition, Biometrics and Security</groupname>
+			<professorname>Chengjun Liu</professorname>
+			<professorname>Frank Shih</professorname>
+		</research>
+		<research>
+			<groupname>Big Data</groupname>
+			<professorname>Andrew Sohn</professorname>
+			<professorname>Xiaoning Ding</professorname>
+		</research>
+	</institution>

@@ -2,11 +2,11 @@
 	<institution>
 		<professor>
 			<name>Chris Bailey-Kellogg</name>
-			<papers>19.4</papers>
+			<papers>19.7333333333</papers>
 		</professor>
 		<professor>
 			<name>Devin J. Balkcom</name>
-			<papers>19.3666666667</papers>
+			<papers>20.3666666667</papers>
 		</professor>
 		<professor>
 			<name>Andrew Thomas Campbell</name>
@@ -22,7 +22,7 @@
 		</professor>
 		<professor>
 			<name>Thomas H. Cormen</name>
-			<papers>25.6666666667</papers>
+			<papers>27.1666666667</papers>
 		</professor>
 		<professor>
 			<name>Robert Lewis (Scot) Drysdale, III</name>
@@ -46,19 +46,19 @@
 		</professor>
 		<professor>
 			<name>David Kotz</name>
-			<papers>72.303968254</papers>
+			<papers>72.803968254</papers>
 		</professor>
 		<professor>
 			<name>Qiang Liu</name>
-			<papers>201.009126984</papers>
+			<papers>218.875793651</papers>
 		</professor>
 		<professor>
 			<name>Daniel Rockmore</name>
-			<papers>-1</papers>
+			<papers>0.5</papers>
 		</professor>
 		<professor>
 			<name>Sean W. Smith</name>
-			<papers>59.8611111111</papers>
+			<papers>62.3611111111</papers>
 		</professor>
 		<professor>
 			<name>Lorenzo Torresani</name>
@@ -74,10 +74,10 @@
 		</professor>
 		<professor>
 			<name>Xing-Dong Yang</name>
-			<papers>16.5833333333</papers>
+			<papers>17.5833333333</papers>
 		</professor>
 		<professor>
 			<name>Xia Zhou</name>
-			<papers>26.1761904762</papers>
+			<papers>27.0095238095</papers>
 		</professor>
 	</institution>

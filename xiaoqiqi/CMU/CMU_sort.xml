@@ -78,7 +78,7 @@
 		</professor>
 		<professor>
 			<name>Amos Azaria</name>
-			<papers>27.8166666667</papers>
+			<papers>28.8166666667</papers>
 		</professor>
 		<professor>
 			<name>Sang Won Bae</name>
@@ -114,7 +114,7 @@
 		</professor>
 		<professor>
 			<name>Miguel Ballesteros</name>
-			<papers>29.0</papers>
+			<papers>30.0</papers>
 		</professor>
 		<professor>
 			<name>Tadas Baltrusaitis</name>
@@ -1146,7 +1146,7 @@
 		</professor>
 		<professor>
 			<name>Onur Mutlu</name>
-			<papers>66.0162698413</papers>
+			<papers>66.2162698413</papers>
 		</professor>
 		<professor>
 			<name>Eben Myers</name>
@@ -1350,7 +1350,7 @@
 		</professor>
 		<professor>
 			<name>Cameron Riviere</name>
-			<papers>12.8666666667</papers>
+			<papers>13.0333333333</papers>
 		</professor>
 		<professor>
 			<name>Gemma Francisca Rodrigues</name>
@@ -1390,7 +1390,7 @@
 		</professor>
 		<professor>
 			<name>Alexander Rudnicky</name>
-			<papers>49.9047619048</papers>
+			<papers>50.4047619048</papers>
 		</professor>
 		<professor>
 			<name>Matthew Ruffalo</name>
@@ -1422,7 +1422,7 @@
 		</professor>
 		<professor>
 			<name>Tuomas Sandholm</name>
-			<papers>160.95952381</papers>
+			<papers>161.45952381</papers>
 		</professor>
 		<professor>
 			<name>Thierry Sans</name>
@@ -1434,7 +1434,7 @@
 		</professor>
 		<professor>
 			<name>Mahadev Satyanarayanan</name>
-			<papers>85.1826649958</papers>
+			<papers>85.6826649958</papers>
 		</professor>
 		<professor>
 			<name>Florian Schaub</name>
@@ -1458,7 +1458,7 @@
 		</professor>
 		<professor>
 			<name>Tanja Schultz</name>
-			<papers>95.1107864358</papers>
+			<papers>95.6107864358</papers>
 		</professor>
 		<professor>
 			<name>Russell Schwartz</name>
@@ -1494,7 +1494,7 @@
 		</professor>
 		<professor>
 			<name>Mary Shaw</name>
-			<papers>62.1697008547</papers>
+			<papers>62.503034188</papers>
 		</professor>
 		<professor>
 			<name>Yaser Sheikh</name>
@@ -1514,11 +1514,11 @@
 		</professor>
 		<professor>
 			<name>Daniel Siewiorek</name>
-			<papers>110.088131313</papers>
+			<papers>114.588131313</papers>
 		</professor>
 		<professor>
 			<name>Leonid Sigal</name>
-			<papers>38.275</papers>
+			<papers>38.775</papers>
 		</professor>
 		<professor>
 			<name>Jose Luis Cardoso Silva</name>
@@ -1534,11 +1534,11 @@
 		</professor>
 		<professor>
 			<name>Peter Simon</name>
-			<papers>2.53333333333</papers>
+			<papers>3.03333333333</papers>
 		</professor>
 		<professor>
 			<name>Rita Singh</name>
-			<papers>31.1285714286</papers>
+			<papers>31.6285714286</papers>
 		</professor>
 		<professor>
 			<name>Sanjiv Singh</name>
@@ -1550,7 +1550,7 @@
 		</professor>
 		<professor>
 			<name>Metin Sitti</name>
-			<papers>43.3845238095</papers>
+			<papers>43.8845238095</papers>
 		</professor>
 		<professor>
 			<name>Kiron Skinner</name>
@@ -1558,19 +1558,19 @@
 		</professor>
 		<professor>
 			<name>Daniel Sleator</name>
-			<papers>20.45</papers>
+			<papers>20.65</papers>
 		</professor>
 		<professor>
 			<name>Noah Smith</name>
-			<papers>58.8261904762</papers>
+			<papers>59.9095238095</papers>
 		</professor>
 		<professor>
 			<name>Stephen Smith</name>
-			<papers>23.1566849817</papers>
+			<papers>24.1566849817</papers>
 		</professor>
 		<professor>
 			<name>Alexander Smola</name>
-			<papers>91.5293040293</papers>
+			<papers>91.7793040293</papers>
 		</professor>
 		<professor>
 			<name>Koushil Sreenath</name>
@@ -1582,7 +1582,7 @@
 		</professor>
 		<professor>
 			<name>John Stamper</name>
-			<papers>23.8666666667</papers>
+			<papers>24.8666666667</papers>
 		</professor>
 		<professor>
 			<name>Ravi Starzl</name>
@@ -1598,11 +1598,11 @@
 		</professor>
 		<professor>
 			<name>Aaron Steinfeld</name>
-			<papers>13.2206349206</papers>
+			<papers>13.4884920635</papers>
 		</professor>
 		<professor>
 			<name>Anthony Stentz</name>
-			<papers>56.4333333333</papers>
+			<papers>56.9333333333</papers>
 		</professor>
 		<professor>
 			<name>George Stetten</name>
@@ -1630,7 +1630,7 @@
 		</professor>
 		<professor>
 			<name>Katia Sycara</name>
-			<papers>153.270728291</papers>
+			<papers>155.270728291</papers>
 		</professor>
 		<professor>
 			<name>Sujata Telang</name>
@@ -1650,7 +1650,7 @@
 		</professor>
 		<professor>
 			<name>Anthony Tomasic</name>
-			<papers>30.8956349206</papers>
+			<papers>32.0623015873</papers>
 		</professor>
 		<professor>
 			<name>David Touretzky</name>
@@ -1710,7 +1710,7 @@
 		</professor>
 		<professor>
 			<name>Larry Wasserman</name>
-			<papers>24.8833333333</papers>
+			<papers>25.9666666667</papers>
 		</professor>
 		<professor>
 			<name>Lee Weiss</name>
@@ -1722,7 +1722,7 @@
 		</professor>
 		<professor>
 			<name>David Wettergreen</name>
-			<papers>33.4373015873</papers>
+			<papers>34.4373015873</papers>
 		</professor>
 		<professor>
 			<name>William Red Whittaker</name>
@@ -1734,11 +1734,11 @@
 		</professor>
 		<professor>
 			<name>Andrew Wilson</name>
-			<papers>21.3333333333</papers>
+			<papers>23.3333333333</papers>
 		</professor>
 		<professor>
 			<name>Mary Wootters</name>
-			<papers>12.5166666667</papers>
+			<papers>13.0166666667</papers>
 		</professor>
 		<professor>
 			<name>Monika Woszczyna</name>
@@ -1750,15 +1750,15 @@
 		</professor>
 		<professor>
 			<name>Wei Wu</name>
-			<papers>298.792857143</papers>
+			<papers>302.376190476</papers>
 		</professor>
 		<professor>
 			<name>Eric Xing</name>
-			<papers>101.627417027</papers>
+			<papers>101.877417027</papers>
 		</professor>
 		<professor>
 			<name>Yiming Yang</name>
-			<papers>68.3345238095</papers>
+			<papers>70.8345238095</papers>
 		</professor>
 		<professor>
 			<name>Bishan Yang</name>
@@ -1782,7 +1782,7 @@
 		</professor>
 		<professor>
 			<name>Hui Zhang</name>
-			<papers>319.388095238</papers>
+			<papers>321.471428571</papers>
 		</professor>
 		<professor>
 			<name>Sha Zhao</name>
@@ -1794,15 +1794,15 @@
 		</professor>
 		<professor>
 			<name>Yu Zhong</name>
-			<papers>22.5833333333</papers>
+			<papers>23.5833333333</papers>
 		</professor>
 		<professor>
 			<name>Yi Zhou</name>
-			<papers>112.70952381</papers>
+			<papers>113.876190476</papers>
 		</professor>
 		<professor>
 			<name>Jun Zhu</name>
-			<papers>171.951526252</papers>
+			<papers>174.451526252</papers>
 		</professor>
 		<professor>
 			<name>Yair Zick</name>
@@ -1810,7 +1810,7 @@
 		</professor>
 		<professor>
 			<name>John Zimmerman</name>
-			<papers>39.4785714286</papers>
+			<papers>39.9785714286</papers>
 		</professor>
 		<professor>
 			<name>Ales Zivkovic</name>

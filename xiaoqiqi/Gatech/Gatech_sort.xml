@@ -2,15 +2,15 @@
 	<institution>
 		<professor>
 			<name>Gregory Abowd</name>
-			<papers>98.7003968254</papers>
+			<papers>99.2003968254</papers>
 		</professor>
 		<professor>
 			<name>Mustaque Ahamad</name>
-			<papers>61.1023809524</papers>
+			<papers>63.6023809524</papers>
 		</professor>
 		<professor>
 			<name>Srinivas Aluru</name>
-			<papers>75.9416666667</papers>
+			<papers>76.4416666667</papers>
 		</professor>
 		<professor>
 			<name>Mostafa Ammar</name>
@@ -22,7 +22,7 @@
 		</professor>
 		<professor>
 			<name>Ronald Arkin</name>
-			<papers>73.753968254</papers>
+			<papers>74.753968254</papers>
 		</professor>
 		<professor>
 			<name>Rosa Arriaga</name>
@@ -30,11 +30,11 @@
 		</professor>
 		<professor>
 			<name>David A. Bader</name>
-			<papers>107.194444444</papers>
+			<papers>109.194444444</papers>
 		</professor>
 		<professor>
 			<name>Albert Badre</name>
-			<papers>12.6666666667</papers>
+			<papers>12.9166666667</papers>
 		</professor>
 		<professor>
 			<name>Mohammad Taha Bahadori</name>
@@ -86,7 +86,7 @@
 		</professor>
 		<professor>
 			<name>Amy Bruckman</name>
-			<papers>37.8968253968</papers>
+			<papers>38.3968253968</papers>
 		</professor>
 		<professor>
 			<name>Elijah Cameron</name>
@@ -94,7 +94,7 @@
 		</professor>
 		<professor>
 			<name>Richard Catrambone</name>
-			<papers>15.8614468864</papers>
+			<papers>16.0614468864</papers>
 		</professor>
 		<professor>
 			<name>Jan Thomas Cederborg</name>
@@ -110,7 +110,7 @@
 		</professor>
 		<professor>
 			<name>Sonia Chernova</name>
-			<papers>33.0178571429</papers>
+			<papers>33.1607142857</papers>
 		</professor>
 		<professor>
 			<name>Edmond Chow</name>
@@ -118,7 +118,7 @@
 		</professor>
 		<professor>
 			<name>Henrik I. Christensen</name>
-			<papers>101.075</papers>
+			<papers>101.575</papers>
 		</professor>
 		<professor>
 			<name>Pak Ho Chung</name>
@@ -258,7 +258,7 @@
 		</professor>
 		<professor>
 			<name>Zvi Galil</name>
-			<papers>130.583333333</papers>
+			<papers>133.416666667</papers>
 		</professor>
 		<professor>
 			<name>Christina Gardner</name>
@@ -266,11 +266,11 @@
 		</professor>
 		<professor>
 			<name>Ada Gavrilovska</name>
-			<papers>27.2333333333</papers>
+			<papers>27.5666666667</papers>
 		</professor>
 		<professor>
 			<name>Eric Gilbert</name>
-			<papers>25.7595238095</papers>
+			<papers>26.7595238095</papers>
 		</professor>
 		<professor>
 			<name>John Goda</name>
@@ -278,7 +278,7 @@
 		</professor>
 		<professor>
 			<name>Ashok Goel</name>
-			<papers>83.2944444444</papers>
+			<papers>83.6277777778</papers>
 		</professor>
 		<professor>
 			<name>Eric Gold</name>
@@ -302,7 +302,7 @@
 		</professor>
 		<professor>
 			<name>Mark Guzdial</name>
-			<papers>103.826190476</papers>
+			<papers>105.40952381</papers>
 		</professor>
 		<professor>
 			<name>James Haagans</name>
@@ -318,7 +318,7 @@
 		</professor>
 		<professor>
 			<name>Brent Harrison</name>
-			<papers>9.66666666667</papers>
+			<papers>10.6666666667</papers>
 		</professor>
 		<professor>
 			<name>James Hays</name>
@@ -366,7 +366,7 @@
 		</professor>
 		<professor>
 			<name>Hyesoon Kim</name>
-			<papers>31.1</papers>
+			<papers>31.6</papers>
 		</professor>
 		<professor>
 			<name>Taesoo Kim</name>
@@ -426,7 +426,7 @@
 		</professor>
 		<professor>
 			<name>Richard Lipton</name>
-			<papers>0</papers>
+			<papers>0.25</papers>
 		</professor>
 		<professor>
 			<name>Michael Littman</name>
@@ -566,7 +566,7 @@
 		</professor>
 		<professor>
 			<name>Calton Pu</name>
-			<papers>128.051587302</papers>
+			<papers>128.718253968</papers>
 		</professor>
 		<professor>
 			<name>Moin Qureshi</name>

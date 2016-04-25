@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Dynamical and Evolutionary Machine Organization</groupname>
+			<professorname>Jordan B. Pollack</professorname>
+			<professorname>Kyle Harrington</professorname>
+		</research>
+    <research>
+			<groupname>Alterman Lab</groupname>
+			<professorname>Rick Alterman</professorname>
+		</research>
+    <research>
+			<groupname>The Brandeis Laboratory for Linguistics and Computation</groupname>
+			<professorname>James Pustejovsky</professorname>
+      <professorname>Nianwen Xue</professorname>
+			<professorname>Sophia Malamud</professorname>
+      <professorname>Marc Verhagen</professorname>
+			<professorname>Lotus Goldberg</professorname>
+      <professorname>Roser Saurí</professorname>
+			<professorname>Anna Rumshisky</professorname>
+		</research>
+    <research>
+			<groupname>Chinese Language Processing Group</groupname>
+			<professorname>Nianwen Xue</professorname>
+		</research>
+	</institution>

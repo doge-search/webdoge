@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Computer Vision</groupname>
+			<professorname>Ulas Bagci</professorname>
+			<professorname>Ali Borji</professorname>
+			<professorname>Hassan Foroosh</professorname>
+			<professorname>Boqing Gong</professorname>
+			<professorname>Niels da Vitoria Lobo</professorname>
+			<professorname>Mubarak Shah</professorname>
+			<professorname>Gregory Welch</professorname>
+		</research>
+		<research>
+			<groupname>Image and Video Processing</groupname>
+			<professorname>Ulas Bagci</professorname>
+			<professorname>Hassan Foroosh</professorname>
+			<professorname>Kien A. Hua</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning and AI</groupname>
+			<professorname>Ladislau Boloni</professorname>
+			<professorname>Avelino J. Gonzalez</professorname>
+			<professorname>Haiyan Hu</professorname>
+			<professorname>Fei Liu</professorname>
+			<professorname>Guo-Jun Qi</professorname>
+			<professorname>Kenneth Stanley</professorname>
+			<professorname>Gita Sukthankar</professorname>
+			<professorname>Annie Wu</professorname>
+		</research>
+		<research>
+			<groupname>Virtual Reality and HCI</groupname>
+			<professorname>Avelino J. Gonzalez</professorname>
+			<professorname>Charles E. Hughes</professorname>
+			<professorname>Joseph LaViola</professorname>
+			<professorname>Gregory Welch</professorname>
+			<professorname>Pamela Wisniewski</professorname>
+		</research>
+		<research>
+			<groupname>Computer Graphics</groupname>
+			<professorname>Charles E. Hughes</professorname>
+			<professorname>Sumanta Pattanaik</professorname>
+			<professorname>Gregory Welch</professorname>
+		</research>
+		<research>
+			<groupname>Software Engineering and Systems</groupname>
+			<professorname>Damian Dechev</professorname>
+			<professorname>Kien A. Hua</professorname>
+			<professorname>Sumit Jha</professorname>
+			<professorname>Gary T. Leavens</professorname>
+			<professorname>Dan C. Marinescu</professorname>
+			<professorname>Ali Orooji</professorname>
+			<professorname>Damla Turgut</professorname>
+			<professorname>Liqiang Wang</professorname>
+		</research>
+		<research>
+			<groupname>Database</groupname>
+			<professorname>Mostafa Bassiouni</professorname>
+			<professorname>Narsingh Deo</professorname>
+			<professorname>Kien A. Hua</professorname>
+			<professorname>Mark Llewellyn</professorname>
+			<professorname>Ali Orooji</professorname>
+			<professorname>Guo-Jun Qi</professorname>
+			<professorname>Cliff Zou</professorname>
+		</research>
+		<research>
+			<groupname>Parallel Computation</groupname>
+			<professorname>Damian Dechev</professorname>
+			<professorname>Narsingh Deo</professorname>
+			<professorname>Kien A. Hua</professorname>
+			<professorname>Sumit Jha</professorname>
+			<professorname>Dan C. Marinescu</professorname>
+			<professorname>Liqiang Wang</professorname>
+		</research>
+		<research>
+			<groupname>Networking and Mobile Computing</groupname>
+			<professorname>Mostafa Bassiouni</professorname>
+			<professorname>Mainak Chatterjee</professorname>
+			<professorname>Ratan K. Guha</professorname>
+			<professorname>Kien A. Hua</professorname>
+			<professorname>Damla Turgut</professorname>
+		</research>
+		<research>
+			<groupname>Computer Security and Digital Forensics</groupname>
+			<professorname>Mostafa Bassiouni</professorname>
+			<professorname>Ratan K. Guha</professorname>
+			<professorname>Sumit Jha</professorname>
+			<professorname>Gary T. Leavens</professorname>
+			<professorname>Pawel Wocjan</professorname>
+			<professorname>Cliff Zou</professorname>
+		</research>
+		<research>
+			<groupname>Bioinformatics and Systems Biology</groupname>
+			<professorname>Haiyan Hu</professorname>
+			<professorname>Sumit Jha</professorname>
+			<professorname>Xiaoman Li</professorname>
+			<professorname>Shaojie Zhang</professorname>
+		</research>
+		<research>
+			<groupname>Theory of Computing, Algorithms, and Quantum Computing</groupname>
+			<professorname>Narsingh Deo</professorname>
+			<professorname>Charles E. Hughes</professorname>
+			<professorname>Dan C. Marinescu</professorname>
+			<professorname>Pawel Wocjan</professorname>
+			<professorname>Shaojie Zhang</professorname>
+		</research>
+		<research>
+			<groupname>Computer Architecture</groupname>
+			<professorname>Mark Heinrich</professorname>
+		</research>
+	</institution>

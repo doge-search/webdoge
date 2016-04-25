@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Algorithms and Theory of Computation</groupname>
+			<professorname>Sudhir Aggarwal</professorname>
+			<professorname>Piyush Kumar</professorname>
+			<professorname>Michael Mascagni</professorname>
+			<professorname>Ashok Srinivasan</professorname>
+		</research>
+		<research>
+			<groupname>Artificial Intelligence</groupname>
+			<professorname>Margareta Ackerman</professorname>
+			<professorname>Xiuwen Liu</professorname>
+			<professorname>Daniel Schwartz</professorname>
+		</research>
+		<research>
+			<groupname>Computer Architecture and Operating Systems</groupname>
+			<professorname>Gary Tyson</professorname>
+			<professorname>Andy Wang</professorname>
+			<professorname>Zhi Wang</professorname>
+			<professorname>David Whalley</professorname>
+			<professorname>Weikuan Yu</professorname>
+			<professorname>Xin Yuan</professorname>
+		</research>
+		<research>
+			<groupname>Databases and Data Engineering</groupname>
+			<professorname>Margareta Ackerman</professorname>
+			<professorname>Peixiang Zhao</professorname>
+		</research>
+		<research>
+			<groupname>Mobile Computing</groupname>
+			<professorname>Gary Tyson</professorname>
+			<professorname>Jie Yang</professorname>
+		</research>
+		<research>
+			<groupname>Networking</groupname>
+			<professorname>Sudhir Aggarwal</professorname>
+			<professorname>Zhenhai Duan</professorname>
+			<professorname>Xin Yuan</professorname>
+			<professorname>Zhenghao Zhang</professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages and Compilers</groupname>
+			<professorname>Robert van Engelen</professorname>
+			<professorname>David Whalley</professorname>
+		</research>
+		<research>
+			<groupname>Parallel and Distributed Systems</groupname>
+			<professorname>Ashok Srinivasan</professorname>
+			<professorname>Robert van Engelen</professorname>
+			<professorname>Weikuan Yu</professorname>
+			<professorname>Xin Yuan</professorname>
+		</research>
+		<research>
+			<groupname>Scientific Computing</groupname>
+			<professorname>Michael Mascagni</professorname>
+			<professorname>Ashok Srinivasan</professorname>
+		</research>
+		<research>
+			<groupname>Security</groupname>
+			<professorname>Sudhir Aggarwal</professorname>
+			<professorname>Michael Burmester</professorname>
+			<professorname>Xiuwen Liu</professorname>
+			<professorname>Zhi Wang</professorname>
+			<professorname>Jie Yang</professorname>
+		</research>
+		<research>
+			<groupname>Software Engineering</groupname>
+			<professorname>David Gaitros</professorname>
+			<professorname>Sonia Haiduc</professorname>
+		</research>
+	</institution>

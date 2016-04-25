@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Algorithms and Theory</groupname>
+			<professorname>Xiuzhen (Susan) Cheng</professorname>
+			<professorname>Hyeong-Ah Choi</professorname>
+			<professorname>Abdou Youssef</professorname>
+			<professorname>Nan Zhang</professorname>
+		</research>
+		<research>
+			<groupname>Artificial Intelligence and Robotics</groupname>
+			<professorname>Nan Zhang</professorname>
+			<professorname>Claire Monteleoni</professorname>
+			<professorname>Mona Diab</professorname>
+			<professorname>Evan Drumwright</professorname>
+		</research>
+		<research>
+			<groupname>Bioinformatics and Biomedical Computing</groupname>
+			<professorname>Xiuzhen (Susan) Cheng</professorname>
+			<professorname>James Hahn</professorname>
+			<professorname>Shmuel Rotenstreich</professorname>
+			<professorname>Rahul Simha</professorname>
+		</research>
+		<research>
+			<groupname>Computer Security and Information Assurance</groupname>
+			<professorname>Xiuzhen (Susan) Cheng</professorname>
+			<professorname>Hyeong-Ah Choi</professorname>
+			<professorname>Lance Hoffman</professorname>
+			<professorname>Bhagirath Narahari</professorname>
+			<professorname>Rahul Simha</professorname>
+			<professorname>Nan Zhang</professorname>
+		</research>
+		<research>
+			<groupname>Data Science</groupname>
+			<professorname>Mona Diab</professorname>
+			<professorname>Claire Monteleoni</professorname>
+			<professorname>Tim Wood</professorname>
+			<professorname>Abdou Youssef</professorname>
+			<professorname>Nan Zhang</professorname>
+		</research>
+		<research>
+			<groupname>Digital Media</groupname>
+			<professorname>James Hahn</professorname>
+			<professorname>Rachelle Heller</professorname>
+			<professorname>Abdou Youssef</professorname>
+		</research>
+		<research>
+			<groupname>Networking and Mobile Computing</groupname>
+			<professorname>Xiuzhen (Susan) Cheng</professorname>
+			<professorname>Hyeong-Ah Choi</professorname>
+			<professorname>Bhagirath Narahari</professorname>
+			<professorname>Shmuel Rotenstreich</professorname>
+			<professorname>Rahul Simha</professorname>
+		</research>
+		<research>
+			<groupname>Pervasive Computing and Embedded Systems</groupname>
+			<professorname>Xiuzhen (Susan) Cheng</professorname>
+			<professorname>Bhagirath Narahari</professorname>
+			<professorname>Rahul Simha</professorname>
+		</research>
+		<research>
+			<groupname>Software Engineering and Systems</groupname>
+			<professorname>Bhagirath Narahari</professorname>
+			<professorname>Gabriel Parmer</professorname>
+			<professorname>Shmuel Rotenstreich</professorname>
+			<professorname>Tim Wood</professorname>
+		</research>
+	</institution>
