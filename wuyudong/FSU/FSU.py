@@ -27,7 +27,7 @@ class ProfList:
             url = self.baseUrl
             request = urllib2.Request(url)
             response = urllib2.urlopen(request)
-            # print response.read()
+            print response.read()
             return response
         except urllib2.URLError, e:
             if hasattr(e,"reason"):
@@ -71,12 +71,12 @@ class ProfList:
             result += "\t\t\t<office>%s</office>\n" % (prof.office)
             result += "\t\t\t<email>%s</email>\n" % (prof.email)
             result += "\t\t\t<phone>%s</phone>\n" % (prof.phone)
-            result += "\t\t\t<website>%s<website>\n" % (prof.pUrl)
-            result += "\t\t\t<image>%s<\image>\n" % (prof.photoUrl)
+            result += "\t\t\t<website>%s</website>\n" % (prof.pUrl)
+            result += "\t\t\t<image>%s</image>\n" % (prof.photoUrl)
             result += "\t\t</professor>\n"
         result += "\t</institution>\n"
         # print result
-        file = open("result/FSU.txt","w")
+        file = open("FSU.xml","w")
         file.writelines(result)
 
 

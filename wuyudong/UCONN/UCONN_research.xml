@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Algorithms and Complexity</groupname>
+			<professorname> Mukul Bansal </professorname>
+			<professorname> Ion Mandoiu</professorname>
+			<professorname> Sanguthevar Rajasekaran </professorname>
+			<professorname> Alex Russell </professorname>
+			<professorname> Don Sheehy </professorname>
+		</research>
+		<research>
+			<groupname>Architecture</groupname>
+			<professorname> Zhije Jerry Shi</professorname>
+		</research>
+		<research>
+			<groupname>Bioinformatics and Computational Biology</groupname>
+			<professorname> Mukul Bansal </professorname>
+			<professorname> Jinbo Bi </professorname>
+			<professorname> Chun-Hsi Huang </professorname>
+			<professorname> Ion Mandoiu</professorname>
+			<professorname> Sheida Nabavi</professorname>
+			<professorname> Sanguthevar Rajasekaran </professorname>
+			<professorname> Dong-Guk Shin </professorname>
+			<professorname> Yufeng Wu </professorname>
+		</research>
+		<research>
+			<groupname>Combinatorial Optimization</groupname>
+			<professorname> Ion Mandoiu</professorname>
+			<professorname> Laurent Michel</professorname>
+		</research>
+		<research>
+			<groupname>Computational Topology and Geometry</groupname>
+			<professorname> Tom Peters</professorname>
+			<professorname> Sanguthevar Rajasekaran </professorname>
+			<professorname> Jack Roulier<sup>1</sup></professorname>
+			<professorname> Don Sheehy </professorname>
+		</research>
+		<research>
+			<groupname>Computing for Biomedical Informatics</groupname>
+			<professorname> Jinbo Bi </professorname>
+			<professorname> Dong-Guk Shin </professorname>
+			<professorname> Mohammad Maifi Khan </professorname>
+			<professorname> Sanguthevar Rajasekaran </professorname>
+		</research>
+		<research>
+			<groupname>Control Theory</groupname>
+			<professorname> Sridhar Duggirala </professorname>
+		</research>
+		<research>
+			<groupname>Cryptography</groupname>
+			<professorname> Alex Russell </professorname>
+		</research>
+		<research>
+			<groupname>Databases</groupname>
+			<professorname> Dong-Guk Shin </professorname>
+		</research>
+		<research>
+			<groupname>Data Mining</groupname>
+			<professorname> Dong-Guk Shin </professorname>
+			<professorname> Fei Wang </professorname>
+		</research>
+		<research>
+			<groupname>Distributed and Real Time Systems</groupname>
+			<professorname> Reda Ammar</professorname>
+			<professorname>Steve Demurjian </professorname>
+			<professorname> Song Han</professorname>
+			<professorname> Mohammad Maifi Khan </professorname>
+			<professorname> Alexander Schwarzmann </professorname>
+		</research>
+		<research>
+			<groupname>Distributed and Parallel Computing</groupname>
+			<professorname> Sanguthevar Rajasekaran </professorname>
+			<professorname> Alex Russell </professorname>
+			<professorname> Alexander Schwarzmann </professorname>
+		</research>
+		<research>
+			<groupname>Education</groupname>
+			<professorname> Keith Barker </professorname>
+			<professorname> Robert McCartney</professorname>
+			<professorname> Jeff Meunier</professorname>
+		</research>
+		<research>
+			<groupname>Embedded Systems, Microcontrollers and Automation</groupname>
+			<professorname> Song Han</professorname>
+			<professorname> Jeff Meunier</professorname>
+			<professorname> Zhije Jerry Shi</professorname>
+		</research>
+		<research>
+			<groupname>Graphics</groupname>
+			<professorname> Tom Peters</professorname>
+			<professorname> Jack Roulier<sup>1</sup></professorname>
+		</research>
+		<research>
+			<groupname>Health Informatics</groupname>
+			<professorname> Fei Wang </professorname>
+		</research>
+		<research>
+			<groupname>High Performance Computing</groupname>
+			<professorname> Reda Ammar</professorname>
+			<professorname> Sanguthevar Rajasekaran </professorname>
+		</research>
+		<research>
+			<groupname>Human Computer Interaction</groupname>
+			<professorname> Song Han</professorname>
+			<professorname> Dong-Guk Shin </professorname>
+		</research>
+		<research>
+			<groupname>Human and Emotion Oriented Computing</groupname>
+			<professorname> Mohammad Maifi Khan </professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning</groupname>
+			<professorname> Jinbo Bi</professorname>
+			<professorname> Sheida Nabavi</professorname>
+			<professorname> Fei Wang </professorname>
+		</research>
+		<research>
+			<groupname>Networks</groupname>
+			<professorname>Jun-Hong Cui </professorname>
+			<professorname>Swapna Gokhale </professorname>
+			<professorname> Song Han</professorname>
+			<professorname> Zhije Jerry Shi</professorname>
+			<professorname>Bing Wang</professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages, Specification and Verification</groupname>
+			<professorname> Laurent Michel</professorname>
+			<professorname> Alexander Schwarzmann </professorname>
+		</research>
+		<research>
+			<groupname>Robotics</groupname>
+			<professorname> Robert McCartney</professorname>
+		</research>
+		<research>
+			<groupname>Security</groupname>
+			<professorname>Steve Demurjian </professorname>
+			<professorname> Zhije Jerry Shi</professorname>
+		</research>
+		<research>
+			<groupname>Signal and Image Processing</groupname>
+			<professorname> Sheida Nabavi</professorname>
+		</research>
+		<research>
+			<groupname>Software Engineering</groupname>
+			<professorname>Steve Demurjian </professorname>
+			<professorname>Swapna Gokhale </professorname>
+		</research>
+		<research>
+			<groupname>Software and Cyber-Physical Systems Verification</groupname>
+			<professorname> Sridhar Duggirala </professorname>
+		</research>
+		<research>
+			<groupname>System Performance</groupname>
+			<professorname> Reda Ammar</professorname>
+			<professorname>Jun-Hong Cui </professorname>
+			<professorname> Song Han</professorname>
+			<professorname>Lester Lipsky<sup>1</sup></professorname>
+			<professorname> Zhije Jerry Shi</professorname>
+		</research>
+	</institution>

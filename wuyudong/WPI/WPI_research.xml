@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+    <research>
+			<groupname>Applied Logic and Security Group</groupname>
+			<professorname>Daniel J. Dougherty</professorname>
+			<professorname>Kathi Fisler</professorname>
+      <professorname>Joshua D. Guttman</professorname>
+			<professorname>Craig A. Shue</professorname>
+      <professorname>Krishna Kumar Venkatasubramanian</professorname>
+			<professorname>Craig Wills</professorname>
+		</research>
+		<research>
+			<groupname>Artificial Intelligence Research Group</groupname>
+			<professorname>Joseph Beck</professorname>
+			<professorname>Dmitry Berenson</professorname>
+      <professorname>Sonia Chernova</professorname>
+			<professorname>Michael A. Gennert</professorname>
+      <professorname>Neil T. Heffernan</professorname>
+			<professorname>Charles Rich</professorname>
+      <professorname>Carolina Ruiz</professorname>
+		</research>
+    <research>
+			<groupname>Congestion Control</groupname>
+			<professorname>Mark Claypool</professorname>
+			<professorname>Bob Kinicki</professorname>
+		</research>
+    <research>
+			<groupname>Database Systems Research Group</groupname>
+			<professorname>Elke Angelika Rundensteiner</professorname>
+			<professorname>Mohamed Eltabakh</professorname>
+		</research>
+    <research>
+			<groupname>Human Interaction in Virtual Environments</groupname>
+			<professorname>Robert W. Lindeman</professorname>
+		</research>
+    <research>
+			<groupname>Human-Robot Interaction</groupname>
+			<professorname>Dmitry Berenson</professorname>
+			<professorname>Sonia Chernova</professorname>
+      <professorname>Charles Rich</professorname>
+			<professorname>Candace L. Sidner</professorname>
+		</research>
+    <research>
+			<groupname>Image Science Research Group</groupname>
+			<professorname>Emmanuel O. Agu</professorname>
+			<professorname>Mark Claypool</professorname>
+      <professorname>Michael A. Gennert</professorname>
+			<professorname>Robert W. Lindeman</professorname>
+		</research>
+    <research>
+			<groupname>Knowledge Discovery and Data mining</groupname>
+			<professorname>Carolina Ruiz</professorname>
+		</research>
+		<research>
+			<groupname>Mobile Graphics Research Group</groupname>
+			<professorname>Emmanuel O. Agu</professorname>
+			<professorname>Robert W. Lindeman</professorname>
+		</research>
+    <research>
+			<groupname>Performance Evaluation of Distributed Systems</groupname>
+			<professorname>Emmanuel O. Agu</professorname>
+			<professorname>David Finkel</professorname>
+      <professorname>Mark Claypool</professorname>
+      <professorname>Bob Kinicki</professorname>
+      <professorname>Craig A. Shue</professorname>
+      <professorname>Krishna Kumar Venkatasubramanian</professorname>
+      <professorname>Craig Wills</professorname>
+		</research>
+    <research>
+			<groupname>Robot Autonomy and Interactive Learning</groupname>
+			<professorname>Sonia Chernova</professorname>
+		</research>
+    <research>
+			<groupname>Software Engineering Research Group</groupname>
+			<professorname>George T. Heineman</professorname>
+			<professorname>Kathi Fisler</professorname>
+      <professorname>Elke Angelika Rundensteiner</professorname>
+		</research>
+    <research>
+			<groupname>THeory Umbrella Group</groupname>
+			<professorname>Daniel J. Dougherty</professorname>
+			<professorname>Kathi Fisler</professorname>
+      <professorname>Joshua D. Guttman</professorname>
+		</research>
+    <research>
+			<groupname>Tutor Research Group</groupname>
+			<professorname>Joseph Beck</professorname>
+			<professorname>Neil T. Heffernan</professorname>
+		</research>
+	</institution>

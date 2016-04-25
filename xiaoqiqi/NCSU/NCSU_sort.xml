@@ -1,363 +1,363 @@
 <?xml version="1.0" ?>
 	<institution>
 		<professor>
-			<name>Dr.  Barbara Jasmine   Adams</name>
+			<name>Barbara Jasmine Adams</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Dr.  Stanley   Ahalt</name>
+			<name>Stanley Ahalt</name>
+			<papers>18.1</papers>
+		</professor>
+		<professor>
+			<name>Annie I. Anton</name>
+			<papers>49.080952381</papers>
+		</professor>
+		<professor>
+			<name>Kemafor Anyanwu Ogan</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Dr.  Annie I.   Anton</name>
+			<name>Dennis R. Bahler</name>
+			<papers>2.0</papers>
+		</professor>
+		<professor>
+			<name>Suzanne Balik</name>
+			<papers>3.24285714286</papers>
+		</professor>
+		<professor>
+			<name>Tiffany Barnes</name>
+			<papers>57.1845238095</papers>
+		</professor>
+		<professor>
+			<name>Lina Battestilli</name>
+			<papers>3.25</papers>
+		</professor>
+		<professor>
+			<name>Donald Bitzer</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Kristy Elizabeth Boyer</name>
+			<papers>34.3666666667</papers>
+		</professor>
+		<professor>
+			<name>Franc Brglez</name>
+			<papers>33.125</papers>
+		</professor>
+		<professor>
+			<name>Min Chi</name>
+			<papers>15.7</papers>
+		</professor>
+		<professor>
+			<name>Rada Y. Chirkova</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Dr.  Kemafor   Anyanwu Ogan</name>
+			<name>Wu-show Chou</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Dr.  Dennis R.   Bahler</name>
+			<name>Aldo Dagnino</name>
+			<papers>17.6166666667</papers>
+		</professor>
+		<professor>
+			<name>Edward W. Davis</name>
+			<papers>6.64285714286</papers>
+		</professor>
+		<professor>
+			<name>  Nadia Diakun-Thibault</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Dr.  Suzanne   Balik</name>
-			<papers>-1</papers>
+			<name>Jon Doyle</name>
+			<papers>51.125</papers>
 		</professor>
 		<professor>
-			<name>Dr.  Tiffany   Barnes</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Lina   Battestilli</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Donald   Bitzer</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Kristy Elizabeth   Boyer</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Franc   Brglez</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Min   Chi</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Rada Y.   Chirkova</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Wu-show   Chou</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Aldo   Dagnino</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Edward W.   Davis</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>  Nadia   Diakun-Thibault</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Jon   Doyle</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Patrick   Dreher</name>
+			<name>Patrick Dreher</name>
 			<papers>5.66666666667</papers>
 		</professor>
 		<professor>
-			<name>Dr.  Rudra   Dutta</name>
+			<name>Rudra Dutta</name>
+			<papers>29.5083333333</papers>
+		</professor>
+		<professor>
+			<name>William Enck</name>
+			<papers>30.3666666667</papers>
+		</professor>
+		<professor>
+			<name>Robert Fornaro</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Vincent W. Freeh</name>
+			<papers>21.4833333333</papers>
+		</professor>
+		<professor>
+			<name>Edward Gehringer</name>
+			<papers>36.25</papers>
+		</professor>
+		<professor>
+			<name>Xiaohui (Helen) Gu</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Dr.  William   Enck</name>
+			<name>Khaled Harfoush</name>
+			<papers>12.6666666667</papers>
+		</professor>
+		<professor>
+			<name>Christopher G. Healey</name>
+			<papers>27.7595238095</papers>
+		</professor>
+		<professor>
+			<name>Steffen Heber</name>
+			<papers>14.0166666667</papers>
+		</professor>
+		<professor>
+			<name>Sarah Heckman</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Ms.  Margaret Heil</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Dr.  Robert   Fornaro</name>
+			<name>Thomas L. Honeycutt</name>
+			<papers>3.0</papers>
+		</professor>
+		<professor>
+			<name>Gary Howell</name>
+			<papers>7.45833333333</papers>
+		</professor>
+		<professor>
+			<name>Steven Hunter</name>
+			<papers>0.333333333333</papers>
+		</professor>
+		<professor>
+			<name>S. Purushothaman Iyer</name>
+			<papers>13.4166666667</papers>
+		</professor>
+		<professor>
+			<name> Xuxian Jiang</name>
+			<papers>38.9166666667</papers>
+		</professor>
+		<professor>
+			<name>Guoliang Jin</name>
+			<papers>6.98333333333</papers>
+		</professor>
+		<professor>
+			<name>Jaewoo Kang</name>
+			<papers>20.3170634921</papers>
+		</professor>
+		<professor>
+			<name>Alexandros Kapravelos</name>
+			<papers>6.97619047619</papers>
+		</professor>
+		<professor>
+			<name>Jason King</name>
+			<papers>3.64285714286</papers>
+		</professor>
+		<professor>
+			<name>Michael Kowolenko</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Dr.  Vincent W.   Freeh</name>
+			<name>Mr.  Dana Lasher</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Dr.  Edward   Gehringer</name>
+			<name>Lucas Layman</name>
+			<papers>23.95</papers>
+		</professor>
+		<professor>
+			<name>James C. Lester</name>
+			<papers>53.1392607393</papers>
+		</professor>
+		<professor>
+			<name>Collin Lynch</name>
+			<papers>18.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Xiaosong Ma</name>
+			<papers>32.7131673882</papers>
+		</professor>
+		<professor>
+			<name>Ms  ToniAnn Marini</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Dr.  Xiaohui (Helen)   Gu</name>
+			<name>David F. McAllister</name>
+			<papers>15.2</papers>
+		</professor>
+		<professor>
+			<name>Timothy J. Menzies</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Dr.  Khaled   Harfoush</name>
+			<name>Bradford Mott</name>
+			<papers>20.7583333333</papers>
+		</professor>
+		<professor>
+			<name>Frank Mueller</name>
+			<papers>81.8663419913</papers>
+		</professor>
+		<professor>
+			<name>Emerson Murphy-Hill</name>
+			<papers>51.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Peng Ning</name>
+			<papers>71.5</papers>
+		</professor>
+		<professor>
+			<name>Christopher Parnin</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Dr.  Christopher G.   Healey</name>
+			<name>Harry Perros</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Michael Rappa</name>
+			<papers>2.58333333333</papers>
+		</professor>
+		<professor>
+			<name>Douglas S. Reeves</name>
+			<papers>36.25</papers>
+		</professor>
+		<professor>
+			<name>Injong Rhee</name>
+			<papers>52.3595238095</papers>
+		</professor>
+		<professor>
+			<name>Andrew Rindos</name>
+			<papers>4.04090909091</papers>
+		</professor>
+		<professor>
+			<name> Anthony Rivers</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Woody Robbins</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Dr.  Steffen   Heber</name>
+			<name>David L. Roberts</name>
+			<papers>23.2452380952</papers>
+		</professor>
+		<professor>
+			<name>Robert D. Rodman</name>
+			<papers>12.1666666667</papers>
+		</professor>
+		<professor>
+			<name>George N. Rouskas</name>
+			<papers>62.5242424242</papers>
+		</professor>
+		<professor>
+			<name>Nagiza Samatova</name>
+			<papers>24.7518370518</papers>
+		</professor>
+		<professor>
+			<name>Carla D. Savage</name>
+			<papers>27.9166666667</papers>
+		</professor>
+		<professor>
+			<name>Jessica Young Schmidt</name>
+			<papers>2.0</papers>
+		</professor>
+		<professor>
+			<name>Muhammad Shahzad</name>
+			<papers>20.9166666667</papers>
+		</professor>
+		<professor>
+			<name>Xipeng Shen</name>
+			<papers>38.4</papers>
+		</professor>
+		<professor>
+			<name>Munindar P. Singh</name>
+			<papers>186.81468254</papers>
+		</professor>
+		<professor>
+			<name>Robert St. Amant</name>
+			<papers>47.35</papers>
+		</professor>
+		<professor>
+			<name>Jessica Staddon</name>
+			<papers>24.0166666667</papers>
+		</professor>
+		<professor>
+			<name>Matthias Stallmann</name>
+			<papers>20.2833333333</papers>
+		</professor>
+		<professor>
+			<name>William J. Stewart</name>
+			<papers>24.2833333333</papers>
+		</professor>
+		<professor>
+			<name>Kathryn T. Stolee</name>
+			<papers>13.6666666667</papers>
+		</professor>
+		<professor>
+			<name>Mr.  John Streck</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Dr.  Sarah   Heckman</name>
-			<papers>-1</papers>
+			<name>David Sturgill</name>
+			<papers>3.5</papers>
 		</professor>
 		<professor>
-			<name>Ms.  Margaret   Heil</name>
-			<papers>-1</papers>
+			<name>Blair D. Sullivan</name>
+			<papers>6.68571428571</papers>
 		</professor>
 		<professor>
-			<name>Dr.  Thomas L.   Honeycutt</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Gary   Howell</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Steven   Hunter</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  S. Purushothaman   Iyer</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.   Xuxian   Jiang</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Guoliang   Jin</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Jaewoo   Kang</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr  Alexandros   Kapravelos</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Jason   King</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Michael   Kowolenko</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Mr.  Dana   Lasher</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Lucas   Layman</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  James C.   Lester</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Collin   Lynch</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Xiaosong   Ma</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Ms  ToniAnn   Marini</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  David F.   McAllister</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Timothy J.   Menzies</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Bradford   Mott</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Frank   Mueller</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Emerson   Murphy-Hill</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Peng   Ning</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Christopher   Parnin</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Harry   Perros</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Michael   Rappa</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Douglas S.   Reeves</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Injong   Rhee</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Andrew   Rindos</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.   Anthony   Rivers</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Woody   Robbins</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  David L.   Roberts</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Robert D.   Rodman</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  George N.   Rouskas</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Nagiza   Samatova</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Carla D.   Savage</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Jessica Young   Schmidt</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Muhammad   Shahzad</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Xipeng   Shen</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Munindar P.   Singh</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Robert   St. Amant</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Jessica   Staddon</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Matthias   Stallmann</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  William J.   Stewart</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Kathryn T.   Stolee</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Mr.  John   Streck</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  David   Sturgill</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr.  Blair D.   Sullivan</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>  Ken   Tate</name>
+			<name>  Ken Tate</name>
 			<papers>0.666666666667</papers>
 		</professor>
 		<professor>
-			<name>Dr.  Sidharth   Thakur</name>
-			<papers>-1</papers>
+			<name>Sidharth Thakur</name>
+			<papers>5.33333333333</papers>
 		</professor>
 		<professor>
-			<name>Dr.  Alan L.   Tharp</name>
-			<papers>-1</papers>
+			<name>Alan L. Tharp</name>
+			<papers>31.0</papers>
 		</professor>
 		<professor>
-			<name>Dr.  David   Thuente</name>
-			<papers>-1</papers>
+			<name>David Thuente</name>
+			<papers>1.33333333333</papers>
 		</professor>
 		<professor>
-			<name>Dr.  Ranga   Vatsavai</name>
-			<papers>-1</papers>
+			<name>Ranga Vatsavai</name>
+			<papers>49.503968254</papers>
 		</professor>
 		<professor>
-			<name>Dr.  Mladen   Vouk</name>
-			<papers>-1</papers>
+			<name>Mladen Vouk</name>
+			<papers>50.8496031746</papers>
 		</professor>
 		<professor>
-			<name>Dr.  Ben   Watson</name>
-			<papers>-1</papers>
+			<name>Ben Watson</name>
+			<papers>0.97619047619</papers>
 		</professor>
 		<professor>
-			<name>Dr.  Laurie   Williams</name>
-			<papers>-1</papers>
+			<name>Laurie Williams</name>
+			<papers>0</papers>
 		</professor>
 		<professor>
-			<name>Dr.  David   Wright</name>
-			<papers>-1</papers>
+			<name>David Wright</name>
+			<papers>24.2253968254</papers>
 		</professor>
 		<professor>
-			<name>  Yufeng   Xin</name>
+			<name>  Yufeng Xin</name>
 			<papers>20.4801587302</papers>
 		</professor>
 		<professor>
-			<name>Dr.  Hong   Yi</name>
-			<papers>-1</papers>
+			<name>Hong Yi</name>
+			<papers>5.16666666667</papers>
 		</professor>
 		<professor>
-			<name>Dr.  R. Michael   Young</name>
-			<papers>-1</papers>
+			<name>R. Michael Young</name>
+			<papers>20.0492063492</papers>
 		</professor>
 		<professor>
-			<name>Dr.  Ting   Yu</name>
-			<papers>-1</papers>
+			<name>Ting Yu</name>
+			<papers>87.9666666667</papers>
 		</professor>
 	</institution>

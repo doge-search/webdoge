@@ -1,0 +1,220 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Algorithms and Data Structures</groupname>
+			<professorname>Brian Dean</professorname>
+			<professorname>Wayne Goddard</professorname>
+			<professorname>Sandra Hedetniemi</professorname>
+			<professorname>Ilya Safro</professorname>
+		</research>
+		<research>
+			<groupname>Animation</groupname>
+			<professorname>Robert Geist</professorname>
+			<professorname>Don House</professorname>
+			<professorname>Sophie Joerg</professorname>
+			<professorname>Jerry Tessendorf</professorname>
+		</research>
+		<research>
+			<groupname>Big Data</groupname>
+			<professorname>Amy Apon</professorname>
+		</research>
+		<research>
+			<groupname>Bioinformatics</groupname>
+			<professorname>Brian Dean</professorname>
+			<professorname>Eileen Kraemer</professorname>
+			<professorname>Feng Luo</professorname>
+			<professorname>James Wang</professorname>
+		</research>
+		<research>
+			<groupname>Cloud Computing</groupname>
+			<professorname>Sekou Remy</professorname>
+			<professorname>James Wang</professorname>
+		</research>
+		<research>
+			<groupname>Combinatorial Optimization</groupname>
+			<professorname>Brian Dean</professorname>
+			<professorname>Ilya Safro</professorname>
+		</research>
+		<research>
+			<groupname>Computer Architecture</groupname>
+			<professorname>Mark Smotherman</professorname>
+			<professorname>Rong Ge</professorname>
+		</research>
+		<research>
+			<groupname>Computer Graphics</groupname>
+			<professorname>Tim Davis</professorname>
+			<professorname>Andrew Duchowski</professorname>
+			<professorname>Robert Geist</professorname>
+			<professorname>Don House</professorname>
+			<professorname>Sophie Joerg</professorname>
+			<professorname>Joshua Levine</professorname>
+			<professorname>Jerry Tessendorf</professorname>
+		</research>
+		<research>
+			<groupname>Computer Science Education</groupname>
+			<professorname>Tim Davis</professorname>
+			<professorname>Brian Dean</professorname>
+			<professorname>Robert Geist</professorname>
+			<professorname>Brian Malloy</professorname>
+			<professorname>Roy Pargas</professorname>
+			<professorname>Murali Sitaraman</professorname>
+		</research>
+		<research>
+			<groupname>Data Mining and Machine Learning</groupname>
+			<professorname>Brian Dean</professorname>
+			<professorname>Feng Luo</professorname>
+			<professorname>Ilya Safro</professorname>
+			<professorname>James Wang</professorname>
+		</research>
+		<research>
+			<groupname>Databases</groupname>
+			<professorname>Feng Luo</professorname>
+			<professorname>James Wang</professorname>
+		</research>
+		<research>
+			<groupname>Eye Tracking</groupname>
+			<professorname>Andrew Duchowski</professorname>
+		</research>
+		<research>
+			<groupname>Games</groupname>
+			<professorname>Brian Malloy</professorname>
+			<professorname>Sophie Joerg</professorname>
+			<professorname>Victor Zordan</professorname>
+		</research>
+		<research>
+			<groupname>Geometric Modeling</groupname>
+			<professorname>Joshua Levine</professorname>
+		</research>
+		<research>
+			<groupname>Graph Theory</groupname>
+			<professorname>Wayne Goddard</professorname>
+			<professorname>Sandra Hedetniemi</professorname>
+			<professorname>Ilya Safro</professorname>
+			<professorname>Pradip Srimani</professorname>
+		</research>
+		<research>
+			<groupname>Healthcare Informatics</groupname>
+			<professorname>Kelly Caine</professorname>
+		</research>
+		<research>
+			<groupname>High Performance Computing</groupname>
+			<professorname>Amy Apon</professorname>
+			<professorname>Robert Geist</professorname>
+			<professorname>Joshua Levine</professorname>
+			<professorname>Rong Ge</professorname>
+		</research>
+		<research>
+			<groupname>Human Computer Interaction</groupname>
+			<professorname>Sabarish Babu</professorname>
+			<professorname>Kelly Caine</professorname>
+			<professorname>Andrew Duchowski</professorname>
+			<professorname>Larry Hodges</professorname>
+			<professorname>Bart Knijnenburg</professorname>
+		</research>
+		<research>
+			<groupname>Information Retrieval</groupname>
+			<professorname>James Wang</professorname>
+		</research>
+		<research>
+			<groupname>Mobile and Pervasive Computing</groupname>
+			<professorname>Roy Pargas</professorname>
+			<professorname>Jacob Sorber</professorname>
+		</research>
+		<research>
+			<groupname>Motion Capture</groupname>
+			<professorname>Sophie Joerg</professorname>
+			<professorname>Victor Zordan</professorname>
+		</research>
+		<research>
+			<groupname>Multimedia Systems</groupname>
+			<professorname>James Wang</professorname>
+		</research>
+		<research>
+			<groupname>Networking</groupname>
+			<professorname>Hongxin Hu</professorname>
+			<professorname>Jim Martin</professorname>
+			<professorname>Pradip Srimani</professorname>
+		</research>
+		<research>
+			<groupname>Operating Systems</groupname>
+			<professorname>Robert Geist</professorname>
+			<professorname>Jim Martin</professorname>
+			<professorname>Mark Smotherman</professorname>
+			<professorname>Jacob Sorber</professorname>
+		</research>
+		<research>
+			<groupname>Parallel and Distributed Computing</groupname>
+			<professorname>Amy Apon</professorname>
+			<professorname>Jim Martin</professorname>
+			<professorname>Pradip Srimani</professorname>
+			<professorname>James Wang</professorname>
+			<professorname>Rong Ge</professorname>
+		</research>
+		<research>
+			<groupname>Perception</groupname>
+			<professorname>Sabarish Babu</professorname>
+			<professorname>Andrew Duchowski</professorname>
+			<professorname>Sophie Joerg</professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages</groupname>
+			<professorname>Brian Malloy</professorname>
+			<professorname>Murali Sitaraman</professorname>
+			<professorname>Jacob Sorber</professorname>
+		</research>
+		<research>
+			<groupname>Robotics</groupname>
+			<professorname>Sekou Remy</professorname>
+		</research>
+		<research>
+			<groupname>Scientific Computing</groupname>
+			<professorname>Joshua Levine</professorname>
+			<professorname>Ilya Safro</professorname>
+		</research>
+		<research>
+			<groupname>Security and Privacy</groupname>
+			<professorname>Kelly Caine</professorname>
+			<professorname>Hongxin Hu</professorname>
+			<professorname>Jim Martin</professorname>
+			<professorname>Jacob Sorber</professorname>
+			<professorname>Bart Knijnenburg</professorname>
+		</research>
+		<research>
+			<groupname>Sensor Networks</groupname>
+			<professorname>Jacob Sorber</professorname>
+		</research>
+		<research>
+			<groupname>Software Architecture</groupname>
+			<professorname>John McGregor</professorname>
+		</research>
+		<research>
+			<groupname>Software Engineering</groupname>
+			<professorname>Hongxin Hu</professorname>
+			<professorname>Eileen Kraemer</professorname>
+			<professorname>John McGregor</professorname>
+			<professorname>Murali Sitaraman</professorname>
+		</research>
+		<research>
+			<groupname>Software Verification and Formal Methods</groupname>
+			<professorname>John McGregor</professorname>
+			<professorname>Murali Sitaraman</professorname>
+		</research>
+		<research>
+			<groupname>User-centric Aspects of Recommender Systems</groupname>
+			<professorname>Bart Knijnenburg</professorname>
+		</research>
+		<research>
+			<groupname>Virtual Reality and Environments</groupname>
+			<professorname>Sabarish Babu</professorname>
+			<professorname>Tim Davis</professorname>
+			<professorname>Andrew Duchowski</professorname>
+			<professorname>Larry Hodges</professorname>
+			<professorname>Bart Knijnenburg</professorname>
+		</research>
+		<research>
+			<groupname>Visualization</groupname>
+			<professorname>Sabarish Babu</professorname>
+			<professorname>Don House</professorname>
+			<professorname>Joshua Levine</professorname>
+		</research>
+	</institution>

@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Myoung An</name>
+			<papers>1.83333333333</papers>
+		</professor>
+		<professor>
+			<name>Sanjeev Baskiyar</name>
+			<papers>18.2261904762</papers>
+		</professor>
+		<professor>
+			<name>Saad Biaz</name>
+			<papers>35.4595238095</papers>
+		</professor>
+		<professor>
+			<name>Homer Carlisle</name>
+			<papers>2.5</papers>
+		</professor>
+		<professor>
+			<name>Kai Chang</name>
+			<papers>2.03333333333</papers>
+		</professor>
+		<professor>
+			<name>Richard Chapman</name>
+			<papers>5.83333333333</papers>
+		</professor>
+		<professor>
+			<name>James Cross</name>
+			<papers>8.72619047619</papers>
+		</professor>
+		<professor>
+			<name>Dean Hendrix</name>
+			<papers>2.0</papers>
+		</professor>
+		<professor>
+			<name>Jacqueline Hundley</name>
+			<papers>3.16666666667</papers>
+		</professor>
+		<professor>
+			<name>Wei-Shinn (Jeff)  Ku</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Alvin Lim</name>
+			<papers>0.25</papers>
+		</professor>
+		<professor>
+			<name>Daniela Marghitu</name>
+			<papers>10.2</papers>
+		</professor>
+		<professor>
+			<name>Hari Narayanan</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Jeff Overbey</name>
+			<papers>12.3095238095</papers>
+		</professor>
+		<professor>
+			<name>Xiao Qin</name>
+			<papers>81.0261904762</papers>
+		</professor>
+		<professor>
+			<name>Cheryl Seals</name>
+			<papers>1.28333333333</papers>
+		</professor>
+		<professor>
+			<name>Anthony Skjellum</name>
+			<papers>27.8884920635</papers>
+		</professor>
+		<professor>
+			<name>Hanqin Tian</name>
+			<papers>0.333333333333</papers>
+		</professor>
+		<professor>
+			<name>David Umphress</name>
+			<papers>16.75</papers>
+		</professor>
+		<professor>
+			<name>Levent Yilmaz</name>
+			<papers>46.5777777778</papers>
+		</professor>
+	</institution>

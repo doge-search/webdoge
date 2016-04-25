@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Visualization/Imagery</groupname>
+			<professorname>Brent Seales</professorname>
+			<professorname>Nathan Jacobs</professorname>
+      <professorname>Ken Calvert</professorname>
+			<professorname>James Griffioen</professorname>
+      <professorname>Jane Hayes</professorname>
+      <professorname>Victor Marek</professorname>
+      <professorname>Mirek Truszczynski</professorname>
+      <professorname>Ruigang Yang</professorname>
+		</research>
+    <research>
+			<groupname>Artificial Intelligence</groupname>
+			<professorname>Jane Hayes</professorname>
+			<professorname>Miroslaw Truszczynski</professorname>
+      <professorname>Raphael Finkel</professorname>
+		</research>
+    <research>
+			<groupname>Decision Making</groupname>
+			<professorname>Judy Goldsmith</professorname>
+			<professorname>Andrew Klapper</professorname>
+      <professorname>Raphael Finkel</professorname>
+			<professorname>Jane Hayes</professorname>
+      <professorname>Grzegorz Wasilkowski</professorname>
+		</research>
+	</institution>

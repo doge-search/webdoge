@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Big Data and Large-Scale Computing</groupname>
+			<professorname>Ishfaq Ahmad</professorname>
+			<professorname>Gautam Das</professorname>
+			<professorname>Chris Ding</professorname>
+			<professorname>Ramez Elmasri</professorname>
+			<professorname>Leonidas Fegaras</professorname>
+			<professorname>Jean Gao</professorname>
+			<professorname>Heng Huang</professorname>
+			<professorname>Junzhou Huang</professorname>
+			<professorname>Hong Jiang</professorname>
+			<professorname>David Levine</professorname>
+			<professorname>Chengkai Li</professorname>
+			<professorname>Gergely Zaruba</professorname>
+		</research>
+		<research>
+			<groupname>Biocomputing and Health Informatics</groupname>
+			<professorname>Chris Ding</professorname>
+			<professorname>Jean Gao</professorname>
+			<professorname>Heng Huang</professorname>
+			<professorname>Junzhou Huang</professorname>
+			<professorname>Fillia Makedon</professorname>
+			<professorname>Gergely Zaruba</professorname>
+		</research>
+		<research>
+			<groupname>Computer Networks</groupname>
+			<professorname>Eric Becker</professorname>
+			<professorname>Hao Che</professorname>
+			<professorname>Yonghe Liu</professorname>
+			<professorname>Matthew Wright</professorname>
+			<professorname>Gergely Zaruba</professorname>
+		</research>
+		<research>
+			<groupname>Computer Vision and Multimedia</groupname>
+			<professorname>Ishfaq Ahmad</professorname>
+			<professorname>Vassilis Athitsos</professorname>
+			<professorname>Chris Ding</professorname>
+			<professorname>Jean Gao</professorname>
+			<professorname>Heng Huang</professorname>
+			<professorname>Junzhou Huang</professorname>
+			<professorname>Farhad Kamangar</professorname>
+			<professorname>Chris McMurrough</professorname>
+			<professorname>Alexandra Stefan</professorname>
+		</research>
+		<research>
+			<groupname>Database and Information Systems</groupname>
+			<professorname>Sharma Chakravarthy</professorname>
+			<professorname>Gautam Das</professorname>
+			<professorname>Ramez Elmasri</professorname>
+			<professorname>Leonidas Fegaras</professorname>
+			<professorname>Hong Jiang</professorname>
+			<professorname>Chengkai Li</professorname>
+			<professorname>Fillia Makedon</professorname>
+		</research>
+		<research>
+			<groupname>Embedded Systems and Mobile Computing</groupname>
+			<professorname>Eric Becker</professorname>
+			<professorname>Bill Carroll</professorname>
+			<professorname>Hao Che</professorname>
+			<professorname>Hong Jiang</professorname>
+			<professorname>Taylor Johnson</professorname>
+			<professorname>Yonghe Liu</professorname>
+			<professorname>Chris McMurrough</professorname>
+			<professorname>John Robb</professorname>
+			<professorname>Roger Walker</professorname>
+			<professorname>Gergely Zaruba</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning and Data Mining</groupname>
+			<professorname>Vassilis Athitsos</professorname>
+			<professorname>Gautam Das</professorname>
+			<professorname>Chris Ding</professorname>
+			<professorname>Ramez Elmasri</professorname>
+			<professorname>Jean Gao</professorname>
+			<professorname>Heng Huang</professorname>
+			<professorname>Junzhou Huang</professorname>
+			<professorname>Farhad Kamangar</professorname>
+			<professorname>Chengkai Li</professorname>
+			<professorname>Fillia Makedon</professorname>
+			<professorname>Alexandra Stefan</professorname>
+			<professorname>Carter Tiernan</professorname>
+		</research>
+		<research>
+			<groupname>Robotics and AI</groupname>
+			<professorname>Manfred Huber</professorname>
+			<professorname>Taylor Johnson</professorname>
+			<professorname>Chris McMurrough</professorname>
+			<professorname>Lynn Peterson</professorname>
+			<professorname>Carter Tiernan</professorname>
+			<professorname>Roger Walker</professorname>
+		</research>
+		<research>
+			<groupname>Security and Privacy</groupname>
+			<professorname>Yonghe Liu</professorname>
+			<professorname>Fillia Makedon</professorname>
+			<professorname>John Robb</professorname>
+			<professorname>Matthew Wright</professorname>
+		</research>
+		<research>
+			<groupname>Software Engineering</groupname>
+			<professorname>Christoph Csallner</professorname>
+			<professorname>Taylor Johnson</professorname>
+			<professorname>Bahram Khalili</professorname>
+			<professorname>David Kung</professorname>
+			<professorname>Jeff (Yu) Lei</professorname>
+			<professorname>John Robb</professorname>
+		</research>
+		<research>
+			<groupname>Sustainable Computing</groupname>
+			<professorname>Ishfaq Ahmad</professorname>
+			<professorname>Hao Che</professorname>
+			<professorname>Gautam Das</professorname>
+			<professorname>Ramez Elmasri</professorname>
+			<professorname>Hong Jiang</professorname>
+		</research>
+	</institution>

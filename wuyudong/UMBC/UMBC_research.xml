@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<institution>
+		<research>
+			<groupname>Artificial Intelligence</groupname>
+			<professorname>Marie desJardins</professorname>
+			<professorname>Tim Finin</professorname>
+			<professorname>Anupam Joshi</professorname>
+			<professorname>Hillol Kargupta</professorname>
+			<professorname>Sergei Nirenburg</professorname>
+			<professorname>Tim Oates</professorname>
+			<professorname>Yun Peng</professorname>
+		</research>
+		<research>
+			<groupname>Communication and Signal Processing</groupname>
+			<professorname>Tulay Adali</professorname>
+			<professorname>Chein-I Chang</professorname>
+			<professorname>Samuel Lomonaco</professorname>
+			<professorname>Tinoosh Mohsenin</professorname>
+			<professorname>Joel M. Morris</professorname>
+			<professorname>John Pinkston</professorname>
+			<professorname>Janet Rutledge</professorname>
+		</research>
+		<research>
+			<groupname>Graphics and Visualization</groupname>
+			<professorname>Marc Olano</professorname>
+			<professorname>Penny Rheingans</professorname>
+		</research>
+		<research>
+			<groupname>High Performance Computing</groupname>
+			<professorname>Anupam Joshi</professorname>
+			<professorname>Konstantinos Kalpakis</professorname>
+			<professorname>Tinoosh Mohsenin</professorname>
+			<professorname>Yaacov Yesha</professorname>
+			<professorname>Yelena Yesha</professorname>
+		</research>
+		<research>
+			<groupname>Information and Knowledge Management</groupname>
+			<professorname>Tim Finin</professorname>
+			<professorname>Anupam Joshi</professorname>
+			<professorname>Konstantinos Kalpakis</professorname>
+			<professorname>Hillol Kargupta</professorname>
+			<professorname>Charles Nicholas</professorname>
+			<professorname>Sergei Nirenburg</professorname>
+			<professorname>Yelena Yesha</professorname>
+		</research>
+		<research>
+			<groupname>Networking and Systems</groupname>
+			<professorname>Anupam Joshi</professorname>
+			<professorname>Zary Segall</professorname>
+			<professorname>Deepinder Sidhu</professorname>
+			<professorname>Gymama Slaughter</professorname>
+			<professorname>Mohamed Younis</professorname>
+		</research>
+		<research>
+			<groupname>Photonics and Micro Electronics</groupname>
+			<professorname>Gary M. Carter</professorname>
+			<professorname>Yung-Jui Chen</professorname>
+			<professorname>Fow-Sen Choa</professorname>
+			<professorname>Anthony Johnson</professorname>
+			<professorname>Curtis R. Menyuk</professorname>
+			<professorname>Li Yan</professorname>
+		</research>
+		<research>
+			<groupname>Security</groupname>
+			<professorname>Tim Finin</professorname>
+			<professorname>Anupam Joshi</professorname>
+			<professorname>Yun Peng</professorname>
+			<professorname>John Pinkston</professorname>
+			<professorname>Alan T. Sherman</professorname>
+			<professorname>Deepinder Sidhu</professorname>
+			<professorname>Brooke Stephens</professorname>
+		</research>
+		<research>
+			<groupname>Sensor Systems</groupname>
+			<professorname>Tulay Adali</professorname>
+			<professorname>Chein-I Chang</professorname>
+			<professorname>Gymama Slaughter</professorname>
+			<professorname>Mohamed Younis</professorname>
+		</research>
+		<research>
+			<groupname>Signal Processing Architectures</groupname>
+			<professorname>Tinoosh Mohsenin</professorname>
+			<professorname>Ryan Robucci</professorname>
+		</research>
+		<research>
+			<groupname>Theory and Algorithms</groupname>
+			<professorname>Richard Chang</professorname>
+			<professorname>Konstantinos Kalpakis</professorname>
+			<professorname>Hillol Kargupta</professorname>
+			<professorname>Samuel Lomonaco</professorname>
+			<professorname>Alan T. Sherman</professorname>
+			<professorname>Brooke Stephens</professorname>
+			<professorname>Yaacov Yesha</professorname>
+		</research>
+		<research>
+			<groupname>VLSI Design and Test</groupname>
+			<professorname>Tinoosh Mohsenin</professorname>
+			<professorname>Chintan Patel</professorname>
+			<professorname>Yun Peng</professorname>
+		</research>
+	</institution>
