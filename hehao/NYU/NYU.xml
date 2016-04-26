@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Clark  Barrett</name>
+		</professor>
+		<professor>
+			<name>Marsha Berger</name>
+		</professor>
+		<professor>
+			<name>Richard Bonneau</name>
+		</professor>
+		<professor>
+			<name>Richard  Cole</name>
+		</professor>
+		<professor>
+			<name>Patrick  Cousot</name>
+		</professor>
+		<professor>
+			<name>Ernest Davis</name>
+		</professor>
+		<professor>
+			<name>Yevgeniy Dodis</name>
+		</professor>
+		<professor>
+			<name>Rob Fergus</name>
+		</professor>
+		<professor>
+			<name>Davi Geiger</name>
+		</professor>
+		<professor>
+			<name>Benjamin Goldberg</name>
+		</professor>
+		<professor>
+			<name>Allan Gottlieb</name>
+		</professor>
+		<professor>
+			<name>Ralph Grishman</name>
+		</professor>
+		<professor>
+			<name>Zvi Kedem</name>
+		</professor>
+		<professor>
+			<name>Subhash Khot</name>
+		</professor>
+		<professor>
+			<name>Jinyang Li</name>
+		</professor>
+		<professor>
+			<name>Bhubaneswar Mishra</name>
+		</professor>
+		<professor>
+			<name>Mehryar Mohri</name>
+		</professor>
+		<professor>
+			<name>Michael Overton</name>
+		</professor>
+		<professor>
+			<name>Daniele Panozzo</name>
+		</professor>
+		<professor>
+			<name>Kenneth Perlin</name>
+		</professor>
+		<professor>
+			<name>Theodore Rappaport</name>
+		</professor>
+		<professor>
+			<name>Dennis  Shasha</name>
+		</professor>
+		<professor>
+			<name>Victor  Shoup</name>
+		</professor>
+		<professor>
+			<name>Alan  Siegel</name>
+		</professor>
+		<professor>
+			<name>Joel Spencer</name>
+		</professor>
+		<professor>
+			<name>Lakshminarayanan Subramanian</name>
+		</professor>
+		<professor>
+			<name>Lloyd N. Trefethen</name>
+		</professor>
+		<professor>
+			<name>Thomas Wies</name>
+		</professor>
+		<professor>
+			<name>Margaret Wright</name>
+		</professor>
+		<professor>
+			<name>Chee Yap</name>
+		</professor>
+		<professor>
+			<name>Denis Zori</name>
+		</professor>
+	</institution>

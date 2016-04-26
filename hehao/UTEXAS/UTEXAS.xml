@@ -1,0 +1,216 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Lorenzo Alvisi </name>
+		</professor>
+		<professor>
+			<name>Chandrajit Bajaj </name>
+		</professor>
+		<professor>
+			<name>Dana H. Ballard </name>
+		</professor>
+		<professor>
+			<name>Don Batory </name>
+		</professor>
+		<professor>
+			<name>Robert S. Boyer </name>
+		</professor>
+		<professor>
+			<name>James C. Browne  </name>
+		</professor>
+		<professor>
+			<name>William C. Bulko </name>
+		</professor>
+		<professor>
+			<name>Doug Burger </name>
+		</professor>
+		<professor>
+			<name>Philip E. Cannata </name>
+		</professor>
+		<professor>
+			<name>Vijay Chidambaram </name>
+		</professor>
+		<professor>
+			<name>Alan Cline </name>
+		</professor>
+		<professor>
+			<name>William Cook </name>
+		</professor>
+		<professor>
+			<name>Michael Dahlin </name>
+		</professor>
+		<professor>
+			<name>Inderjit Dhillon </name>
+		</professor>
+		<professor>
+			<name>Thomas Dillig </name>
+		</professor>
+		<professor>
+			<name>Isil Dillig </name>
+		</professor>
+		<professor>
+			<name>Glenn Downing </name>
+		</professor>
+		<professor>
+			<name>E. Allen Emerson </name>
+		</professor>
+		<professor>
+			<name>Fares Fraij </name>
+		</professor>
+		<professor>
+			<name>Don Fussell </name>
+		</professor>
+		<professor>
+			<name>Anna Gal </name>
+		</professor>
+		<professor>
+			<name>Ahmed Gheith </name>
+		</professor>
+		<professor>
+			<name>M. G. Gouda </name>
+		</professor>
+		<professor>
+			<name>Kristen Grauman </name>
+		</professor>
+		<professor>
+			<name>Marijn Heule </name>
+		</professor>
+		<professor>
+			<name>Warren A. Hunt Jr. </name>
+		</professor>
+		<professor>
+			<name>Matt Kaufmann </name>
+		</professor>
+		<professor>
+			<name>Stephen W. Keckler </name>
+		</professor>
+		<professor>
+			<name>Adam Klivans </name>
+		</professor>
+		<professor>
+			<name>Benjamin J. Kuipers </name>
+		</professor>
+		<professor>
+			<name>Devdatta  Kulkarni </name>
+		</professor>
+		<professor>
+			<name>Simon S. Lam </name>
+		</professor>
+		<professor>
+			<name>Vladimir Lifschitz </name>
+		</professor>
+		<professor>
+			<name>Calvin Lin </name>
+		</professor>
+		<professor>
+			<name>Kathryn S. McKinley </name>
+		</professor>
+		<professor>
+			<name>Risto Miikkulainen </name>
+		</professor>
+		<professor>
+			<name>Daniel P. Miranker </name>
+		</professor>
+		<professor>
+			<name>Jayadev Misra </name>
+		</professor>
+		<professor>
+			<name>Shyamal Mitra </name>
+		</professor>
+		<professor>
+			<name>Al Mok </name>
+		</professor>
+		<professor>
+			<name>Raymond Mooney </name>
+		</professor>
+		<professor>
+			<name>J Strother Moore  </name>
+		</professor>
+		<professor>
+			<name>Margaret Myers </name>
+		</professor>
+		<professor>
+			<name>Scott Niekum </name>
+		</professor>
+		<professor>
+			<name>Alison N. Norman </name>
+		</professor>
+		<professor>
+			<name>Gordon S. Novak Jr. </name>
+		</professor>
+		<professor>
+			<name>Simon Peter </name>
+		</professor>
+		<professor>
+			<name>Keshav Pingali </name>
+		</professor>
+		<professor>
+			<name>Greg Plaxton </name>
+		</professor>
+		<professor>
+			<name>Bruce Porter </name>
+		</professor>
+		<professor>
+			<name>Bill Press </name>
+		</professor>
+		<professor>
+			<name>Eric Price </name>
+		</professor>
+		<professor>
+			<name>Lili Qiu </name>
+		</professor>
+		<professor>
+			<name>Vijaya Ramachandran </name>
+		</professor>
+		<professor>
+			<name>Pradeep Ravikumar </name>
+		</professor>
+		<professor>
+			<name>Jan Rellermeyer </name>
+		</professor>
+		<professor>
+			<name>Elaine Alice Rich </name>
+		</professor>
+		<professor>
+			<name>Christopher Rossbach </name>
+		</professor>
+		<professor>
+			<name>Michael D. Scott </name>
+		</professor>
+		<professor>
+			<name>Vitaly Shmatikov </name>
+		</professor>
+		<professor>
+			<name>Peter Stone </name>
+		</professor>
+		<professor>
+			<name>Paul Toprac </name>
+		</professor>
+		<professor>
+			<name>Robert van de Geijn </name>
+		</professor>
+		<professor>
+			<name>Etienne Vouga </name>
+		</professor>
+		<professor>
+			<name>Michael Walfish </name>
+		</professor>
+		<professor>
+			<name>Tandy Warnow </name>
+		</professor>
+		<professor>
+			<name>Brent Waters </name>
+		</professor>
+		<professor>
+			<name>Emmett Witchel </name>
+		</professor>
+		<professor>
+			<name>William D. Young </name>
+		</professor>
+		<professor>
+			<name>Yin Zhang </name>
+		</professor>
+		<professor>
+			<name>David Zuckerman</name>
+		</professor>
+	</institution>

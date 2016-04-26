@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Richard Anderson</name>
+		</professor>
+		<professor>
+			<name>Ruth E. Anderson</name>
+		</professor>
+		<professor>
+			<name>Tom Anderson</name>
+		</professor>
+		<professor>
+			<name>Jean-Loup Baer</name>
+		</professor>
+		<professor>
+			<name>Magdalena Balazinska</name>
+		</professor>
+		<professor>
+			<name>Paul Beame</name>
+		</professor>
+		<professor>
+			<name>Adam Blank</name>
+		</professor>
+		<professor>
+			<name>Rastislav Bodik</name>
+		</professor>
+		<professor>
+			<name>Alan Borning</name>
+		</professor>
+		<professor>
+			<name>Maya Cakmak</name>
+		</professor>
+		<professor>
+			<name>Luis Ceze</name>
+		</professor>
+		<professor>
+			<name>Alvin Cheung</name>
+		</professor>
+		<professor>
+			<name>Yejin Choi</name>
+		</professor>
+		<professor>
+			<name>Brian Curless</name>
+		</professor>
+		<professor>
+			<name>Pedro Domingos</name>
+		</professor>
+		<professor>
+			<name>Susan Eggers</name>
+		</professor>
+		<professor>
+			<name>Michael Ernst</name>
+		</professor>
+		<professor>
+			<name>Oren Etzioni</name>
+		</professor>
+		<professor>
+			<name>Ali Farhadi</name>
+		</professor>
+		<professor>
+			<name>James Fogarty</name>
+		</professor>
+		<professor>
+			<name>Dieter Fox</name>
+		</professor>
+		<professor>
+			<name>Zorah Fung</name>
+		</professor>
+		<professor>
+			<name>Shyam Gollakota</name>
+		</professor>
+		<professor>
+			<name>Dan Grossman</name>
+		</professor>
+		<professor>
+			<name>Bruce Hemingway</name>
+		</professor>
+		<professor>
+			<name>Sham Kakade</name>
+		</professor>
+		<professor>
+			<name>Anna Karlin</name>
+		</professor>
+		<professor>
+			<name>Ted Kehl</name>
+		</professor>
+		<professor>
+			<name>Ira Kemelmacher-Shlizerman</name>
+		</professor>
+		<professor>
+			<name>Tadayoshi Kohno</name>
+		</professor>
+		<professor>
+			<name>Arvind Krishnamurthy</name>
+		</professor>
+		<professor>
+			<name>Richard E. Ladner</name>
+		</professor>
+		<professor>
+			<name>Ed Lazowska</name>
+		</professor>
+		<professor>
+			<name>James Lee</name>
+		</professor>
+		<professor>
+			<name>Su-In Lee</name>
+		</professor>
+		<professor>
+			<name>Sergey Levine</name>
+		</professor>
+		<professor>
+			<name>Hank Levy</name>
+		</professor>
+		<professor>
+			<name>Barbara Mones</name>
+		</professor>
+		<professor>
+			<name>Allison Obourn</name>
+		</professor>
+		<professor>
+			<name>Mark Oskin</name>
+		</professor>
+		<professor>
+			<name>Shayan Oveis Gharan</name>
+		</professor>
+		<professor>
+			<name>Shwetak Patel</name>
+		</professor>
+		<professor>
+			<name>Hal Perkins</name>
+		</professor>
+		<professor>
+			<name>Zoran Popović</name>
+		</professor>
+		<professor>
+			<name>Dan Ports</name>
+		</professor>
+		<professor>
+			<name>Anup Rao</name>
+		</professor>
+		<professor>
+			<name>Rajesh Rao</name>
+		</professor>
+		<professor>
+			<name>Stuart Reges</name>
+		</professor>
+		<professor>
+			<name>Katharina Reinecke</name>
+		</professor>
+		<professor>
+			<name>Matt Reynolds</name>
+		</professor>
+		<professor>
+			<name>Franziska Roesner</name>
+		</professor>
+		<professor>
+			<name>Thomas Rothvoss</name>
+		</professor>
+		<professor>
+			<name>Larry Ruzzo</name>
+		</professor>
+		<professor>
+			<name>Georg Seelig</name>
+		</professor>
+		<professor>
+			<name>Steven Seitz</name>
+		</professor>
+		<professor>
+			<name>Linda Shapiro</name>
+		</professor>
+		<professor>
+			<name>Joshua R. Smith</name>
+		</professor>
+		<professor>
+			<name>Dan Suciu</name>
+		</professor>
+		<professor>
+			<name>Steve Tanimoto</name>
+		</professor>
+		<professor>
+			<name>Zachary Tatlock</name>
+		</professor>
+		<professor>
+			<name>Emanuel Todorov</name>
+		</professor>
+		<professor>
+			<name>Martin Tompa</name>
+		</professor>
+		<professor>
+			<name>Emina Torlak</name>
+		</professor>
+		<professor>
+			<name>Daniel S. Weld</name>
+		</professor>
+		<professor>
+			<name>John Zahorjan</name>
+		</professor>
+		<professor>
+			<name>Luke Zettlemoye</name>
+		</professor>
+	</institution>

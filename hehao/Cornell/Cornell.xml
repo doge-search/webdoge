@@ -1,0 +1,216 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>David Albonesi</name>
+		</professor>
+		<professor>
+			<name>Erik Andersen</name>
+		</professor>
+		<professor>
+			<name>Graeme Bailey</name>
+		</professor>
+		<professor>
+			<name>Kavita Bala</name>
+		</professor>
+		<professor>
+			<name>Christopher Batten</name>
+		</professor>
+		<professor>
+			<name>Serge Belongie</name>
+		</professor>
+		<professor>
+			<name>David Bindel</name>
+		</professor>
+		<professor>
+			<name>Ken Birman</name>
+		</professor>
+		<professor>
+			<name>Anne Bracy</name>
+		</professor>
+		<professor>
+			<name>Claire Cardie</name>
+		</professor>
+		<professor>
+			<name>Tsuhan Chen</name>
+		</professor>
+		<professor>
+			<name>Yudong Chen</name>
+		</professor>
+		<professor>
+			<name>Tanzeem Choudhury</name>
+		</professor>
+		<professor>
+			<name>Michael Clarkson</name>
+		</professor>
+		<professor>
+			<name>Robert L. Constable</name>
+		</professor>
+		<professor>
+			<name>Dan Cosley</name>
+		</professor>
+		<professor>
+			<name>Cristian Danescu Niculescu-Mizil</name>
+		</professor>
+		<professor>
+			<name>Alan J. Demers</name>
+		</professor>
+		<professor>
+			<name>Shimon Edelman</name>
+		</professor>
+		<professor>
+			<name>Deborah Estrin</name>
+		</professor>
+		<professor>
+			<name>K-Y. Daisy Fan</name>
+		</professor>
+		<professor>
+			<name>Nate Foster</name>
+		</professor>
+		<professor>
+			<name>Michael D. George</name>
+		</professor>
+		<professor>
+			<name>Carla Gomes</name>
+		</professor>
+		<professor>
+			<name>Donald P. Greenberg</name>
+		</professor>
+		<professor>
+			<name>David Gries</name>
+		</professor>
+		<professor>
+			<name>Francois Guimbretiere</name>
+		</professor>
+		<professor>
+			<name>Joseph Y. Halpern</name>
+		</professor>
+		<professor>
+			<name>Juris Hartmanis</name>
+		</professor>
+		<professor>
+			<name>John E. Hopcroft</name>
+		</professor>
+		<professor>
+			<name>Daniel P. Huttenlocher</name>
+		</professor>
+		<professor>
+			<name>Thorsten Joachims</name>
+		</professor>
+		<professor>
+			<name>Alon Keinan</name>
+		</professor>
+		<professor>
+			<name>Jon Kleinberg</name>
+		</professor>
+		<professor>
+			<name>Robert Kleinberg</name>
+		</professor>
+		<professor>
+			<name>Ross Knepper</name>
+		</professor>
+		<professor>
+			<name>Dexter Kozen</name>
+		</professor>
+		<professor>
+			<name>Hadas Kress-Gazit</name>
+		</professor>
+		<professor>
+			<name>Lillian Lee</name>
+		</professor>
+		<professor>
+			<name>Rajit Manohar</name>
+		</professor>
+		<professor>
+			<name>Steve Marschner</name>
+		</professor>
+		<professor>
+			<name>Jose F. Martinez</name>
+		</professor>
+		<professor>
+			<name>David Mimno</name>
+		</professor>
+		<professor>
+			<name>Greg Morrisett</name>
+		</professor>
+		<professor>
+			<name>Andrew Myers</name>
+		</professor>
+		<professor>
+			<name>Anil Nerode</name>
+		</professor>
+		<professor>
+			<name>Tim Novikoff</name>
+		</professor>
+		<professor>
+			<name>Rafael Pass</name>
+		</professor>
+		<professor>
+			<name>Tom Ristenpart</name>
+		</professor>
+		<professor>
+			<name>Fred B. Schneider</name>
+		</professor>
+		<professor>
+			<name>Bart Selman</name>
+		</professor>
+		<professor>
+			<name>Phoebe Sengers</name>
+		</professor>
+		<professor>
+			<name>Vitaly Shmatikov</name>
+		</professor>
+		<professor>
+			<name>David B. Shmoys</name>
+		</professor>
+		<professor>
+			<name>Emin Gün Sirer</name>
+		</professor>
+		<professor>
+			<name>Noah Snavely</name>
+		</professor>
+		<professor>
+			<name>G. Edward Suh</name>
+		</professor>
+		<professor>
+			<name>A. Kevin Tang</name>
+		</professor>
+		<professor>
+			<name>Eva Tardos</name>
+		</professor>
+		<professor>
+			<name>Ross Tate</name>
+		</professor>
+		<professor>
+			<name>Tim Teitelbaum</name>
+		</professor>
+		<professor>
+			<name>Charles Van Loan</name>
+		</professor>
+		<professor>
+			<name>Robbert van Renesse</name>
+		</professor>
+		<professor>
+			<name>Hakim Weatherspoon</name>
+		</professor>
+		<professor>
+			<name>Kilian Weinberger</name>
+		</professor>
+		<professor>
+			<name>Walker White</name>
+		</professor>
+		<professor>
+			<name>Stephen Wicker</name>
+		</professor>
+		<professor>
+			<name>Amy Williams</name>
+		</professor>
+		<professor>
+			<name>David Williamson</name>
+		</professor>
+		<professor>
+			<name>Ramin Zabih</name>
+		</professor>
+		<professor>
+			<name>Zhiru Zhan</name>
+		</professor>
+	</institution>

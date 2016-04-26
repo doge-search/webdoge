@@ -10,51 +10,63 @@
 - [ ] 所有教授论文信息
 
 (UIUC) University of Illinois—​Urbana-​Champaign
-(Cornell) Cornell University
-(UWashinton) University of Washington
-(Princeton) Princeton University
-(UTA) University of Texas—​Austin
 
-(MSU) Michigan State University [x]
+(Cornell) Cornell University [x]
+
+(UWashinton) University of Washington
+
+(Princeton) Princeton University [x]
+
+(UTA) University of Texas—​Austin [x]
+
+(MSU) Michigan State University [x][x]
 * http://www.cse.msu.edu/People/Faculty_Staff/
 * http://www.cse.msu.edu/Research/Groups.php
 
-(UCR) University of California—​Riverside [x]
+(UCR) University of California—​Riverside [x][x]
 * http://www1.cs.ucr.edu/people/faculty/
 * http://www1.cs.ucr.edu/research/labs/
 
 (USCS) University of California—​Santa Cruz [x]
 
 
-(VU) Vanderbilt University [x]
+(VU) Vanderbilt University [x][x]
 * http://engineering.vanderbilt.edu/eecs/brochure/index.php
 
-(NEU) Northeastern University [x]
+(NEU) Northeastern University [x][x]
 * http://www.ccs.neu.edu/research/
 
-(UIC) University of Illinois—​Chicago [x]
+(UIC) University of Illinois—​Chicago [x][x]
 * https://www.cs.uic.edu/Main/Research#Labs
 
-(UND) University of Notre Dame [x]
+(UND) University of Notre Dame [x][x]
 * https://cse.nd.edu/research/research-labs
 
-(iastate) Iowa State University [x]
+(iastate) Iowa State University [x][x]
 * http://www.cs.iastate.edu/research
 
-University at Buffalo—​SUNY
-University of Iowa 
-University of Oregon
-(GMU) George Mason University [x]
+(buffalo) University at Buffalo—​SUNY [x]
 
-(oregonstate) Oregon State University [x]
+(uiowa) University of Iowa [x]
+
+(uoregon) University of Oregon [x]
+
+(GMU) George Mason University [x][x]
+
+(oregonstate) Oregon State University [x][x]
 * http://eecs.oregonstate.edu/research 
 
-(SU) Syracuse University [x]
+(SU) Syracuse University [x][x]
 * http://eng-cs.syr.edu/about-the-college/labs-and-centers/
 
-Case Western Reserve University
-College of William and Mary 
-Colorado State University
-Naval Postgraduate School
-New York University 
-Tufts University  
+(CASE) Case Western Reserve University [x]
+
+(WM) College of William and Mary 
+
+(colostate) Colorado State University [x]
+
+(NPS) Naval Postgraduate School [x]
+
+(NYU) New York University [x]
+
+(tufts) Tufts University [x]
