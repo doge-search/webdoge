@@ -1,171 +1,171 @@
 <?xml version="1.0" ?>
 	<institution>
 		<professor>
-			<name>Dr. Mongi A. Abidi</name>
+			<name>Mongi A. Abidi</name>
+			<papers>38.9261904762</papers>
+		</professor>
+		<professor>
+			<name>Itamar Arel</name>
+			<papers>16.75</papers>
+		</professor>
+		<professor>
+			<name>Micah Beck</name>
+			<papers>34.5</papers>
+		</professor>
+		<professor>
+			<name>Michael Berry</name>
+			<papers>7.58333333333</papers>
+		</professor>
+		<professor>
+			<name>Benjamin J. Blalock</name>
+			<papers>4.26868686869</papers>
+		</professor>
+		<professor>
+			<name>Qing &quot;Charles&quot; Cao</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Daniel Costinett</name>
+			<papers>0.833333333333</papers>
+		</professor>
+		<professor>
+			<name>Judy Day</name>
+			<papers>2.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Mark Dean</name>
+			<papers>6.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Seddik M. Djouadi</name>
+			<papers>34.1666666667</papers>
+		</professor>
+		<professor>
+			<name>Jack Dongarra</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Aly Fathy</name>
+			<papers>5.81666666667</papers>
+		</professor>
+		<professor>
+			<name>Wei Gao</name>
+			<papers>168.236904762</papers>
+		</professor>
+		<professor>
+			<name>Jens Gregor</name>
+			<papers>18.5666666667</papers>
+		</professor>
+		<professor>
+			<name>Gong Gu</name>
+			<papers>0.25</papers>
+		</professor>
+		<professor>
+			<name>Jeremy Holleman</name>
+			<papers>9.25</papers>
+		</professor>
+		<professor>
+			<name>Jian Huang</name>
+			<papers>158.046918768</papers>
+		</professor>
+		<professor>
+			<name>Syed Islam</name>
+			<papers>0.833333333333</papers>
+		</professor>
+		<professor>
+			<name>Michael Jantz</name>
+			<papers>7.5</papers>
+		</professor>
+		<professor>
+			<name>Michael A. Langston</name>
+			<papers>54.9470238095</papers>
+		</professor>
+		<professor>
+			<name>Fangxing &quot;Fran&quot; Li</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Dr. Itamar Arel</name>
+			<name>Husheng Li</name>
+			<papers>139.566666667</papers>
+		</professor>
+		<professor>
+			<name>Yilu Liu</name>
+			<papers>7.29166666667</papers>
+		</professor>
+		<professor>
+			<name>Bruce MacLennan</name>
+			<papers>29.7261904762</papers>
+		</professor>
+		<professor>
+			<name>Donatello Materassi</name>
+			<papers>17.1666666667</papers>
+		</professor>
+		<professor>
+			<name>Nicole McFarlane</name>
+			<papers>1.83333333333</papers>
+		</professor>
+		<professor>
+			<name>Audris Mockus</name>
+			<papers>43.9095238095</papers>
+		</professor>
+		<professor>
+			<name>Lynne E. Parker</name>
+			<papers>53.2</papers>
+		</professor>
+		<professor>
+			<name>Gregory Peterson</name>
+			<papers>1.45</papers>
+		</professor>
+		<professor>
+			<name>James Plank</name>
+			<papers>49.7861111111</papers>
+		</professor>
+		<professor>
+			<name>Hector Pulgar</name>
+			<papers>0.333333333333</papers>
+		</professor>
+		<professor>
+			<name>Hairong Qi</name>
+			<papers>58.3023809524</papers>
+		</professor>
+		<professor>
+			<name>Garrett Rose</name>
+			<papers>25.6</papers>
+		</professor>
+		<professor>
+			<name>Jinyuan &quot;Stella&quot; Sun</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name> Kai Sun</name>
+			<papers>40.5428571429</papers>
+		</professor>
+		<professor>
+			<name>Chao Tian</name>
+			<papers>77.8742424242</papers>
+		</professor>
+		<professor>
+			<name>Leon Tolbert</name>
+			<papers>10.6857142857</papers>
+		</professor>
+		<professor>
+			<name>Kevin Tomsovic</name>
+			<papers>3.125</papers>
+		</professor>
+		<professor>
+			<name>Brad Vander Zanden</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Michael D. Vose</name>
+			<papers>28.25</papers>
+		</professor>
+		<professor>
+			<name>Fei &quot;Fred&quot; Wang</name>
 			<papers>-1</papers>
 		</professor>
 		<professor>
-			<name>Dr. Micah Beck</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Michael Berry</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Benjamin J. Blalock</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Qing &quot;Charles&quot; Cao</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Daniel Costinett</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Judy Day</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Mark Dean</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Seddik M. Djouadi</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Jack Dongarra</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Aly Fathy</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Wei Gao</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Jens Gregor</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Gong Gu</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Jeremy Holleman</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Jian Huang</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Syed Islam</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Michael Jantz</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Michael A. Langston</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Fangxing &quot;Fran&quot; Li</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Husheng Li</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Yilu Liu</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Bruce MacLennan</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Donatello Materassi</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Nicole McFarlane</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Audris Mockus</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Lynne E. Parker</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Gregory Peterson</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. James Plank</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Hector Pulgar</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Hairong Qi</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Garrett Rose</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Jinyuan &quot;Stella&quot; Sun</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name> Dr. Kai Sun</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Chao Tian</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Leon Tolbert</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Kevin Tomsovic</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Brad Vander Zanden</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Michael D. Vose</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Fei &quot;Fred&quot; Wang</name>
-			<papers>-1</papers>
-		</professor>
-		<professor>
-			<name>Dr. Jayne Wu</name>
-			<papers>-1</papers>
+			<name>Jayne Wu</name>
+			<papers>0.25</papers>
 		</professor>
 	</institution>
