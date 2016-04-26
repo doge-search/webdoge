@@ -7,3 +7,5 @@
   * CS教授姓名列表（可选添加其他详细信息）
   * 研究所信息（研究所名称、参与教授）
   * 教授发表论文数量（爬[dblp](https://github.com/scholrly/dblp-python) ）引用信息不好爬，有时间可以爬。
+
+Finished crawling...
