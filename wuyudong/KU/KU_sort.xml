@@ -1,0 +1,223 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Arvin Agah</name>
+			<papers>41.7011904762</papers>
+		</professor>
+		<professor>
+			<name>Reza Ahmadi</name>
+			<papers>6.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Perry Alexander</name>
+			<papers>29.4833333333</papers>
+		</professor>
+		<professor>
+			<name>Christopher Allen</name>
+			<papers>0.7</papers>
+		</professor>
+		<professor>
+			<name>Nicole Beckage</name>
+			<papers>5.0</papers>
+		</professor>
+		<professor>
+			<name>Shannon Blunt</name>
+			<papers>13.0595238095</papers>
+		</professor>
+		<professor>
+			<name>Michael Branicky</name>
+			<papers>24.8166666667</papers>
+		</professor>
+		<professor>
+			<name>Jonathan Brumberg</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Swapan Chakrabarti</name>
+			<papers>2.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Kenneth Demarest</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Tyrone Duncan</name>
+			<papers>39.0833333333</papers>
+		</professor>
+		<professor>
+			<name>Aveek Dutta</name>
+			<papers>11.0333333333</papers>
+		</professor>
+		<professor>
+			<name>Esam El-Araby</name>
+			<papers>22.4761904762</papers>
+		</professor>
+		<professor>
+			<name>Joseph Evans</name>
+			<papers>29.9658730159</papers>
+		</professor>
+		<professor>
+			<name>Victor Frost</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>John Gibbons</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Andy Gill</name>
+			<papers>20.1666666667</papers>
+		</professor>
+		<professor>
+			<name>Jerzy Grzymala-Busse</name>
+			<papers>137.166666667</papers>
+		</professor>
+		<professor>
+			<name>Jun (Luke) Huan</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Rongqing Hui</name>
+			<papers>1.89285714286</papers>
+		</professor>
+		<professor>
+			<name>Tim Johnson</name>
+			<papers>4.53571428571</papers>
+		</professor>
+		<professor>
+			<name>Nancy Kinnersley</name>
+			<papers>4.0</papers>
+		</professor>
+		<professor>
+			<name>Kosta Kokkinakis</name>
+			<papers>13.0</papers>
+		</professor>
+		<professor>
+			<name>Man Kong</name>
+			<papers>0.25</papers>
+		</professor>
+		<professor>
+			<name>Prasad Kulkarni</name>
+			<papers>1.83333333333</papers>
+		</professor>
+		<professor>
+			<name>Carlton Leuschen</name>
+			<papers>2.94166666667</papers>
+		</professor>
+		<professor>
+			<name>Fengjun Li</name>
+			<papers>18.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Jilu Li</name>
+			<papers>1.95</papers>
+		</professor>
+		<professor>
+			<name>Lingjia Liu</name>
+			<papers>35.6095238095</papers>
+		</professor>
+		<professor>
+			<name>Bo Luo</name>
+			<papers>26.15</papers>
+		</professor>
+		<professor>
+			<name>Brian McClendon</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>James Miller</name>
+			<papers>70.05</papers>
+		</professor>
+		<professor>
+			<name>Gary Minden</name>
+			<papers>16.0406417112</papers>
+		</professor>
+		<professor>
+			<name>John Paden</name>
+			<papers>5.72619047619</papers>
+		</professor>
+		<professor>
+			<name>Bozenna Pasik-Duncan</name>
+			<papers>16.1666666667</papers>
+		</professor>
+		<professor>
+			<name>Erik Perrins</name>
+			<papers>21.95</papers>
+		</professor>
+		<professor>
+			<name>David Petr</name>
+			<papers>1.39166666667</papers>
+		</professor>
+		<professor>
+			<name>Glenn Prescott</name>
+			<papers>1.66666666667</papers>
+		</professor>
+		<professor>
+			<name>Fernando Rodriguez-Morales</name>
+			<papers>3.93333333333</papers>
+		</professor>
+		<professor>
+			<name>James Rowland</name>
+			<papers>1.18571428571</papers>
+		</professor>
+		<professor>
+			<name>Rassul Saeedipour</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Dola Saha</name>
+			<papers>16.0333333333</papers>
+		</professor>
+		<professor>
+			<name>Hossein Saiedian</name>
+			<papers>63.8666666667</papers>
+		</professor>
+		<professor>
+			<name>Alessandro Salandrino</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Sam Shanmugan</name>
+			<papers>9.09285714286</papers>
+		</professor>
+		<professor>
+			<name>Suzanne Shontz</name>
+			<papers>16.0833333333</papers>
+		</professor>
+		<professor>
+			<name>James Sterbenz</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>James Stiles</name>
+			<papers>5.53333333333</papers>
+		</professor>
+		<professor>
+			<name>Stanislav Svojanovsky</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Annette Tetmeyer</name>
+			<papers>2.5</papers>
+		</professor>
+		<professor>
+			<name>Guanghui Wang</name>
+			<papers>73.275</papers>
+		</professor>
+		<professor>
+			<name>Jie-Bang Yan</name>
+			<papers>0.25</papers>
+		</professor>
+		<professor>
+			<name>Yang Yi</name>
+			<papers>46.2333333333</papers>
+		</professor>
+		<professor>
+			<name>Heechul Yun</name>
+			<papers>12.95</papers>
+		</professor>
+		<professor>
+			<name>Cuncong Zhong</name>
+			<papers>5.5</papers>
+		</professor>
+	</institution>

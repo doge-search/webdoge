@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Tulay Adali</name>
+			<papers>92.6666666667</papers>
+		</professor>
+		<professor>
+			<name>Nilanjan Banerjee</name>
+			<papers>68.6261904762</papers>
+		</professor>
+		<professor>
+			<name>Adam Bargteil</name>
+			<papers>17.75</papers>
+		</professor>
+		<professor>
+			<name>Gary M. Carter</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Chein-I Chang</name>
+			<papers>65.8345238095</papers>
+		</professor>
+		<professor>
+			<name>Richard Chang</name>
+			<papers>40.1261904762</papers>
+		</professor>
+		<professor>
+			<name>Jian Chen</name>
+			<papers>253.844047619</papers>
+		</professor>
+		<professor>
+			<name>Fow-Sen Choa</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Marie desJardins</name>
+			<papers>58.5504901961</papers>
+		</professor>
+		<professor>
+			<name>Tim Finin</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Anthony Johnson</name>
+			<papers>1.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Anupam Joshi</name>
+			<papers>87.6833333333</papers>
+		</professor>
+		<professor>
+			<name>Konstantinos Kalpakis</name>
+			<papers>26.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Seung-Jun Kim</name>
+			<papers>40.75</papers>
+		</professor>
+		<professor>
+			<name>Samuel Lomonaco</name>
+			<papers>6.0</papers>
+		</professor>
+		<professor>
+			<name>Cynthia Matuszek</name>
+			<papers>10.75</papers>
+		</professor>
+		<professor>
+			<name>Curtis R. Menyuk</name>
+			<papers>2.16666666667</papers>
+		</professor>
+		<professor>
+			<name>Tinoosh Mohsenin</name>
+			<papers>14.1027777778</papers>
+		</professor>
+		<professor>
+			<name>Charles Nicholas</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Tim Oates</name>
+			<papers>70.0273559774</papers>
+		</professor>
+		<professor>
+			<name>Marc Olano</name>
+			<papers>22.1666666667</papers>
+		</professor>
+		<professor>
+			<name>Chintan Patel</name>
+			<papers>36.2</papers>
+		</professor>
+		<professor>
+			<name>Dhananjay Phatak</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Hamed Pirsiavash</name>
+			<papers>16.1176470588</papers>
+		</professor>
+		<professor>
+			<name>Penny Rheingans</name>
+			<papers>32.55</papers>
+		</professor>
+		<professor>
+			<name>Ryan Robucci</name>
+			<papers>5.86666666667</papers>
+		</professor>
+		<professor>
+			<name>Alan T. Sherman</name>
+			<papers>18.5075757576</papers>
+		</professor>
+		<professor>
+			<name>Deepinder Sidhu</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Gymama Slaughter</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Li Yan</name>
+			<papers>94.0333333333</papers>
+		</professor>
+		<professor>
+			<name>Yaacov Yesha</name>
+			<papers>20.903968254</papers>
+		</professor>
+		<professor>
+			<name>Yelena Yesha</name>
+			<papers>44.7968253968</papers>
+		</professor>
+		<professor>
+			<name>Mohamed Younis</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Ting Zhu</name>
+			<papers>32.7619047619</papers>
+		</professor>
+	</institution>

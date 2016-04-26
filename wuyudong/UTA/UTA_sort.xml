@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Ishfaq Ahmad</name>
+			<papers>95.5095238095</papers>
+		</professor>
+		<professor>
+			<name>Vassilis Athitsos</name>
+			<papers>40.4261904762</papers>
+		</professor>
+		<professor>
+			<name>Bill Carroll</name>
+			<papers>0.583333333333</papers>
+		</professor>
+		<professor>
+			<name>Sharma Chakravarthy</name>
+			<papers>93.0666666667</papers>
+		</professor>
+		<professor>
+			<name>Hao Che</name>
+			<papers>32.7</papers>
+		</professor>
+		<professor>
+			<name>Christoph Csallner</name>
+			<papers>17.7166666667</papers>
+		</professor>
+		<professor>
+			<name>Gautam Das</name>
+			<papers>89.4333333333</papers>
+		</professor>
+		<professor>
+			<name>Chris Ding</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Ramez Elmasri</name>
+			<papers>73.119047619</papers>
+		</professor>
+		<professor>
+			<name>Leonidas Fegaras</name>
+			<papers>42.2</papers>
+		</professor>
+		<professor>
+			<name>Jean Gao</name>
+			<papers>39.3380952381</papers>
+		</professor>
+		<professor>
+			<name>Heng Huang</name>
+			<papers>75.3242424242</papers>
+		</professor>
+		<professor>
+			<name>Junzhou Huang</name>
+			<papers>41.5095238095</papers>
+		</professor>
+		<professor>
+			<name>Manfred Huber</name>
+			<papers>35.4166666667</papers>
+		</professor>
+		<professor>
+			<name>Hong Jiang</name>
+			<papers>185.961111111</papers>
+		</professor>
+		<professor>
+			<name>Taylor Johnson</name>
+			<papers>1.14285714286</papers>
+		</professor>
+		<professor>
+			<name>Farhad Kamangar</name>
+			<papers>12.0833333333</papers>
+		</professor>
+		<professor>
+			<name>David Kung</name>
+			<papers>0.333333333333</papers>
+		</professor>
+		<professor>
+			<name>Jeff (Yu) Lei</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Chengkai Li</name>
+			<papers>25.369047619</papers>
+		</professor>
+		<professor>
+			<name>Yonghe Liu</name>
+			<papers>23.0333333333</papers>
+		</professor>
+		<professor>
+			<name>Fillia Makedon</name>
+			<papers>81.5095238095</papers>
+		</professor>
+		<professor>
+			<name>Lynn Peterson</name>
+			<papers>6.0</papers>
+		</professor>
+		<professor>
+			<name>Roger Walker</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Bob Weems</name>
+			<papers>9.75</papers>
+		</professor>
+		<professor>
+			<name>Matthew Wright</name>
+			<papers>36.975</papers>
+		</professor>
+		<professor>
+			<name>Gergely Zaruba</name>
+			<papers>28.4511904762</papers>
+		</professor>
+	</institution>

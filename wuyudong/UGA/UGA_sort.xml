@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Arabnia, Hamid R.</name>
+			<papers>57.9864468864</papers>
+		</professor>
+		<professor>
+			<name>Arpinar, Ismailcem Budak</name>
+			<papers>19.3261904762</papers>
+		</professor>
+		<professor>
+			<name>Barnes, Brad</name>
+			<papers>2.0</papers>
+		</professor>
+		<professor>
+			<name>Bhandarkar, Suchendra M.</name>
+			<papers>87.25</papers>
+		</professor>
+		<professor>
+			<name>Cai, Liming</name>
+			<papers>33.4214285714</papers>
+		</professor>
+		<professor>
+			<name>Doshi, Prashant</name>
+			<papers>62.0111111111</papers>
+		</professor>
+		<professor>
+			<name>Everett, Daniel M.</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Funk, Shelby H.</name>
+			<papers>0.333333333333</papers>
+		</professor>
+		<professor>
+			<name>Hollingsworth, Bill</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Hybinette, Maria</name>
+			<papers>15.4777777778</papers>
+		</professor>
+		<professor>
+			<name>Kochut, Krzysztof J.</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Lee, Kyu Hyung</name>
+			<papers>0.392857142857</papers>
+		</professor>
+		<professor>
+			<name>Li, Kang</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Liu, Tianming</name>
+			<papers>44.4255123961</papers>
+		</professor>
+		<professor>
+			<name>Miller, John A.</name>
+			<papers>51.5118357949</papers>
+		</professor>
+		<professor>
+			<name>Perdisci, Roberto</name>
+			<papers>25.6666666667</papers>
+		</professor>
+		<professor>
+			<name>Potter, Walter D.</name>
+			<papers>34.9166666667</papers>
+		</professor>
+		<professor>
+			<name>Quinn, Shannon</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Ramaswamy, Laksmish</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Rasheed, Khaled</name>
+			<papers>21.2261904762</papers>
+		</professor>
+		<professor>
+			<name>Taha, Thiab</name>
+			<papers>21.0333333333</papers>
+		</professor>
+	</institution>

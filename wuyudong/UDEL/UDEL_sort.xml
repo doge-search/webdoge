@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Kathleen F. McCoy</name>
+			<papers>35.9166666667</papers>
+		</professor>
+		<professor>
+			<name>James Atlas</name>
+			<papers>4.5</papers>
+		</professor>
+		<professor>
+			<name>M. Sandra Carberry</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Ben Carterette</name>
+			<papers>59.4</papers>
+		</professor>
+		<professor>
+			<name>John Cavazos</name>
+			<papers>18.0333333333</papers>
+		</professor>
+		<professor>
+			<name>Sunita Chandrasekaran</name>
+			<papers>10.8666666667</papers>
+		</professor>
+		<professor>
+			<name>Daniel L. Chester</name>
+			<papers>10.7023809524</papers>
+		</professor>
+		<professor>
+			<name>James Clause</name>
+			<papers>3.36666666667</papers>
+		</professor>
+		<professor>
+			<name>Keith Decker</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Terry Harvey</name>
+			<papers>2.05952380952</papers>
+		</professor>
+		<professor>
+			<name>Chandra Kambhamettu</name>
+			<papers>57.0460678211</papers>
+		</professor>
+		<professor>
+			<name>Li Liao</name>
+			<papers>24.7595238095</papers>
+		</professor>
+		<professor>
+			<name>Errol L. Lloyd</name>
+			<papers>39.5</papers>
+		</professor>
+		<professor>
+			<name>Lena Mashayekhy</name>
+			<papers>20.0</papers>
+		</professor>
+		<professor>
+			<name>Kathleen F. McCoy</name>
+			<papers>35.9166666667</papers>
+		</professor>
+		<professor>
+			<name>Lori Pollock</name>
+			<papers>65.9602564103</papers>
+		</professor>
+		<professor>
+			<name>Christopher Rasmussen</name>
+			<papers>29.8333333333</papers>
+		</professor>
+		<professor>
+			<name>B. David Saunders</name>
+			<papers>20.9</papers>
+		</professor>
+		<professor>
+			<name>Adarsh Sethi</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Vijay Shanker</name>
+			<papers>0.2</papers>
+		</professor>
+		<professor>
+			<name>Hagit Shatkay</name>
+			<papers>31.2113636364</papers>
+		</professor>
+		<professor>
+			<name>Chien-Chung Shen</name>
+			<papers>54.2158119658</papers>
+		</professor>
+		<professor>
+			<name>Stephen Siegel</name>
+			<papers>26.6004329004</papers>
+		</professor>
+		<professor>
+			<name>Michela Taufer</name>
+			<papers>43.1527777778</papers>
+		</professor>
+		<professor>
+			<name>Cathy Wu</name>
+			<papers>1.03333333333</papers>
+		</professor>
+		<professor>
+			<name>Jingyi Yu</name>
+			<papers>37.1119047619</papers>
+		</professor>
+	</institution>

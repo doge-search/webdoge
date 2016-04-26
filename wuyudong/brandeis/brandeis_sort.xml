@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Rick Alterman</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Mitch Cherniack</name>
+			<papers>17.7916666667</papers>
+		</professor>
+		<professor>
+			<name>Antonella DiLillo</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Lotus Goldberg</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Tim Hickey</name>
+			<papers>28.25</papers>
+		</professor>
+		<professor>
+			<name>Pengyu Hong</name>
+			<papers>25.3428571429</papers>
+		</professor>
+		<professor>
+			<name>Harry Mairson</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Sophia Malamud</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Marie Meteer</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Olga Papaemmanouil</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Jordan Pollack</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>James Pustejovsky</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>R. Pito Salas</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Liuba Shrira</name>
+			<papers>26.0956349206</papers>
+		</professor>
+		<professor>
+			<name>Jim Storer</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Nianwen Bert Xue</name>
+			<papers>-1</papers>
+		</professor>
+	</institution>

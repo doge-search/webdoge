@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>David Ackley</name>
+			<papers>14.6666666667</papers>
+		</professor>
+		<professor>
+			<name>Dorian Arnold</name>
+			<papers>0.333333333333</papers>
+		</professor>
+		<professor>
+			<name>Patrick G. Bridges </name>
+			<papers>24.8932900433</papers>
+		</professor>
+		<professor>
+			<name>Joel Castellanos</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Brooke Chenoweth</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Jedidiah R. Crandall</name>
+			<papers>22.6166666667</papers>
+		</professor>
+		<professor>
+			<name>Trilce Estrada</name>
+			<papers>22.7833333333</papers>
+		</professor>
+		<professor>
+			<name>Stephanie Forrest</name>
+			<papers>48.7102564103</papers>
+		</professor>
+		<professor>
+			<name>Thomas P. Hayes</name>
+			<papers>25.0333333333</papers>
+		</professor>
+		<professor>
+			<name>Deepak Kapur</name>
+			<papers>135.844444444</papers>
+		</professor>
+		<professor>
+			<name>Patrick GageKelley</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Shuang (Sean) Luan</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Melanie Moses</name>
+			<papers>1.5</papers>
+		</professor>
+		<professor>
+			<name>Abdullah A. Mueen </name>
+			<papers>18.0</papers>
+		</professor>
+		<professor>
+			<name>Gruia-Catalin Roman</name>
+			<papers>88.0666666667</papers>
+		</professor>
+		<professor>
+			<name>Jared Saia</name>
+			<papers>37.0833333333</papers>
+		</professor>
+		<professor>
+			<name>Darko Stefanovic</name>
+			<papers>29.5009803922</papers>
+		</professor>
+		<professor>
+			<name>Lydia Tapia</name>
+			<papers>7.52619047619</papers>
+		</professor>
+		<professor>
+			<name>Lance Williams</name>
+			<papers>8.70833333333</papers>
+		</professor>
+	</institution>

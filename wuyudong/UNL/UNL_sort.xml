@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Christopher Bourke</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Berthe Choueiry</name>
+			<papers>23.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Myra Cohen</name>
+			<papers>38.85</papers>
+		</professor>
+		<professor>
+			<name>Donald Costello</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Jitender Deogun</name>
+			<papers>100.411111111</papers>
+		</professor>
+		<professor>
+			<name>Carrick Detweiler</name>
+			<papers>18.65</papers>
+		</professor>
+		<professor>
+			<name>Matt Dwyer</name>
+			<papers>73.6261904762</papers>
+		</professor>
+		<professor>
+			<name>Sebastian Elbaum</name>
+			<papers>0.333333333333</papers>
+		</professor>
+		<professor>
+			<name>Steve Goddard</name>
+			<papers>36.45</papers>
+		</professor>
+		<professor>
+			<name>Hong Jiang</name>
+			<papers>185.961111111</papers>
+		</professor>
+		<professor>
+			<name>Ying Lu</name>
+			<papers>61.125</papers>
+		</professor>
+		<professor>
+			<name>Byrav Ramamurthy</name>
+			<papers>60.3666666667</papers>
+		</professor>
+		<professor>
+			<name>Stephen Reichenbach</name>
+			<papers>13.7833333333</papers>
+		</professor>
+		<professor>
+			<name>Peter Revesz</name>
+			<papers>72.3428571429</papers>
+		</professor>
+		<professor>
+			<name>Charles Riedesel</name>
+			<papers>3.50238095238</papers>
+		</professor>
+		<professor>
+			<name>Gregg Rothermel</name>
+			<papers>68.0678571429</papers>
+		</professor>
+		<professor>
+			<name>Ashok Samal</name>
+			<papers>40.7</papers>
+		</professor>
+		<professor>
+			<name>Anita Sarma</name>
+			<papers>20.95</papers>
+		</professor>
+		<professor>
+			<name>Stephen Scott</name>
+			<papers>6.08333333333</papers>
+		</professor>
+		<professor>
+			<name>Sharad Seth</name>
+			<papers>0.333333333333</papers>
+		</professor>
+		<professor>
+			<name>Richard Sincovec</name>
+			<papers>5.58333333333</papers>
+		</professor>
+		<professor>
+			<name>Leen-Kiat Soh</name>
+			<papers>76.1697802198</papers>
+		</professor>
+		<professor>
+			<name>Witawas Srisa-an</name>
+			<papers>28.5</papers>
+		</professor>
+		<professor>
+			<name>David Swanson</name>
+			<papers>2.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Vinod Variyam</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Mehmet Can Vuran</name>
+			<papers>6.73333333333</papers>
+		</professor>
+		<professor>
+			<name>Lisong Xu</name>
+			<papers>30.65</papers>
+		</professor>
+		<professor>
+			<name>Hongfeng Yu</name>
+			<papers>20.4102564103</papers>
+		</professor>
+	</institution>

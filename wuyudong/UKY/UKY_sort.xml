@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Anthony Baxter</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Kenneth L Calvert</name>
+			<papers>48.1944444444</papers>
+		</professor>
+		<professor>
+			<name>Fuhua (Frank) Cheng</name>
+			<papers>30.0833333333</papers>
+		</professor>
+		<professor>
+			<name>Zongming Fei</name>
+			<papers>33.6261904762</papers>
+		</professor>
+		<professor>
+			<name>Raphael A Finkel</name>
+			<papers>40.25</papers>
+		</professor>
+		<professor>
+			<name>Judy Goldsmith</name>
+			<papers>68.5916666667</papers>
+		</professor>
+		<professor>
+			<name>James N Griffioen</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Jane E Hayes</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Nathan Jacobs</name>
+			<papers>22.9833333333</papers>
+		</professor>
+		<professor>
+			<name>Jerzy W Jaromczyk</name>
+			<papers>38.0333333333</papers>
+		</professor>
+		<professor>
+			<name>Ramakanth Kavuluru</name>
+			<papers>16.25</papers>
+		</professor>
+		<professor>
+			<name>Debby L Keen</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Andrew M Klapper</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Jinze Liu</name>
+			<papers>14.4261904762</papers>
+		</professor>
+		<professor>
+			<name>Dakshnamoorthy (Mani) Manivannan</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Victor W Marek</name>
+			<papers>37.75</papers>
+		</professor>
+		<professor>
+			<name>Yi Pike</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Paul Piwowarski</name>
+			<papers>3.7</papers>
+		</professor>
+		<professor>
+			<name>Chen Qian</name>
+			<papers>39.0166666667</papers>
+		</professor>
+		<professor>
+			<name>William (Brent) B Seales</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Miroslaw (Mirek) Truszczynski</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Grzegorz (Greg) W Wasilkowski</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Ruigang Yang</name>
+			<papers>52.0687441643</papers>
+		</professor>
+		<professor>
+			<name>Tingting Yu</name>
+			<papers>15.25</papers>
+		</professor>
+		<professor>
+			<name>GQ Zhang</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Jun Zhang </name>
+			<papers>437.354761905</papers>
+		</professor>
+	</institution>

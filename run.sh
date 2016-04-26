@@ -7,5 +7,5 @@
 #python crawl_dblp.py > output7.txt
 
 cd ./wuyudong
-python crawl_dblp.py > output.txt
+python crawl_dblp.py > output3.txt
 

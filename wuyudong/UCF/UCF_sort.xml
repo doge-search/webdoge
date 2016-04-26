@@ -1,0 +1,259 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Nazih Abdallah</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Sarah Angell</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Ulas Bagci</name>
+			<papers>34.25</papers>
+		</professor>
+		<professor>
+			<name>Mostafa Bassiouni</name>
+			<papers>51.0</papers>
+		</professor>
+		<professor>
+			<name>Issa Batarseh</name>
+			<papers>6.71666666667</papers>
+		</professor>
+		<professor>
+			<name>Ladislau Boloni</name>
+			<papers>50.8626373626</papers>
+		</professor>
+		<professor>
+			<name>Ali Borji</name>
+			<papers>41.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Mainak Chatterjee</name>
+			<papers>68.1666666667</papers>
+		</professor>
+		<professor>
+			<name>Damian Dechev</name>
+			<papers>19.9833333333</papers>
+		</professor>
+		<professor>
+			<name>Ronald F. DeMara</name>
+			<papers>38.2416666667</papers>
+		</professor>
+		<professor>
+			<name>Narsingh Deo</name>
+			<papers>45.6166666667</papers>
+		</professor>
+		<professor>
+			<name>Ronald D. Dutton</name>
+			<papers>25.5</papers>
+		</professor>
+		<professor>
+			<name>Rochelle Elva</name>
+			<papers>3.0</papers>
+		</professor>
+		<professor>
+			<name>Deliang Fan</name>
+			<papers>9.25</papers>
+		</professor>
+		<professor>
+			<name>Matthew Fontaine</name>
+			<papers>1.5</papers>
+		</professor>
+		<professor>
+			<name>Hassan Foroosh</name>
+			<papers>38.6</papers>
+		</professor>
+		<professor>
+			<name>Demetrios Glinos</name>
+			<papers>6.0</papers>
+		</professor>
+		<professor>
+			<name>Boqing Gong</name>
+			<papers>11.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Avelino J. Gonzalez</name>
+			<papers>48.2428571429</papers>
+		</professor>
+		<professor>
+			<name>Arup Guha</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Ratan K. Guha</name>
+			<papers>40.0833333333</papers>
+		</professor>
+		<professor>
+			<name>Mark Heinrich</name>
+			<papers>12.1666666667</papers>
+		</professor>
+		<professor>
+			<name>Jerry Hensel</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Christopher Hollander</name>
+			<papers>4.0</papers>
+		</professor>
+		<professor>
+			<name>Haiyan Hu</name>
+			<papers>20.2666666667</papers>
+		</professor>
+		<professor>
+			<name>Kien A. Hua</name>
+			<papers>119.316666667</papers>
+		</professor>
+		<professor>
+			<name>Charles E. Hughes</name>
+			<papers>40.2833333333</papers>
+		</professor>
+		<professor>
+			<name>Sumit Jha</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Sheau-Dong Lang</name>
+			<papers>18.3666666667</papers>
+		</professor>
+		<professor>
+			<name>Joseph LaViola</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Josh Lazar</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Gary T. Leavens</name>
+			<papers>66.5928571429</papers>
+		</professor>
+		<professor>
+			<name>Richard Leinecker</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Xiaoman Li</name>
+			<papers>1.5</papers>
+		</professor>
+		<professor>
+			<name>Fei Liu</name>
+			<papers>16.85</papers>
+		</professor>
+		<professor>
+			<name>Mark Llewellyn</name>
+			<papers>2.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Niels da Vitoria Lobo</name>
+			<papers>22.0833333333</papers>
+		</professor>
+		<professor>
+			<name>Dan C. Marinescu</name>
+			<papers>69.9777777778</papers>
+		</professor>
+		<professor>
+			<name>Michael McAlpin</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Euripides Montagne</name>
+			<papers>2.0</papers>
+		</professor>
+		<professor>
+			<name>Edwin Nassiff</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Thomas Nedorost</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Beth Nettles</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Ali Orooji</name>
+			<papers>6.16666666667</papers>
+		</professor>
+		<professor>
+			<name>Sumanta Pattanaik</name>
+			<papers>37.7277777778</papers>
+		</professor>
+		<professor>
+			<name>Guo-Jun Qi</name>
+			<papers>39.475</papers>
+		</professor>
+		<professor>
+			<name>Nazanin Rahnavard</name>
+			<papers>21.7</papers>
+		</professor>
+		<professor>
+			<name>Mubarak Shah</name>
+			<papers>118.717857143</papers>
+		</professor>
+		<professor>
+			<name>Randall Shumaker</name>
+			<papers>2.75</papers>
+		</professor>
+		<professor>
+			<name>Kenneth Stanley</name>
+			<papers>61.4357142857</papers>
+		</professor>
+		<professor>
+			<name>Gita Sukthankar</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Sean Szumlanski</name>
+			<papers>6.0</papers>
+		</professor>
+		<professor>
+			<name>Damla Turgut</name>
+			<papers>45.7</papers>
+		</professor>
+		<professor>
+			<name>Liqiang Wang</name>
+			<papers>25.7345238095</papers>
+		</professor>
+		<professor>
+			<name>Jun Wang</name>
+			<papers>407.978434066</papers>
+		</professor>
+		<professor>
+			<name>Gregory Welch</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Karin Whiting</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Paul Wiegand</name>
+			<papers>20.5</papers>
+		</professor>
+		<professor>
+			<name>Pamela Wisniewski</name>
+			<papers>16.5</papers>
+		</professor>
+		<professor>
+			<name>Pawel Wocjan</name>
+			<papers>21.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Annie Wu</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Jiann S. Yuan</name>
+			<papers>8.08333333333</papers>
+		</professor>
+		<professor>
+			<name>Shaojie Zhang</name>
+			<papers>19.5769230769</papers>
+		</professor>
+		<professor>
+			<name>Cliff Zou</name>
+			<papers>0.533333333333</papers>
+		</professor>
+	</institution>

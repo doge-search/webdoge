@@ -1,0 +1,283 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Denise Agosto</name>
+			<papers>17.25</papers>
+		</professor>
+		<professor>
+			<name>Larry  Alexander</name>
+			<papers>1.16666666667</papers>
+		</professor>
+		<professor>
+			<name>Yuan An</name>
+			<papers>31.1261904762</papers>
+		</professor>
+		<professor>
+			<name>David Augenblick</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Marcello Balduccini</name>
+			<papers>42.4166666667</papers>
+		</professor>
+		<professor>
+			<name>Ellen Bass</name>
+			<papers>30.3666666667</papers>
+		</professor>
+		<professor>
+			<name>M. Brian Blake</name>
+			<papers>88.3678571429</papers>
+		</professor>
+		<professor>
+			<name>Mark Boady</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Jennifer Booker</name>
+			<papers>0.492857142857</papers>
+		</professor>
+		<professor>
+			<name>David E. Breen</name>
+			<papers>29.5333333333</papers>
+		</professor>
+		<professor>
+			<name>Matthew Burlick</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Yuanfang Cai</name>
+			<papers>23.9651515152</papers>
+		</professor>
+		<professor>
+			<name>Chris Carroll</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Bruce Char</name>
+			<papers>22.5</papers>
+		</professor>
+		<professor>
+			<name>Chaomei Chen</name>
+			<papers>103.601190476</papers>
+		</professor>
+		<professor>
+			<name>Catherine D. Collins</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Prudence W. Dalrymple</name>
+			<papers>6.7</papers>
+		</professor>
+		<professor>
+			<name>Susan E. Davis</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>John D'Ignazio</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>M. Carl Drott</name>
+			<papers>11.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Andrea  Forte</name>
+			<papers>20.9</papers>
+		</professor>
+		<professor>
+			<name>Susan Gasson</name>
+			<papers>22.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Christopher Geib</name>
+			<papers>19.1551948052</papers>
+		</professor>
+		<professor>
+			<name>Colin Gordon</name>
+			<papers>4.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Jane Greenberg</name>
+			<papers>30.5833333333</papers>
+		</professor>
+		<professor>
+			<name>Rachel Greenstadt</name>
+			<papers>21.669047619</papers>
+		</professor>
+		<professor>
+			<name>Peter Grillo</name>
+			<papers>1.5</papers>
+		</professor>
+		<professor>
+			<name>Gregory W. Hislop</name>
+			<papers>47.2333333333</papers>
+		</professor>
+		<professor>
+			<name>Xiaohua Tony Hu</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Jeremy Johnson</name>
+			<papers>6.78333333333</papers>
+		</professor>
+		<professor>
+			<name>Constantine Katsinis</name>
+			<papers>13.4166666667</papers>
+		</professor>
+		<professor>
+			<name>Weimao  Ke</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Michael Khoo</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Alison M. Lewis</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Xia Lin</name>
+			<papers>22.7833333333</papers>
+		</professor>
+		<professor>
+			<name>Geoffrey Mainland</name>
+			<papers>10.9761904762</papers>
+		</professor>
+		<professor>
+			<name>Spiros Mancoridis</name>
+			<papers>33.7666666667</papers>
+		</professor>
+		<professor>
+			<name>Gabriela Marcu</name>
+			<papers>8.16666666667</papers>
+		</professor>
+		<professor>
+			<name>Linda Marion</name>
+			<papers>2.53333333333</papers>
+		</professor>
+		<professor>
+			<name>Adelaida Alban  Medlock</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>William Mongan</name>
+			<papers>3.72619047619</papers>
+		</professor>
+		<professor>
+			<name>Gaurav Naik</name>
+			<papers>2.70119047619</papers>
+		</professor>
+		<professor>
+			<name>Delia Neuman</name>
+			<papers>6.75</papers>
+		</professor>
+		<professor>
+			<name>Ko Nishino</name>
+			<papers>33.7595238095</papers>
+		</professor>
+		<professor>
+			<name>Danuta A.  Nitecki</name>
+			<papers>1.5</papers>
+		</professor>
+		<professor>
+			<name>Krzysztof Nowak</name>
+			<papers>3.7</papers>
+		</professor>
+		<professor>
+			<name>Santiago Ontañón</name>
+			<papers>74.4940065681</papers>
+		</professor>
+		<professor>
+			<name>Omkant Pandey</name>
+			<papers>27.15</papers>
+		</professor>
+		<professor>
+			<name>Jung-ran Park</name>
+			<papers>12.0833333333</papers>
+		</professor>
+		<professor>
+			<name>Alex Poole</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Jeffrey Popyack</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>William Regli</name>
+			<papers>53.0035714286</papers>
+		</professor>
+		<professor>
+			<name>Michelle L. Rogers</name>
+			<papers>4.7</papers>
+		</professor>
+		<professor>
+			<name>Jeffrey Salvage</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Dario Salvucci</name>
+			<papers>35.45</papers>
+		</professor>
+		<professor>
+			<name>Aleksandra  Sarcevic</name>
+			<papers>18.4166666667</papers>
+		</professor>
+		<professor>
+			<name>Kurt Schmidt</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Ali Shokoufandeh</name>
+			<papers>42.95</papers>
+		</professor>
+		<professor>
+			<name>Erin Solovey</name>
+			<papers>16.45</papers>
+		</professor>
+		<professor>
+			<name>Il-Yeol Song</name>
+			<papers>80.9261904762</papers>
+		</professor>
+		<professor>
+			<name>Julia Stoyanovich</name>
+			<papers>20.9595238095</papers>
+		</professor>
+		<professor>
+			<name>Brian Stuart</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Deborah Turner</name>
+			<papers>8.0</papers>
+		</professor>
+		<professor>
+			<name>Kristene Unsworth</name>
+			<papers>1.95</papers>
+		</professor>
+		<professor>
+			<name>Filippos Vokolos</name>
+			<papers>3.9</papers>
+		</professor>
+		<professor>
+			<name>Rosina Weber</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Scott White</name>
+			<papers>2.875</papers>
+		</professor>
+		<professor>
+			<name>Erjia Yan</name>
+			<papers>29.8178571429</papers>
+		</professor>
+		<professor>
+			<name>Christopher C. Yang</name>
+			<papers>129.216666667</papers>
+		</professor>
+		<professor>
+			<name>Valerie Ann Yonker</name>
+			<papers>-1</papers>
+		</professor>
+	</institution>

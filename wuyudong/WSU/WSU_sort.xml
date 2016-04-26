@@ -1,0 +1,215 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Ahmed Abu-Hajar</name>
+			<papers>3.0</papers>
+		</professor>
+		<professor>
+			<name>Venera Arnaoudova</name>
+			<papers>11.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Sakire Arslan AY</name>
+			<papers>7.66666666667</papers>
+		</professor>
+		<professor>
+			<name>Ashley Ater-Kranov</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Dave Bakken</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Ben Belzer</name>
+			<papers>20.6023809524</papers>
+		</professor>
+		<professor>
+			<name>Anjan Bose</name>
+			<papers>6.42857142857</papers>
+		</professor>
+		<professor>
+			<name>Doug Boyce</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Shira Broschat</name>
+			<papers>5.41666666667</papers>
+		</professor>
+		<professor>
+			<name>Douglas Call</name>
+			<papers>0.833333333333</papers>
+		</professor>
+		<professor>
+			<name>Brent Carper</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Adam Carter</name>
+			<papers>2.66666666667</papers>
+		</professor>
+		<professor>
+			<name>Clint Cole</name>
+			<papers>1.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Diane Cook</name>
+			<papers>136.827777778</papers>
+		</professor>
+		<professor>
+			<name>Zhe Dang</name>
+			<papers>48.9166666667</papers>
+		</professor>
+		<professor>
+			<name>Jose Delgado-Frias</name>
+			<papers>44.0928571429</papers>
+		</professor>
+		<professor>
+			<name>Janardhan Rao (Jana) Doppa</name>
+			<papers>10.2254901961</papers>
+		</professor>
+		<professor>
+			<name>Anamika Dubey</name>
+			<papers>4.0</papers>
+		</professor>
+		<professor>
+			<name>Thomas Fischer</name>
+			<papers>23.6428571429</papers>
+		</professor>
+		<professor>
+			<name>Assefaw Gebremedhin</name>
+			<papers>17.7</papers>
+		</professor>
+		<professor>
+			<name>Hassan Ghasemzadeh</name>
+			<papers>35.6511904762</papers>
+		</professor>
+		<professor>
+			<name>Subhanshu Gupta</name>
+			<papers>6.53333333333</papers>
+		</professor>
+		<professor>
+			<name>Adam Hahn</name>
+			<papers>6.5</papers>
+		</professor>
+		<professor>
+			<name>Timothy Hanshaw</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Carl Hauser</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Deuk Heo</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Lawrence Holder</name>
+			<papers>1.16666666667</papers>
+		</professor>
+		<professor>
+			<name>Chris Hundhausen</name>
+			<papers>0.25</papers>
+		</professor>
+		<professor>
+			<name>Shuiwang Ji</name>
+			<papers>31.8785714286</papers>
+		</professor>
+		<professor>
+			<name>Ananth Kalyanaraman</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Dae Hyun Kim</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Chen-Ching Liu</name>
+			<papers>10.8666666667</papers>
+		</professor>
+		<professor>
+			<name>Saeed Lotfifard</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Sepideh Mazrouee</name>
+			<papers>4.0</papers>
+		</professor>
+		<professor>
+			<name>Ali Mehrizi-Sani</name>
+			<papers>5.5</papers>
+		</professor>
+		<professor>
+			<name>Jacob Murray</name>
+			<papers>11.2333333333</papers>
+		</professor>
+		<professor>
+			<name>Andy O&amp;#39;Fallon</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Evan Olds</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Robert Olsen</name>
+			<papers>0.833333333333</papers>
+		</professor>
+		<professor>
+			<name>Partha Pratim Pande</name>
+			<papers>44.1595238095</papers>
+		</professor>
+		<professor>
+			<name>Patrick Pedrow</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Sandip Roy</name>
+			<papers>43.5666666667</papers>
+		</professor>
+		<professor>
+			<name>Ali Saberi</name>
+			<papers>46.3333333333</papers>
+		</professor>
+		<professor>
+			<name>John Schneider</name>
+			<papers>0.666666666667</papers>
+		</professor>
+		<professor>
+			<name>Behrooz A. Shirazi</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Krishnamoorthy Sivakumar</name>
+			<papers>28.675</papers>
+		</professor>
+		<professor>
+			<name>Anurag K. Srivastava</name>
+			<papers>5.42619047619</papers>
+		</professor>
+		<professor>
+			<name>Matthew E. Taylor</name>
+			<papers>45.2212121212</papers>
+		</professor>
+		<professor>
+			<name>Predrag Tosic</name>
+			<papers>27.7261904762</papers>
+		</professor>
+		<professor>
+			<name>Mani Venkatasubramanian</name>
+			<papers>3.0</papers>
+		</professor>
+		<professor>
+			<name>KC Wang</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Yinghui Wu</name>
+			<papers>15.4</papers>
+		</professor>
+		<professor>
+			<name>Bolong Zeng</name>
+			<papers>5.0</papers>
+		</professor>
+	</institution>

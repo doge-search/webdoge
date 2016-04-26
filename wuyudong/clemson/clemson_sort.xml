@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Amy Apon</name>
+			<papers>30.3833333333</papers>
+		</professor>
+		<professor>
+			<name>Sabarish Babu</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Kelly  Caine</name>
+			<papers>7.61666666667</papers>
+		</professor>
+		<professor>
+			<name>James P. Clements</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Brian C. Dean</name>
+			<papers>23.7</papers>
+		</professor>
+		<professor>
+			<name>David Donar</name>
+			<papers>2.0</papers>
+		</professor>
+		<professor>
+			<name>Andrew T. Duchowski</name>
+			<papers>43.7595238095</papers>
+		</professor>
+		<professor>
+			<name>Rong Ge</name>
+			<papers>61.9166666667</papers>
+		</professor>
+		<professor>
+			<name>Robert M. Geist III</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Wayne Goddard</name>
+			<papers>75.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Sandra M. Hedetniemi</name>
+			<papers>14.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Larry F. Hodges</name>
+			<papers>42.7623015873</papers>
+		</professor>
+		<professor>
+			<name>Donald H. House</name>
+			<papers>28.0611111111</papers>
+		</professor>
+		<professor>
+			<name>Hongxin Hu</name>
+			<papers>33.2928571429</papers>
+		</professor>
+		<professor>
+			<name>Sophie Joerg</name>
+			<papers>10.5666666667</papers>
+		</professor>
+		<professor>
+			<name>Bart Knijnenburg</name>
+			<papers>25.1666666667</papers>
+		</professor>
+		<professor>
+			<name>Eileen Kraemer</name>
+			<papers>31.6332282913</papers>
+		</professor>
+		<professor>
+			<name>Joshua A. Levine</name>
+			<papers>16.3111111111</papers>
+		</professor>
+		<professor>
+			<name>Feng Luo</name>
+			<papers>28.0615440115</papers>
+		</professor>
+		<professor>
+			<name>Brian Malloy</name>
+			<papers>39.6666666667</papers>
+		</professor>
+		<professor>
+			<name>Jim Martin</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>John McGregor</name>
+			<papers>24.25</papers>
+		</professor>
+		<professor>
+			<name>Roy P. Pargas</name>
+			<papers>25.0</papers>
+		</professor>
+		<professor>
+			<name>Sekou Remy</name>
+			<papers>12.75</papers>
+		</professor>
+		<professor>
+			<name>Ilya Safro</name>
+			<papers>22.9166666667</papers>
+		</professor>
+		<professor>
+			<name>Murali Sitaraman</name>
+			<papers>31.5766233766</papers>
+		</professor>
+		<professor>
+			<name>Mark Smotherman</name>
+			<papers>13.25</papers>
+		</professor>
+		<professor>
+			<name>Jacob Sorber</name>
+			<papers>15.8416666667</papers>
+		</professor>
+		<professor>
+			<name>Pradip Srimani</name>
+			<papers>85.894047619</papers>
+		</professor>
+		<professor>
+			<name>Jerry Tessendorf</name>
+			<papers>3.45833333333</papers>
+		</professor>
+		<professor>
+			<name>James Wang</name>
+			<papers>1.37179487179</papers>
+		</professor>
+		<professor>
+			<name>J. Mike Westall</name>
+			<papers>-1</papers>
+		</professor>
+	</institution>

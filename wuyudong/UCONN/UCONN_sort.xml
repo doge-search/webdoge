@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Sahar Al Seesi</name>
+			<papers>5.08333333333</papers>
+		</professor>
+		<professor>
+			<name>Abdelfattah Amamra</name>
+			<papers>4.0</papers>
+		</professor>
+		<professor>
+			<name>Reda A. Ammar</name>
+			<papers>76.3666666667</papers>
+		</professor>
+		<professor>
+			<name>Mukul Bansal</name>
+			<papers>25.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Keith Barker</name>
+			<papers>7.03333333333</papers>
+		</professor>
+		<professor>
+			<name>Jinbo Bi</name>
+			<papers>34.5666666667</papers>
+		</professor>
+		<professor>
+			<name>Jun-Hong Cui</name>
+			<papers>49.3761904762</papers>
+		</professor>
+		<professor>
+			<name>Steven Demurjian</name>
+			<papers>44.5333333333</papers>
+		</professor>
+		<professor>
+			<name>Sridhar Duggirala</name>
+			<papers>13.0</papers>
+		</professor>
+		<professor>
+			<name>Padraic Edgington</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Gerald Engel</name>
+			<papers>14.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Terry Glagowski</name>
+			<papers>2.5</papers>
+		</professor>
+		<professor>
+			<name>Swapna Gokhale</name>
+			<papers>79.719047619</papers>
+		</professor>
+		<professor>
+			<name>Song Han</name>
+			<papers>90.4761904762</papers>
+		</professor>
+		<professor>
+			<name>Chun-Hsi Huang</name>
+			<papers>25.95</papers>
+		</professor>
+		<professor>
+			<name>Mohammad Khan</name>
+			<papers>2.25</papers>
+		</professor>
+		<professor>
+			<name>Aggelos Kiayias</name>
+			<papers>114.158333333</papers>
+		</professor>
+		<professor>
+			<name>Lester Lipsky</name>
+			<papers>34.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Ion Mandoiu</name>
+			<papers>56.2833333333</papers>
+		</professor>
+		<professor>
+			<name>Robert McCartney</name>
+			<papers>46.7127344877</papers>
+		</professor>
+		<professor>
+			<name>Jeff Meunier</name>
+			<papers>1.5</papers>
+		</professor>
+		<professor>
+			<name>Laurent Michel</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Sheida Nabavi</name>
+			<papers>5.0</papers>
+		</professor>
+		<professor>
+			<name>Thomas Peters</name>
+			<papers>12.0333333333</papers>
+		</professor>
+		<professor>
+			<name>Sanguthevar Rajasekaran</name>
+			<papers>159.420970696</papers>
+		</professor>
+		<professor>
+			<name>Jack Roulier</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Alexander Russell</name>
+			<papers>76.4023809524</papers>
+		</professor>
+		<professor>
+			<name>Don Sheehy</name>
+			<papers>4.0</papers>
+		</professor>
+		<professor>
+			<name>Zhijie Jerry Shi</name>
+			<papers>20.3416666667</papers>
+		</professor>
+		<professor>
+			<name>Dong-Guk Shin</name>
+			<papers>27.0178571429</papers>
+		</professor>
+		<professor>
+			<name>Alexander Schwarzmann</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>T. C. Ting</name>
+			<papers>23.4595238095</papers>
+		</professor>
+		<professor>
+			<name>Bing Wang</name>
+			<papers>150.213492063</papers>
+		</professor>
+		<professor>
+			<name>Fei Wang</name>
+			<papers>178.183333333</papers>
+		</professor>
+		<professor>
+			<name>Yufeng Wu</name>
+			<papers>27.05</papers>
+		</professor>
+	</institution>
