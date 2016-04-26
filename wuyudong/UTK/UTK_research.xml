@@ -2,85 +2,85 @@
 	<institution>
 		<research>
 			<groupname>Biological Applications</groupname>
-      <professorname>Michael Berry</professorname>
-      <professorname>Judy Day</professorname>
-      <professorname>Jeremy Holleman</professorname>
-      <professorname>Syed Islam</professorname>
-      <professorname>Michael Langston</professorname>
-      <professorname>Nicole McFarlane</professorname>
-      <professorname>Gregory Peterson</professorname>
-      <professorname>Michael Vose</professorname>
-      <professorname>Jayne Wu</professorname>
+			<professorname>Michael Berry</professorname>
+			<professorname>Judy Day</professorname>
+			<professorname>Jeremy Holleman</professorname>
+			<professorname>Syed Islam</professorname>
+			<professorname>Michael Langston</professorname>
+			<professorname>Nicole McFarlane</professorname>
+			<professorname>Gregory Peterson</professorname>
+			<professorname>Michael Vose</professorname>
+			<professorname>Jayne Wu</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Computer Systems and Architecture</groupname>
-      <professorname>Micah Beck</professorname>
-      <professorname>Gregory Peterson</professorname>
-      <professorname>James Plank</professorname>
-      <professorname>Brad Vander Zanden</professorname>
+			<professorname>Micah Beck</professorname>
+			<professorname>Gregory Peterson</professorname>
+			<professorname>James Plank</professorname>
+			<professorname>Brad Vander Zanden</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>High Performance and Scientific Computing</groupname>
-      <professorname>Michael Berry</professorname>
-      <professorname>Jack Dongarra</professorname>
-      <professorname>Jens Gregor</professorname>
-      <professorname>Jian Huang</professorname>
-      <professorname>Michael Langston</professorname>
-      <professorname>Michael Vose</professorname>
+			<professorname>Michael Berry</professorname>
+			<professorname>Jack Dongarra</professorname>
+			<professorname>Jens Gregor</professorname>
+			<professorname>Jian Huang</professorname>
+			<professorname>Michael Langston</professorname>
+			<professorname>Michael Vose</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Intelligent Systems, Data Mining, and Machine Learning</groupname>
-      <professorname>Mongi Abidi</professorname>
-      <professorname>Itamar Arel</professorname>
-      <professorname>Michael Berry</professorname>
-      <professorname>Jens Gregor</professorname>
-      <professorname>Bruce MacLennan</professorname>
-      <professorname>Lynne Parker</professorname>
-      <professorname>Hairong Qi</professorname>
-      <professorname>Michael Vose</professorname>
+			<professorname>Mongi Abidi</professorname>
+			<professorname>Itamar Arel</professorname>
+			<professorname>Michael Berry</professorname>
+			<professorname>Jens Gregor</professorname>
+			<professorname>Bruce MacLennan</professorname>
+			<professorname>Lynne Parker</professorname>
+			<professorname>Hairong Qi</professorname>
+			<professorname>Michael Vose</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Microelectronics, Microwave, and MEMS</groupname>
-      <professorname>Benjamin Blalock</professorname>
-      <professorname>Aly Fathy</professorname>
-      <professorname>Gong Gu</professorname>
-      <professorname>Jeremy Holleman</professorname>
-      <professorname>Syed Islam</professorname>
-      <professorname>Nicole McFarlane</professorname>
-      <professorname>Jayne Wu</professorname>
+			<professorname>Benjamin Blalock</professorname>
+			<professorname>Aly Fathy</professorname>
+			<professorname>Gong Gu</professorname>
+			<professorname>Jeremy Holleman</professorname>
+			<professorname>Syed Islam</professorname>
+			<professorname>Nicole McFarlane</professorname>
+			<professorname>Jayne Wu</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Networked and Embedded Systems</groupname>
-      <professorname>Micah Beck</professorname>
-      <professorname>Qing "Charles" Cao</professorname>
-      <professorname>Seddik Djouadi</professorname>
-      <professorname>Husheng Li</professorname>
-      <professorname>Lynne Parker</professorname>
-      <professorname>Hairong Qi</professorname>
-      <professorname>Jinyuan "Stella" Sun</professorname>
+			<professorname>Micah Beck</professorname>
+			<professorname>Qing "Charles" Cao</professorname>
+			<professorname>Seddik Djouadi</professorname>
+			<professorname>Husheng Li</professorname>
+			<professorname>Lynne Parker</professorname>
+			<professorname>Hairong Qi</professorname>
+			<professorname>Jinyuan "Stella" Sun</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Power Systems, Power Electronics, and Renewable Energy</groupname>
-      <professorname>Fangxing "Fran" Li</professorname>
-      <professorname>Yilu Liu</professorname>
-      <professorname>Leon Tolbert</professorname>
-      <professorname>Kevin Tomsovic</professorname>
-      <professorname>Fei "Fred" Wang</professorname>
+			<professorname>Fangxing "Fran" Li</professorname>
+			<professorname>Yilu Liu</professorname>
+			<professorname>Leon Tolbert</professorname>
+			<professorname>Kevin Tomsovic</professorname>
+			<professorname>Fei "Fred" Wang</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Signal Processing, Systems, and Controls</groupname>
-      <professorname>Seddik Djouadi</professorname>
-      <professorname>Paul Crilly</professorname>
-      <professorname>Husheng Li</professorname>
+			<professorname>Seddik Djouadi</professorname>
+			<professorname>Paul Crilly</professorname>
+			<professorname>Husheng Li</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Visual Computing and Image Processing</groupname>
-      <professorname>Mongi Abidi</professorname>
-      <professorname>Itamar Arel</professorname>
-      <professorname>Jens Gregor</professorname>
-      <professorname>Jian Huang</professorname>
-      <professorname>Hairong Qi</professorname>
-      <professorname>Brad Vander Zanden</professorname>
-      <professorname>Michael Vose</professorname>
+			<professorname>Mongi Abidi</professorname>
+			<professorname>Itamar Arel</professorname>
+			<professorname>Jens Gregor</professorname>
+			<professorname>Jian Huang</professorname>
+			<professorname>Hairong Qi</professorname>
+			<professorname>Brad Vander Zanden</professorname>
+			<professorname>Michael Vose</professorname>
 		</research>
 	</institution>

@@ -4,18 +4,18 @@
 			<groupname>High Assurance Software</groupname>
 			<professorname>John Hatcliff</professorname>
 			<professorname>Torben Amtoft</professorname>
-      <professorname>Robby</professorname>
-      <professorname>Venkatesh-Prasad Ranganath</professorname>
+			<professorname>Robby</professorname>
+			<professorname>Venkatesh-Prasad Ranganath</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Cybersecurity</groupname>
 			<professorname>Eugene Vasserman</professorname>
 			<professorname>Robby</professorname>
-      <professorname>John Hatcliff</professorname>
+			<professorname>John Hatcliff</professorname>
 			<professorname>Torben Amtoft</professorname>
-      <professorname>Scott A. Deloach</professorname>
+			<professorname>Scott A. Deloach</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Machine Learning and Data Mining</groupname>
 			<professorname>Doina Caragea</professorname>
 			<professorname>Bill Hsu</professorname>

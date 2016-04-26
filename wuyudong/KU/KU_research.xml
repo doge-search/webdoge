@@ -4,162 +4,162 @@
 			<groupname>Applied Electromagnetics</groupname>
 			<professorname>Christopher Allen</professorname>
 			<professorname>Rongqing Hui</professorname>
-      <professorname>Kenneth Demarest</professorname>
+			<professorname>Kenneth Demarest</professorname>
 			<professorname>James Stiles</professorname>
-      <professorname>Sarah Seguin</professorname>
+			<professorname>Sarah Seguin</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Communications Systems</groupname>
 			<professorname>Shannon Blunt</professorname>
 			<professorname>Joseph Evans</professorname>
-      <professorname>Victor Frost</professorname>
+			<professorname>Victor Frost</professorname>
 			<professorname>Rongqing Hui</professorname>
-      <professorname>Lingjia Liu</professorname>
+			<professorname>Lingjia Liu</professorname>
 			<professorname>Erik Perrins</professorname>
-      <professorname>Glenn Prescott</professorname>
+			<professorname>Glenn Prescott</professorname>
 			<professorname>James Sterbenz</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Computational Science and Engineering</groupname>
 			<professorname>Suzanne Shontz</professorname>
 			<professorname>Arvin Agah	</professorname>
-      <professorname>Jerzy Grzymala-Busse	</professorname>
+			<professorname>Jerzy Grzymala-Busse	</professorname>
 			<professorname>Jun (Luke) Huan</professorname>
-      <professorname>Nancy Kinnersley</professorname>
+			<professorname>Nancy Kinnersley</professorname>
 			<professorname>Man Kong	</professorname>
-      <professorname>Bo Luo</professorname>
+			<professorname>Bo Luo</professorname>
 			<professorname>James Miller	</professorname>
-      <professorname>Jeffrey S. Vitter</professorname>
+			<professorname>Jeffrey S. Vitter</professorname>
 			<professorname>Guanghui Wang</professorname>
-      <professorname>James Rowland</professorname>
+			<professorname>James Rowland</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Computer Systems Design</groupname>
 			<professorname>Perry Alexander</professorname>
 			<professorname>Xin Fu</professorname>
-      <professorname>Andy Gill</professorname>
+			<professorname>Andy Gill</professorname>
 			<professorname>Prasad Kulkarni</professorname>
-      <professorname>Gary Minden</professorname>
+			<professorname>Gary Minden</professorname>
 			<professorname>Heechul Yun</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Computing in the Biosciences</groupname>
 			<professorname>Jerzy Grzymala-Busse</professorname>
 			<professorname>Jun (Luke) Huan</professorname>
-      <professorname>James Miller</professorname>
+			<professorname>James Miller</professorname>
 			<professorname>Arvin Agah</professorname>
-      <professorname>Suzanne Shontz</professorname>
+			<professorname>Suzanne Shontz</professorname>
 			<professorname>Guanghui Wang</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Data Science and Engineering</groupname>
 			<professorname>Jerzy Grzymala-Busse</professorname>
 			<professorname>Arvin Agah</professorname>
-      <professorname>Jun (Luke) Huan</professorname>
-      <professorname>Nancy Kinnersley</professorname>
-      <professorname>Man Kong</professorname>
-      <professorname>Bo Luo</professorname>
-      <professorname>James Miller</professorname>
-      <professorname>Suzanne Shontz</professorname>
-      <professorname>Guanghui Wang</professorname>
+			<professorname>Jun (Luke) Huan</professorname>
+			<professorname>Nancy Kinnersley</professorname>
+			<professorname>Man Kong</professorname>
+			<professorname>Bo Luo</professorname>
+			<professorname>James Miller</professorname>
+			<professorname>Suzanne Shontz</professorname>
+			<professorname>Guanghui Wang</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Information Assurance and Management</groupname>
 			<professorname>Perry Alexander</professorname>
-      <professorname>Fengjun Li</professorname>
-      <professorname>Bo Luo</professorname>
-      <professorname>Hossein Saiedian</professorname>
+			<professorname>Fengjun Li</professorname>
+			<professorname>Bo Luo</professorname>
+			<professorname>Hossein Saiedian</professorname>
 			<professorname>James Sterbenz</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Internet Engineering and Management</groupname>
 			<professorname>James Sterbenz</professorname>
-      <professorname>Bo Luo</professorname>
+			<professorname>Bo Luo</professorname>
 			<professorname>Fengjun Li</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Languages and Semantics</groupname>
 			<professorname>Perry Alexander</professorname>
 			<professorname>Jerzy Grzymala-Busse</professorname>
-      <professorname>Andy Gill</professorname>
+			<professorname>Andy Gill</professorname>
 			<professorname>Nancy Kinnersley</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Network Engineering</groupname>
 			<professorname>Joseph Evans</professorname>
-      <professorname>Victor Frost</professorname>
+			<professorname>Victor Frost</professorname>
 			<professorname>Lingjia Liu</professorname>
-      <professorname>Gary Minden</professorname>
+			<professorname>Gary Minden</professorname>
 			<professorname>James Sterbenz</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Network Systems</groupname>
 			<professorname>Gary Minden</professorname>
 			<professorname>Victor Frost</professorname>
-      <professorname>Joseph Evans</professorname>
+			<professorname>Joseph Evans</professorname>
 			<professorname>James Sterbenz</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Radar Systems and Remote Sensing</groupname>
 			<professorname>Christopher Allen</professorname>
-      <professorname>Shannon Blunt</professorname>
+			<professorname>Shannon Blunt</professorname>
 			<professorname>Kenneth Demarest</professorname>
-      <professorname>Rongqing Hui</professorname>
+			<professorname>Rongqing Hui</professorname>
 			<professorname>Carlton Leuschen</professorname>
-      <professorname>Glenn Prescott</professorname>
+			<professorname>Glenn Prescott</professorname>
 			<professorname>Sarah Seguin</professorname>
-      <professorname>James Stiles</professorname>
+			<professorname>James Stiles</professorname>
 			<professorname>Guanghui Wang</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>RF Systems Engineering</groupname>
 			<professorname>Sarah Seguin</professorname>
-      <professorname>Christopher Allen</professorname>
+			<professorname>Christopher Allen</professorname>
 			<professorname>Victor Frost</professorname>
-      <professorname>Lingjia Liu</professorname>
+			<professorname>Lingjia Liu</professorname>
 			<professorname>Erik Perrins</professorname>
-      <professorname>Shannon Blunt</professorname>
+			<professorname>Shannon Blunt</professorname>
 			<professorname>David Petr</professorname>
-      <professorname>James Stiles</professorname>
+			<professorname>James Stiles</professorname>
 			<professorname>Glenn Prescott</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Security and Assurance</groupname>
 			<professorname>Perry Alexander</professorname>
 			<professorname>Jerzy Grzymala-Busse</professorname>
-      <professorname>Joseph Evans</professorname>
+			<professorname>Joseph Evans</professorname>
 			<professorname>Xin Fu</professorname>
-      <professorname>Andy Gill</professorname>
+			<professorname>Andy Gill</professorname>
 			<professorname>Fengjun Li</professorname>
-      <professorname>Bo Luo</professorname>
+			<professorname>Bo Luo</professorname>
 			<professorname>Gary Minden</professorname>
-      <professorname>Hossein Saiedian</professorname>
+			<professorname>Hossein Saiedian</professorname>
 			<professorname>James Sterbenz</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Signal Processing</groupname>
 			<professorname>Shannon Blunt</professorname>
 			<professorname>Rongqing Hui</professorname>
-      <professorname>Carlton Leuschen</professorname>
+			<professorname>Carlton Leuschen</professorname>
 			<professorname>Lingjia Liu</professorname>
-      <professorname>Erik Perrins</professorname>
+			<professorname>Erik Perrins</professorname>
 			<professorname>David Petr</professorname>
-      <professorname>Glenn Prescott</professorname>
+			<professorname>Glenn Prescott</professorname>
 			<professorname>James Stiles</professorname>
-      <professorname>Suzanne Shontz</professorname>
+			<professorname>Suzanne Shontz</professorname>
 			<professorname>Guanghui Wang</professorname>
 		</research>
-    research>
+		research>
 			<groupname>Software Engineering and Management</groupname>
 			<professorname>Hossein Saiedian</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Theory of Computing</groupname>
 			<professorname>Perry Alexander</professorname>
 			<professorname>Jerzy Grzymala-Busse</professorname>
-      <professorname>Andy Gill</professorname>
+			<professorname>Andy Gill</professorname>
 			<professorname>Nancy Kinnersley</professorname>
-      <professorname>Man Kong</professorname>
-      <professorname>Suzanne Shontz</professorname>
+			<professorname>Man Kong</professorname>
+			<professorname>Suzanne Shontz</professorname>
 		</research>
 	</institution>

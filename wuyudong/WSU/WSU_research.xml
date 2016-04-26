@@ -3,44 +3,44 @@
 		<research>
 			<groupname>Power Engineering</groupname>
 			<professorname>David Bakken</professorname>
-      <professorname>Anjan Bose</professorname>
-      <professorname>Carl Hauser</professorname>
-      <professorname>Chen-Ching Liu</professorname>
-      <professorname>Ali Mehrizi-Sani</professorname>
-      <professorname>Robert Olsen</professorname>
-      <professorname>Patrick Pedrow</professorname>
-      <professorname>Anurag Srivastava</professorname>
-      <professorname>Mani Venkatasubramanian</professorname>
-      <professorname>Saeed Lotfifard</professorname>
+			<professorname>Anjan Bose</professorname>
+			<professorname>Carl Hauser</professorname>
+			<professorname>Chen-Ching Liu</professorname>
+			<professorname>Ali Mehrizi-Sani</professorname>
+			<professorname>Robert Olsen</professorname>
+			<professorname>Patrick Pedrow</professorname>
+			<professorname>Anurag Srivastava</professorname>
+			<professorname>Mani Venkatasubramanian</professorname>
+			<professorname>Saeed Lotfifard</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Data Science</groupname>
 			<professorname>Assefaw Gebremedhin</professorname>
-      <professorname>Ananth Kalyanaraman</professorname>
-      <professorname>Yinghui Wu</professorname>
+			<professorname>Ananth Kalyanaraman</professorname>
+			<professorname>Yinghui Wu</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Smart Environments</groupname>
 			<professorname>Diane Cook</professorname>
-      <professorname>Larry Holder</professorname>
-      <professorname>Jana Doppa</professorname>
-      <professorname>Behrooz Shirazi</professorname>
-      <professorname>Matthew E. Taylor</professorname>
-      <professorname>Hassan Ghasemzadeh</professorname>
-      <professorname>Assefaw Gebremedhin</professorname>
-      <professorname>Yinghui Wu</professorname>
+			<professorname>Larry Holder</professorname>
+			<professorname>Jana Doppa</professorname>
+			<professorname>Behrooz Shirazi</professorname>
+			<professorname>Matthew E. Taylor</professorname>
+			<professorname>Hassan Ghasemzadeh</professorname>
+			<professorname>Assefaw Gebremedhin</professorname>
+			<professorname>Yinghui Wu</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Bioinformatics</groupname>
-      <professorname>Shira Broschat</professorname>
+			<professorname>Shira Broschat</professorname>
 			<professorname>Jose Delgado-Frias</professorname>
-      <professorname>Deuk Heo</professorname>
-      <professorname>Ananth Kalyanaraman</professorname>
-      <professorname>George LaRue</professorname>
-      <professorname>John Miller</professorname>
-      <professorname>Partha Pande</professorname>
+			<professorname>Deuk Heo</professorname>
+			<professorname>Ananth Kalyanaraman</professorname>
+			<professorname>George LaRue</professorname>
+			<professorname>John Miller</professorname>
+			<professorname>Partha Pande</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Microelectronics</groupname>
 			<professorname>Jose Delgado-Frias</professorname>
 			<professorname>Subhanshu Gupta</professorname>
@@ -48,13 +48,13 @@
 			<professorname>Partha Pande</professorname>
 			<professorname>Dae Hyun Kim</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Distributed Systems</groupname>
 			<professorname>David Bakken</professorname>
 			<professorname>Carl Hauser</professorname>
 			<professorname>Min Sik Kim</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Systems Engineering</groupname>
 			<professorname>Ben Belzer</professorname>
 			<professorname>Thomas Fischer</professorname>

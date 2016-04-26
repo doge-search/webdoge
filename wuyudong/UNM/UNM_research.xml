@@ -4,23 +4,23 @@
 			<groupname>Scalable Distributed Systems</groupname>
 			<professorname>Patrick Bridges</professorname>
 			<professorname>Dorian Arnold</professorname>
-      <professorname>Dave Ackley</professorname>
-      <professorname>Lance Williams</professorname>
-      <professorname>Melanie Moses</professorname>
-      <professorname>Stephanie Forrest</professorname>
-      <professorname>Trilce Estrada</professorname>
+			<professorname>Dave Ackley</professorname>
+			<professorname>Lance Williams</professorname>
+			<professorname>Melanie Moses</professorname>
+			<professorname>Stephanie Forrest</professorname>
+			<professorname>Trilce Estrada</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Fault Tolerance and Robustness</groupname>
 			<professorname>David Ackley</professorname>
 			<professorname>Lance Williams</professorname>
-      <professorname>Jared Sala </professorname>
-      <professorname>Dorian Arnold</professorname>
+			<professorname>Jared Sala </professorname>
+			<professorname>Dorian Arnold</professorname>
 		</research>
-    <research>
+		<research>
 			<groupname>Big Data and Big Computations</groupname>
 			<professorname>Trilce Estrada</professorname>
 			<professorname>Abdullah Mueen</professorname>
-      <professorname>Lydia Tapia </professorname>
+			<professorname>Lydia Tapia </professorname>
 		</research>
 	</institution>
