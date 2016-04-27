@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Cyber-Physical Systems & Sensing</groupname>
+			<professorname>Kunal Agrawal</professorname>
+			<professorname>Shantanu Chakrabartty</professorname>
+			<professorname>Ron Cytron</professorname>
+			<professorname>Christopher Gill</professorname>
+			<professorname>Viktor Gruev</professorname>
+			<professorname>Roch Guérin</professorname>
+			<professorname>Raj Jain</professorname>
+			<professorname>Chenyang Lu</professorname>
+		</research>
+		<research>
+			<groupname>Human-Computer Interaction</groupname>
+			<professorname>Yasutaka Furukawa</professorname>
+			<professorname>Caitlin Kelleher</professorname>
+			<professorname>Robert Pless</professorname>
+		</research>
+		<research>
+			<groupname>Graphics & Vision</groupname>
+			<professorname>Yasutaka Furukawa</professorname>
+			<professorname>Tao Ju</professorname>
+			<professorname>Robert Pless</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning & Artificial Intelligence</groupname>
+			<professorname>Yixin Chen</professorname>
+			<professorname>Sanmay Das</professorname>
+			<professorname>Yasutaka Furukawa</professorname>
+			<professorname>Roman Garnett</professorname>
+			<professorname>Brendan Juba</professorname>
+			<professorname>Benjamin Moseley</professorname>
+			<professorname>Robert Pless</professorname>
+			<professorname>Weixiong Zhang</professorname>
+		</research>
+		<research>
+			<groupname>Computational Systems Biology</groupname>
+			<professorname>Michael Brent</professorname>
+			<professorname>Jeremy Buhler</professorname>
+			<professorname>Tao Ju</professorname>
+			<professorname>Weixiong Zhang</professorname>
+		</research>
+		<research>
+			<groupname>Networked Systems</groupname>
+			<professorname>Patrick Crowley</professorname>
+			<professorname>Sanmay Das</professorname>
+			<professorname>Roch Guérin</professorname>
+			<professorname>Raj Jain</professorname>
+			<professorname>Chenyang Lu</professorname>
+		</research>
+		<research>
+			<groupname>Computer Engineering</groupname>
+			<professorname>Kunal Agrawal</professorname>
+			<professorname>Shantanu Chakrabartty</professorname>
+			<professorname>Roger Chamberlain</professorname>
+			<professorname>Patrick Crowley</professorname>
+			<professorname>Viktor Gruev</professorname>
+			<professorname>Angelina Lee</professorname>
+			<professorname>William Richard</professorname>
+		</research>
+		<research>
+			<groupname>Theoretical Computer Science</groupname>
+			<professorname>Kunal Agrawal</professorname>
+			<professorname>Brendan Juba</professorname>
+			<professorname>Benjamin Moseley</professorname>	
+		</research>
+		<research>
+			<groupname>Parallel Computing Technology</groupname>
+			<professorname>Kunal Agrawal</professorname>
+			<professorname>I-Ting Angelina Lee</professorname>
+			<professorname>Benjamin Moseley</professorname>
+		</research>
+	</institution>
