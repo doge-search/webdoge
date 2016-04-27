@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Algorithms and Theory</groupname>
+			<professorname>Wim van Dam</professorname>
+			<professorname>mer  Eeciolu</professorname>
+			<professorname>John Gilbert</professorname>
+			<professorname>Teofilo F. Gonzalez</professorname>
+			<professorname>Huijia (Rachel) Lin</professorname>
+			<professorname>Subhash Suri</professorname>
+			<professorname>Stefano Tessaro</professorname>
+		</research>
+		<research>
+			<groupname>Computational Science and Engineering</groupname>
+			<professorname>Frederic G. Gibou</professorname>
+			<professorname>John Gilbert</professorname>
+			<professorname>Linda Petzold</professorname>
+			<professorname>Xifeng Yan</professorname>
+			<professorname>Tao Yang</professorname>
+		</research>
+		<research>
+			<groupname>Computer Architecture</groupname>
+			<professorname>Fred Chong (on leave)</professorname>
+			<professorname>Diana Franklin (on leave)</professorname>
+			<professorname>Timothy Sherwood</professorname>
+			<professorname>Heather  Zheng</professorname>
+		</research>
+		<research>
+			<groupname>Computer Science Education and Diversity</groupname>
+			<professorname>Phillip Conrad</professorname>
+			<professorname>Diana Franklin (on leave)</professorname>
+		</research>
+		<research>
+			<groupname>Database and Information Systems</groupname>
+			<professorname>Divyakant Agrawal</professorname>
+			<professorname>Amr  El Abbadi</professorname>
+			<professorname>Ambuj K.  Singh</professorname>
+			<professorname>Jianwen Su</professorname>
+			<professorname>Xifeng Yan</professorname>
+			<professorname>Tao Yang</professorname>
+			<professorname>Ben Y. Zhao</professorname>
+		</research>
+		<research>
+			<groupname>Human Centered and Social Computing</groupname>
+			<professorname>Tobias H枚llerer</professorname>
+			<professorname>Linda Petzold</professorname>
+			<professorname>Ambuj K.  Singh</professorname>
+			<professorname>Xifeng Yan</professorname>
+			<professorname>Ben Y. Zhao</professorname>
+			<professorname>Heather  Zheng</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning and Data Mining</groupname>
+			<professorname>Tobias H枚llerer</professorname>
+			<professorname>Linda Petzold</professorname>
+			<professorname>Ambuj K.  Singh</professorname>
+			<professorname>Matthew Turk</professorname>
+			<professorname>Xifeng Yan</professorname>
+			<professorname>Ben Y. Zhao</professorname>
+		</research>
+		<research>
+			<groupname>Networking</groupname>
+			<professorname>Kevin C. Almeroth</professorname>
+			<professorname>Elizabeth M. Belding</professorname>
+			<professorname>Chandra Krintz</professorname>
+			<professorname>Subhash Suri</professorname>
+			<professorname>Ben Y. Zhao</professorname>
+			<professorname>Heather  Zheng</professorname>
+		</research>
+		<research>
+			<groupname>Operating Systems and Distributed Systems</groupname>
+			<professorname>Divyakant Agrawal</professorname>
+			<professorname>Peter Cappello</professorname>
+			<professorname>Amr  El Abbadi</professorname>
+			<professorname>Chandra Krintz</professorname>
+			<professorname>Ambuj K.  Singh</professorname>
+			<professorname>Rich Wolski</professorname>
+			<professorname>Tao Yang</professorname>
+			<professorname>Ben Y. Zhao</professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages and Software Engineering</groupname>
+			<professorname>Tevfik Bultan</professorname>
+			<professorname>Ben Hardekopf</professorname>
+			<professorname>Richard A.  Kemmerer</professorname>
+			<professorname>Chandra Krintz</professorname>
+			<professorname>Jianwen Su</professorname>
+		</research>
+		<research>
+			<groupname>Security and Cryptography</groupname>
+			<professorname>Tevfik Bultan</professorname>
+			<professorname>Fred Chong (on leave)</professorname>
+			<professorname>Richard A.  Kemmerer</professorname>
+			<professorname>Christopher Kruegel</professorname>
+			<professorname>Huijia (Rachel) Lin</professorname>
+			<professorname>Timothy Sherwood</professorname>
+			<professorname>Stefano Tessaro</professorname>
+			<professorname>Giovanni Vigna</professorname>
+			<professorname>Ben Y. Zhao</professorname>
+		</research>
+		<research>
+			<groupname>Visual Computing and Interaction</groupname>
+			<professorname>Tobias Hollerer</professorname>
+			<professorname>Matthew Turk</professorname>
+			<professorname>Yuan-Fang Wang</professorname>
+		</research>
+	</institution>

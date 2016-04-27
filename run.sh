@@ -10,4 +10,5 @@
 #python crawl_dblp.py > output4.txt
 
 cd ./hehao
-python crawl_dblp.py > output2.txt
+python crawl_dblp.py > output3.txt
+
