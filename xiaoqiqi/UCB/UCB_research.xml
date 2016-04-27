@@ -29,7 +29,7 @@
 			<professorname>Avideh Zakhor</professorname>
 		</research>
 		<research>
-			<groupname>Biosystems & Computational Biology (BIO)</groupname>
+			<groupname>Biosystems &amp; Computational Biology (BIO)</groupname>
 			<professorname>Jose M. Carmena</professorname>
 			<professorname>Robert Full</professorname>
 			<professorname>Edwin R. Lewis</professorname>
@@ -65,7 +65,7 @@
 			<professorname>Katherine A. Yelick</professorname>
 		</research>
 		<research>
-			<groupname>Communications & Networking (COMNET)</groupname>
+			<groupname>Communications &amp; Networking (COMNET)</groupname>
 			<professorname>Venkat Anantharam</professorname>
 			<professorname>Thomas Courtade</professorname>
 			<professorname>Michael Lustig</professorname>
@@ -90,7 +90,7 @@
 			<professorname>Eugene Wong</professorname>
 		</research>
 		<research>
-			<groupname>Computer Architecture & Engineering (ARC)</groupname>
+			<groupname>Computer Architecture &amp; Engineering (ARC)</groupname>
 			<professorname>Krste Asanovi</professorname>
 			<professorname>David A. Patterson</professorname>
 			<professorname>Jonathan Bachrach</professorname>
@@ -296,7 +296,7 @@
 			<professorname>Richard M. White</professorname>
 		</research>
 		<research>
-			<groupname>Operating Systems & Networking (OSNT)</groupname>
+			<groupname>Operating Systems &amp; Networking (OSNT)</groupname>
 			<professorname>Eric Brewer</professorname>
 			<professorname>Michael Franklin</professorname>
 			<professorname>Ali Ghodsi</professorname>
