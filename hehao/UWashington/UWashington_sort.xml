@@ -1,0 +1,267 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Richard Anderson</name>
+			<papers>44.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Ruth E. Anderson</name>
+			<papers>11.9428571429</papers>
+		</professor>
+		<professor>
+			<name>Tom Anderson</name>
+			<papers>18.5</papers>
+		</professor>
+		<professor>
+			<name>Jean-Loup Baer</name>
+			<papers>49.6666666667</papers>
+		</professor>
+		<professor>
+			<name>Magdalena Balazinska</name>
+			<papers>50.6801587302</papers>
+		</professor>
+		<professor>
+			<name>Paul Beame</name>
+			<papers>114.5</papers>
+		</professor>
+		<professor>
+			<name>Adam Blank</name>
+			<papers>0.25</papers>
+		</professor>
+		<professor>
+			<name>Rastislav Bodik</name>
+			<papers>40.25</papers>
+		</professor>
+		<professor>
+			<name>Alan Borning</name>
+			<papers>55.75</papers>
+		</professor>
+		<professor>
+			<name>Maya Cakmak</name>
+			<papers>22.7</papers>
+		</professor>
+		<professor>
+			<name>Luis Ceze</name>
+			<papers>31.4106893107</papers>
+		</professor>
+		<professor>
+			<name>Alvin Cheung</name>
+			<papers>20.9166666667</papers>
+		</professor>
+		<professor>
+			<name>Yejin Choi</name>
+			<papers>18.7</papers>
+		</professor>
+		<professor>
+			<name>Brian Curless</name>
+			<papers>29.1857142857</papers>
+		</professor>
+		<professor>
+			<name>Pedro Domingos</name>
+			<papers>103.533333333</papers>
+		</professor>
+		<professor>
+			<name>Susan Eggers</name>
+			<papers>32.5273809524</papers>
+		</professor>
+		<professor>
+			<name>Michael Ernst</name>
+			<papers>2.14679487179</papers>
+		</professor>
+		<professor>
+			<name>Oren Etzioni</name>
+			<papers>78.1095238095</papers>
+		</professor>
+		<professor>
+			<name>Ali Farhadi</name>
+			<papers>26.8428571429</papers>
+		</professor>
+		<professor>
+			<name>James Fogarty</name>
+			<papers>31.819047619</papers>
+		</professor>
+		<professor>
+			<name>Dieter Fox</name>
+			<papers>76.3182539683</papers>
+		</professor>
+		<professor>
+			<name>Zorah Fung</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Shyam Gollakota</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Dan Grossman</name>
+			<papers>26.4023809524</papers>
+		</professor>
+		<professor>
+			<name>Bruce Hemingway</name>
+			<papers>1.83333333333</papers>
+		</professor>
+		<professor>
+			<name>Sham Kakade</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Anna Karlin</name>
+			<papers>1.2</papers>
+		</professor>
+		<professor>
+			<name>Ted Kehl</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Ira Kemelmacher-Shlizerman</name>
+			<papers>13.1666666667</papers>
+		</professor>
+		<professor>
+			<name>Tadayoshi Kohno</name>
+			<papers>45.5773809524</papers>
+		</professor>
+		<professor>
+			<name>Arvind Krishnamurthy</name>
+			<papers>39.5051587302</papers>
+		</professor>
+		<professor>
+			<name>Richard E. Ladner</name>
+			<papers>99.619047619</papers>
+		</professor>
+		<professor>
+			<name>Ed Lazowska</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>James Lee</name>
+			<papers>10.9166666667</papers>
+		</professor>
+		<professor>
+			<name>Su-In Lee</name>
+			<papers>7.44285714286</papers>
+		</professor>
+		<professor>
+			<name>Sergey Levine</name>
+			<papers>27.3666666667</papers>
+		</professor>
+		<professor>
+			<name>Hank Levy</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Barbara Mones</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Allison Obourn</name>
+			<papers>0.111111111111</papers>
+		</professor>
+		<professor>
+			<name>Mark Oskin</name>
+			<papers>20.7837301587</papers>
+		</professor>
+		<professor>
+			<name>Shayan Oveis Gharan</name>
+			<papers>28.3166666667</papers>
+		</professor>
+		<professor>
+			<name>Shwetak Patel</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Hal Perkins</name>
+			<papers>0.333333333333</papers>
+		</professor>
+		<professor>
+			<name>Zoran Popović</name>
+			<papers>29.3254329004</papers>
+		</professor>
+		<professor>
+			<name>Dan Ports</name>
+			<papers>8.775</papers>
+		</professor>
+		<professor>
+			<name>Anup Rao</name>
+			<papers>34.825</papers>
+		</professor>
+		<professor>
+			<name>Rajesh Rao</name>
+			<papers>0.633333333333</papers>
+		</professor>
+		<professor>
+			<name>Stuart Reges</name>
+			<papers>11.1297619048</papers>
+		</professor>
+		<professor>
+			<name>Katharina Reinecke</name>
+			<papers>20.0595238095</papers>
+		</professor>
+		<professor>
+			<name>Matt Reynolds</name>
+			<papers>4.39285714286</papers>
+		</professor>
+		<professor>
+			<name>Franziska Roesner</name>
+			<papers>11.5317460317</papers>
+		</professor>
+		<professor>
+			<name>Thomas Rothvoss</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Larry Ruzzo</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Georg Seelig</name>
+			<papers>3.95</papers>
+		</professor>
+		<professor>
+			<name>Steven Seitz</name>
+			<papers>51.8857142857</papers>
+		</professor>
+		<professor>
+			<name>Linda Shapiro</name>
+			<papers>76.1968975469</papers>
+		</professor>
+		<professor>
+			<name>Joshua R. Smith</name>
+			<papers>28.2194444444</papers>
+		</professor>
+		<professor>
+			<name>Dan Suciu</name>
+			<papers>128.195899471</papers>
+		</professor>
+		<professor>
+			<name>Steve Tanimoto</name>
+			<papers>1.66666666667</papers>
+		</professor>
+		<professor>
+			<name>Zachary Tatlock</name>
+			<papers>6.53333333333</papers>
+		</professor>
+		<professor>
+			<name>Emanuel Todorov</name>
+			<papers>34.1833333333</papers>
+		</professor>
+		<professor>
+			<name>Martin Tompa</name>
+			<papers>39.1</papers>
+		</professor>
+		<professor>
+			<name>Emina Torlak</name>
+			<papers>13.603968254</papers>
+		</professor>
+		<professor>
+			<name>Daniel S. Weld</name>
+			<papers>79.2611471861</papers>
+		</professor>
+		<professor>
+			<name>John Zahorjan</name>
+			<papers>34.7409090909</papers>
+		</professor>
+		<professor>
+			<name>Luke Zettlemoye</name>
+			<papers>0</papers>
+		</professor>
+	</institution>

@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Clark  Barrett</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Marsha Berger</name>
+			<papers>1.5</papers>
+		</professor>
+		<professor>
+			<name>Richard Bonneau</name>
+			<papers>3.13452380952</papers>
+		</professor>
+		<professor>
+			<name>Richard  Cole</name>
+			<papers>2.0</papers>
+		</professor>
+		<professor>
+			<name>Patrick  Cousot</name>
+			<papers>86.6666666667</papers>
+		</professor>
+		<professor>
+			<name>Ernest Davis</name>
+			<papers>48.6666666667</papers>
+		</professor>
+		<professor>
+			<name>Yevgeniy Dodis</name>
+			<papers>154.166666667</papers>
+		</professor>
+		<professor>
+			<name>Rob Fergus</name>
+			<papers>19.1595238095</papers>
+		</professor>
+		<professor>
+			<name>Davi Geiger</name>
+			<papers>38.2075757576</papers>
+		</professor>
+		<professor>
+			<name>Benjamin Goldberg</name>
+			<papers>32.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Allan Gottlieb</name>
+			<papers>16.5833333333</papers>
+		</professor>
+		<professor>
+			<name>Ralph Grishman</name>
+			<papers>81.1452380952</papers>
+		</professor>
+		<professor>
+			<name>Zvi Kedem</name>
+			<papers>37.6111111111</papers>
+		</professor>
+		<professor>
+			<name>Subhash Khot</name>
+			<papers>97.3666666667</papers>
+		</professor>
+		<professor>
+			<name>Jinyang Li</name>
+			<papers>22.1</papers>
+		</professor>
+		<professor>
+			<name>Bhubaneswar Mishra</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Mehryar Mohri</name>
+			<papers>111.941666667</papers>
+		</professor>
+		<professor>
+			<name>Michael Overton</name>
+			<papers>21.75</papers>
+		</professor>
+		<professor>
+			<name>Daniele Panozzo</name>
+			<papers>25.3095238095</papers>
+		</professor>
+		<professor>
+			<name>Kenneth Perlin</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Theodore Rappaport</name>
+			<papers>51.6262838469</papers>
+		</professor>
+		<professor>
+			<name>Dennis  Shasha</name>
+			<papers>113.281875477</papers>
+		</professor>
+		<professor>
+			<name>Victor  Shoup</name>
+			<papers>58.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Alan  Siegel</name>
+			<papers>14.65</papers>
+		</professor>
+		<professor>
+			<name>Joel Spencer</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Lakshminarayanan Subramanian</name>
+			<papers>33.4236471861</papers>
+		</professor>
+		<professor>
+			<name>Lloyd N. Trefethen</name>
+			<papers>20.75</papers>
+		</professor>
+		<professor>
+			<name>Thomas Wies</name>
+			<papers>20.2833333333</papers>
+		</professor>
+		<professor>
+			<name>Margaret Wright</name>
+			<papers>10.7166666667</papers>
+		</professor>
+		<professor>
+			<name>Chee Yap</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Denis Zori</name>
+			<papers>31.6276334776</papers>
+		</professor>
+	</institution>

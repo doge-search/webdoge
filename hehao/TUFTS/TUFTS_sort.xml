@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Soha Hassoun</name>
+			<papers>30.0242424242</papers>
+		</professor>
+		<professor>
+			<name>Anselm Blumer</name>
+			<papers>12.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Remco Chang</name>
+			<papers>23.6880952381</papers>
+		</professor>
+		<professor>
+			<name>Ming Chow</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Alva Couch</name>
+			<papers>26.0</papers>
+		</professor>
+		<professor>
+			<name>Lenore Cowen</name>
+			<papers>36.6083333333</papers>
+		</professor>
+		<professor>
+			<name>Jan P. de Ruiter</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Fahad Dogar</name>
+			<papers>7.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Kathleen Fisher</name>
+			<papers>38.6</papers>
+		</professor>
+		<professor>
+			<name>Chris Gregg</name>
+			<papers>4.5</papers>
+		</professor>
+		<professor>
+			<name>Samuel Guyer</name>
+			<papers>12.6857142857</papers>
+		</professor>
+		<professor>
+			<name>Benjamin Hescott</name>
+			<papers>1.5</papers>
+		</professor>
+		<professor>
+			<name>Robert J. K. Jacob</name>
+			<papers>48.28495671</papers>
+		</professor>
+		<professor>
+			<name>Roni Khardon</name>
+			<papers>53.8666666667</papers>
+		</professor>
+		<professor>
+			<name>Bruce Molay</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Norman Ramsey</name>
+			<papers>34.6666666667</papers>
+		</professor>
+		<professor>
+			<name>Matthias Scheutz</name>
+			<papers>77.7402777778</papers>
+		</professor>
+		<professor>
+			<name>Mark Sheldon</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Donna Slonim</name>
+			<papers>10.6777777778</papers>
+		</professor>
+		<professor>
+			<name>Diane Souvaine</name>
+			<papers>23.8511766012</papers>
+		</professor>
+		<professor>
+			<name>Shuchin Aeron</name>
+			<papers>28.25</papers>
+		</professor>
+		<professor>
+			<name>Marina Bers</name>
+			<papers>10.5</papers>
+		</professor>
+		<professor>
+			<name>Gregory Crane</name>
+			<papers>38.6166666667</papers>
+		</professor>
+		<professor>
+			<name>Ethan Danahy</name>
+			<papers>2.16666666667</papers>
+		</professor>
+		<professor>
+			<name>Misha Kilmer</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Eric Miller</name>
+			<papers>9.03571428571</papers>
+		</professor>
+		<professor>
+			<name>Karen Panett</name>
+			<papers>0</papers>
+		</professor>
+	</institution>

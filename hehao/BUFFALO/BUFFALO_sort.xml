@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Chunming Qiao</name>
+			<papers>105.096428571</papers>
+		</professor>
+		<professor>
+			<name>Geoffrey Challen</name>
+			<papers>7.26111111111</papers>
+		</professor>
+		<professor>
+			<name>Varun Chandola</name>
+			<papers>23.3666666667</papers>
+		</professor>
+		<professor>
+			<name>Vipin Chaudhary</name>
+			<papers>57.1666666667</papers>
+		</professor>
+		<professor>
+			<name>Chang Wen Chen</name>
+			<papers>122.7</papers>
+		</professor>
+		<professor>
+			<name>Jan Chomicki</name>
+			<papers>84.9166666667</papers>
+		</professor>
+		<professor>
+			<name>Karthik Dantu</name>
+			<papers>14.1833333333</papers>
+		</professor>
+		<professor>
+			<name>Murat Demirbas</name>
+			<papers>50.5444444444</papers>
+		</professor>
+		<professor>
+			<name>Wen Dong</name>
+			<papers>2.0</papers>
+		</professor>
+		<professor>
+			<name>Daniel Fischer</name>
+			<papers>32.25</papers>
+		</professor>
+		<professor>
+			<name>Marco Gaboardi</name>
+			<papers>28.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Jing Gao</name>
+			<papers>101.894047619</papers>
+		</professor>
+		<professor>
+			<name>Venugopal (Venu) Govindaraju</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Xin (Roger) He</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Bharat Jayaraman</name>
+			<papers>51.3666666667</papers>
+		</professor>
+		<professor>
+			<name>Oliver Kennedy</name>
+			<papers>13.1023809524</papers>
+		</professor>
+		<professor>
+			<name>Steven Ko</name>
+			<papers>0.166666666667</papers>
+		</professor>
+		<professor>
+			<name>Tevfik Kosar</name>
+			<papers>27.5761904762</papers>
+		</professor>
+		<professor>
+			<name>Dimitrios Koutsonikolas</name>
+			<papers>33.75</papers>
+		</professor>
+		<professor>
+			<name>Shi Li</name>
+			<papers>30.5666666667</papers>
+		</professor>
+		<professor>
+			<name>Russ Miller</name>
+			<papers>33.9336158192</papers>
+		</professor>
+		<professor>
+			<name>Aziz Mohaisen</name>
+			<papers>22.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Nils Napp</name>
+			<papers>13.5</papers>
+		</professor>
+		<professor>
+			<name>Hung Ngo</name>
+			<papers>0.75</papers>
+		</professor>
+		<professor>
+			<name>Kenneth W. Regan</name>
+			<papers>40.2</papers>
+		</professor>
+		<professor>
+			<name>Kui Ren</name>
+			<papers>83.3301587302</papers>
+		</professor>
+		<professor>
+			<name>Atri Rudra</name>
+			<papers>51.0535714286</papers>
+		</professor>
+		<professor>
+			<name>Ramalingam Sridhar</name>
+			<papers>24.0</papers>
+		</professor>
+		<professor>
+			<name>Rohini K. Srihari</name>
+			<papers>52.75</papers>
+		</professor>
+		<professor>
+			<name>Sargur (Hari) N. Srihari</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Lu Su</name>
+			<papers>18.9044011544</papers>
+		</professor>
+		<professor>
+			<name>Satish Tripathi</name>
+			<papers>67.0166666667</papers>
+		</professor>
+		<professor>
+			<name>Shambhu Upadhyaya</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Jinhui Xu</name>
+			<papers>52.498015873</papers>
+		</professor>
+		<professor>
+			<name>Wenyao Xu</name>
+			<papers>24.744047619</papers>
+		</professor>
+		<professor>
+			<name>Aidong Zhang</name>
+			<papers>100.805494505</papers>
+		</professor>
+		<professor>
+			<name>Lukasz (Luke) Ziarek</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Jaroslaw (Jaric) Zol</name>
+			<papers>-1</papers>
+		</professor>
+	</institution>

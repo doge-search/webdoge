@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Pavan  Aduri</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Samik  Basu</name>
+			<papers>47.6166666667</papers>
+		</professor>
+		<professor>
+			<name>Ying  Cai</name>
+			<papers>0.333333333333</papers>
+		</professor>
+		<professor>
+			<name> Carl K Chang</name>
+			<papers>87.5428571429</papers>
+		</professor>
+		<professor>
+			<name>Soma  Chaudhuri</name>
+			<papers>19.5</papers>
+		</professor>
+		<professor>
+			<name>Gianfranco  Ciardo</name>
+			<papers>72.225</papers>
+		</professor>
+		<professor>
+			<name>Kris  De Brabanter</name>
+			<papers>9.83333333333</papers>
+		</professor>
+		<professor>
+			<name>Oliver  Eulenstein</name>
+			<papers>24.8666666667</papers>
+		</professor>
+		<professor>
+			<name>David  Fernández-Baca</name>
+			<papers>58.0833333333</papers>
+		</professor>
+		<professor>
+			<name>Shashi  Gadia</name>
+			<papers>28.1666666667</papers>
+		</professor>
+		<professor>
+			<name>Xiaoqiu  Huang</name>
+			<papers>21.9166666667</papers>
+		</professor>
+		<professor>
+			<name>Yan-Bin  Jia</name>
+			<papers>30.6666666667</papers>
+		</professor>
+		<professor>
+			<name>Wei  Le</name>
+			<papers>8.41666666667</papers>
+		</professor>
+		<professor>
+			<name>Jack  Lutz</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Robyn  Lutz</name>
+			<papers>47.8428571429</papers>
+		</professor>
+		<professor>
+			<name>Les  Miller</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Andrew S Miner</name>
+			<papers>16.625</papers>
+		</professor>
+		<professor>
+			<name>Tien  Nguyen</name>
+			<papers>13.0833333333</papers>
+		</professor>
+		<professor>
+			<name>Gurpur   Prabhu</name>
+			<papers>3.25</papers>
+		</professor>
+		<professor>
+			<name>Hridesh   Rajan</name>
+			<papers>40.8023809524</papers>
+		</professor>
+		<professor>
+			<name>Lu  Ruan</name>
+			<papers>23.2833333333</papers>
+		</professor>
+		<professor>
+			<name>Jeremy  Sheaffer</name>
+			<papers>9.56666666667</papers>
+		</professor>
+		<professor>
+			<name>Giora  Slutzki</name>
+			<papers>35.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Guang   Song</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Wallapak  Tavanapong</name>
+			<papers>31.2595238095</papers>
+		</professor>
+		<professor>
+			<name>Jin  Tian</name>
+			<papers>2.5</papers>
+		</professor>
+		<professor>
+			<name>Johnny  Wong</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Wensheng  Zhan</name>
+			<papers>32.2666666667</papers>
+		</professor>
+	</institution>

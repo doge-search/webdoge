@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Nael Abu-Ghazaleh</name>
+			<papers>64.6909090909</papers>
+		</professor>
+		<professor>
+			<name>Laxmi N. Bhuyan</name>
+			<papers>112.733333333</papers>
+		</professor>
+		<professor>
+			<name>Philip Brisk</name>
+			<papers>40.0845238095</papers>
+		</professor>
+		<professor>
+			<name>Zizhong Chen</name>
+			<papers>34.2095238095</papers>
+		</professor>
+		<professor>
+			<name>Marek Chrobak</name>
+			<papers>167.5</papers>
+		</professor>
+		<professor>
+			<name>Michalis Faloutsos</name>
+			<papers>70.65</papers>
+		</professor>
+		<professor>
+			<name>Rajiv Gupta</name>
+			<papers>151.683333333</papers>
+		</professor>
+		<professor>
+			<name>Vagelis Hristidis (Evangelos Christidis)</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Tao Jiang</name>
+			<papers>82.975</papers>
+		</professor>
+		<professor>
+			<name>Eamonn Keogh</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Srikanth Krishnamurthy</name>
+			<papers>58.725</papers>
+		</professor>
+		<professor>
+			<name>Stefano Lonardi</name>
+			<papers>40.5111111111</papers>
+		</professor>
+		<professor>
+			<name>Mart Molle</name>
+			<papers>26.5373015873</papers>
+		</professor>
+		<professor>
+			<name>Walid Najjar</name>
+			<papers>59.7547619048</papers>
+		</professor>
+		<professor>
+			<name>Michael Pazzani</name>
+			<papers>74.0843137255</papers>
+		</professor>
+		<professor>
+			<name>Zhiyun Qian</name>
+			<papers>10.2095238095</papers>
+		</professor>
+		<professor>
+			<name>K.K. Ramakrishnan</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Chinya Ravishankar</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Christian Shelton</name>
+			<papers>32.4333333333</papers>
+		</professor>
+		<professor>
+			<name>Tamar Shinar</name>
+			<papers>4.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Vassilis Tsotras</name>
+			<papers>61.8384920635</papers>
+		</professor>
+		<professor>
+			<name>Frank Vahid</name>
+			<papers>99.4</papers>
+		</professor>
+		<professor>
+			<name>Neal Young</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Zhijia Zhao</name>
+			<papers>10.0833333333</papers>
+		</professor>
+		<professor>
+			<name>Gianfranco Ciardo</name>
+			<papers>72.225</papers>
+		</professor>
+		<professor>
+			<name>Harsha Madhyastha</name>
+			<papers>27.1595238095</papers>
+		</professor>
+		<professor>
+			<name>Victor Zordan</name>
+			<papers>20.35</papers>
+		</professor>
+		<professor>
+			<name>Thomas Payne</name>
+			<papers>0.666666666667</papers>
+		</professor>
+		<professor>
+			<name>Teodor Przymusinsk</name>
+			<papers>40.25</papers>
+		</professor>
+	</institution>

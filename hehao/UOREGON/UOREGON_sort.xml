@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Zena Ariola</name>
+			<papers>33.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Hank Childs</name>
+			<papers>16.9678571429</papers>
+		</professor>
+		<professor>
+			<name>Dejing Dou</name>
+			<papers>34.5333333333</papers>
+		</professor>
+		<professor>
+			<name>Sarah Douglas</name>
+			<papers>26.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Arthur Farley</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Stuart Faulk</name>
+			<papers>13.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Stephen Fickas</name>
+			<papers>32.8287878788</papers>
+		</professor>
+		<professor>
+			<name>Kathleen Freeman</name>
+			<papers>1.5</papers>
+		</professor>
+		<professor>
+			<name>Michael Hennessy</name>
+			<papers>0.666666666667</papers>
+		</professor>
+		<professor>
+			<name>Anthony Hornof</name>
+			<papers>21.1666666667</papers>
+		</professor>
+		<professor>
+			<name>Michel Kinsy</name>
+			<papers>12.95</papers>
+		</professor>
+		<professor>
+			<name>Jun Li</name>
+			<papers>298.830927406</papers>
+		</professor>
+		<professor>
+			<name>Virginia Lo</name>
+			<papers>26.0</papers>
+		</professor>
+		<professor>
+			<name>Daniel Lowd</name>
+			<papers>25.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Eugene Luks</name>
+			<papers>25.6166666667</papers>
+		</professor>
+		<professor>
+			<name>Allen Malony</name>
+			<papers>93.4817460317</papers>
+		</professor>
+		<professor>
+			<name>Boyana Norris</name>
+			<papers>22.402020202</papers>
+		</professor>
+		<professor>
+			<name>Andrzej Proskurowski</name>
+			<papers>43.1666666667</papers>
+		</professor>
+		<professor>
+			<name>Reza Rejaie</name>
+			<papers>31.9166666667</papers>
+		</professor>
+		<professor>
+			<name>Kent Stevens</name>
+			<papers>0.166666666667</papers>
+		</professor>
+		<professor>
+			<name>Joe Sventek</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>David Wilkins</name>
+			<papers>3.83333333333</papers>
+		</professor>
+		<professor>
+			<name>Eric Wills</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Chris Wilson</name>
+			<papers>5.16666666667</papers>
+		</professor>
+		<professor>
+			<name>Xiaodi Wu</name>
+			<papers>7.75</papers>
+		</professor>
+		<professor>
+			<name>Michal Youn</name>
+			<papers>1.0</papers>
+		</professor>
+	</institution>
