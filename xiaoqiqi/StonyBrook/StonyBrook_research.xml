@@ -1,0 +1,228 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Algorithms and Complexity</groupname>
+			<professorname> Leman Akoglu </professorname>
+			<professorname> Leo Bachmair </professorname>
+			<professorname> Michael Bender </professorname>
+			<professorname> Jing Chen </professorname>
+			<professorname> Rezaul Chowdhury </professorname>
+			<professorname> Ahmad Esmaili </professorname>
+			<professorname> Jie Gao </professorname>
+			<professorname> Robert F. Kelly </professorname>
+			<professorname> Y. Annie Liu </professorname>
+			<professorname> Zhenhua Liu </professorname>
+			<professorname> Robert Patro </professorname>
+			<professorname> I.V. Ramakrishnan </professorname>
+			<professorname> H. Andrew Schwartz </professorname>
+			<professorname> Steven Skiena </professorname>
+			<professorname> Scott Smolka </professorname>
+			<professorname> Anita Wasilewska </professorname>
+		</research>
+		<research>
+			<groupname>Architecture & OS</groupname>
+			<professorname> Michael Ferdman </professorname>
+			<professorname> Nima Honarmand </professorname>
+			<professorname> Donald Porter </professorname>
+			<professorname> Jennifer Wong-Ma </professorname>
+		</research>
+		<research>
+			<groupname>Big Data</groupname>
+			<professorname> Leman Akoglu </professorname>
+			<professorname> Ritwik Banerjee </professorname>
+			<professorname> Yejin Choi </professorname>
+			<professorname> Michael Ferdman </professorname>
+			<professorname> Paul Fodor </professorname>
+			<professorname> Anshul Gandhi </professorname>
+			<professorname> Arie Kaufman </professorname>
+			<professorname> Y. Annie Liu </professorname>
+			<professorname> Zhenhua Liu </professorname>
+			<professorname> Klaus Mueller </professorname>
+			<professorname> Minh Hoai Nguyen </professorname>
+			<professorname> C.R. Ramakrishnan </professorname>
+			<professorname> Masoud Rouhizadeh </professorname>
+			<professorname> H. Andrew Schwartz </professorname>
+			<professorname> Steven Skiena </professorname>
+			<professorname> Fusheng Wang </professorname>
+			<professorname> Wei Xu </professorname>
+			<professorname> Erez Zadok </professorname>
+		</research>
+		<research>
+			<groupname>Biomedical Informatics</groupname>
+			<professorname> Niranjan Balasubramanian </professorname>
+			<professorname> Ritwik Banerjee </professorname>
+			<professorname> Yejin Choi </professorname>
+			<professorname> Paul Fodor </professorname>
+			<professorname> Arie Kaufman </professorname>
+			<professorname> Robert F. Kelly </professorname>
+			<professorname> Klaus Mueller </professorname>
+			<professorname> I.V. Ramakrishnan </professorname>
+			<professorname> Joel Saltz </professorname>
+			<professorname> H. Andrew Schwartz </professorname>
+			<professorname> Allen Tannenbaum </professorname>
+			<professorname> Fusheng Wang </professorname>
+		</research>
+		<research>
+			<groupname>Computational & Systems Biology</groupname>
+			<professorname> Rezaul Chowdhury </professorname>
+			<professorname> Robert Patro </professorname>
+			<professorname> Steven Skiena </professorname>
+			<professorname> Scott Smolka </professorname>
+		</research>
+		<research>
+			<groupname>Human-Computer Interaction</groupname>
+			<professorname> Tzi-cker Chiueh </professorname>
+			<professorname> Paul Fodor </professorname>
+			<professorname> Jie Gao </professorname>
+			<professorname> Rob Johnson </professorname>
+			<professorname> Klaus Mueller </professorname>
+			<professorname> H. Andrew Schwartz </professorname>
+			<professorname> R. Sekar </professorname>
+			<professorname> Vyas Sekar </professorname>
+			<professorname> Roy Shilkrot </professorname>
+			<professorname> Radu Sion </professorname>
+			<professorname> Eugene Stark </professorname>
+			<professorname> Jennifer Wong-Ma </professorname>
+			<professorname> Erez Zadok </professorname>
+			<professorname> Rong Zhao </professorname>
+		<research>
+			<groupname>Information Assurance and Security</groupname>
+			<professorname> Tzi-cker Chiueh </professorname>
+			<professorname> Paul Fodor </professorname>
+			<professorname> Jie Gao </professorname>
+			<professorname> Phillipa Gill </professorname>
+			<professorname> Rob Johnson </professorname>
+			<professorname> Michael Kifer </professorname>
+			<professorname> Y. Annie Liu </professorname>
+			<professorname> Long Lu </professorname>
+			<professorname> Richard McKenna </professorname>
+			<professorname> Nick Nikiforakis </professorname>
+			<professorname> Michalis Polychronakis </professorname>
+			<professorname> Donald Porter </professorname>
+			<professorname> C.R. Ramakrishnan </professorname>
+			<professorname> R. Sekar </professorname>
+			<professorname> Vyas Sekar </professorname>
+			<professorname> Radu Sion </professorname>
+			<professorname> Scott Stoller </professorname>
+			<professorname> Erez Zadok </professorname>
+		<research>
+			<groupname>Information Management</groupname>
+			<professorname> Leman Akoglu </professorname>
+			<professorname> Paul Fodor </professorname>
+			<professorname> Michael Kifer </professorname>
+			<professorname> Y. Annie Liu </professorname>
+			<professorname> Klaus Mueller </professorname>
+			<professorname> Radu Sion </professorname>
+			<professorname> Erez Zadok </professorname>
+		</research>
+		<research>
+			<groupname>Intelligent Systems</groupname>
+			<professorname> Leman Akoglu </professorname>
+			<professorname> Niranjan Balasubramanian </professorname>
+			<professorname> Ritwik Banerjee </professorname>
+			<professorname> Yejin Choi </professorname>
+			<professorname> Paul Fodor </professorname>
+			<professorname> Michael Kifer </professorname>
+			<professorname> Y. Annie Liu </professorname>
+			<professorname> Klaus Mueller </professorname>
+			<professorname> Minh Hoai Nguyen </professorname>
+			<professorname> C.R. Ramakrishnan </professorname>
+			<professorname> I.V. Ramakrishnan </professorname>
+			<professorname> H. Andrew Schwartz </professorname>
+			<professorname> Anita Wasilewska </professorname>
+		</research>
+		<research>
+			<groupname>Networking and Communication</groupname>
+			<professorname> Aruna Balasubramanian </professorname>
+			<professorname> Tzi-cker Chiueh </professorname>
+			<professorname> Brian J. d'Auriol </professorname>
+			<professorname> Samir R. Das </professorname>
+			<professorname> Michael Ferdman </professorname>
+			<professorname> Anshul Gandhi </professorname>
+			<professorname> Jie Gao </professorname>
+			<professorname> Phillipa Gill </professorname>
+			<professorname> Himanshu Gupta </professorname>
+			<professorname> Rob Johnson </professorname>
+			<professorname> Yanni Ellen Liu </professorname>
+			<professorname> Zhenhua Liu </professorname>
+			<professorname> Michalis Polychronakis </professorname>
+			<professorname> R. Sekar </professorname>
+			<professorname> Vyas Sekar </professorname>
+			<professorname> Radu Sion </professorname>
+			<professorname> Eugene Stark </professorname>
+			<professorname> Jennifer Wong-Ma </professorname>
+			<professorname> Erez Zadok </professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages</groupname>
+			<professorname> Barbara Chapman </professorname>
+			<professorname> Paul Fodor </professorname>
+			<professorname> Nima Honarmand </professorname>
+			<professorname> Y. Annie Liu </professorname>
+			<professorname> Long Lu </professorname>
+			<professorname> Donald Porter </professorname>
+			<professorname> C.R. Ramakrishnan </professorname>
+			<professorname> Scott Smolka </professorname>
+			<professorname> Eugene Stark </professorname>
+			<professorname> Scott Stoller </professorname>
+			<professorname> Michael Tashbook </professorname>
+		</research>
+		<research>
+			<groupname>Software Engineering</groupname>
+			<professorname> Barbara Chapman </professorname>
+			<professorname> Paul Fodor </professorname>
+			<professorname> Y. Annie Liu </professorname>
+			<professorname> Long Lu </professorname>
+			<professorname> Donald Porter </professorname>
+			<professorname> C.R. Ramakrishnan </professorname>
+			<professorname> Scott Smolka </professorname>
+			<professorname> Eugene Stark </professorname>
+			<professorname> Scott Stoller </professorname>
+			<professorname> Michael Tashbook </professorname>
+		</research>
+		<research>
+			<groupname>Smart Energy</groupname>
+			<professorname> Michael Ferdman </professorname>
+			<professorname> Paul Fodor </professorname>
+			<professorname> Anshul Gandhi </professorname>
+			<professorname> Nima Honarmand </professorname>
+			<professorname> Zhenhua Liu </professorname>
+			<professorname> Klaus Mueller </professorname>
+			<professorname> Radu Sion </professorname>
+			<professorname> Erez Zadok </professorname>
+		</research>
+		<research>
+			<groupname>Systems Fundamentals</groupname>
+			<professorname> Aruna Balasubramanian </professorname>
+			<professorname> Barbara Chapman </professorname>
+			<professorname> Michael Ferdman </professorname>
+			<professorname> Anshul Gandhi </professorname>
+			<professorname> Nima Honarmand </professorname>
+			<professorname> Y. Annie Liu </professorname>
+			<professorname> Zhenhua Liu </professorname>
+			<professorname> Long Lu </professorname>
+			<professorname> Donald Porter </professorname>
+			<professorname> Radu Sion </professorname>
+			<professorname> Scott Smolka </professorname>
+			<professorname> Eugene Stark </professorname>
+			<professorname> Scott Stoller </professorname>
+			<professorname> Erez Zadok </professorname>
+		</research>
+		<research>
+			<groupname>Visualization</groupname>
+			<professorname> Tamara Berg </professorname>
+			<professorname> Brian J. d'Auriol </professorname>
+			<professorname> Yi Gao </professorname>
+			<professorname> Xianfeng Gu </professorname>
+			<professorname> Arie Kaufman </professorname>
+			<professorname> Kevin McDonnell </professorname>
+			<professorname> Klaus Mueller </professorname>
+			<professorname> Minh Hoai Nguyen </professorname>
+			<professorname> Hong Qin </professorname>
+			<professorname> Dimitris Samaras </professorname>
+			<professorname> Tony Scarlatos </professorname>
+			<professorname> Roy Shilkrot </professorname>
+			<professorname> Allen Tannenbaum </professorname>
+			<professorname> Wei Xu </professorname>
+		</research>
+	</institution>

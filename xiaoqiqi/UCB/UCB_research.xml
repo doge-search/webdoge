@@ -1,0 +1,462 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Artificial Intelligence (AI)</groupname>
+			<professorname>Pieter Abbeel</professorname>
+			<professorname>Peter Bartlett</professorname>
+			<professorname>John DeNero</professorname>
+			<professorname>Anca Dragan</professorname>
+			<professorname>Joseph Gonzalez</professorname>
+			<professorname>Daniel Klein</professorname>
+			<professorname>Michael Lustig</professorname>
+			<professorname>Jitendra Malik</professorname>
+			<professorname>Stuart J. Russell</professorname>
+			<professorname>Martin Wainwright</professorname>
+			<professorname>Venkat Anantharam</professorname>
+			<professorname>Ruzena Bajcsy</professorname>
+			<professorname>John F. Canny</professorname>
+			<professorname>Trevor Darrell</professorname>
+			<professorname>Alexei (Alyosha) Efros</professorname>
+			<professorname>Laurent El Ghaoui</professorname>
+			<professorname>Richard J. Fateman</professorname>
+			<professorname>Jerome A. Feldman</professorname>
+			<professorname>Ken Goldberg</professorname>
+			<professorname>Michael Jordan</professorname>
+			<professorname>Lior Pachter</professorname>
+			<professorname>Benjamin Recht</professorname>
+			<professorname>S. Shankar Sastry</professorname>
+			<professorname>Lotfi A. Zadeh</professorname>
+			<professorname>Avideh Zakhor</professorname>
+		</research>
+		<research>
+			<groupname>Biosystems & Computational Biology (BIO)</groupname>
+			<professorname>Jose M. Carmena</professorname>
+			<professorname>Robert Full</professorname>
+			<professorname>Edwin R. Lewis</professorname>
+			<professorname>Michael Lustig</professorname>
+			<professorname>Lior Pachter</professorname>
+			<professorname>David A. Patterson</professorname>
+			<professorname>Yun S. Song</professorname>
+			<professorname>Nir Yosef</professorname>
+			<professorname>Murat Arcak</professorname>
+			<professorname>Ruzena Bajcsy</professorname>
+			<professorname>Brian A. Barsky</professorname>
+			<professorname>Bernhard Boser</professorname>
+			<professorname>Thomas F. Budinger</professorname>
+			<professorname>Leon O. Chua</professorname>
+			<professorname>John Chuang</professorname>
+			<professorname>Ronald S. Fearing</professorname>
+			<professorname>Jerome A. Feldman</professorname>
+			<professorname>Michael Jordan</professorname>
+			<professorname>Richard M. Karp</professorname>
+			<professorname>Luke Lee</professorname>
+			<professorname>Michel Maharbiz</professorname>
+			<professorname>Jitendra Malik</professorname>
+			<professorname>Elchanan Mossel</professorname>
+			<professorname>Rikky Muller</professorname>
+			<professorname>Christos Papadimitriou</professorname>
+			<professorname>Satish Rao</professorname>
+			<professorname>Jaijeet Roychowdhury</professorname>
+			<professorname>Stuart J. Russell</professorname>
+			<professorname>S. Shankar Sastry</professorname>
+			<professorname>Bernd Sturmfels</professorname>
+			<professorname>Claire Tomlin</professorname>
+			<professorname>Laura Waller</professorname>
+			<professorname>Katherine A. Yelick</professorname>
+		</research>
+		<research>
+			<groupname>Communications & Networking (COMNET)</groupname>
+			<professorname>Venkat Anantharam</professorname>
+			<professorname>Thomas Courtade</professorname>
+			<professorname>Michael Lustig</professorname>
+			<professorname>Kannan Ramchandran</professorname>
+			<professorname>Anant Sahai</professorname>
+			<professorname>David Tse</professorname>
+			<professorname>Martin Wainwright</professorname>
+			<professorname>Jean Walrand</professorname>
+			<professorname>Adam Wolisz</professorname>
+			<professorname>Elad Alon</professorname>
+			<professorname>John Chuang</professorname>
+			<professorname>Kam Y. Lau</professorname>
+			<professorname>David G. Messerschmitt</professorname>
+			<professorname>Ali Niknejad</professorname>
+			<professorname>Borivoje Nikolic</professorname>
+			<professorname>Abhay Parekh</professorname>
+			<professorname>Shyam Parekh</professorname>
+			<professorname>Jan M. Rabaey</professorname>
+			<professorname>Alberto L. Sangiovanni-Vincentelli</professorname>
+			<professorname>Vladimir Stojanovic</professorname>
+			<professorname>Pravin Varaiya</professorname>
+			<professorname>Eugene Wong</professorname>
+		</research>
+		<research>
+			<groupname>Computer Architecture & Engineering (ARC)</groupname>
+			<professorname>Krste Asanovi</professorname>
+			<professorname>David A. Patterson</professorname>
+			<professorname>Jonathan Bachrach</professorname>
+			<professorname>David E. Culler</professorname>
+			<professorname>James Demmel</professorname>
+			<professorname>William M. Kahan</professorname>
+			<professorname>Randy H. Katz</professorname>
+			<professorname>Kurt Keutzer</professorname>
+			<professorname>John D. Kubiatowicz</professorname>
+			<professorname>Michael Lustig</professorname>
+			<professorname>Borivoje Nikolic</professorname>
+			<professorname>Jan M. Rabaey</professorname>
+			<professorname>Jaijeet Roychowdhury</professorname>
+			<professorname>Alan J. Smith</professorname>
+			<professorname>Vladimir Stojanovic</professorname>
+			<professorname>John Wawrzynek</professorname>
+			<professorname>Adam Wolisz</professorname>
+			<professorname>Katherine A. Yelick</professorname>
+		</research>
+		<research>
+			<groupname>Control, Intelligent Systems, and Robotics (CIR)</groupname>
+			<professorname>Pieter Abbeel</professorname>
+			<professorname>Murat Arcak</professorname>
+			<professorname>Alexandre Bayen</professorname>
+			<professorname>Jose M. Carmena</professorname>
+			<professorname>Anca Dragan</professorname>
+			<professorname>Ronald S. Fearing</professorname>
+			<professorname>Michael Lustig</professorname>
+			<professorname>Anant Sahai</professorname>
+			<professorname>Claire Tomlin</professorname>
+			<professorname>Martin Wainwright</professorname>
+			<professorname>Venkat Anantharam</professorname>
+			<professorname>Ruzena Bajcsy</professorname>
+			<professorname>Peter Bartlett</professorname>
+			<professorname>Thomas F. Budinger</professorname>
+			<professorname>John F. Canny</professorname>
+			<professorname>Leon O. Chua</professorname>
+			<professorname>Trevor Darrell</professorname>
+			<professorname>Laurent El Ghaoui</professorname>
+			<professorname>Ken Goldberg</professorname>
+			<professorname>Michael Jordan</professorname>
+			<professorname>Jitendra Malik</professorname>
+			<professorname>Kristofer Pister</professorname>
+			<professorname>Elijah Polak</professorname>
+			<professorname>Kameshwar Poolla</professorname>
+			<professorname>Kannan Ramchandran</professorname>
+			<professorname>Benjamin Recht</professorname>
+			<professorname>Jaijeet Roychowdhury</professorname>
+			<professorname>Stuart J. Russell</professorname>
+			<professorname>Seth R. Sanders</professorname>
+			<professorname>Alberto L. Sangiovanni-Vincentelli</professorname>
+			<professorname>S. Shankar Sastry</professorname>
+			<professorname>Sanjit A. Seshia</professorname>
+			<professorname>Pravin Varaiya</professorname>
+			<professorname>Lotfi A. Zadeh</professorname>
+			<professorname>Avideh Zakhor</professorname>
+		</research>
+		<research>
+			<groupname>Database Management Systems (DBMS)</groupname>
+			<professorname>Ali Ghodsi</professorname>
+			<professorname>Joseph Gonzalez</professorname>
+			<professorname>Joseph M. Hellerstein</professorname>
+			<professorname>Eric Brewer</professorname>
+			<professorname>Michael Lustig</professorname>
+			<professorname>Ion Stoica</professorname>
+		</research>
+		<research>
+			<groupname>Design, Modeling and Analysis (DMA)</groupname>
+			<professorname>Edward A. Lee</professorname>
+			<professorname>Jaijeet Roychowdhury</professorname>
+			<professorname>Alberto L. Sangiovanni-Vincentelli</professorname>
+			<professorname>Sanjit A. Seshia</professorname>
+			<professorname>Stavros Tripakis</professorname>
+			<professorname>Elad Alon</professorname>
+			<professorname>Krste Asanovi</professorname>
+			<professorname>Jonathan Bachrach</professorname>
+			<professorname>Bernhard Boser</professorname>
+			<professorname>Robert K. Brayton</professorname>
+			<professorname>Robert W. Brodersen</professorname>
+			<professorname>Paul R. Gray</professorname>
+			<professorname>Kurt Keutzer</professorname>
+			<professorname>Andreas Kuehlmann</professorname>
+			<professorname>Michael Lustig</professorname>
+			<professorname>George Necula</professorname>
+			<professorname>Clark Nguyen</professorname>
+			<professorname>Ali Niknejad</professorname>
+			<professorname>Borivoje Nikolic</professorname>
+			<professorname>Kameshwar Poolla</professorname>
+			<professorname>Jan M. Rabaey</professorname>
+			<professorname>Sayeef Salahuddin</professorname>
+			<professorname>Claire Tomlin</professorname>
+			<professorname>John Wawrzynek</professorname>
+		</research>
+		<research>
+			<groupname>Education (EDUC)</groupname>
+			<professorname>Michael J. Clancy</professorname>
+			<professorname>Armando Fox</professorname>
+			<professorname>Dan Garcia</professorname>
+			<professorname>Babak Ayazifar</professorname>
+			<professorname>John DeNero</professorname>
+			<professorname>Brian K. Harvey</professorname>
+			<professorname>Joshua Hug</professorname>
+		</research>
+		<research>
+			<groupname>Energy (ENE)</groupname>
+			<professorname>Seth R. Sanders</professorname>
+			<professorname>Alexandra von Meier</professorname>
+			<professorname>Ana Claudia Arias</professorname>
+			<professorname>Eric Brewer</professorname>
+			<professorname>David E. Culler</professorname>
+			<professorname>Ali Javey</professorname>
+			<professorname>Allan J. Lichtenberg</professorname>
+			<professorname>Michael A. Lieberman</professorname>
+			<professorname>Michael Lustig</professorname>
+			<professorname>Kristofer Pister</professorname>
+			<professorname>Jan M. Rabaey</professorname>
+			<professorname>Sayeef Salahuddin</professorname>
+			<professorname>Costas J. Spanos</professorname>
+			<professorname>Vivek Subramanian</professorname>
+			<professorname>Pravin Varaiya</professorname>
+			<professorname>Richard M. White</professorname>
+		</research>
+		<research>
+			<groupname>Graphics (GR)</groupname>
+			<professorname>Brian A. Barsky</professorname>
+			<professorname>Alexei (Alyosha) Efros</professorname>
+			<professorname>James O'Brien</professorname>
+			<professorname>Carlo H. Séquin</professorname>
+			<professorname>Ruzena Bajcsy</professorname>
+			<professorname>John F. Canny</professorname>
+			<professorname>Dan Garcia</professorname>
+			<professorname>Ken Goldberg</professorname>
+			<professorname>Susan L. Graham</professorname>
+			<professorname>Björn Hartmann</professorname>
+			<professorname>Michael Lustig</professorname>
+			<professorname>Jitendra Malik</professorname>
+			<professorname>Ravi Ramamoorthi</professorname>
+			<professorname>Jonathan Shewchuk</professorname>
+			<professorname>Laura Waller</professorname>
+			<professorname>Avideh Zakhor</professorname>
+		</research>
+		<research>
+			<groupname>Human-Computer Interaction (HCI)</groupname>
+			<professorname>John F. Canny</professorname>
+			<professorname>Anca Dragan</professorname>
+			<professorname>Björn Hartmann</professorname>
+			<professorname>Tapan S. Parikh</professorname>
+			<professorname>Eric Paulos</professorname>
+			<professorname>Maneesh Agrawala</professorname>
+			<professorname>Ruzena Bajcsy</professorname>
+			<professorname>Brian A. Barsky</professorname>
+			<professorname>Armando Fox</professorname>
+			<professorname>Ken Goldberg</professorname>
+			<professorname>Susan L. Graham</professorname>
+			<professorname>Marti Hearst</professorname>
+			<professorname>Michael Lustig</professorname>
+			<professorname>Jitendra Malik</professorname>
+			<professorname>James O'Brien</professorname>
+			<professorname>Carlo H. Séquin</professorname>
+		</research>
+		<research>
+			<groupname>Integrated Circuits (INC)</groupname>
+			<professorname>David Allstot</professorname>
+			<professorname>Elad Alon</professorname>
+			<professorname>Rikky Muller</professorname>
+			<professorname>Ali Niknejad</professorname>
+			<professorname>Borivoje Nikolic</professorname>
+			<professorname>Vladimir Stojanovic</professorname>
+			<professorname>Krste Asanovi</professorname>
+			<professorname>Bernhard Boser</professorname>
+			<professorname>Robert W. Brodersen</professorname>
+			<professorname>Paul R. Gray</professorname>
+			<professorname>David A. Hodges</professorname>
+			<professorname>Chenming Hu</professorname>
+			<professorname>Michael Lustig</professorname>
+			<professorname>Robert G. Meyer</professorname>
+			<professorname>Richard S. Muller</professorname>
+			<professorname>Andrew R. Neureuther</professorname>
+			<professorname>Clark Nguyen</professorname>
+			<professorname>Kristofer Pister</professorname>
+			<professorname>Jan M. Rabaey</professorname>
+			<professorname>Jaijeet Roychowdhury</professorname>
+			<professorname>Seth R. Sanders</professorname>
+			<professorname>Costas J. Spanos</professorname>
+			<professorname>Vivek Subramanian</professorname>
+		</research>
+		<research>
+			<groupname>Micro/Nano Electro Mechanical Systems (MEMS)</groupname>
+			<professorname>Clark Nguyen</professorname>
+			<professorname>Kristofer Pister</professorname>
+			<professorname>Ming C. Wu</professorname>
+			<professorname>Elad Alon</professorname>
+			<professorname>Bernhard Boser</professorname>
+			<professorname>Ali Javey</professorname>
+			<professorname>Tsu-Jae King Liu</professorname>
+			<professorname>Luke Lee</professorname>
+			<professorname>Michael Lustig</professorname>
+			<professorname>Michel Maharbiz</professorname>
+			<professorname>Richard S. Muller</professorname>
+			<professorname>Rikky Muller</professorname>
+			<professorname>Jaijeet Roychowdhury</professorname>
+			<professorname>Vladimir Stojanovic</professorname>
+			<professorname>Richard M. White</professorname>
+		</research>
+		<research>
+			<groupname>Operating Systems & Networking (OSNT)</groupname>
+			<professorname>Eric Brewer</professorname>
+			<professorname>Michael Franklin</professorname>
+			<professorname>Ali Ghodsi</professorname>
+			<professorname>Anthony D. Joseph</professorname>
+			<professorname>Raluca Ada Popa</professorname>
+			<professorname>Sylvia Ratnasamy</professorname>
+			<professorname>Scott Shenker</professorname>
+			<professorname>Dawn Song</professorname>
+			<professorname>Krste Asanovi</professorname>
+			<professorname>John Chuang</professorname>
+			<professorname>David E. Culler</professorname>
+			<professorname>Joseph M. Hellerstein</professorname>
+			<professorname>Richard M. Karp</professorname>
+			<professorname>Randy H. Katz</professorname>
+			<professorname>John D. Kubiatowicz</professorname>
+			<professorname>Michael Lustig</professorname>
+			<professorname>David A. Patterson</professorname>
+			<professorname>Vern Paxson</professorname>
+			<professorname>Alan J. Smith</professorname>
+			<professorname>Ion Stoica</professorname>
+			<professorname>Doug Tygar</professorname>
+			<professorname>David Wagner</professorname>
+		</research>
+		<research>
+			<groupname>Physical Electronics (PHY)</groupname>
+			<professorname>Ana Claudia Arias</professorname>
+			<professorname>Jeffrey Bokor</professorname>
+			<professorname>Constance Chang-Hasnain</professorname>
+			<professorname>Ali Javey</professorname>
+			<professorname>Tsu-Jae King Liu</professorname>
+			<professorname>Michael Lustig</professorname>
+			<professorname>Sayeef Salahuddin</professorname>
+			<professorname>Vivek Subramanian</professorname>
+			<professorname>Laura Waller</professorname>
+			<professorname>Ming C. Wu</professorname>
+			<professorname>Eli Yablonovitch</professorname>
+			<professorname>Bernhard Boser</professorname>
+			<professorname>Nathan W. Cheung</professorname>
+			<professorname>T. Kenneth Gustafson</professorname>
+			<professorname>Chenming Hu</professorname>
+			<professorname>Luke Lee</professorname>
+			<professorname>Richard S. Muller</professorname>
+			<professorname>Andrew R. Neureuther</professorname>
+			<professorname>Clark Nguyen</professorname>
+			<professorname>Ali Niknejad</professorname>
+			<professorname>Kristofer Pister</professorname>
+			<professorname>Kameshwar Poolla</professorname>
+			<professorname>Jaijeet Roychowdhury</professorname>
+			<professorname>Costas J. Spanos</professorname>
+			<professorname>Vladimir Stojanovic</professorname>
+			<professorname>Richard M. White</professorname>
+		</research>
+		<research>
+			<groupname>Programming Systems (PS)</groupname>
+			<professorname>Jonathan Bachrach</professorname>
+			<professorname>Armando Fox</professorname>
+			<professorname>Sanjit A. Seshia</professorname>
+			<professorname>Katherine A. Yelick</professorname>
+			<professorname>David E. Culler</professorname>
+			<professorname>Richard J. Fateman</professorname>
+			<professorname>Susan L. Graham</professorname>
+			<professorname>Björn Hartmann</professorname>
+			<professorname>Paul N. Hilfinger</professorname>
+			<professorname>Edward A. Lee</professorname>
+			<professorname>Michael Lustig</professorname>
+			<professorname>George Necula</professorname>
+			<professorname>Koushik Sen</professorname>
+			<professorname>Dawn Song</professorname>
+			<professorname>Stavros Tripakis</professorname>
+			<professorname>David Wagner</professorname>
+		</research>
+		<research>
+			<groupname>Scientific Computing (SCI)</groupname>
+			<professorname>Michael Lustig</professorname>
+			<professorname>Jonathan Shewchuk</professorname>
+			<professorname>Katherine A. Yelick</professorname>
+			<professorname>James Demmel</professorname>
+			<professorname>Richard J. Fateman</professorname>
+			<professorname>Susan L. Graham</professorname>
+			<professorname>Paul N. Hilfinger</professorname>
+			<professorname>William M. Kahan</professorname>
+			<professorname>Kurt Keutzer</professorname>
+			<professorname>James O'Brien</professorname>
+			<professorname>Ravi Ramamoorthi</professorname>
+			<professorname>Jaijeet Roychowdhury</professorname>
+			<professorname>Sayeef Salahuddin</professorname>
+		</research>
+		<research>
+			<groupname>Security (SEC)</groupname>
+			<professorname>Alessandro Chiesa</professorname>
+			<professorname>Anthony D. Joseph</professorname>
+			<professorname>Vern Paxson</professorname>
+			<professorname>Raluca Ada Popa</professorname>
+			<professorname>Dawn Song</professorname>
+			<professorname>Doug Tygar</professorname>
+			<professorname>David Wagner</professorname>
+			<professorname>Venkat Anantharam</professorname>
+			<professorname>Ruzena Bajcsy</professorname>
+			<professorname>Eric Brewer</professorname>
+			<professorname>John F. Canny</professorname>
+			<professorname>John Chuang</professorname>
+			<professorname>David E. Culler</professorname>
+			<professorname>Jerome A. Feldman</professorname>
+			<professorname>Sanjam Garg</professorname>
+			<professorname>Ken Goldberg</professorname>
+			<professorname>John D. Kubiatowicz</professorname>
+			<professorname>Michael Lustig</professorname>
+			<professorname>George Necula</professorname>
+			<professorname>S. Shankar Sastry</professorname>
+			<professorname>Koushik Sen</professorname>
+			<professorname>Sanjit A. Seshia</professorname>
+			<professorname>Ion Stoica</professorname>
+			<professorname>Luca Trevisan</professorname>
+			<professorname>Umesh Vazirani</professorname>
+		</research>
+		<research>
+			<groupname>Signal Processing (SP)</groupname>
+			<professorname>Michael Lustig</professorname>
+			<professorname>Kannan Ramchandran</professorname>
+			<professorname>Martin Wainwright</professorname>
+			<professorname>Laura Waller</professorname>
+			<professorname>Bin Yu</professorname>
+			<professorname>Avideh Zakhor</professorname>
+			<professorname>Venkat Anantharam</professorname>
+			<professorname>Babak Ayazifar</professorname>
+			<professorname>Brian A. Barsky</professorname>
+			<professorname>Peter Bartlett</professorname>
+			<professorname>Robert W. Brodersen</professorname>
+			<professorname>Thomas F. Budinger</professorname>
+			<professorname>Laurent El Ghaoui</professorname>
+			<professorname>Michael Jordan</professorname>
+			<professorname>Edward A. Lee</professorname>
+			<professorname>Jitendra Malik</professorname>
+			<professorname>David G. Messerschmitt</professorname>
+			<professorname>Nelson Morgan</professorname>
+			<professorname>Ren Ng</professorname>
+			<professorname>Ali Niknejad</professorname>
+			<professorname>Jan M. Rabaey</professorname>
+			<professorname>Ravi Ramamoorthi</professorname>
+			<professorname>Benjamin Recht</professorname>
+			<professorname>Anant Sahai</professorname>
+		</research>
+		<research>
+			<groupname>Theory (THY)</groupname>
+			<professorname>Alessandro Chiesa</professorname>
+			<professorname>Sanjam Garg</professorname>
+			<professorname>Prasad Raghavendra</professorname>
+			<professorname>Jonathan Shewchuk</professorname>
+			<professorname>Alistair Sinclair</professorname>
+			<professorname>Luca Trevisan</professorname>
+			<professorname>Martin Wainwright</professorname>
+			<professorname>Richard M. Karp</professorname>
+			<professorname>Michael Lustig</professorname>
+			<professorname>Elchanan Mossel</professorname>
+			<professorname>Christos Papadimitriou</professorname>
+			<professorname>Satish Rao</professorname>
+			<professorname>Anant Sahai</professorname>
+			<professorname>Sanjit A. Seshia</professorname>
+			<professorname>Yun S. Song</professorname>
+			<professorname>Bernd Sturmfels</professorname>
+			<professorname>Umesh Vazirani</professorname>
+		</research>
+	</institution>

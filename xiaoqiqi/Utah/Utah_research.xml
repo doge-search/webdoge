@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Networking</groupname>
+			<professorname>Jacobus (Kobus) Van der Merwe</professorname>
+			<professorname>Robert Ricci</professorname>
+			<professorname>Sneha Kumar Kasera</professorname>
+			<professorname>Aki Nakao</professorname>
+			<professorname>Jonathon Duerig</professorname>
+			<professorname>Mike Hibler</professorname>
+			<professorname>David Johnson</professorname>
+			<professorname>Leigh Stoller</professorname>
+			<professorname>Kirk Webb</professorname>
+			<professorname>Gary Wong</professorname>
+			<professorname>Hyun-wook Baek</professorname>
+			<professorname>Christopher Becker</professorname>
+			<professorname>Min Du</professorname>
+			<professorname>David Hancock</professorname>
+			<professorname>Binh Nguyen</professorname>
+			<professorname>Ren Quinn</professorname>
+			<professorname>Aisha Syed</professorname>
+			<professorname>Gurupragaash Annasamymani</professorname>
+			<professorname>Josh Kunz</professorname>
+			<professorname>Praveen Thiraviyarathinam</professorname>
+		</research>
+		<research>
+			<groupname>Testbeds</groupname>
+			<professorname>Eric Eide</professorname>
+			<professorname>Robert Ricci</professorname>
+			<professorname>Aki Nakao</professorname>
+			<professorname>Jonathon Duerig</professorname>
+			<professorname>Mike Hibler</professorname>
+			<professorname>David Johnson</professorname>
+			<professorname>Leigh Stoller</professorname>
+			<professorname>Kirk Webb</professorname>
+			<professorname>Gary Wong</professorname>
+			<professorname>Dmitry Duplyakin</professorname>
+			<professorname>Aisha Syed</professorname>
+			<professorname>Aniraj Kesavan</professorname>
+			<professorname>Keith Downie</professorname>
+		</research>
+		<research>
+			<groupname>Operating Systems</groupname>
+			<professorname>Anton Burtsev</professorname>
+			<professorname>Eric Eide</professorname>
+			<professorname>Robert Ricci</professorname>
+			<professorname>John Regehr</professorname>
+			<professorname>Mike Hibler</professorname>
+			<professorname>David Johnson</professorname>
+			<professorname>Leigh Stoller</professorname>
+			<professorname>Kirk Webb</professorname>
+			<professorname>Gary Wong</professorname>
+			<professorname>Junguk Cho</professorname>
+			<professorname>Cai (Richard) Li</professorname>
+			<professorname>Abhiram Balasubramanian</professorname>
+			<professorname>Scotty Bauer</professorname>
+			<professorname>Charles Jacobsen</professorname>
+			<professorname>Pankaj Kumar</professorname>
+			<professorname>Michael Quigley</professorname>
+			<professorname>Sarah Spall</professorname>
+		</research>
+		<research>
+			<groupname>Languages</groupname>
+			<professorname>Anton Burtsev</professorname>
+			<professorname>Eric Eide</professorname>
+			<professorname>Matthew Flatt</professorname>
+			<professorname>Sarah Spall</professorname>
+		</research>
+		<research>
+			<groupname>Virtualization</groupname>
+			<professorname>Anton Burtsev</professorname>
+			<professorname>Eric Eide</professorname>
+			<professorname>Robert Ricci</professorname>
+			<professorname>Aki Nakao</professorname>
+			<professorname>Mike Hibler</professorname>
+			<professorname>David Johnson</professorname>
+			<professorname>Min Du</professorname>
+			<professorname>Cai (Richard) Li</professorname>
+			<professorname>Anil Kumar</professorname>
+		</research>
+		<research>
+			<groupname>Security</groupname>
+			<professorname>Anton Burtsev</professorname>
+			<professorname>Eric Eide</professorname>
+			<professorname>Jacobus (Kobus) Van der Merwe</professorname>
+			<professorname>Robert Ricci</professorname>
+			<professorname>Sneha Kumar Kasera</professorname>
+			<professorname>John Regehr</professorname>
+			<professorname>Mike Hibler</professorname>
+			<professorname>David Johnson</professorname>
+			<professorname>Min Du</professorname>
+			<professorname>David Hancock</professorname>
+			<professorname>Cai (Richard) Li</professorname>
+			<professorname>Abhiram Balasubramanian</professorname>
+			<professorname>Yuankai Guo</professorname>
+			<professorname>Charles Jacobsen</professorname>
+			<professorname>Pankaj Kumar</professorname>
+			<professorname>Anil Kumar</professorname>
+			<professorname>Michael Quigley</professorname>
+		</research>
+		<research>
+			<groupname>Mobile Networking</groupname>
+			<professorname>Jacobus (Kobus) Van der Merwe</professorname>
+			<professorname>Sneha Kumar Kasera</professorname>
+			<professorname>Aki Nakao</professorname>
+			<professorname>John Regehr</professorname>
+			<professorname>Kirk Webb</professorname>
+			<professorname>Junguk Cho</professorname>
+			<professorname>Binh Nguyen</professorname>
+		</research>
+		<research>
+			<groupname>Middleware</groupname>
+			<professorname>Eric Eide</professorname>
+		</research>
+		<research>
+			<groupname>Software Testing</groupname>
+			<professorname>Eric Eide</professorname>
+			<professorname>John Regehr</professorname>
+			<professorname>Scotty Bauer</professorname>
+		</research>
+		<research>
+			<groupname>Storage</groupname>
+			<professorname>Robert Ricci</professorname>
+			<professorname>Mike Hibler</professorname>
+			<professorname>Kirk Webb</professorname>
+		</research>
+		<research>
+			<groupname>Cloud</groupname>
+			<professorname>Eric Eide</professorname>
+			<professorname>David Johnson</professorname>
+			<professorname>Dmitry Duplyakin</professorname>
+			<professorname>Cai (Richard) Li</professorname>
+			<professorname>Yuankai Guo</professorname>
+		</research>
+	</institution>
