@@ -20,7 +20,7 @@
 			<professorname> Anita Wasilewska </professorname>
 		</research>
 		<research>
-			<groupname>Architecture & OS</groupname>
+			<groupname>Architecture &amp; OS</groupname>
 			<professorname> Michael Ferdman </professorname>
 			<professorname> Nima Honarmand </professorname>
 			<professorname> Donald Porter </professorname>
@@ -63,7 +63,7 @@
 			<professorname> Fusheng Wang </professorname>
 		</research>
 		<research>
-			<groupname>Computational & Systems Biology</groupname>
+			<groupname>Computational &amp; Systems Biology</groupname>
 			<professorname> Rezaul Chowdhury </professorname>
 			<professorname> Robert Patro </professorname>
 			<professorname> Steven Skiena </professorname>
@@ -85,6 +85,7 @@
 			<professorname> Jennifer Wong-Ma </professorname>
 			<professorname> Erez Zadok </professorname>
 			<professorname> Rong Zhao </professorname>
+		</research>
 		<research>
 			<groupname>Information Assurance and Security</groupname>
 			<professorname> Tzi-cker Chiueh </professorname>
@@ -105,6 +106,7 @@
 			<professorname> Radu Sion </professorname>
 			<professorname> Scott Stoller </professorname>
 			<professorname> Erez Zadok </professorname>
+		</research>
 		<research>
 			<groupname>Information Management</groupname>
 			<professorname> Leman Akoglu </professorname>
