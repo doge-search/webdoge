@@ -1,0 +1,512 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Computational Biology Department</groupname>
+			<professorname>Ziv Bar-Joseph</professorname>
+			<professorname>Abdullah Cicek</professorname>
+			<professorname>Phillip Compeau</professorname>
+			<professorname>Veronica Hinman</professorname>
+			<professorname>Valentin Ilyin</professorname>
+			<professorname>Joshua Kangas</professorname>
+			<professorname>Se Young Kim</professorname>
+			<professorname>Carl Kingsford</professorname>
+			<professorname>Christopher Langmead</professorname>
+			<professorname>Heewook Lee</professorname>
+			<professorname>Antonio-Javier Lopez</professorname>
+			<professorname>Jian Ma</professorname>
+			<professorname>Guillaume Marcais</professorname>
+			<professorname>Charles Mcmanus</professorname>
+			<professorname>Robert Murphy</professorname>
+			<professorname>Armaghan Naik</professorname>
+			<professorname>Andreas Pfenning</professorname>
+			<professorname>Ashok Rajaraman</professorname>
+			<professorname>Kathryn Roeder</professorname>
+			<professorname>Gustavo Rohde</professorname>
+			<professorname>Matthew Ruffalo</professorname>
+			<professorname>Jeff Schneider</professorname>
+			<professorname>Russell Schwartz</professorname>
+			<professorname>Mingfu Shao</professorname>
+			<professorname>Subra Suresh</professorname>
+			<professorname>Dechao Tian</professorname>
+			<professorname>Du Vu</professorname>
+			<professorname>Wei Wu</professorname>
+			<professorname>Eric Xing</professorname>
+			<professorname>Ge Yang</professorname>
+		</research>
+		<research>
+			<groupname>Computer Science Department</groupname>
+			<professorname>Umut Acar</professorname>
+			<professorname>Anil Ada</professorname>
+			<professorname>Victor Adamchik</professorname>
+			<professorname>David Andersen</professorname>
+			<professorname>Eric Anderson</professorname>
+			<professorname>Ann Anderson</professorname>
+			<professorname>Maria Balcan</professorname>
+			<professorname>Stephanie Balzer</professorname>
+			<professorname>Hans Berliner</professorname>
+			<professorname>Guy Blelloch</professorname>
+			<professorname>Avrim Blum</professorname>
+			<professorname>Lenore Blum</professorname>
+			<professorname>Manuel Blum</professorname>
+			<professorname>Houda Bouamor</professorname>
+			<professorname>Stephen Brookes</professorname>
+			<professorname>David Brumley</professorname>
+			<professorname>Emma Brunskill</professorname>
+			<professorname>Randal Bryant</professorname>
+			<professorname>Ioannis Caragiannis</professorname>
+			<professorname>Jacobo Carrasquel</professorname>
+			<professorname>Iliano Cervesato</professorname>
+			<professorname>Panos Chrysanthis</professorname>
+			<professorname>Edmund Clarke</professorname>
+			<professorname>Thomas Cortina</professorname>
+			<professorname>Keenan Crane</professorname>
+			<professorname>Karl Crary</professorname>
+			<professorname>Roger Dannenberg</professorname>
+			<professorname>Anupam Datta</professorname>
+			<professorname>David Eckhardt</professorname>
+			<professorname>Michael Erdmann</professorname>
+			<professorname>Scott Fahlman</professorname>
+			<professorname>Christos Faloutsos</professorname>
+			<professorname>Kayvon Fatahalian</professorname>
+			<professorname>Matthew Fredrikson</professorname>
+			<professorname>Alan Frieze</professorname>
+			<professorname>Carol Frieze</professorname>
+			<professorname>Gregory Ganger</professorname>
+			<professorname>David Garlan</professorname>
+			<professorname>Wolfgang Gatterbauer</professorname>
+			<professorname>Phillip Gibbons</professorname>
+			<professorname>Garth Gibson</professorname>
+			<professorname>Virgil Gligor</professorname>
+			<professorname>Seth Goldstein</professorname>
+			<professorname>Ananda Gunawardena</professorname>
+			<professorname>Anupam Gupta</professorname>
+			<professorname>Venkatesan Guruswami</professorname>
+			<professorname>Bernhard Haeupler</professorname>
+			<professorname>Mohammad Hammoud</professorname>
+			<professorname>Mor Harchol-Balter</professorname>
+			<professorname>Robert Harper</professorname>
+			<professorname>Khaled Harras</professorname>
+			<professorname>Alexander Hauptmann</professorname>
+			<professorname>Jessica Hodgins</professorname>
+			<professorname>Jan Hoffmann</professorname>
+			<professorname>Farnam Jahanian</professorname>
+			<professorname>Ran Ji</professorname>
+			<professorname>Michael Kaminsky</professorname>
+			<professorname>Takeo Kanade</professorname>
+			<professorname>Christos Kapoutsis</professorname>
+			<professorname>Zeliha Dilsun Kaynar</professorname>
+			<professorname>Gregory Kesden</professorname>
+			<professorname>Zico Kolter</professorname>
+			<professorname>David Kosbie</professorname>
+			<professorname>Ioannis Koutis</professorname>
+			<professorname>Alexandros Labrinidis</professorname>
+			<professorname>Tai-Sing Lee</professorname>
+			<professorname>Golan Levin</professorname>
+			<professorname>Hyeontaek Lim</professorname>
+			<professorname>Brandon Lucia</professorname>
+			<professorname>Matthew Mason</professorname>
+			<professorname>Roy Maxion</professorname>
+			<professorname>David Mckeown</professorname>
+			<professorname>Gary Miller</professorname>
+			<professorname>Andrew Moore</professorname>
+			<professorname>Edward Morehouse</professorname>
+			<professorname>Todd Mowry</professorname>
+			<professorname>Onur Mutlu</professorname>
+			<professorname>Swaprava Nath</professorname>
+			<professorname>Ryan O'Donnell</professorname>
+			<professorname>David O'Hallaron</professorname>
+			<professorname>Kemal Oflazer</professorname>
+			<professorname>Rui Manuel Pacheco Meireles</professorname>
+			<professorname>Andrew Pavlo</professorname>
+			<professorname>Adrian Perrig</professorname>
+			<professorname>Padmanabhan Pillai</professorname>
+			<professorname>Andre Platzer</professorname>
+			<professorname>Nancy Pollard</professorname>
+			<professorname>Ariel Procaccia</professorname>
+			<professorname>Brian Railing</professorname>
+			<professorname>Bhiksha Ramakrishnan</professorname>
+			<professorname>Ramamoorthi Ravi</professorname>
+			<professorname>Ankit Rawat</professorname>
+			<professorname>Saquib Razak</professorname>
+			<professorname>Raj Reddy</professorname>
+			<professorname>Margaret Reid-Miller</professorname>
+			<professorname>Steven Rudich</professorname>
+			<professorname>Alexander Rudnicky</professorname>
+			<professorname>Majd Sakr</professorname>
+			<professorname>Raja Sambasivan</professorname>
+			<professorname>Tuomas Sandholm</professorname>
+			<professorname>Thierry Sans</professorname>
+			<professorname>Mahadev Satyanarayanan</professorname>
+			<professorname>Russell Schwartz</professorname>
+			<professorname>Dana Scott</professorname>
+			<professorname>Vyas Sekar</professorname>
+			<professorname>Srinivasan Seshan</professorname>
+			<professorname>Robert Simmons</professorname>
+			<professorname>Reid Simmons</professorname>
+			<professorname>Daniel Sleator</professorname>
+			<professorname>Peter Steenkiste</professorname>
+			<professorname>Mark Stehlik</professorname>
+			<professorname>Klaus Sutner</professorname>
+			<professorname>Philip Thomas</professorname>
+			<professorname>David Touretzky</professorname>
+			<professorname>Helmut Veith</professorname>
+			<professorname>Manuela M. Veloso</professorname>
+			<professorname>Luis Von Ahn</professorname>
+			<professorname>Howard Wactlar</professorname>
+			<professorname>John Wilkes</professorname>
+			<professorname>Mary Wootters</professorname>
+			<professorname>Hyrum Wright</professorname>
+			<professorname>Jean Yang</professorname>
+			<professorname>Hui Zhang</professorname>
+			<professorname>Yair Zick</professorname>
+		</research>
+		<research>
+			<groupname>Human-Computer Interaction Institute</groupname>
+			<professorname>Vincent Aleven</professorname>
+			<professorname>Tevfik Oytun Aloglu</professorname>
+			<professorname>Mary Amasia</professorname>
+			<professorname>Simone Ashby</professorname>
+			<professorname>Christopher Atkeson</professorname>
+			<professorname>James Auger</professorname>
+			<professorname>Sang Won Bae</professorname>
+			<professorname>Zhen Bai</professorname>
+			<professorname>Zhen Bai</professorname>
+			<professorname>Laura Ballay</professorname>
+			<professorname>Sergi Bermudez Badia</professorname>
+			<professorname>Karen Berntsen</professorname>
+			<professorname>Jeffrey Bigham</professorname>
+			<professorname>Peter Brusilovsky</professorname>
+			<professorname>Monica da Silva Cameirao</professorname>
+			<professorname>Pedro Campos</professorname>
+			<professorname>Chu Sern Joel Chan</professorname>
+			<professorname>Qiang Alex Chen</professorname>
+			<professorname>Yoram Chisik</professorname>
+			<professorname>Sunyoung Cho</professorname>
+			<professorname>Jaemin Chun</professorname>
+			<professorname>Marisa Cohn</professorname>
+			<professorname>Albert Corbett</professorname>
+			<professorname>Chris Csikszentmihalyi</professorname>
+			<professorname>Laura Dabbish</professorname>
+			<professorname>David De Aveiro</professorname>
+			<professorname>Gokul Krishnaa Devaraju</professorname>
+			<professorname>Anind Dey</professorname>
+			<professorname>Afsaneh Doryab</professorname>
+			<professorname>Michael Eagle</professorname>
+			<professorname>Jodi Forlizzi</professorname>
+			<professorname>Soniya Gadgil</professorname>
+			<professorname>Jessica Hammer</professorname>
+			<professorname>Julian Hanna</professorname>
+			<professorname>Christopher Harrison</professorname>
+			<professorname>Eiji Hayashi</professorname>
+			<professorname>Jason Hong</professorname>
+			<professorname>Scott Hudson</professorname>
+			<professorname>Susana Bong-Keum Jeong</professorname>
+			<professorname>Bonnie John</professorname>
+			<professorname>Evangelos Karapanos</professorname>
+			<professorname>Geoff Kaufman</professorname>
+			<professorname>Aisling Kelliher</professorname>
+			<professorname>Sara Kiesler</professorname>
+			<professorname>Seungjun Kim</professorname>
+			<professorname>Kyung-Joong Kim</professorname>
+			<professorname>Aniket Kittur</professorname>
+			<professorname>Kenneth Koedinger</professorname>
+			<professorname>Robert Kraut</professorname>
+			<professorname>Chinmay Kulkarni</professorname>
+			<professorname>Kyung-Taek Lee</professorname>
+			<professorname>Jill Fain Lehman</professorname>
+			<professorname>Jiajia Li</professorname>
+			<professorname>Marti Louw</professorname>
+			<professorname>Ioanna Lykourentzou</professorname>
+			<professorname>Olga Lyra</professorname>
+			<professorname>Jennifer Mankoff</professorname>
+			<professorname>Yoichi Matsuyama</professorname>
+			<professorname>Bruce Mclaren</professorname>
+			<professorname>Fernando Morgado Dias</professorname>
+			<professorname>James Morris</professorname>
+			<professorname>Brad Myers</professorname>
+			<professorname>Eben Myers</professorname>
+			<professorname>Hongbo Ni</professorname>
+			<professorname>Yuuki Nishiyama</professorname>
+			<professorname>Valentina Nisi</professorname>
+			<professorname>Nuno Nunes</professorname>
+			<professorname>Amy Ogan</professorname>
+			<professorname>Dulce Pacheco</professorname>
+			<professorname>Jung Wook Park</professorname>
+			<professorname>Maria Luz Rello Sanchez</professorname>
+			<professorname>Gemma Francisca Rodrigues</professorname>
+			<professorname>Carolyn Rose</professorname>
+			<professorname>Nikol Rummel</professorname>
+			<professorname>Daniel Siewiorek</professorname>
+			<professorname>Jose Luis Cardoso Silva</professorname>
+			<professorname>Peter Simon</professorname>
+			<professorname>John Stamper</professorname>
+			<professorname>Peter Wardrip</professorname>
+			<professorname>Sha Zhao</professorname>
+			<professorname>Yu Zhong</professorname>
+			<professorname>John Zimmerman</professorname>
+		</research>
+		<research>
+			<groupname>Institute for Software Research</groupname>
+			<professorname>Yuvraj Agarwal</professorname>
+			<professorname>Jonathan Aldrich</professorname>
+			<professorname>Mads Andersen</professorname>
+			<professorname>Vasilii Artemev</professorname>
+			<professorname>Ruhan Azad</professorname>
+			<professorname>Matthew Bass</professorname>
+			<professorname>Ljudevit Bauer</professorname>
+			<professorname>Joshua Bloch</professorname>
+			<professorname>Christopher Bogart</professorname>
+			<professorname>Travis Breaux</professorname>
+			<professorname>Javier Camara Moreno</professorname>
+			<professorname>Kathleen Carley</professorname>
+			<professorname>Lakshmi Chinna Thambi</professorname>
+			<professorname>Lorrie Cranor</professorname>
+			<professorname>Joao De Sousa</professorname>
+			<professorname>Jeffrey Eppinger</professorname>
+			<professorname>Poovammal Eswaran</professorname>
+			<professorname>David Farber</professorname>
+			<professorname>Edward Fredkin</professorname>
+			<professorname>Praveen Garimella</professorname>
+			<professorname>David Garlan</professorname>
+			<professorname>Charles Garrod</professorname>
+			<professorname>James Herbsleb</professorname>
+			<professorname>Sophie Jeong</professorname>
+			<professorname>Christian Kastner</professorname>
+			<professorname>Zico Kolter</professorname>
+			<professorname>Ram Konduru</professorname>
+			<professorname>Anthony Lattanze</professorname>
+			<professorname>Claire Le Goues</professorname>
+			<professorname>Terry Eun Sun Lee</professorname>
+			<professorname>Ganesh Mani</professorname>
+			<professorname>Eduardo Miranda</professorname>
+			<professorname>Jason Mussitsch</professorname>
+			<professorname>Juergen Pfeffer</professorname>
+			<professorname>Annieuthra Rajan</professorname>
+			<professorname>Raj Reddy</professorname>
+			<professorname>James Riel</professorname>
+			<professorname>David Root</professorname>
+			<professorname>Manuel Rosso-Llopart</professorname>
+			<professorname>Norman Sadeh-Koniecpol</professorname>
+			<professorname>Florian Schaub</professorname>
+			<professorname>William Scherlis</professorname>
+			<professorname>Bradley Schmerl</professorname>
+			<professorname>Rajeeva Shah</professorname>
+			<professorname>Michael Shamos</professorname>
+			<professorname>Mary Shaw</professorname>
+			<professorname>Douglas Sicker</professorname>
+			<professorname>Kiron Skinner</professorname>
+			<professorname>Lingyun Sun</professorname>
+			<professorname>Joshua Sunshine</professorname>
+			<professorname>Sujata Telang</professorname>
+			<professorname>Erik Trainer</professorname>
+			<professorname>Florian Wenninger</professorname>
+			<professorname>Ales Zivkovic</professorname>
+			<professorname>Andrey Zykov</professorname>
+		</research>
+		<research>
+			<groupname>Language Technologies Institute</groupname>
+			<professorname>James Baker</professorname>
+			<professorname>Miguel Ballesteros</professorname>
+			<professorname>Tadas Baltrusaitis</professorname>
+			<professorname>Taylor Berg-Kirkpatrick</professorname>
+			<professorname>Alan Black</professorname>
+			<professorname>Ralf Brown</professorname>
+			<professorname>James Callan</professorname>
+			<professorname>Justine Cassell</professorname>
+			<professorname>Kai-Min Chang</professorname>
+			<professorname>Xiaojun Chang</professorname>
+			<professorname>Ming Chen</professorname>
+			<professorname>De Cheng</professorname>
+			<professorname>William Cohen</professorname>
+			<professorname>Christopher Dyer</professorname>
+			<professorname>Maxine Eskenazi</professorname>
+			<professorname>Scott Fahlman</professorname>
+			<professorname>Oliver Ferschke</professorname>
+			<professorname>Robert Frederking</professorname>
+			<professorname>Madhavi Ganapathiraju</professorname>
+			<professorname>Anatole Gershman</professorname>
+			<professorname>Matthias Grabmair</professorname>
+			<professorname>Alexander Hauptmann</professorname>
+			<professorname>Eduard Hovy</professorname>
+			<professorname>Xinyang Jiang</professorname>
+			<professorname>Alon Lavie</professorname>
+			<professorname>Kyusong Lee</professorname>
+			<professorname>Lorraine Levin</professorname>
+			<professorname>Patrick Littell</professorname>
+			<professorname>Mengyi Liu</professorname>
+			<professorname>Minnan Luo</professorname>
+			<professorname>Zhigang Ma</professorname>
+			<professorname>Florian Metze</professorname>
+			<professorname>Teruko Mitamura</professorname>
+			<professorname>Louis-Philippe Morency</professorname>
+			<professorname>David Mortensen</professorname>
+			<professorname>Shu Nakayama</professorname>
+			<professorname>Graham Neubig</professorname>
+			<professorname>Eric Nyberg</professorname>
+			<professorname>Pingbo Pan</professorname>
+			<professorname>Bhiksha Ramakrishnan</professorname>
+			<professorname>Marvin Ritter</professorname>
+			<professorname>Carolyn Rose</professorname>
+			<professorname>Roni Rosenfeld</professorname>
+			<professorname>Kotaro Sakamoto</professorname>
+			<professorname>Tanja Schultz</professorname>
+			<professorname>Michael Shamos</professorname>
+			<professorname>Rita Singh</professorname>
+			<professorname>Noah Smith</professorname>
+			<professorname>Ravi Starzl</professorname>
+			<professorname>Jiande Sun</professorname>
+			<professorname>Anthony Tomasic</professorname>
+			<professorname>Raul Valdes-Perez</professorname>
+			<professorname>Stephan Vogel</professorname>
+			<professorname>Du Vu</professorname>
+			<professorname>Alexander Waibel</professorname>
+			<professorname>Monika Woszczyna</professorname>
+			<professorname>Eric Xing</professorname>
+			<professorname>Yiming Yang</professorname>
+			<professorname>Zhicheng Zhao</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning Department</groupname>
+			<professorname>Amos Azaria</professorname>
+			<professorname>Maria Balcan</professorname>
+			<professorname>Ziv Bar-Joseph</professorname>
+			<professorname>Lidong Bing</professorname>
+			<professorname>William Bishop</professorname>
+			<professorname>William Cohen</professorname>
+			<professorname>Gautam Dasarathy</professorname>
+			<professorname>Aynur Dayanik</professorname>
+			<professorname>Christos Faloutsos</professorname>
+			<professorname>Stephen Fienberg</professorname>
+			<professorname>Geoffrey Gordon</professorname>
+			<professorname>Matthew Gormley</professorname>
+			<professorname>Jeronimo Hernandez Gonzalez</professorname>
+			<professorname>Robert Kass</professorname>
+			<professorname>Marc Law</professorname>
+			<professorname>Min Kyung Lee</professorname>
+			<professorname>Jianxin Li</professorname>
+			<professorname>Jin Li</professorname>
+			<professorname>Ari Lightman</professorname>
+			<professorname>Ziqi Liu</professorname>
+			<professorname>Tom Mitchell</professorname>
+			<professorname>Andrew Moore</professorname>
+			<professorname>Robert Murphy</professorname>
+			<professorname>Ndapandula Nakashole</professorname>
+			<professorname>Kamal Nigam</professorname>
+			<professorname>Barnabas Poczos</professorname>
+			<professorname>Oscar Romero Lopez</professorname>
+			<professorname>Roni Rosenfeld</professorname>
+			<professorname>Aarti Singh</professorname>
+			<professorname>Alexander Smola</professorname>
+			<professorname>Larry Wasserman</professorname>
+			<professorname>Andrew Wilson</professorname>
+			<professorname>Eric Xing</professorname>
+			<professorname>Bishan Yang</professorname>
+			<professorname>Yaoliang Yu</professorname>
+			<professorname>Weiren Yu</professorname>
+			<professorname>Yi Zhou</professorname>
+			<professorname>Jun Zhu</professorname>
+		</research>
+		<research>
+			<groupname>Robotics Institute</groupname>
+			<professorname>Omead Amidi</professorname>
+			<professorname>Dimitrios Apostolopoulos</professorname>
+			<professorname>Christopher Atkeson</professorname>
+			<professorname>James Bagnell</professorname>
+			<professorname>Christopher Baker</professorname>
+			<professorname>Darrin Bentivegna</professorname>
+			<professorname>Bambi Brewer</professorname>
+			<professorname>Brett Browning</professorname>
+			<professorname>Clifford Brubaker</professorname>
+			<professorname>Steven Chase</professorname>
+			<professorname>Howard Choset</professorname>
+			<professorname>Jeffrey Cohn</professorname>
+			<professorname>Steve Collins</professorname>
+			<professorname>Rory Cooper</professorname>
+			<professorname>Stelian Coros</professorname>
+			<professorname>Keenan Crane</professorname>
+			<professorname>Fernando De La Torre Frade</professorname>
+			<professorname>M Dias</professorname>
+			<professorname>Anthony Digioia</professorname>
+			<professorname>John Dolan</professorname>
+			<professorname>Artur Dubrawski</professorname>
+			<professorname>Alexei Efros</professorname>
+			<professorname>Michael Erdmann</professorname>
+			<professorname>Gary Fedder</professorname>
+			<professorname>Edward Fredkin</professorname>
+			<professorname>John Galeotti</professorname>
+			<professorname>Orhan Gencaga</professorname>
+			<professorname>Michael George</professorname>
+			<professorname>Hartmut Geyer</professorname>
+			<professorname>Jose Gonzalez-Mora</professorname>
+			<professorname>Jay Gowdy</professorname>
+			<professorname>Abhinav Gupta</professorname>
+			<professorname>Martial Hebert</professorname>
+			<professorname>Herman Herman</professorname>
+			<professorname>Jessica Hodgins</professorname>
+			<professorname>Ralph Hollis</professorname>
+			<professorname>Daniel Huber</professorname>
+			<professorname>Branislav Jaramaz</professorname>
+			<professorname>Michael Kaess</professorname>
+			<professorname>Takeo Kanade</professorname>
+			<professorname>George Kantor</professorname>
+			<professorname>Levent Kara</professorname>
+			<professorname>Alonzo Kelly</professorname>
+			<professorname>Pradeep Khosla</professorname>
+			<professorname>Kris Kitani</professorname>
+			<professorname>Zico Kolter</professorname>
+			<professorname>James Kuffner</professorname>
+			<professorname>Michel Laverne</professorname>
+			<professorname>Maxim Likhachev</professorname>
+			<professorname>Simon Lucey</professorname>
+			<professorname>Carmel Majidi</professorname>
+			<professorname>Richard Martin</professorname>
+			<professorname>Matthew Mason</professorname>
+			<professorname>Pyry Matikainen</professorname>
+			<professorname>Iain Matthews</professorname>
+			<professorname>James Mccann</professorname>
+			<professorname>Nathan Michael</professorname>
+			<professorname>Andrew Moore</professorname>
+			<professorname>Hans Moravec</professorname>
+			<professorname>Jack Mostow</professorname>
+			<professorname>Bart Nabbe</professorname>
+			<professorname>Srinivasa Narasimhan</professorname>
+			<professorname>Illah Nourbakhsh</professorname>
+			<professorname>Stephen Nuske</professorname>
+			<professorname>Yong-Lae Park</professorname>
+			<professorname>Eric Paulos</professorname>
+			<professorname>Andre Platzer</professorname>
+			<professorname>Nancy Pollard</professorname>
+			<professorname>Deva Ramanan</professorname>
+			<professorname>Raj Reddy</professorname>
+			<professorname>Cameron Riviere</professorname>
+			<professorname>Olga Russakovsky</professorname>
+			<professorname>James Sargent</professorname>
+			<professorname>Sebastian Scherer</professorname>
+			<professorname>Jeff Schneider</professorname>
+			<professorname>Andrew Schwartz</professorname>
+			<professorname>Yaser Sheikh</professorname>
+			<professorname>Kenji Shimada</professorname>
+			<professorname>Mel Siegel</professorname>
+			<professorname>Leonid Sigal</professorname>
+			<professorname>Reid Simmons</professorname>
+			<professorname>Sanjiv Singh</professorname>
+			<professorname>Metin Sitti</professorname>
+			<professorname>Stephen Smith</professorname>
+			<professorname>Koushil Sreenath</professorname>
+			<professorname>Siddhartha Srinivasa</professorname>
+			<professorname>Aaron Steinfeld</professorname>
+			<professorname>Anthony Stentz</professorname>
+			<professorname>George Stetten</professorname>
+			<professorname>Katia Sycara</professorname>
+			<professorname>Charles Thorpe</professorname>
+			<professorname>David Touretzky</professorname>
+			<professorname>Carlos Vallespi-Gonzalez</professorname>
+			<professorname>Jean-Sebastien Valois</professorname>
+			<professorname>Prasanna Velagapudi</professorname>
+			<professorname>Manuela M. Veloso</professorname>
+			<professorname>Howard Wactlar</professorname>
+			<professorname>Lee Weiss</professorname>
+			<professorname>David Wettergreen</professorname>
+			<professorname>William Red Whittaker</professorname>
+		</research>
+	</institution>
