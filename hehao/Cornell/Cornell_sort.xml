@@ -1,0 +1,287 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>David Albonesi</name>
+			<papers>40.9380952381</papers>
+		</professor>
+		<professor>
+			<name>Erik Andersen</name>
+			<papers>11.2678571429</papers>
+		</professor>
+		<professor>
+			<name>Graeme Bailey</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Kavita Bala</name>
+			<papers>26.1833333333</papers>
+		</professor>
+		<professor>
+			<name>Christopher Batten</name>
+			<papers>8.8</papers>
+		</professor>
+		<professor>
+			<name>Serge Belongie</name>
+			<papers>54.405952381</papers>
+		</professor>
+		<professor>
+			<name>David Bindel</name>
+			<papers>17.8088235294</papers>
+		</professor>
+		<professor>
+			<name>Ken Birman</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Anne Bracy</name>
+			<papers>5.75</papers>
+		</professor>
+		<professor>
+			<name>Claire Cardie</name>
+			<papers>57.9178571429</papers>
+		</professor>
+		<professor>
+			<name>Tsuhan Chen</name>
+			<papers>131.45</papers>
+		</professor>
+		<professor>
+			<name>Yudong Chen</name>
+			<papers>33.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Tanzeem Choudhury</name>
+			<papers>27.1198523699</papers>
+		</professor>
+		<professor>
+			<name>Michael Clarkson</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Robert L. Constable</name>
+			<papers>62.6095238095</papers>
+		</professor>
+		<professor>
+			<name>Dan Cosley</name>
+			<papers>38.6857142857</papers>
+		</professor>
+		<professor>
+			<name>Cristian Danescu Niculescu-Mizil</name>
+			<papers>24.4166666667</papers>
+		</professor>
+		<professor>
+			<name>Alan J. Demers</name>
+			<papers>50.5166666667</papers>
+		</professor>
+		<professor>
+			<name>Shimon Edelman</name>
+			<papers>30.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Deborah Estrin</name>
+			<papers>89.4758047508</papers>
+		</professor>
+		<professor>
+			<name>K-Y. Daisy Fan</name>
+			<papers>0.833333333333</papers>
+		</professor>
+		<professor>
+			<name>Nate Foster</name>
+			<papers>16.8285714286</papers>
+		</professor>
+		<professor>
+			<name>Michael D. George</name>
+			<papers>1.25</papers>
+		</professor>
+		<professor>
+			<name>Carla Gomes</name>
+			<papers>5.83333333333</papers>
+		</professor>
+		<professor>
+			<name>Donald P. Greenberg</name>
+			<papers>38.75</papers>
+		</professor>
+		<professor>
+			<name>David Gries</name>
+			<papers>92.5720238095</papers>
+		</professor>
+		<professor>
+			<name>Francois Guimbretiere</name>
+			<papers>27.025</papers>
+		</professor>
+		<professor>
+			<name>Joseph Y. Halpern</name>
+			<papers>391.4</papers>
+		</professor>
+		<professor>
+			<name>Juris Hartmanis</name>
+			<papers>114.666666667</papers>
+		</professor>
+		<professor>
+			<name>John E. Hopcroft</name>
+			<papers>89.1833333333</papers>
+		</professor>
+		<professor>
+			<name>Daniel P. Huttenlocher</name>
+			<papers>49.7833333333</papers>
+		</professor>
+		<professor>
+			<name>Thorsten Joachims</name>
+			<papers>74.425</papers>
+		</professor>
+		<professor>
+			<name>Alon Keinan</name>
+			<papers>8.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Jon Kleinberg</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Robert Kleinberg</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Ross Knepper</name>
+			<papers>20.4761904762</papers>
+		</professor>
+		<professor>
+			<name>Dexter Kozen</name>
+			<papers>116.758823529</papers>
+		</professor>
+		<professor>
+			<name>Hadas Kress-Gazit</name>
+			<papers>23.8595238095</papers>
+		</professor>
+		<professor>
+			<name>Lillian Lee</name>
+			<papers>43.1166666667</papers>
+		</professor>
+		<professor>
+			<name>Rajit Manohar</name>
+			<papers>35.4774599275</papers>
+		</professor>
+		<professor>
+			<name>Steve Marschner</name>
+			<papers>8.31904761905</papers>
+		</professor>
+		<professor>
+			<name>Jose F. Martinez</name>
+			<papers>1.5</papers>
+		</professor>
+		<professor>
+			<name>David Mimno</name>
+			<papers>21.3845238095</papers>
+		</professor>
+		<professor>
+			<name>Greg Morrisett</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Andrew Myers</name>
+			<papers>5.83333333333</papers>
+		</professor>
+		<professor>
+			<name>Anil Nerode</name>
+			<papers>53.8666666667</papers>
+		</professor>
+		<professor>
+			<name>Tim Novikoff</name>
+			<papers>0.833333333333</papers>
+		</professor>
+		<professor>
+			<name>Rafael Pass</name>
+			<papers>87.6428571429</papers>
+		</professor>
+		<professor>
+			<name>Tom Ristenpart</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Fred B. Schneider</name>
+			<papers>86.6523809524</papers>
+		</professor>
+		<professor>
+			<name>Bart Selman</name>
+			<papers>80.2833333333</papers>
+		</professor>
+		<professor>
+			<name>Phoebe Sengers</name>
+			<papers>28.475</papers>
+		</professor>
+		<professor>
+			<name>Vitaly Shmatikov</name>
+			<papers>42.2261904762</papers>
+		</professor>
+		<professor>
+			<name>David B. Shmoys</name>
+			<papers>53.7337662338</papers>
+		</professor>
+		<professor>
+			<name>Emin Gün Sirer</name>
+			<papers>27.7095238095</papers>
+		</professor>
+		<professor>
+			<name>Noah Snavely</name>
+			<papers>31.8666666667</papers>
+		</professor>
+		<professor>
+			<name>G. Edward Suh</name>
+			<papers>26.4166666667</papers>
+		</professor>
+		<professor>
+			<name>A. Kevin Tang</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Eva Tardos</name>
+			<papers>64.519047619</papers>
+		</professor>
+		<professor>
+			<name>Ross Tate</name>
+			<papers>7.08333333333</papers>
+		</professor>
+		<professor>
+			<name>Tim Teitelbaum</name>
+			<papers>14.6</papers>
+		</professor>
+		<professor>
+			<name>Charles Van Loan</name>
+			<papers>10.4166666667</papers>
+		</professor>
+		<professor>
+			<name>Robbert van Renesse</name>
+			<papers>81.7341153128</papers>
+		</professor>
+		<professor>
+			<name>Hakim Weatherspoon</name>
+			<papers>19.2497076023</papers>
+		</professor>
+		<professor>
+			<name>Kilian Weinberger</name>
+			<papers>32.5595238095</papers>
+		</professor>
+		<professor>
+			<name>Walker White</name>
+			<papers>10.5007936508</papers>
+		</professor>
+		<professor>
+			<name>Stephen Wicker</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Amy Williams</name>
+			<papers>3.0</papers>
+		</professor>
+		<professor>
+			<name>David Williamson</name>
+			<papers>1.58333333333</papers>
+		</professor>
+		<professor>
+			<name>Ramin Zabih</name>
+			<papers>46.7928571429</papers>
+		</professor>
+		<professor>
+			<name>Zhiru Zhan</name>
+			<papers>12.4666666667</papers>
+		</professor>
+	</institution>

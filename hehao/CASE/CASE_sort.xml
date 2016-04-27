@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Harold S. Connamacher</name>
+			<papers>6.0</papers>
+		</professor>
+		<professor>
+			<name>Chris Fietkiewicz</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Mehmet Koyuturk</name>
+			<papers>31.4</papers>
+		</professor>
+		<professor>
+			<name>Michael Lewicki</name>
+			<papers>15.0</papers>
+		</professor>
+		<professor>
+			<name>Jing Li</name>
+			<papers>488.174242424</papers>
+		</professor>
+		<professor>
+			<name>Vincenzo Liberatore</name>
+			<papers>24.2333333333</papers>
+		</professor>
+		<professor>
+			<name>Tekin Ozsoyoglu</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Z. Meral Ozsoyoglu</name>
+			<papers>63.5853535354</papers>
+		</professor>
+		<professor>
+			<name>Andy Podgurski</name>
+			<papers>28.2178571429</papers>
+		</professor>
+		<professor>
+			<name>Michael Rabinovich</name>
+			<papers>42.0666666667</papers>
+		</professor>
+		<professor>
+			<name>Soumya Ray</name>
+			<papers>22.1523809524</papers>
+		</professor>
+		<professor>
+			<name>Xiang Zhang</name>
+			<papers>160.831746032</papers>
+		</professor>
+		<professor>
+			<name>Marc Buchner</name>
+			<papers>1.25</papers>
+		</professor>
+		<professor>
+			<name>M. Cenk Cavusoglu</name>
+			<papers>21.9333333333</papers>
+		</professor>
+		<professor>
+			<name>Vira Chankong</name>
+			<papers>2.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Philip Feng</name>
+			<papers>0.342857142857</papers>
+		</professor>
+		<professor>
+			<name>Mario Garcia-Sanz</name>
+			<papers>1.5</papers>
+		</professor>
+		<professor>
+			<name>Mingguo Hong</name>
+			<papers>1.53333333333</papers>
+		</professor>
+		<professor>
+			<name>Ming-Chun Huang</name>
+			<papers>15.7261904762</papers>
+		</professor>
+		<professor>
+			<name>Gregory S.Lee</name>
+			<papers>4.75</papers>
+		</professor>
+		<professor>
+			<name>Pan Li</name>
+			<papers>11.7833333333</papers>
+		</professor>
+		<professor>
+			<name>Wei Lin</name>
+			<papers>59.8833333333</papers>
+		</professor>
+		<professor>
+			<name>Kenneth A. Loparo</name>
+			<papers>11.2861111111</papers>
+		</professor>
+		<professor>
+			<name>Behnam Malakooti</name>
+			<papers>22.7833333333</papers>
+		</professor>
+		<professor>
+			<name>Soumyajit Mandal</name>
+			<papers>11.8666666667</papers>
+		</professor>
+		<professor>
+			<name>Mehran Mehregany</name>
+			<papers>1.47619047619</papers>
+		</professor>
+		<professor>
+			<name>Francis FrankMerat</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Pedram Mohseni</name>
+			<papers>12.9357142857</papers>
+		</professor>
+		<professor>
+			<name>Wyatt Newman</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Christos Papachristou</name>
+			<papers>3.25</papers>
+		</professor>
+		<professor>
+			<name>Marija Prica</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Daniel Saab </name>
+			<papers>34.9166666667</papers>
+		</professor>
+		<professor>
+			<name>Narasingarao Sree Sreenath</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Hongping Zhao</name>
+			<papers>0.333333333333</papers>
+		</professor>
+		<professor>
+			<name>Christian A. Zorma</name>
+			<papers>-1</papers>
+		</professor>
+	</institution>

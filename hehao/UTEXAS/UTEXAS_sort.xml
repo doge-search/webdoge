@@ -1,0 +1,287 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Lorenzo Alvisi </name>
+			<papers>46.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Chandrajit Bajaj </name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Dana H. Ballard </name>
+			<papers>60.5595238095</papers>
+		</professor>
+		<professor>
+			<name>Don Batory </name>
+			<papers>113.466666667</papers>
+		</professor>
+		<professor>
+			<name>Robert S. Boyer </name>
+			<papers>24.5</papers>
+		</professor>
+		<professor>
+			<name>James C. Browne  </name>
+			<papers>87.6115079365</papers>
+		</professor>
+		<professor>
+			<name>William C. Bulko </name>
+			<papers>2.0</papers>
+		</professor>
+		<professor>
+			<name>Doug Burger </name>
+			<papers>44.7880678358</papers>
+		</professor>
+		<professor>
+			<name>Philip E. Cannata </name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Vijay Chidambaram </name>
+			<papers>7.64285714286</papers>
+		</professor>
+		<professor>
+			<name>Alan Cline </name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>William Cook </name>
+			<papers>27.6666666667</papers>
+		</professor>
+		<professor>
+			<name>Michael Dahlin </name>
+			<papers>27.3857142857</papers>
+		</professor>
+		<professor>
+			<name>Inderjit Dhillon </name>
+			<papers>67.2428571429</papers>
+		</professor>
+		<professor>
+			<name>Thomas Dillig </name>
+			<papers>10.4166666667</papers>
+		</professor>
+		<professor>
+			<name>Isil Dillig </name>
+			<papers>22.0</papers>
+		</professor>
+		<professor>
+			<name>Glenn Downing </name>
+			<papers>2.0</papers>
+		</professor>
+		<professor>
+			<name>E. Allen Emerson </name>
+			<papers>87.9595238095</papers>
+		</professor>
+		<professor>
+			<name>Fares Fraij </name>
+			<papers>2.25</papers>
+		</professor>
+		<professor>
+			<name>Don Fussell </name>
+			<papers>2.66666666667</papers>
+		</professor>
+		<professor>
+			<name>Anna Gal </name>
+			<papers>50.5</papers>
+		</professor>
+		<professor>
+			<name>Ahmed Gheith </name>
+			<papers>6.92777777778</papers>
+		</professor>
+		<professor>
+			<name>M. G. Gouda </name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Kristen Grauman </name>
+			<papers>44.6666666667</papers>
+		</professor>
+		<professor>
+			<name>Marijn Heule </name>
+			<papers>44.15</papers>
+		</professor>
+		<professor>
+			<name>Warren A. Hunt Jr. </name>
+			<papers>31.4166666667</papers>
+		</professor>
+		<professor>
+			<name>Matt Kaufmann </name>
+			<papers>39.2833333333</papers>
+		</professor>
+		<professor>
+			<name>Stephen W. Keckler </name>
+			<papers>34.7907467532</papers>
+		</professor>
+		<professor>
+			<name>Adam Klivans </name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Benjamin J. Kuipers </name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Devdatta  Kulkarni </name>
+			<papers>13.1666666667</papers>
+		</professor>
+		<professor>
+			<name>Simon S. Lam </name>
+			<papers>80.0333333333</papers>
+		</professor>
+		<professor>
+			<name>Vladimir Lifschitz </name>
+			<papers>100.033333333</papers>
+		</professor>
+		<professor>
+			<name>Calvin Lin </name>
+			<papers>31.05</papers>
+		</professor>
+		<professor>
+			<name>Kathryn S. McKinley </name>
+			<papers>65.0714035964</papers>
+		</professor>
+		<professor>
+			<name>Risto Miikkulainen </name>
+			<papers>99.0777777778</papers>
+		</professor>
+		<professor>
+			<name>Daniel P. Miranker </name>
+			<papers>52.485515873</papers>
+		</professor>
+		<professor>
+			<name>Jayadev Misra </name>
+			<papers>69.0333333333</papers>
+		</professor>
+		<professor>
+			<name>Shyamal Mitra </name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Al Mok </name>
+			<papers>0.333333333333</papers>
+		</professor>
+		<professor>
+			<name>Raymond Mooney </name>
+			<papers>85.9833333333</papers>
+		</professor>
+		<professor>
+			<name>J Strother Moore  </name>
+			<papers>47.5833333333</papers>
+		</professor>
+		<professor>
+			<name>Margaret Myers </name>
+			<papers>2.47619047619</papers>
+		</professor>
+		<professor>
+			<name>Scott Niekum </name>
+			<papers>12.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Alison N. Norman </name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Gordon S. Novak Jr. </name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Simon Peter </name>
+			<papers>10.2833333333</papers>
+		</professor>
+		<professor>
+			<name>Keshav Pingali </name>
+			<papers>68.3532106782</papers>
+		</professor>
+		<professor>
+			<name>Greg Plaxton </name>
+			<papers>43.05</papers>
+		</professor>
+		<professor>
+			<name>Bruce Porter </name>
+			<papers>24.0264572845</papers>
+		</professor>
+		<professor>
+			<name>Bill Press </name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Eric Price </name>
+			<papers>20.8166666667</papers>
+		</professor>
+		<professor>
+			<name>Lili Qiu </name>
+			<papers>39.3916666667</papers>
+		</professor>
+		<professor>
+			<name>Vijaya Ramachandran </name>
+			<papers>69.2761904762</papers>
+		</professor>
+		<professor>
+			<name>Pradeep Ravikumar </name>
+			<papers>38.4166666667</papers>
+		</professor>
+		<professor>
+			<name>Jan Rellermeyer </name>
+			<papers>14.0833333333</papers>
+		</professor>
+		<professor>
+			<name>Elaine Alice Rich </name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Christopher Rossbach </name>
+			<papers>10.4166666667</papers>
+		</professor>
+		<professor>
+			<name>Michael D. Scott </name>
+			<papers>2.5</papers>
+		</professor>
+		<professor>
+			<name>Vitaly Shmatikov </name>
+			<papers>42.2261904762</papers>
+		</professor>
+		<professor>
+			<name>Peter Stone </name>
+			<papers>176.08015873</papers>
+		</professor>
+		<professor>
+			<name>Paul Toprac </name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Robert van de Geijn </name>
+			<papers>44.8892857143</papers>
+		</professor>
+		<professor>
+			<name>Etienne Vouga </name>
+			<papers>5.75</papers>
+		</professor>
+		<professor>
+			<name>Michael Walfish </name>
+			<papers>16.7634920635</papers>
+		</professor>
+		<professor>
+			<name>Tandy Warnow </name>
+			<papers>42.6761904762</papers>
+		</professor>
+		<professor>
+			<name>Brent Waters </name>
+			<papers>83.7428571429</papers>
+		</professor>
+		<professor>
+			<name>Emmett Witchel </name>
+			<papers>18.375</papers>
+		</professor>
+		<professor>
+			<name>William D. Young </name>
+			<papers>13.5666666667</papers>
+		</professor>
+		<professor>
+			<name>Yin Zhang </name>
+			<papers>140.239285714</papers>
+		</professor>
+		<professor>
+			<name>David Zuckerman</name>
+			<papers>47.0674603175</papers>
+		</professor>
+	</institution>

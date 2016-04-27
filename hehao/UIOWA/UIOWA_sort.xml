@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Octav Chipara</name>
+			<papers>18.7333333333</papers>
+		</professor>
+		<professor>
+			<name>James Cremer</name>
+			<papers>1.25</papers>
+		</professor>
+		<professor>
+			<name>Ines Z. Curto</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Sukumar Ghosh</name>
+			<papers>39.9166666667</papers>
+		</professor>
+		<professor>
+			<name>Ted Herman</name>
+			<papers>45.6428571429</papers>
+		</professor>
+		<professor>
+			<name>Juan Pablo Hourcade</name>
+			<papers>45.819047619</papers>
+		</professor>
+		<professor>
+			<name>Douglas W. Jones</name>
+			<papers>22.9761904762</papers>
+		</professor>
+		<professor>
+			<name>Joseph K. Kearney</name>
+			<papers>13.6452380952</papers>
+		</professor>
+		<professor>
+			<name>Suely Oliveira</name>
+			<papers>18.5333333333</papers>
+		</professor>
+		<professor>
+			<name>Sriram Pemmaraju</name>
+			<papers>45.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Daniel A. Reed</name>
+			<papers>54.8881063381</papers>
+		</professor>
+		<professor>
+			<name>Alberto Maria Segre</name>
+			<papers>26.7666666667</papers>
+		</professor>
+		<professor>
+			<name>Zubair Shafiq</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Padmini Srinivasan</name>
+			<papers>46.5244306418</papers>
+		</professor>
+		<professor>
+			<name>Aaron Stump</name>
+			<papers>36.5547008547</papers>
+		</professor>
+		<professor>
+			<name>Denise Szecsei</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Cesare Tinelli</name>
+			<papers>34.1511904762</papers>
+		</professor>
+		<professor>
+			<name>Kasturi R. Varadarajan</name>
+			<papers>42.3166666667</papers>
+		</professor>
+		<professor>
+			<name>Tianbao Yang</name>
+			<papers>49.6833333333</papers>
+		</professor>
+		<professor>
+			<name>Hantao Zhan</name>
+			<papers>49.2595238095</papers>
+		</professor>
+	</institution>

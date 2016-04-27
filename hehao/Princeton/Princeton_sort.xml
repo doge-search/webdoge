@@ -1,0 +1,187 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Andrew Appel</name>
+			<papers>80.0</papers>
+		</professor>
+		<professor>
+			<name>Mona Singh</name>
+			<papers>22.9</papers>
+		</professor>
+		<professor>
+			<name>Jaswinder Singh</name>
+			<papers>2.23333333333</papers>
+		</professor>
+		<professor>
+			<name>Robert Tarjan</name>
+			<papers>146.322222222</papers>
+		</professor>
+		<professor>
+			<name>Olga Troyanskaya</name>
+			<papers>18.209179198</papers>
+		</professor>
+		<professor>
+			<name>Jianxiong Xiao</name>
+			<papers>23.9504329004</papers>
+		</professor>
+		<professor>
+			<name>David Walker</name>
+			<papers>56.2052669553</papers>
+		</professor>
+		<professor>
+			<name>Kevin Wayne</name>
+			<papers>3.04914529915</papers>
+		</professor>
+		<professor>
+			<name>Sebastian Seung</name>
+			<papers>20.9449346405</papers>
+		</professor>
+		<professor>
+			<name>Jennifer Rexford</name>
+			<papers>80.1155122655</papers>
+		</professor>
+		<professor>
+			<name>Larry Peterson</name>
+			<papers>1.2</papers>
+		</professor>
+		<professor>
+			<name>Margaret Martonosi</name>
+			<papers>66.7424603175</papers>
+		</professor>
+		<professor>
+			<name>Robert Sedgewick</name>
+			<papers>53.2666666667</papers>
+		</professor>
+		<professor>
+			<name>Iasonas Petras</name>
+			<papers>3.0</papers>
+		</professor>
+		<professor>
+			<name>Christopher Moretti</name>
+			<papers>9.29090909091</papers>
+		</professor>
+		<professor>
+			<name>Szymon Rusinkiewicz</name>
+			<papers>33.1678571429</papers>
+		</professor>
+		<professor>
+			<name>Arvind Narayanan</name>
+			<papers>24.9261904762</papers>
+		</professor>
+		<professor>
+			<name>Kai Li</name>
+			<papers>153.538369963</papers>
+		</professor>
+		<professor>
+			<name>Jérémie Lumbroso</name>
+			<papers>4.25</papers>
+		</professor>
+		<professor>
+			<name>Xiaoyan Li</name>
+			<papers>56.7452380952</papers>
+		</professor>
+		<professor>
+			<name>Brian Kernighan</name>
+			<papers>35.75</papers>
+		</professor>
+		<professor>
+			<name>Daniel Leyzberg</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Andrea LaPaugh</name>
+			<papers>17.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Alan Kaplan</name>
+			<papers>12.0333333333</papers>
+		</professor>
+		<professor>
+			<name>Kyle Jamieson</name>
+			<papers>14.4166666667</papers>
+		</professor>
+		<professor>
+			<name>Aarti Gupta</name>
+			<papers>59.8095238095</papers>
+		</professor>
+		<professor>
+			<name>Elad Hazan</name>
+			<papers>75.6666666667</papers>
+		</professor>
+		<professor>
+			<name>Ananda Gunawardena</name>
+			<papers>5.5</papers>
+		</professor>
+		<professor>
+			<name>Maia Ginsburg</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Donna Gabai</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Michael Freedman</name>
+			<papers>1.5</papers>
+		</professor>
+		<professor>
+			<name>Thomas Funkhouser</name>
+			<papers>43.0722222222</papers>
+		</professor>
+		<professor>
+			<name>Robert Fish</name>
+			<papers>0.833333333333</papers>
+		</professor>
+		<professor>
+			<name>Adam Finkelstein</name>
+			<papers>26.6555555556</papers>
+		</professor>
+		<professor>
+			<name>Christiane Fellbaum</name>
+			<papers>18.6166666667</papers>
+		</professor>
+		<professor>
+			<name>Edward Felten</name>
+			<papers>37.6662698413</papers>
+		</professor>
+		<professor>
+			<name>Nick Feamster</name>
+			<papers>65.5869047619</papers>
+		</professor>
+		<professor>
+			<name>Barbara Engelhardt</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Zeev Dvir</name>
+			<papers>82.5</papers>
+		</professor>
+		<professor>
+			<name>Robert Dondero</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>David Dobkin</name>
+			<papers>80.5011904762</papers>
+		</professor>
+		<professor>
+			<name>Mark Braverman</name>
+			<papers>113.666666667</papers>
+		</professor>
+		<professor>
+			<name>Sandra Batista</name>
+			<papers>0.333333333333</papers>
+		</professor>
+		<professor>
+			<name>David August</name>
+			<papers>3.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Sanjeev Arora</name>
+			<papers>111.85</papers>
+		</professor>
+		<professor>
+			<name>Bernard Chazelle</name>
+			<papers>193.75</papers>
+		</professor>
+	</institution>

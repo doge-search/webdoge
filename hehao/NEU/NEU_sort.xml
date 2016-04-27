@@ -1,0 +1,219 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Amal Ahmed</name>
+			<papers>25.0</papers>
+		</professor>
+		<professor>
+			<name>Javed A. Aslam</name>
+			<papers>65.2761904762</papers>
+		</professor>
+		<professor>
+			<name>Kenneth P. Baclawski</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Albert-László Barabási</name>
+			<papers>16.6604166667</papers>
+		</professor>
+		<professor>
+			<name>Timothy Bickmore</name>
+			<papers>66.3011904762</papers>
+		</professor>
+		<professor>
+			<name>Michelle Borkin</name>
+			<papers>5.0</papers>
+		</professor>
+		<professor>
+			<name>Carla E. Brodley</name>
+			<papers>38.6595238095</papers>
+		</professor>
+		<professor>
+			<name>Agnes H. Chan</name>
+			<papers>25.75</papers>
+		</professor>
+		<professor>
+			<name>David Choffnes</name>
+			<papers>20.1833333333</papers>
+		</professor>
+		<professor>
+			<name>William D. Clinger</name>
+			<papers>17.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Seth Cooper</name>
+			<papers>6.00952380952</papers>
+		</professor>
+		<professor>
+			<name>Gene D. Cooperman</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Peter J. Desnoyers</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Ehsan Elhamifar </name>
+			<papers>18.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Tina Eliassi-Rad</name>
+			<papers>26.2333333333</papers>
+		</professor>
+		<professor>
+			<name>Matthias Felleisen</name>
+			<papers>77.0523809524</papers>
+		</professor>
+		<professor>
+			<name>Larry A. Finkelstein</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Raymond Fu</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Matthew Goodwin</name>
+			<papers>8.31666666667</papers>
+		</professor>
+		<professor>
+			<name>Stephen Intille</name>
+			<papers>31.8166666667</papers>
+		</professor>
+		<professor>
+			<name>Holly Jimison</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Engin Kirda</name>
+			<papers>56.9857142857</papers>
+		</professor>
+		<professor>
+			<name>David Lazer</name>
+			<papers>19.8428571429</papers>
+		</professor>
+		<professor>
+			<name>Karl J. Lieberherr</name>
+			<papers>54.5833333333</papers>
+		</professor>
+		<professor>
+			<name>Panagiotis Manolios</name>
+			<papers>54.95</papers>
+		</professor>
+		<professor>
+			<name>Stacy C. Marsella</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Alan E. Mislove</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Cristina Nita-Rotaru </name>
+			<papers>34.6023809524</papers>
+		</professor>
+		<professor>
+			<name>Guevara Noubir</name>
+			<papers>40.0</papers>
+		</professor>
+		<professor>
+			<name>Andrea Parker</name>
+			<papers>0.111111111111</papers>
+		</professor>
+		<professor>
+			<name>Rupal Patel</name>
+			<papers>10.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Misha Pavel</name>
+			<papers>17.5023809524</papers>
+		</professor>
+		<professor>
+			<name>Robert Platt</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Rajmohan Rajaraman</name>
+			<papers>39.6</papers>
+		</professor>
+		<professor>
+			<name>Richard A. Rasala</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Mirek Riedewald</name>
+			<papers>21.3023809524</papers>
+		</professor>
+		<professor>
+			<name>Christoph  Riedl</name>
+			<papers>14.4166666667</papers>
+		</professor>
+		<professor>
+			<name>William Robertson</name>
+			<papers>23.45</papers>
+		</professor>
+		<professor>
+			<name>Magy Seif El-Nasr</name>
+			<papers>47.4833333333</papers>
+		</professor>
+		<professor>
+			<name>Olin Shivers</name>
+			<papers>23.25</papers>
+		</professor>
+		<professor>
+			<name>Gillian Smith</name>
+			<papers>12.9004329004</papers>
+		</professor>
+		<professor>
+			<name>David Smith</name>
+			<papers>21.8206349206</papers>
+		</professor>
+		<professor>
+			<name>Yizhou Sun</name>
+			<papers>37.0865440115</papers>
+		</professor>
+		<professor>
+			<name>Ravi Sundaram</name>
+			<papers>25.8833333333</papers>
+		</professor>
+		<professor>
+			<name>Jonathan  Ullman</name>
+			<papers>19.8666666667</papers>
+		</professor>
+		<professor>
+			<name>Alessandro Vespignani</name>
+			<papers>11.3920995671</papers>
+		</professor>
+		<professor>
+			<name>Emanuele Viola</name>
+			<papers>77.1166666667</papers>
+		</professor>
+		<professor>
+			<name>Jan Vitek</name>
+			<papers>59.123015873</papers>
+		</professor>
+		<professor>
+			<name>Olga Vitek</name>
+			<papers>6.47364718615</papers>
+		</professor>
+		<professor>
+			<name>Thomas Wahl</name>
+			<papers>21.15</papers>
+		</professor>
+		<professor>
+			<name>Mitchell Wand</name>
+			<papers>77.2013888889</papers>
+		</professor>
+		<professor>
+			<name>Lu Wang</name>
+			<papers>160.974107143</papers>
+		</professor>
+		<professor>
+			<name>Daniel Wichs</name>
+			<papers>32.4261904762</papers>
+		</professor>
+		<professor>
+			<name>Christo Wilso</name>
+			<papers>18.5468253968</papers>
+		</professor>
+	</institution>

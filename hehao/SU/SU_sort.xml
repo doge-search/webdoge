@@ -1,0 +1,439 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Riyad S. Aboutaha</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Jeongmin Ahn</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Ben Akih-Kumgeh</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Hossein Ataei</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Thomas J. Barnard</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Marjory Baruch</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Shobha K. Bhatia</name>
+			<papers>1.5</papers>
+		</professor>
+		<professor>
+			<name>Howard Blair</name>
+			<papers>0.4</papers>
+		</professor>
+		<professor>
+			<name>Michelle M. Blum</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Ed Bogucz</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Jesse Q. Bond</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Tomislav Bujanovic</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Katie Cadwell</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Frederick J. Carranti</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>David Chandler</name>
+			<papers>1.66666666667</papers>
+		</professor>
+		<professor>
+			<name>Steve Chapin</name>
+			<papers>2.0</papers>
+		</professor>
+		<professor>
+			<name>Biao Chen</name>
+			<papers>96.525</papers>
+		</professor>
+		<professor>
+			<name>C.Y. Roger Chen</name>
+			<papers>38.5</papers>
+		</professor>
+		<professor>
+			<name>Ruth Chen</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Shiu-Kai Chin</name>
+			<papers>23.0833333333</papers>
+		</professor>
+		<professor>
+			<name>Jun (Brandon) Choi</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Laura E. Condon</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Andria Costello-Staniec</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Teresa A. Dahlberg</name>
+			<papers>14.725</papers>
+		</professor>
+		<professor>
+			<name>Hamid Dalir</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Thong Dang</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Joan V. Dannenhoffer</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>John F. Dannenhoffer, III</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Cliff I. Davidson</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Barry D. Davidson</name>
+			<papers>1.58333333333</papers>
+		</professor>
+		<professor>
+			<name>Charles T. Driscoll</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Wenliang (Kevin) Du</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Sara Eftekharnejad</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Ehat Ercanli</name>
+			<papers>2.86666666667</papers>
+		</professor>
+		<professor>
+			<name>Mandy B. Esch</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Makan Fardad</name>
+			<papers>31.5833333333</papers>
+		</professor>
+		<professor>
+			<name>Jim Fawcett</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Prasanta K. Ghosh</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Jeremy L. Gilbert</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Mark Glauser</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Jennifer W. Graham</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Melissa Green</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Mustafa Cenk Gursoy</name>
+			<papers>101.5</papers>
+		</professor>
+		<professor>
+			<name>Julie M. Hasenwinkel</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>James H. Henderson</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Ian D. Hosein</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Robert Irwin</name>
+			<papers>4.91666666667</papers>
+		</professor>
+		<professor>
+			<name>Can Isik</name>
+			<papers>8.0</papers>
+		</professor>
+		<professor>
+			<name>Chris E. Johnson</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Christa Kelleher</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>H. Ezzat Khalifa</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Jay K. Lee</name>
+			<papers>0.833333333333</papers>
+		</professor>
+		<professor>
+			<name>Andrew C. Lee</name>
+			<papers>4.0</papers>
+		</professor>
+		<professor>
+			<name>Alan J. Levy</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Jacques Lewalle</name>
+			<papers>2.0</papers>
+		</professor>
+		<professor>
+			<name>Yingbin Liang</name>
+			<papers>59.8333333333</papers>
+		</professor>
+		<professor>
+			<name>Eric M. Lui</name>
+			<papers>15.75</papers>
+		</professor>
+		<professor>
+			<name>Sinéad C. Mac Namara</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Duane L. Marcy</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Shalabh C. Maroo</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>George Martin</name>
+			<papers>0.125</papers>
+		</professor>
+		<professor>
+			<name>Patrick T. Mather</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Kishan Mehrotra</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Chilukuri K. Mohan</name>
+			<papers>37.8666666667</papers>
+		</professor>
+		<professor>
+			<name>Young B. Moon</name>
+			<papers>8.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Vadrevu Murthy</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Shikha Nangia</name>
+			<papers>0.833333333333</papers>
+		</professor>
+		<professor>
+			<name>Dawit Negussey</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Jae C. Oh</name>
+			<papers>24.7</papers>
+		</professor>
+		<professor>
+			<name>Susan Older</name>
+			<papers>8.56666666667</papers>
+		</professor>
+		<professor>
+			<name>Vir V. Phoha</name>
+			<papers>35.903968254</papers>
+		</professor>
+		<professor>
+			<name>Peter Plumley</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Mark Povinelli</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Qinru Qiu</name>
+			<papers>40.8952380952</papers>
+		</professor>
+		<professor>
+			<name>Dacheng Ren</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Michael Roppo</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Utpal Roy</name>
+			<papers>18.5833333333</papers>
+		</professor>
+		<professor>
+			<name>James S. Royer</name>
+			<papers>17.7333333333</papers>
+		</professor>
+		<professor>
+			<name>Sam Salem</name>
+			<papers>8.58333333333</papers>
+		</professor>
+		<professor>
+			<name>Baris Salman</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Ashok S. Sangani</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Suresh Santanam</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Amit K. Sanyal</name>
+			<papers>14.0833333333</papers>
+		</professor>
+		<professor>
+			<name>Tapan Kumar Sarkar</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Fritz H. Schlereth</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Roger Schmidt</name>
+			<papers>45.9</papers>
+		</professor>
+		<professor>
+			<name>Pranav Soman</name>
+			<papers>0.166666666667</papers>
+		</professor>
+		<professor>
+			<name>Qi Wang Song</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Sucheta Soundarajan</name>
+			<papers>9.0</papers>
+		</professor>
+		<professor>
+			<name>Eric Spina</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Laura J. Steinberg</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Radhakrishna “Suresh” Sureshkumar</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Jian Tang</name>
+			<papers>130.161111111</papers>
+		</professor>
+		<professor>
+			<name>Yuzhe (Richard) Tang</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Lawrence L. Tavlarides</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Svetoslava Todorova</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Pramod K. Varshney</name>
+			<papers>145.576190476</papers>
+		</professor>
+		<professor>
+			<name>Senem Velipasalar</name>
+			<papers>45.4651515152</papers>
+		</professor>
+		<professor>
+			<name>Hong Wang</name>
+			<papers>191.071825397</papers>
+		</professor>
+		<professor>
+			<name>Li Wang</name>
+			<papers>235.563492063</papers>
+		</professor>
+		<professor>
+			<name>Yanzhi Wang</name>
+			<papers>57.6</papers>
+		</professor>
+		<professor>
+			<name>Heng Yin</name>
+			<papers>19.1261904762</papers>
+		</professor>
+		<professor>
+			<name>Edmund S. Yu</name>
+			<papers>3.16666666667</papers>
+		</professor>
+		<professor>
+			<name>Angela Zachman</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Reza Zafarani</name>
+			<papers>18.875</papers>
+		</professor>
+		<professor>
+			<name>Teng Zeng</name>
+			<papers>0.2</papers>
+		</professor>
+		<professor>
+			<name>Jianshun &quot;Jensen&quot; Zhang</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Yan Zhang</name>
+			<papers>624.531721057</papers>
+		</professor>
+		<professor>
+			<name>Teng Zhan</name>
+			<papers>1.0</papers>
+		</professor>
+	</institution>
