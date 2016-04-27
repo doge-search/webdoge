@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Algorithms / Theory</groupname>
+			<professorname>Richard Cole </professorname>
+			<professorname>Yevgeniy Dodis</professorname>
+			<professorname>Subhash Khot</professorname>
+			<professorname>Mehryar Mohri</professorname>
+			<professorname>Oded Regev</professorname>
+			<professorname>Victor Shoup</professorname>
+			<professorname>Alan Siegel</professorname>
+			<professorname>Joel Spencer</professorname>
+			<professorname>Chee Yap</professorname>
+		</research>
+		<research>
+			<groupname>Computational Biology</groupname>
+			<professorname>Richard Bonneau</professorname>
+			<professorname>Bhubaneswar Mishra</professorname>
+			<professorname>Tamar Schlick </professorname>
+			<professorname>Dennis Shasha</professorname>
+		</research>
+		<research>
+			<groupname>Formal Methods and Verification</groupname>
+			<professorname>Clark Barrett</professorname>
+			<professorname>Patrick Cousot</professorname>
+			<professorname>Benjamin Goldberg</professorname>
+			<professorname>Thomas Wies</professorname>
+		</research>
+		<research>
+			<groupname>Graphics / Vision / User Interfaces</groupname>
+			<professorname>Rob Fergus</professorname>
+			<professorname>Davi Geiger</professorname>
+			<professorname>Yann LeCun</professorname>
+			<professorname>Daniele Panozzo</professorname>
+			<professorname>Kenneth Perlin</professorname>
+			<professorname>Claudio Silva</professorname>
+			<professorname>Denis Zorin</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning</groupname>
+			<professorname>Kyunghyun Cho</professorname>
+			<professorname>Rob Fergus</professorname>
+			<professorname>Davi Geiger</professorname>
+			<professorname>Yann LeCun</professorname>
+			<professorname>Mehryar Mohri</professorname>
+			<professorname>Foster Provost </professorname>
+			<professorname>David Sontag</professorname>
+		</research>
+		<research>
+			<groupname>Natural Language Processing</groupname>
+			<professorname>Kyunghyun Cho</professorname>
+			<professorname>Ernest Davis</professorname>
+			<professorname>Ralph Grishman</professorname>
+			<professorname>Adam Meyer </professorname>
+			<professorname>Satoshi Sekine</professorname>
+		</research>
+		<research>
+			<groupname>Scientific Computing</groupname>
+			<professorname>Marsha Berger</professorname>
+			<professorname>Leslie Greengard</professorname>
+			<professorname>Michael Overton</professorname>
+			<professorname>Olof Widlund</professorname>
+			<professorname>Margaret Wright </professorname>
+			<professorname>Denis Zorin</professorname>
+		</research>
+		<research>
+			<groupname>Systems / Networking</groupname>
+			<professorname>Allan Gottlieb</professorname>
+			<professorname>Zvi Kedem</professorname>
+			<professorname>Jinyang Li</professorname>
+			<professorname>Theodore Rappaport</professorname>
+			<professorname>Dennis Shasha</professorname>
+			<professorname>Lakshminarayanan Subramanian</professorname>
+			<professorname>Michael Walfis</professorname>
+		</research>
+	</institution>

@@ -1,7 +1,7 @@
 import os
 import xml.dom.minidom as minidom
 
-school = 'Cornell'
+school = 'TUFTS'
 if(not os.path.exists('d:/PYPJ/webdoge/hehao/' + school)):
     os.mkdir('d:/PYPJ/webdoge/hehao/' + school)
 # for line in open('d:/PYPJ/webdoge/hehao/' + school + '.html'):  

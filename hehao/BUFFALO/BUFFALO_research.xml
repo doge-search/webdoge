@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Algorithms and Theory	</groupname>
+			<professorname>Roger He</professorname>
+			<professorname>Jinhui Xu</professorname>
+			<professorname>Hung Ngo</professorname>
+			<professorname>Atri Rudra</professorname>
+			<professorname>Russ Miller</professorname>
+		</research>
+		<research>
+			<groupname>Augmentative Technology for the Handicapped</groupname>
+			<professorname>Kris Schindler</professorname>
+		</research>
+		<research>
+			<groupname>Computer Networks and Distributed Systems</groupname>
+			<professorname>Chunming Qiao</professorname>
+			<professorname>Karthik Dant</professorname>
+			<professorname>Murat Demirba</professorname>
+			<professorname>Oliver Kenned</professorname>
+			<professorname>Dimitrios Koutsonikola</professorname>
+			<professorname>Tevfik Kosar</professorname>
+			<professorname>Hung Q. Ngo</professorname>
+			<professorname>Steven Ko</professorname>
+			<professorname>Lu Su</professorname>
+			<professorname>Wenyao Xu</professorname>
+			<professorname>Bina Ramamurthy</professorname>
+		</research>
+		<research>
+			<groupname>Computer Science Education</groupname>
+			<professorname>Bina Ramamurthy</professorname>
+			<professorname>Carl Alphonce</professorname>
+			<professorname>Luke Ziarek</professorname>
+		</research>
+		<research>
+			<groupname>Computer Security and Information Assurance</groupname>
+			<professorname>Shambhu Upadhyaya</professorname>
+		</research>
+		<research>
+			<groupname>Computer Vision and Information Visualization</groupname>
+			<professorname>Peter Scott</professorname>
+		</research>
+		<research>
+			<groupname>Databases</groupname>
+			<professorname>Aidong Zhang</professorname>
+			<professorname>Jan Chomicki</professorname>
+			<professorname>Varun Chandola</professorname>
+			<professorname>Jing Gao</professorname>
+			<professorname>Oliver Kennedy</professorname>
+		</research>
+		<research>
+			<groupname>High-Performance and Grid Computing, Cyberinfrastructure, and Computational Science</groupname>
+			<professorname>Vipin Chaudhary</professorname>
+			<professorname>Russ Miller</professorname>
+			<professorname>Geoffrey Challen</professorname>
+			<professorname>Jaric Zola</professorname>
+			<professorname>Bina Ramamurthy</professorname>
+		</research>
+		<research>
+			<groupname>Knowledge Representation, Computational Linguistics, and Cognitive Science</groupname>
+			<professorname>Carl Alphonce</professorname>
+		</research>
+		<research>
+			<groupname>Medical Applications and Bioinformatics</groupname>
+			<professorname>Vipin Chaudhary</professorname>
+			<professorname>Jinhui Xu</professorname>
+		</research>
+		<research>
+			<groupname>Multimedia Databases and Information Retrieval</groupname>
+			<professorname>Aidong Zhang</professorname>
+			<professorname>Rohini Srihari</professorname>
+		</research>
+		<research>
+			<groupname>Pattern Recognition, Machine Learning, and Data Mining</groupname>
+			<professorname>Sargur N. Srihari</professorname>
+			<professorname>Venu Govindaraju</professorname>
+			<professorname>Aidong Zhang</professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages and Software Systems</groupname>
+			<professorname>Bharat Jayaraman</professorname>
+			<professorname>Oliver Kennedy</professorname>
+			<professorname>Luke Ziarek</professorname>
+		</research>
+		<research>
+			<groupname>VLSI and Computer Architecture</groupname>
+			<professorname>Shambhu Upadhyaya</professorname>
+			<professorname>Ramalingam Sridha</professorname>
+		</research>
+	</institution>

@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Computational Biology</groupname>
+			<professorname>Barbara Engelhardt</professorname>
+			<professorname>Kai Li</professorname>
+			<professorname>Sebastian Seung</professorname>
+			<professorname>Mona Singh</professorname>
+			<professorname>Olga Troyanskaya</professorname>
+		</research>
+		<research>
+			<groupname>Computational Markets / Game Theory / Economics</groupname>
+			<professorname>Mark Braverman</professorname>
+			<professorname>Jaswinder Singh</professorname>
+		</research>
+		<research>
+			<groupname>Computer Architecture</groupname>
+			<professorname>David August</professorname>
+			<professorname>Douglas Clark</professorname>
+			<professorname>Kai Li</professorname>
+			<professorname>Margaret Martonosi</professorname>
+		</research>
+		<research>
+			<groupname>Graphics / Vision</groupname>
+			<professorname>David Dobkin</professorname>
+			<professorname>Adam Finkelstein</professorname>
+			<professorname>Thomas Funkhouser</professorname>
+			<professorname>Szymon Rusinkiewicz</professorname>
+			<professorname>Jianxiong Xiao</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning</groupname>
+			<professorname>Barbara Engelhardt</professorname>
+			<professorname>Elad Hazan</professorname>
+			<professorname>Mona Singh</professorname>
+			<professorname>Olga Troyanskaya</professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages / Compilers</groupname>
+			<professorname>Andrew Appel</professorname>
+			<professorname>David August</professorname>
+			<professorname>Aarti Gupta</professorname>
+			<professorname>Brian Kernighan</professorname>
+			<professorname>David Walker</professorname>
+		</research>
+		<research>
+			<groupname>Security / Privacy / Policy</groupname>
+			<professorname>Andrew Appel</professorname>
+			<professorname>David Dobkin</professorname>
+			<professorname>Nick Feamster</professorname>
+			<professorname>Edward Felten</professorname>
+			<professorname>Michael Freedman</professorname>
+			<professorname>Brian Kernighan</professorname>
+			<professorname>Andrea LaPaugh</professorname>
+			<professorname>Margaret Martonosi</professorname>
+			<professorname>Arvind Narayanan</professorname>
+		</research>
+		<research>
+			<groupname>Systems / Networks</groupname>
+			<professorname>Nick Feamster</professorname>
+			<professorname>Michael Freedman</professorname>
+			<professorname>Kyle Jamieson</professorname>
+			<professorname>Kai Li</professorname>
+			<professorname>Margaret Martonosi</professorname>
+			<professorname>Larry Peterson</professorname>
+			<professorname>Jennifer Rexford</professorname>
+		</research>
+		<research>
+			<groupname>Theory</groupname>
+			<professorname>Sanjeev Arora</professorname>
+			<professorname>Mark Braverman</professorname>
+			<professorname>Bernard Chazelle</professorname>
+			<professorname>Zeev Dvir</professorname>
+			<professorname>Robert Sedgewick</professorname>
+			<professorname>Robert Tarja</professorname>
+		</research>
+	</institution>

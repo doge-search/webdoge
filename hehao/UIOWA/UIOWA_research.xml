@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Algorithms Research Group</groupname>
+			<professorname>Pemmaraju</professorname>
+			<professorname>Varadarajan</professorname>
+		</research>
+		<research>
+			<groupname>Computational Epidemiology Research Group</groupname>
+			<professorname>Chipara</professorname>
+			<professorname>Cremer</professorname>
+			<professorname>Herman</professorname>
+			<professorname>Pemmaraju</professorname>
+			<professorname>Polgreen</professorname>
+			<professorname>Segre</professorname>
+		</research>
+		<research>
+			<groupname>Computational Logic Center</groupname>
+			<professorname>Stump</professorname>
+			<professorname>Tinelli</professorname>
+		</research>
+		<research>
+			<groupname>Distributed Computing Research Group (DCRG)</groupname>
+			<professorname>Chipara</professorname>
+			<professorname>Ghosh</professorname>
+			<professorname>Herman</professorname>
+		</research>
+		<research>
+			<groupname>Hank Virtual Environments Lab: Virtual Environments as Laboratories for Studying Human Behavior</groupname>
+			<professorname>Kearney</professorname>
+		</research>
+		<research>
+			<groupname>Human-computer Interaction</groupname>
+			<professorname>Hourcade</professorname>
+		</research>
+		<research>
+			<groupname>Internet Research Lab (IRL)</groupname>
+			<professorname>Shafiq</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning and Optimization</groupname>
+			<professorname>Yang</professorname>
+		</research>
+		<research>
+			<groupname>Mobile Systems Laboratory (MSL)</groupname>
+			<professorname>Chipara</professorname>
+			<professorname>Herman</professorname>
+			<professorname>Segre</professorname>
+		</research>
+		<research>
+			<groupname>Numerical Parallel and Optimization Algorithms</groupname>
+			<professorname>Oliveira</professorname>
+		</research>
+		<research>
+			<groupname>Retrocomputing and Historic Computer Restoration</groupname>
+			<professorname>Jones</professorname>
+		</research>
+		<research>
+			<groupname>Text/Web Mining</groupname>
+			<professorname>Srinivasa</professorname>
+		</research>
+	</institution>

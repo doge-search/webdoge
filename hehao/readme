@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 25 schools list:##
 
 > 括号里对应文件夹缩写
@@ -12,6 +13,88 @@
 (UIUC) University of Illinois—​Urbana-​Champaign [x]
 
 (Cornell) Cornell University [x][x]
+
+(UWashinton) University of Washington [x][x]
+
+(Princeton) Princeton University [x][x]
+https://www.cs.princeton.edu/research/areas
+
+(UTEXAS) University of Texas—​Austin [x][]
+
+(MSU) Michigan State University [x][x]
+* http://www.cse.msu.edu/People/Faculty_Staff/
+* http://www.cse.msu.edu/Research/Groups.php
+
+(UCR) University of California—​Riverside [x][x]
+* http://www1.cs.ucr.edu/people/faculty/
+* http://www1.cs.ucr.edu/research/labs/
+
+(USCS) University of California—​Santa Cruz [x]
+
+
+(VU) Vanderbilt University [x][x]
+* http://engineering.vanderbilt.edu/eecs/brochure/index.php
+
+(NEU) Northeastern University [x][x]
+* http://www.ccs.neu.edu/research/
+
+(UIC) University of Illinois—​Chicago [x][x]
+* https://www.cs.uic.edu/Main/Research#Labs
+
+(UND) University of Notre Dame [x][x]
+* https://cse.nd.edu/research/research-labs
+
+(iastate) Iowa State University [x][x]
+* http://www.cs.iastate.edu/research
+
+(BUFFALO) University at Buffalo—​SUNY [x][x]
+http://www.cse.buffalo.edu/research/areas
+
+(UIOWA) University of Iowa [x][x]
+https://www.cs.uiowa.edu/research/research
+
+(UOREGON) University of Oregon [x][]
+
+(GMU) George Mason University [x][x]
+
+(oregonstate) Oregon State University [x][x]
+* http://eecs.oregonstate.edu/research 
+
+(SU) Syracuse University [x][x]
+* http://eng-cs.syr.edu/about-the-college/labs-and-centers/
+
+(CASE) Case Western Reserve University [x][x]
+* http://engineering.case.edu/eecs/faculty-staff
+
+(WM) College of William and Mary [x][y]
+No Group
+
+(colostate) Colorado State University [x][x]
+* www.cs.colostate.edu/
+
+(NPS) Naval Postgraduate School [x][y]
+
+(NYU) New York University [x][x]
+* https://www.cs.nyu.edu/
+
+(TUFTS) Tufts University [x][x]
+* http://www.cs.tufts.edu/Research/our-focus-interdiciplinary-research.html
+
+=======
+## 25 schools list:##
+
+> 括号里对应文件夹缩写
+
+==========
+
+进展：
+- [ ] 完成25个学校的教授列表
+- [ ] 完成25个学校的research group 列表
+- [ ] 所有教授论文信息
+
+(UIUC) University of Illinois—​Urbana-​Champaign [x]
+
+(Cornell) Cornell University [x]
 
 (UWashinton) University of Washington [x]
 
@@ -70,3 +153,4 @@
 (NYU) New York University [x]
 
 (tufts) Tufts University [x]
+>>>>>>> origin/master

@@ -1,0 +1,195 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Artificial Intelligence</groupname>
+			<professorname>Yejin Choi</professorname>
+			<professorname>Oren Etzioni</professorname>
+			<professorname>Ali Farhadi</professorname>
+			<professorname>James Fogarty</professorname>
+			<professorname>Dieter Fox</professorname>
+			<professorname>Carlos Guestrin</professorname>
+			<professorname>Su-In Lee</professorname>
+			<professorname>Sergey Levine</professorname>
+			<professorname>Shwetak Patel</professorname>
+			<professorname>Zoran Popović</professorname>
+			<professorname>Rajesh Rao</professorname>
+			<professorname>Steven Seitz</professorname>
+			<professorname>Linda Shapiro</professorname>
+			<professorname>Noah Smith</professorname>
+			<professorname>Steve Tanimoto</professorname>
+			<professorname>Emanuel Todorov</professorname>
+			<professorname>Daniel S. Weld</professorname>
+			<professorname>Luke Zettlemoyer</professorname>
+		</research>
+		<research>
+			<groupname>Natural language processing</groupname>
+		</research>
+		<research>
+			<groupname>Big Data</groupname>
+		</research>
+		<research>
+			<groupname>Computational &amp; Synthetic Biology</groupname>
+			<professorname>Su-In Lee</professorname>
+			<professorname>Zoran Popović</professorname>
+			<professorname>Rajesh Rao</professorname>
+			<professorname>Walter L. Ruzzo</professorname>
+			<professorname>Georg Seelig</professorname>
+			<professorname>Linda Shapiro</professorname>
+			<professorname>Martin Tompa</professorname>
+		</research>
+		<research>
+			<groupname>Computer Architecture</groupname>
+			<professorname>Rastislav Bodik</professorname>
+			<professorname>Luis Ceze</professorname>
+			<professorname>Hank Levy</professorname>
+			<professorname>Mark Oskin</professorname>
+		</research>
+		<research>
+			<groupname>Computer Graphics, Vision, Animation, and Game Science</groupname>
+			<professorname>Brian Curless</professorname>
+			<professorname>Ali Farhadi</professorname>
+			<professorname>Jeffrey Heer</professorname>
+			<professorname>Sergey Levine</professorname>
+			<professorname>Barbara Mones</professorname>
+			<professorname>Zoran Popović</professorname>
+			<professorname>Steven Seitz</professorname>
+			<professorname>Linda Shapiro</professorname>
+		</research>
+		<research>
+			<groupname>Computing for Development</groupname>
+		</research>
+		<research>
+			<groupname>Data Management</groupname>
+			<professorname>Magdalena Balazinska</professorname>
+			<professorname>Alvin Cheung</professorname>
+			<professorname>Dan Ports</professorname>
+			<professorname>Dan Suciu </professorname>
+			<professorname>Daniel S. Weld</professorname>
+		</research>
+		<research>
+			<groupname>Human Computer Interaction</groupname>
+			<professorname>Richard Anderson</professorname>
+			<professorname>Maya Cakmak</professorname>
+			<professorname>Oren Etzioni</professorname>
+			<professorname>James Fogarty</professorname>
+			<professorname>Jeffrey Heer</professorname>
+			<professorname>Richard E. Ladner</professorname>
+			<professorname>Shwetak Patel</professorname>
+			<professorname>Zoran Popović</professorname>
+			<professorname>Rajesh Rao</professorname>
+			<professorname>Katharina Reinecke</professorname>
+			<professorname>Steve Tanimoto </professorname>
+			<professorname>Daniel S. Weld</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning</groupname>
+			<professorname>Jeffrey Bilmes</professorname>
+			<professorname>Pedro Domingos</professorname>
+			<professorname>Ali Farhadi</professorname>
+			<professorname>Emily Fox</professorname>
+			<professorname>Carlos Guestrin</professorname>
+			<professorname>Sham Kakade</professorname>
+			<professorname>Su-In Lee</professorname>
+			<professorname>Sergey Levine</professorname>
+			<professorname>Marina Meila</professorname>
+			<professorname>William Noble</professorname>
+			<professorname>Noah Smith</professorname>
+			<professorname>Daniel S. Weld </professorname>
+			<professorname>Luke Zettlemoyer</professorname>
+		</research>
+		<research>
+			<groupname>Molecular Information Systems</groupname>
+			<professorname>Luis Ceze</professorname>
+			<professorname>Karin Strauss</professorname>
+			<professorname>Doug Carmean</professorname>
+			<professorname>Georg Seelig</professorname>
+			<professorname>James Bornholt</professorname>
+			<professorname>Randolph Lopez</professorname>
+			<professorname>Lee Organick</professorname>
+			<professorname>Siena Dumas Ang</professorname>
+			<professorname>Krittika D’Silva</professorname>
+			<professorname>Yuan-Jyue Chen</professorname>
+			<professorname>Chris Takahashi</professorname>
+			<professorname>Bichlien Nguyen</professorname>
+			<professorname>Hsing-Yeh Parker</professorname>
+			<professorname>Rob Carlson</professorname>
+		</research>
+		<research>
+			<groupname>Natural Language Processing</groupname>
+			<professorname>Yejin Choi</professorname>
+			<professorname>Pedro Domingos</professorname>
+			<professorname>Oren Etzioni</professorname>
+			<professorname>Noah Smith</professorname>
+			<professorname>Daniel S. Weld</professorname>
+			<professorname>Luke Zettlemoyer</professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages and Software Engineering</groupname>
+			<professorname>Rastislav Bodik</professorname>
+			<professorname>Alvin Cheung</professorname>
+			<professorname>Michael Ernst</professorname>
+			<professorname>Dan Grossman</professorname>
+			<professorname>Zachary Tatlock </professorname>
+			<professorname>Emina Torlak</professorname>
+			<professorname>Xi Wang</professorname>
+		</research>
+		<research>
+			<groupname>Robotics</groupname>
+			<professorname>Maya Cakmak</professorname>
+			<professorname>Ali Farhadi</professorname>
+			<professorname>Dieter Fox</professorname>
+			<professorname>Sergey Levine</professorname>
+			<professorname>Zoran Popović</professorname>
+			<professorname>Rajesh Rao</professorname>
+			<professorname>Joshua R. Smith</professorname>
+			<professorname>Emanuel Todorov</professorname>
+			<professorname>Luke Zettlemoyer</professorname>
+		</research>
+		<research>
+			<groupname>Security and Privacy</groupname>
+			<professorname>Tom Anderson</professorname>
+			<professorname>Shyam Gollakota</professorname>
+			<professorname>Tadayoshi Kohno</professorname>
+			<professorname>Hank Levy</professorname>
+			<professorname>Xi Wang</professorname>
+		</research>
+		<research>
+			<groupname>Systems and Networking</groupname>
+			<professorname>Tom Anderson</professorname>
+			<professorname>Magdalena Balazinska</professorname>
+			<professorname>Luis Ceze</professorname>
+			<professorname>Shyam Gollakota</professorname>
+			<professorname>Carlos Guestrin</professorname>
+			<professorname>Tadayoshi Kohno</professorname>
+			<professorname>Arvind Krishnamurthy</professorname>
+			<professorname>Ed Lazowska</professorname>
+			<professorname>Hank Levy</professorname>
+			<professorname>Dan Ports</professorname>
+			<professorname>Xi Wang</professorname>
+			<professorname>John Zahorjan</professorname>
+		</research>
+		<research>
+			<groupname>Theory of Computation</groupname>
+			<professorname>Paul Beame</professorname>
+			<professorname>Sham Kakade</professorname>
+			<professorname>Anna Karlin</professorname>
+			<professorname>James R. Lee</professorname>
+			<professorname>Shayan Oveis Gharan</professorname>
+			<professorname>Anup Rao</professorname>
+			<professorname>Thomas Rothvoss</professorname>
+		</research>
+		<research>
+			<groupname>Ubiquitous Computing</groupname>
+			<professorname>Shyam Gollakota</professorname>
+			<professorname>Shwetak Patel</professorname>
+			<professorname>Matt Reynolds</professorname>
+			<professorname>Joshua R. Smith</professorname>
+		</research>
+		<research>
+			<groupname>Wireless and Sensor Systems</groupname>
+			<professorname>Shyam Gollakota</professorname>
+			<professorname>Shwetak Patel</professorname>
+			<professorname>Matt Reynolds</professorname>
+			<professorname>Joshua R. Smit</professorname>
+		</research>
+	</institution>

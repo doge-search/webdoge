@@ -36,8 +36,8 @@ doc = minidom.Document()
 institution = doc.createElement("institution")
 doc.appendChild(institution)
 
-for no in range(0, 20):
-    rootUrl='http://www.cc.gatech.edu/people/faculty?title=&page='+str(no)
+for no in range(0, 5):
+    rootUrl='http://www.scs.gatech.edu/people/faculty?title=&page='+str(no)
 
     response = urllib2.urlopen(rootUrl)
     html = response.read()
