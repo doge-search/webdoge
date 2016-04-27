@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Artificial Intelligence</groupname>
+			<professorname>Carla Gomes</professorname>
+			<professorname>John Hopcroft</professorname>
+			<professorname>Bart Selman</professorname>
+			<professorname>David Shmoys</professorname>
+			<professorname>Arpita Ghosh</professorname>
+			<professorname>Joe Halpern</professorname>
+			<professorname>Jon Kleinberg</professorname>
+			<professorname>Robert Kleinberg</professorname>
+			<professorname>Rafael Pass</professorname>
+			<professorname>Eva Tardos</professorname>
+			<professorname>Robert L. Constable</professorname>
+			<professorname>Joe Halpern</professorname>
+			<professorname>Bart Selman</professorname>
+			<professorname>Yoav Artzi</professorname>
+			<professorname>Serge Belongie</professorname>
+			<professorname>Claire Cardie</professorname>
+			<professorname>Tanzeem Choudhury</professorname>
+			<professorname>Cristian Danescu-Niculescu-Mizil</professorname>
+			<professorname>Shimon Edelman</professorname>
+			<professorname>Carla Gomes</professorname>
+			<professorname>Haym Hirsch</professorname>
+			<professorname>Dan Huttenlocher</professorname>
+			<professorname>Thorsten Joachims</professorname>
+			<professorname>Bobby Kleinberg</professorname>
+			<professorname>Lillian Lee</professorname>
+			<professorname>David Mimno</professorname>
+			<professorname>Karthik Sridharan</professorname>
+			<professorname>Kilian Weinberger </professorname>
+			<professorname>Yoav Artzi</professorname>
+			<professorname>Claire Cardie</professorname>
+			<professorname>Cristian Danescu-Niculescu-Mizil</professorname>
+			<professorname>Shimon Edelman</professorname>
+			<professorname>Thorsten Joachims</professorname>
+			<professorname>Lillian Lee</professorname>
+			<professorname>David Mimno </professorname>
+			<professorname>Guy Hoffman Dan Huttenlocher</professorname>
+			<professorname>Ross Knepper</professorname>
+			<professorname>Hadas Kress-Gazit</professorname>
+			<professorname>Kavita Bala</professorname>
+			<professorname>Serge Belongie</professorname>
+			<professorname>Shimon Edelman</professorname>
+			<professorname>Dan Huttenlocher</professorname>
+			<professorname>Noah Snavely</professorname>
+			<professorname>Ramin Zabih</professorname>
+		</research>
+		<research>
+			<groupname>Computational Biology</groupname>
+			<professorname>Carla Gomes</professorname>
+			<professorname>Alon Keinan</professorname>
+			<professorname>David Shmoys</professorname>
+			<professorname>Adam Siepel</professorname>
+			<professorname>Amy Williams</professorname>
+			<professorname>Haiyuan Yu</professorname>
+		</research>
+		<research>
+			<groupname>Computer Architecture &amp; VLSI</groupname>
+			<professorname>David Albonesi</professorname>
+			<professorname>Christopher Batten</professorname>
+			<professorname>W. Kent Fuchs</professorname>
+			<professorname>Rajit Manohar</professorname>
+			<professorname>Jose F. Martinez</professorname>
+			<professorname>G. Ed Suh</professorname>
+		</research>
+		<research>
+			<groupname>Database Systems</groupname>
+			<professorname>Alan Demers</professorname>
+			<professorname>Johannes Gehrke</professorname>
+			<professorname>Walker White</professorname>
+		</research>
+		<research>
+			<groupname>Graphics</groupname>
+			<professorname>Kavita Bala</professorname>
+			<professorname>Don Greenberg</professorname>
+			<professorname>Doug James</professorname>
+			<professorname>Steve Marschner</professorname>
+			<professorname>Noah Snavely</professorname>
+			<professorname>Bruce Walter</professorname>
+		</research>
+		<research>
+			<groupname>Human Interaction</groupname>
+			<professorname>Erik Andersen</professorname>
+			<professorname>Serge Belongie</professorname>
+			<professorname>Claire Cardie</professorname>
+			<professorname>Tanzeem Choudhury</professorname>
+			<professorname>Dan Cosley</professorname>
+			<professorname>Cristian Danescu Niculescu-Mizil</professorname>
+			<professorname>Deborah Estrin</professorname>
+			<professorname>Arpita Ghosh</professorname>
+			<professorname>François Guimbretière</professorname>
+			<professorname>Haym Hirsh</professorname>
+			<professorname>Dan Huttenlocher</professorname>
+			<professorname>Ari Juels</professorname>
+			<professorname>Jon Kleinberg</professorname>
+			<professorname>Ross Knepper</professorname>
+			<professorname>Hadas Kress-Gazit</professorname>
+			<professorname>Lillian Lee</professorname>
+			<professorname>David Mimno</professorname>
+			<professorname>Mor Naaman</professorname>
+			<professorname>Phoebe Sengers</professorname>
+			<professorname>Noah Snavely</professorname>
+			<professorname>Eva Tardos</professorname>
+			<professorname>Walker White</professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages</groupname>
+			<professorname>Robert Constable</professorname>
+			<professorname>Nate Foster</professorname>
+			<professorname>Dexter Kozen</professorname>
+			<professorname>Greg Morrisett</professorname>
+			<professorname>Andrew Myers</professorname>
+			<professorname>Fred B. Schneider</professorname>
+			<professorname>Ross Tate</professorname>
+			<professorname>Erik Andersen</professorname>
+		</research>
+		<research>
+			<groupname>Robotics</groupname>
+			<professorname>Mark Campbell</professorname>
+			<professorname>Silvia Ferrari</professorname>
+			<professorname>Guy Hoffman</professorname>
+			<professorname>Malte Jung</professorname>
+			<professorname>Ross Knepper</professorname>
+			<professorname>Hadas Kress-Gazit</professorname>
+			<professorname>Andy Ruina</professorname>
+			<professorname>Robert Shepherd</professorname>
+		</research>
+		<research>
+			<groupname>Scientific Computing</groupname>
+			<professorname>David Bindel</professorname>
+			<professorname>Doug James</professorname>
+			<professorname>Charlie Van Loan </professorname>
+		</research>
+		<research>
+			<groupname>Security</groupname>
+			<professorname>Ken Birman</professorname>
+			<professorname>Nate Foster</professorname>
+			<professorname>Joe Halpern</professorname>
+			<professorname>Ari Juels</professorname>
+			<professorname>Dexter Kozen</professorname>
+			<professorname>Greg Morrisett</professorname>
+			<professorname>Andrew Myers</professorname>
+			<professorname>Rafael Pass</professorname>
+			<professorname>Tom Ristenpart</professorname>
+			<professorname>Fred Schneider</professorname>
+			<professorname>Elaine Shi</professorname>
+			<professorname>Vitaly Shmatikov</professorname>
+			<professorname>Gün Sirer</professorname>
+			<professorname>Ed Suh</professorname>
+		</research>
+		<research>
+			<groupname>Systems and Networking</groupname>
+			<professorname>Ken Birman</professorname>
+			<professorname>Deborah Estrin</professorname>
+			<professorname>Nate Foster</professorname>
+			<professorname>Andrew Myers </professorname>
+			<professorname>Fred B. Schneider </professorname>
+			<professorname>Emin Gun Sirer</professorname>
+			<professorname>Robbert van Renesse </professorname>
+			<professorname>Hakim Weatherspoon</professorname>
+		</research>
+		<research>
+			<groupname>Theory of Computing</groupname>
+			<professorname>Robert Constable</professorname>
+			<professorname>Arpita Ghosh</professorname>
+			<professorname>Joe Halpern</professorname>
+			<professorname>Juris Hartmanis</professorname>
+			<professorname>John Hopcroft</professorname>
+			<professorname>Bobby Kleinberg</professorname>
+			<professorname>Jon Kleinberg</professorname>
+			<professorname>Dexter Kozen</professorname>
+			<professorname>Rafael Pass</professorname>
+			<professorname>David Shmoys</professorname>
+			<professorname>Karthik Sridharan</professorname>
+			<professorname>David Steurer</professorname>
+			<professorname>Eva Tardos</professorname>
+			<professorname>David Williamso</professorname>
+		</research>
+	</institution>

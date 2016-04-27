@@ -1,0 +1,459 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Martin Abadi</name>
+		</professor>
+		<professor>
+			<name>Dimitris Achlioptas</name>
+		</professor>
+		<professor>
+			<name>Ram Akella</name>
+		</professor>
+		<professor>
+			<name>Mark Akeson</name>
+		</professor>
+		<professor>
+			<name>Peter Alvaro</name>
+		</professor>
+		<professor>
+			<name>Cyrus Bazeghi</name>
+		</professor>
+		<professor>
+			<name>Victoria Bellotti</name>
+		</professor>
+		<professor>
+			<name>Phillip Berman</name>
+		</professor>
+		<professor>
+			<name>David Bernick</name>
+		</professor>
+		<professor>
+			<name>Scott Brandt</name>
+		</professor>
+		<professor>
+			<name>Alexandre Brandwajn</name>
+		</professor>
+		<professor>
+			<name>Angela N. Brooks</name>
+		</professor>
+		<professor>
+			<name>Nicholas Brummell</name>
+		</professor>
+		<professor>
+			<name>Pak K. Chan</name>
+		</professor>
+		<professor>
+			<name>Yihsu Chen</name>
+		</professor>
+		<professor>
+			<name>Robert L. Coffman</name>
+		</professor>
+		<professor>
+			<name>Seshadhri Comandur</name>
+		</professor>
+		<professor>
+			<name>Renwick Curry</name>
+		</professor>
+		<professor>
+			<name>James Davis</name>
+		</professor>
+		<professor>
+			<name>Luca de Alfaro</name>
+		</professor>
+		<professor>
+			<name>David Deamer</name>
+		</professor>
+		<professor>
+			<name>Subhas Desa</name>
+		</professor>
+		<professor>
+			<name>Farid Dowla</name>
+		</professor>
+		<professor>
+			<name>David Draper</name>
+		</professor>
+		<professor>
+			<name>Sandra Lyn Dreisbach</name>
+		</professor>
+		<professor>
+			<name>Rebecca M. DuBois</name>
+		</professor>
+		<professor>
+			<name>William Dunbar</name>
+		</professor>
+		<professor>
+			<name>Max Dunne</name>
+		</professor>
+		<professor>
+			<name>Gabriel Hugh Elkaim</name>
+		</professor>
+		<professor>
+			<name>Melissae Stuart Fellet</name>
+		</professor>
+		<professor>
+			<name>Joel Ferguson</name>
+		</professor>
+		<professor>
+			<name>Sheldon (Shel) Finkelstein</name>
+		</professor>
+		<professor>
+			<name>Cormac Flanagan</name>
+		</professor>
+		<professor>
+			<name>Camilla Forsberg</name>
+		</professor>
+		<professor>
+			<name>Benjamin Friedlander</name>
+		</professor>
+		<professor>
+			<name>Daniel Friedman</name>
+		</professor>
+		<professor>
+			<name>Pascale Garaud</name>
+		</professor>
+		<professor>
+			<name>J. J. Garcia-Luna-Aceves</name>
+		</professor>
+		<professor>
+			<name>Lise Getoor</name>
+		</professor>
+		<professor>
+			<name>Qi Gong</name>
+		</professor>
+		<professor>
+			<name>Richard Edward Green</name>
+		</professor>
+		<professor>
+			<name>Claire Gu</name>
+		</professor>
+		<professor>
+			<name>Rajarshi Guhaniyogi</name>
+		</professor>
+		<professor>
+			<name>Matthew Guthaus</name>
+		</professor>
+		<professor>
+			<name>Brent M. Haddad</name>
+		</professor>
+		<professor>
+			<name>David Haussler</name>
+		</professor>
+		<professor>
+			<name>David Helmbold</name>
+		</professor>
+		<professor>
+			<name>Steven Horowitz</name>
+		</professor>
+		<professor>
+			<name>Richard Hughey</name>
+		</professor>
+		<professor>
+			<name>Michael Isaacson</name>
+		</professor>
+		<professor>
+			<name>Katherine Currie Isbister</name>
+		</professor>
+		<professor>
+			<name>Arnav Jhala</name>
+		</professor>
+		<professor>
+			<name>Richard Jullig</name>
+		</professor>
+		<professor>
+			<name>Ehsan K. Ardestani</name>
+		</professor>
+		<professor>
+			<name>Kevin Karplus</name>
+		</professor>
+		<professor>
+			<name>Yonatan Katznelson</name>
+		</professor>
+		<professor>
+			<name>Nobuhiko Kobayashi</name>
+		</professor>
+		<professor>
+			<name>Phokion G. Kolaitis</name>
+		</professor>
+		<professor>
+			<name>Joseph Konopelski</name>
+		</professor>
+		<professor>
+			<name>Athanasios Kottas</name>
+		</professor>
+		<professor>
+			<name>Thomas Kroeger</name>
+		</professor>
+		<professor>
+			<name>Joel Kubby</name>
+		</professor>
+		<professor>
+			<name>Sri Kurniawan</name>
+		</professor>
+		<professor>
+			<name>Tracy Larrabee</name>
+		</professor>
+		<professor>
+			<name>Kenneth Laws</name>
+		</professor>
+		<professor>
+			<name>Dongwook Lee</name>
+		</professor>
+		<professor>
+			<name>Herbert Lee</name>
+		</professor>
+		<professor>
+			<name>Juhee Lee</name>
+		</professor>
+		<professor>
+			<name>Bob Levinson</name>
+		</professor>
+		<professor>
+			<name>Suresh K Lodha</name>
+		</professor>
+		<professor>
+			<name>Darrell Long</name>
+		</professor>
+		<professor>
+			<name>Todd M. Lowe</name>
+		</professor>
+		<professor>
+			<name>Professor</name>
+		</professor>
+		<professor>
+			<name>Wesley Mackey</name>
+		</professor>
+		<professor>
+			<name>Carlos Maltzahn</name>
+		</professor>
+		<professor>
+			<name>Roberto Manduchi</name>
+		</professor>
+		<professor>
+			<name>Marc Mangel</name>
+		</professor>
+		<professor>
+			<name>Patrick Mantey</name>
+		</professor>
+		<professor>
+			<name>Michael Mateas</name>
+		</professor>
+		<professor>
+			<name>Joshua McCoy</name>
+		</professor>
+		<professor>
+			<name>Charlie McDowell</name>
+		</professor>
+		<professor>
+			<name>Bruno Mendes</name>
+		</professor>
+		<professor>
+			<name>Peyman Milanfar</name>
+		</professor>
+		<professor>
+			<name>Ethan L. Miller</name>
+		</professor>
+		<professor>
+			<name>Dejan Milutinovic</name>
+		</professor>
+		<professor>
+			<name>Katie Monsen</name>
+		</professor>
+		<professor>
+			<name>Robin D. Morris</name>
+		</professor>
+		<professor>
+			<name>Gerald Moulds</name>
+		</professor>
+		<professor>
+			<name>Dr. David Alexander Munday</name>
+		</professor>
+		<professor>
+			<name>John Musacchio</name>
+		</professor>
+		<professor>
+			<name>Dr. Bassam Musaffar</name>
+		</professor>
+		<professor>
+			<name>Adjunct Professor</name>
+		</professor>
+		<professor>
+			<name>Ike Nassi</name>
+		</professor>
+		<professor>
+			<name>Katia Obraczka</name>
+		</professor>
+		<professor>
+			<name>Michael M. Oye</name>
+		</professor>
+		<professor>
+			<name>Alex Pang</name>
+		</professor>
+		<professor>
+			<name>Oxana Pantchenko</name>
+		</professor>
+		<professor>
+			<name>David Pease</name>
+		</professor>
+		<professor>
+			<name>Ken Pedrotti</name>
+		</professor>
+		<professor>
+			<name>Stephen Petersen</name>
+		</professor>
+		<professor>
+			<name>Ira Pohl</name>
+		</professor>
+		<professor>
+			<name>Nader Pourmand</name>
+		</professor>
+		<professor>
+			<name>Raquel Prado</name>
+		</professor>
+		<professor>
+			<name>Jose Renau</name>
+		</professor>
+		<professor>
+			<name>Abel Rodríguez</name>
+		</professor>
+		<professor>
+			<name>Marco Rolandi</name>
+		</professor>
+		<professor>
+			<name>Kevin Ross</name>
+		</professor>
+		<professor>
+			<name>Wendy Rothwell</name>
+		</professor>
+		<professor>
+			<name>S V N Vishwanathan</name>
+		</professor>
+		<professor>
+			<name>Hamid R. Sadjadpour</name>
+		</professor>
+		<professor>
+			<name>Ricardo Sanfelice</name>
+		</professor>
+		<professor>
+			<name>Bruno Sansó</name>
+		</professor>
+		<professor>
+			<name>Dr. Bruce K. Sawhill</name>
+		</professor>
+		<professor>
+			<name>Martine Schlag</name>
+		</professor>
+		<professor>
+			<name>Holger Schmidt</name>
+		</professor>
+		<professor>
+			<name>Thomas Schwarz</name>
+		</professor>
+		<professor>
+			<name>Safwan Shah</name>
+		</professor>
+		<professor>
+			<name>James Shanahan</name>
+		</professor>
+		<professor>
+			<name>Sangho Shin</name>
+		</professor>
+		<professor>
+			<name>John Skardon</name>
+		</professor>
+		<professor>
+			<name>Professor</name>
+		</professor>
+		<professor>
+			<name>Brad Smith</name>
+		</professor>
+		<professor>
+			<name>Josh Stuart</name>
+		</professor>
+		<professor>
+			<name>Neel Sundaresan</name>
+		</professor>
+		<professor>
+			<name>Reid Swanson</name>
+		</professor>
+		<professor>
+			<name>Wang-Chiew Tan</name>
+		</professor>
+		<professor>
+			<name>Patrick Tantalo</name>
+		</professor>
+		<professor>
+			<name>Balder ten Cate</name>
+		</professor>
+		<professor>
+			<name>Mircea Teodorescu</name>
+		</professor>
+		<professor>
+			<name>Bruce Thomas</name>
+		</professor>
+		<professor>
+			<name>Jonathan Trent</name>
+		</professor>
+		<professor>
+			<name>E. Kimberly Unger</name>
+		</professor>
+		<professor>
+			<name>Allen Van Gelder</name>
+		</professor>
+		<professor>
+			<name>Anujan Varma</name>
+		</professor>
+		<professor>
+			<name>Daniele Venturi</name>
+		</professor>
+		<professor>
+			<name>John Vesecky</name>
+		</professor>
+		<professor>
+			<name>Christopher Vollmers</name>
+		</professor>
+		<professor>
+			<name>Marilyn Walker</name>
+		</professor>
+		<professor>
+			<name>Hongyun Wang</name>
+		</professor>
+		<professor>
+			<name>Noah Wardrip-Fruin</name>
+		</professor>
+		<professor>
+			<name>Manfred Warmuth</name>
+		</professor>
+		<professor>
+			<name>Linda Werner</name>
+		</professor>
+		<professor>
+			<name>Cedric Westphal</name>
+		</professor>
+		<professor>
+			<name>Jim Whitehead</name>
+		</professor>
+		<professor>
+			<name>Donald M. Wiberg</name>
+		</professor>
+		<professor>
+			<name>Tatiana Xifara</name>
+		</professor>
+		<professor>
+			<name>Toshishige Yamada</name>
+		</professor>
+		<professor>
+			<name>Ali A. Yanik</name>
+		</professor>
+		<professor>
+			<name>Christopher Yonge</name>
+		</professor>
+		<professor>
+			<name>Yi Zhang</name>
+		</professor>
+		<professor>
+			<name>Zemin J. Zhang</name>
+		</professor>
+		<professor>
+			<name>Jishen Zha</name>
+		</professor>
+	</institution>
