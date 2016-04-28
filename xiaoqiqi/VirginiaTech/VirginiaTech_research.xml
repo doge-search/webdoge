@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Computational Biology and Bioinformatics</groupname>
+			<professorname>Liqing Zhang</professorname>
+			<professorname>Yang Cao</professorname>
+			<professorname>T. M.  Murali</professorname>
+			<professorname>Adrian Sandu</professorname>
+			<professorname>Layne Watson</professorname>
+			<professorname>Calvin Ribbens</professorname>
+			<professorname>Cliff Shaffer</professorname>
+			<professorname>Yang Cao</professorname>
+			<professorname>Lenwood Heath</professorname>
+			<professorname>Alexey Onufriev</professorname>
+		</research>
+		<research>
+			<groupname>Cyberarts and Visualization</groupname>
+			<professorname>Doug Bowman</professorname>
+			<professorname>Nicholas Polys</professorname>
+			<professorname>Cliff Shaffer</professorname>
+			<professorname> </professorname>
+			<professorname>Steve Harrison</professorname>
+			<professorname>Denis Gracanin</professorname>
+			<professorname>Chris North</professorname>
+			<professorname>Chris North</professorname>
+			<professorname>Nicholas Polys</professorname>
+			<professorname>Nicholas Polys</professorname>
+		</research>
+		<research>
+			<groupname>Data, Information, Knowledge, and Libraries</groupname>
+			<professorname>Bert Huang</professorname>
+			<professorname>Csaba Egyhazy</professorname>
+			<professorname>Edward Fox</professorname>
+			<professorname>Ali Butt</professorname>
+			<professorname>Naren Ramakrishnan</professorname>
+			<professorname>Chang-Tien Lu</professorname>
+			<professorname>Godmar Back</professorname>
+			<professorname>Nicholas Polys</professorname>
+		</research>
+		<research>
+			<groupname>Digital Education</groupname>
+			<professorname>Cliff Shaffer</professorname>
+			<professorname>Edward Fox</professorname>
+			<professorname> </professorname>
+			<professorname>Deborah Tatar</professorname>
+			<professorname>Andrea Kavanaugh</professorname>
+			<professorname>Eli Tilevich</professorname>
+		</research>
+		<research>
+			<groupname>High End Computing and Computational Science</groupname>
+			<professorname>Adrian Sandu</professorname>
+			<professorname>Ali Butt</professorname>
+			<professorname>Adrian Sandu</professorname>
+			<professorname>Layne Watson</professorname>
+			<professorname>Calvin Ribbens</professorname>
+			<professorname>Cliff Shaffer</professorname>
+			<professorname>Yang Cao</professorname>
+			<professorname>Yang Cao</professorname>
+			<professorname>Kirk Cameron  </professorname>
+			<professorname>Alexey Onufriev</professorname>
+			<professorname>Wu Feng</professorname>
+			<professorname>Eli Tilevich</professorname>
+			<professorname>Godmar Back</professorname>
+		</research>
+		<research>
+			<groupname>Human Computer Interaction</groupname>
+			<professorname>Doug Bowman</professorname>
+			<professorname>Nicholas Polys</professorname>
+			<professorname> </professorname>
+			<professorname>Steve Harrison</professorname>
+			<professorname>Denis Gracanin</professorname>
+			<professorname>Chris North</professorname>
+			<professorname>Chris North</professorname>
+			<professorname>Nicholas Polys</professorname>
+			<professorname>Scott McCrickard</professorname>
+			<professorname> </professorname>
+			<professorname>Deborah Tatar</professorname>
+			<professorname>Andrea Kavanaugh</professorname>
+			<professorname>Nicholas Polys</professorname>
+		</research>
+		<research>
+			<groupname>Mathematical Foundations of Computer Science</groupname>
+			<professorname>Adrian Sandu</professorname>
+			<professorname>Layne Watson</professorname>
+			<professorname>Calvin Ribbens</professorname>
+			<professorname>Cliff Shaffer</professorname>
+			<professorname>Yang Cao</professorname>
+			<professorname>Christopher Barrett</professorname>
+			<professorname>Madhav Marathe</professorname>
+			<professorname>Anil Vullikanti</professorname>
+		</research>
+		<research>
+			<groupname>Software Engineering</groupname>
+			<professorname>Osman  Balci  </professorname>
+			<professorname>Barbara Ryder</professorname>
+			<professorname>Eli Tilevich</professorname>
+		</research>
+		<research>
+			<groupname>Systems and Cybersecurity</groupname>
+			<professorname>Wenjing Lou</professorname>
+			<professorname>Ali Butt</professorname>
+			<professorname>Danfeng Yao</professorname>
+			<professorname>Ing-Ray Chen</professorname>
+			<professorname>Barbara Ryder</professorname>
+			<professorname>Kirk Cameron  </professorname>
+			<professorname>Eli Tilevich</professorname>
+			<professorname>Wu Feng</professorname>
+			<professorname>Eli Tilevich</professorname>
+			<professorname>Godmar Back</professorname>
+		</research>
+	</institution>

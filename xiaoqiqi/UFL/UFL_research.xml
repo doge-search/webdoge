@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Algorithms</groupname>
+			<professorname> Eakta Jain, Ph. D. </professorname>
+			<professorname> Mark S. Schmalz, Ph.D., O.D. </professorname>
+			<professorname> Meera Sitharam, Ph.D. </professorname>
+			<professorname> My T. Thai, Ph.D. </professorname>
+		</research>
+		<research>
+			<groupname>Bioinformatics</groupname>
+			<professorname> Tamer Kahveci, Ph.D. </professorname>
+			<professorname> Meera Sitharam, Ph.D. </professorname>
+		</research>
+		<research>
+			<groupname>Cloud Computing</groupname>
+			<professorname> Shigang Chen, Ph.D. </professorname>
+			<professorname> Richard Newman, Ph.D. </professorname>
+			<professorname> Ye Xia </professorname>
+		</research>
+		<research>
+			<groupname>Computational Geometry</groupname>
+			<professorname> Markus Schneider, PhD </professorname>
+			<professorname> Meera Sitharam, Ph.D. </professorname>
+		</research>
+		<research>
+			<groupname>Computational Neuroscience</groupname>
+			<professorname> Gerhard X Ritter, Ph.D. </professorname>
+		</research>
+		<research>
+			<groupname>Computer Vision &amp; Medical Image Computing</groupname>
+			<professorname> Anand Rangarajan, Ph.D. </professorname>
+			<professorname> Gerhard X Ritter, Ph.D. </professorname>
+			<professorname> Mark S. Schmalz, Ph.D., O.D. </professorname>
+			<professorname> Corey Toler-Franklin, Ph.D. </professorname>
+			<professorname> Baba C. Vemuri, Ph.D. </professorname>
+		</research>
+		<research>
+			<groupname>Concurrency, Parallelism, and High-Performance Computing</groupname>
+			<professorname> Shigang Chen, Ph.D. </professorname>
+			<professorname> Mark S. Schmalz, Ph.D., O.D. </professorname>
+			<professorname> My T. Thai, Ph.D. </professorname>
+		</research>
+		<research>
+			<groupname>Database, Data Science, and Informatics</groupname>
+			<professorname> Shigang Chen, Ph.D. </professorname>
+			<professorname> Paul D. Gader, Ph.D. </professorname>
+			<professorname> Juan E. Gilbert, Ph.D. </professorname>
+			<professorname> Tamer Kahveci, Ph.D. </professorname>
+			<professorname> Markus Schneider, PhD </professorname>
+			<professorname> Daisy Zhe Wang, Ph.D. </professorname>
+		</research>
+		<research>
+			<groupname>Embedded Systems</groupname>
+			<professorname> Prabhat Mishra, Ph.D.  </professorname>
+			<professorname> Mark S. Schmalz, Ph.D., O.D. </professorname>
+		</research>
+		<research>
+			<groupname>Energy-Aware Computing</groupname>
+			<professorname> Shigang Chen, Ph.D. </professorname>
+			<professorname> Prabhat Mishra, Ph.D.  </professorname>
+		</research>
+		<research>
+			<groupname>Graphics and Visualization</groupname>
+			<professorname> Alireza Entezari, Ph.D. </professorname>
+			<professorname> Eakta Jain, Ph. D. </professorname>
+			<professorname> Benjamin C. Lok, Ph.D. </professorname>
+			<professorname> Jorg Peters, Ph.D. </professorname>
+		</research>
+		<research>
+			<groupname>Human-Centered Computing</groupname>
+			<professorname> Lisa Anthony, Ph.D.  </professorname>
+			<professorname> Kristy Elizabeth Boyer </professorname>
+			<professorname> Shaundra B. Daily, Ph.D. </professorname>
+			<professorname> Christina Gardner-McCune, Ph.D. </professorname>
+			<professorname> Juan E. Gilbert, Ph.D. </professorname>
+			<professorname> Eakta Jain, Ph. D. </professorname>
+			<professorname> Benjamin C. Lok, Ph.D. </professorname>
+			<professorname> Kyla McMullen, Ph.D. </professorname>
+			<professorname> Jorg Peters, Ph.D. </professorname>
+		</research>
+		<research>
+			<groupname>Image and Signal Analysis</groupname>
+			<professorname> Alireza Entezari, Ph.D. </professorname>
+			<professorname> Paul D. Gader, Ph.D. </professorname>
+			<professorname> Gerhard X Ritter, Ph.D. </professorname>
+			<professorname> Mark S. Schmalz, Ph.D., O.D. </professorname>
+			<professorname> Corey Toler-Franklin, Ph.D. </professorname>
+			<professorname> Baba C. Vemuri, Ph.D. </professorname>
+			<professorname> Rong Zhang, Ph. D. </professorname>
+		</research>
+		<research>
+			<groupname>Information Security</groupname>
+			<professorname> Kevin R. B. Butler </professorname>
+			<professorname> Shigang Chen, Ph.D. </professorname>
+			<professorname> Juan E. Gilbert, Ph.D. </professorname>
+			<professorname> Richard Newman, Ph.D. </professorname>
+			<professorname> Tom Shrimpton, Ph.D. </professorname>
+			<professorname> My T. Thai, Ph.D. </professorname>
+			<professorname> Patrick Traynor </professorname>
+			<professorname> Joseph N Wilson, Ph.D. </professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning</groupname>
+			<professorname> Lisa Anthony, Ph.D.  </professorname>
+			<professorname> Paul D. Gader, Ph.D. </professorname>
+			<professorname> Juan E. Gilbert, Ph.D. </professorname>
+			<professorname> Tamer Kahveci, Ph.D. </professorname>
+			<professorname> Gerhard X Ritter, Ph.D. </professorname>
+			<professorname> Mark S. Schmalz, Ph.D., O.D. </professorname>
+			<professorname> Meera Sitharam, Ph.D. </professorname>
+			<professorname> Joseph N Wilson, Ph.D. </professorname>
+			<professorname> Rong Zhang, Ph. D. </professorname>
+		</research>
+		<research>
+			<groupname>Pervasive and Mobile Computing</groupname>
+			<professorname> Shigang Chen, Ph.D. </professorname>
+			<professorname> Abdelsalam (Sumi) Helal, Ph.D. </professorname>
+			<professorname> Patrick Traynor </professorname>
+		</research>
+	</institution>

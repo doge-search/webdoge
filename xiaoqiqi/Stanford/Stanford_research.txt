@@ -1,0 +1,148 @@
+Artificial Intelligence
+Serafim Batzoglou
+Gill Bejerano
+Stefano Ermon
+Edward Feigenbaum
+Richard Fikes
+Mike Genesereth
+Leonidas Guibas
+Dan Jurafsky
+Oussama Khatib
+Jean-Claude Latombe
+Fei-Fei Li
+Percy Liang
+Chris Manning
+Andrew Ng
+Nils Nilsson
+Kenneth Salisbury
+Silvio Savarese
+Yoav Shoham
+Sebastian Thrun
+
+Computational Biology
+Serafim Batzoglou
+Gill Bejerano
+David Dill
+Ron Dror
+Anshul Kundaje
+
+Computer Vision
+Fei-Fei Li
+Silvio Savarese
+
+Machine Learning
+Stefano Ermon
+Jure Leskovec
+Fei-Fei Li
+Percy Liang
+Andrew Ng
+Sebastian Thrun
+
+Natural Language Processing
+Dan Jurafsky
+Percy Liang
+Chris Manning
+
+Robotics
+Oussama Khatib
+Jean-Claude Latombe
+Andrew Ng
+Kenneth Salisbury
+Sebastian Thrun
+
+Computer Graphics
+Maneesh Agrawala
+Ron Fedkiw
+Leonidas Guibas
+Patrick Hanrahan
+Doug James
+Marc Levoy
+
+Human-Computer Interaction (HCI)
+Maneesh Agrawala
+Michael Bernstein
+James Landay
+Terry Winograd
+
+Computer Systems
+Alex Aiken
+Peter Bailis
+David Cheriton
+Bill Dally
+David Dill
+Dawson Engler
+Hector Garcia-Molina
+Patrick Hanrahan
+John Hennessy
+Mark Horowitz
+Sachin Katti
+Christos Kozyrakis
+Monica Lam
+Philip Levis
+David Mazières
+Edward McCluskey
+Nick McKeown
+Teresa Meng
+Subhasish Mitra
+Kunle Olukotun
+John Ousterhout
+Balaji Prabhakar
+Chris Ré
+Mendel Rosenblum
+Jennifer Widom
+Gio Wiederhold
+Keith Winstein
+
+Architecture
+Bill Dally
+Mark Horowitz
+Christos Kozyrakis
+Subhasish Mitra
+Kunle Olukotun
+
+Computer Security
+Dan Boneh
+David Mazières
+John Mitchell
+
+Networking
+Sachin Katti
+Philip Levis
+Nick McKeown
+Balaji Prabhakar
+Keith Winstein
+
+Operating/Distributed Systems
+Peter Bailis
+David Cheriton
+Christos Kozyrakis
+David Mazières
+John Ousterhout
+Mendel Rosenblum
+
+Programming Systems and Verification
+Alex Aiken
+Dawson Engler
+Subhasish Mitra
+Kunle Olukotun
+
+Data Science
+Peter Bailis
+Hector Garcia-Molina
+Jure Leskovec
+Chris Ré
+Jeff Ullman
+Jennifer Widom
+Gio Wiederhold
+
+Theory
+Dan Boneh
+Moses Charikar
+Don Knuth
+Serge Plotkin
+Vaughan Pratt
+Tim Roughgarden
+Jeff Ullman
+Gregory Valiant
+Ryan Williams
+Virginia Williams

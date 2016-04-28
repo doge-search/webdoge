@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>CERES Center for Unstoppable Computing</groupname>
+			<professorname>Andrew A. Chien</professorname>
+			<professorname>Fred Chong</professorname>
+			<professorname>Aaron J. Elmore</professorname>
+			<professorname>Ariel J. Feldman</professorname>
+			<professorname>Ian Foster</professorname>
+			<professorname>Mike Franklin</professorname>
+			<professorname>Robert Grossman</professorname>
+			<professorname>Monisha Ghosh</professorname>
+			<professorname>Haryadi Gunawi</professorname>
+			<professorname>Hank Hoffmann</professorname>
+			<professorname>Yanjing Li</professorname>
+			<professorname>Shan Lu</professorname>
+			<professorname>Rick Stevens</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning</groupname>
+			<professorname>Yali Amit</professorname>
+			<professorname>Risi Kondor</professorname>
+			<professorname>John Lafferty</professorname>
+			<professorname>Rina Foygel Barber</professorname>
+			<professorname>Rayid Ghani</professorname>
+			<professorname>John Goldsmith</professorname>
+			<professorname>Gordon Kindlmann</professorname>
+			<professorname>Lek-Heng Lim</professorname>
+			<professorname>Mladen Kolar</professorname>
+			<professorname>Matthew Stephens</professorname>
+			<professorname>Matt Taddy</professorname>
+			<professorname>Jonathan Weare</professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages</groupname>
+			<professorname>Ravi Chugh</professorname>
+			<professorname>John Reppy</professorname>
+			<professorname>Stuart Kurtz</professorname>
+			<professorname>Shan Lu</professorname>
+			<professorname>Dave MacQueen</professorname>
+			<professorname>Adam Shaw</professorname>
+		</research>
+		<research>
+			<groupname>Systems Group</groupname>
+			<professorname>Andrew A. Chien</professorname>
+			<professorname>Fred Chong</professorname>
+			<professorname>Ravi Chugh</professorname>
+			<professorname>Aaron Elmore</professorname>
+			<professorname>Ariel Feldman</professorname>
+			<professorname>Ian Foster</professorname>
+			<professorname>Haryadi Gunawi</professorname>
+			<professorname>Hank Hoffmann</professorname>
+			<professorname>Gordon Kindlmann</professorname>
+			<professorname>Yanjing Li</professorname>
+			<professorname>Shan Lu</professorname>
+			<professorname>John Reppy</professorname>
+			<professorname>Anne Rogers</professorname>
+			<professorname>Rick Stevens</professorname>
+		</research>
+			<groupname>Theoretical Computer Science</groupname>
+			<professorname>László Babai</professorname>
+			<professorname>Andrew Drucker</professorname>
+			<professorname>Imre Risi Kondor</professorname>
+			<professorname>Stuart Kurtz</professorname>
+			<professorname>John Lafferty</professorname>
+			<professorname>Ketan Mulmuley</professorname>
+			<professorname>Alexander Razborov</professorname>
+			<professorname>Janos Simon</professorname>
+		<research>
+	</institution>
