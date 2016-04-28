@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Algorithms and Theory of Computation</groupname>
+			<professorname>Artificial Intelligence</professorname>
+			<professorname>Computational Biology</professorname>
+			<professorname>Donna Slonim</professorname>
+			<professorname>Lenore Cowen</professorname>
+			<professorname>Anselm Blumer</professorname>
+			<professorname>Ben Hescott</professorname>
+		</research>
+		<research>
+			<groupname>Computational Geometry</groupname>
+			<professorname>Prof. Greg Aloupis</professorname>
+			<professorname>Michelle Allen</professorname>
+			<professorname>Prof. Benjamin Hescott</professorname>
+			<professorname>Joshua Mermelstein	</professorname>
+			<professorname>Prof. Diane L. Souvaine	</professorname>
+			<professorname>Prof. Csaba D. Tóth</professorname>
+			<professorname>Andrew Winslow</professorname>
+		</research>
+		<research>
+			<groupname>Cognitive Science</groupname>
+			<professorname>Rob Jacob</professorname>
+			<professorname>Matthias Scheutz</professorname>
+		</research>
+		<research>
+			<groupname>Digital Humanities</groupname>
+		</research>
+		<research>
+			<groupname>Educational Technologies</groupname>
+			<professorname>Merredith Portsmore</professorname>
+			<professorname>Ethan Danahy</professorname>
+			<professorname>Kristen Wendell</professorname>
+			<professorname>Elissa Milto</professorname>
+			<professorname>Bill Church</professorname>
+		</research>
+		<research>
+			<groupname>Electronic Design Automation (EDA) and VLSI design</groupname>
+			<professorname>Soha Hassoun</professorname>
+		</research>
+		<research>
+			<groupname>Human Computer Interaction</groupname>
+			<professorname>Rob Jacob</professorname>
+		</research>
+		<research>
+			<groupname>Image Processing</groupname>
+			<professorname>Prof. Eric Miller</professorname>
+			<professorname>Prof. Brian Tracey</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning and Data Mining</groupname>
+		</research>
+		<research>
+			<groupname>Network and System Administration/Autonomic Network Management</groupname>
+			<professorname>Alva Couch</professorname>
+		</research>
+		<research>
+			<groupname>Numerical Linear Algebra</groupname>
+			<professorname>Lenore Cowen, Ben Hescott, Roni Khardon, Diane Souvaine.</professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages and Systems</groupname>
+			<professorname>Sam Guyer, Norman Ramsey, Kathleen Fisher.</professorname>
+		</research>
+		<research>
+			<groupname>Robotics and Human-Robot Interaction</groupname>
+			<professorname>matthias scheutz</professorname>
+		</research>
+		<research>
+			<groupname>Systems Biology</groupname>
+			<professorname>Soha Hassoun</professorname>
+		</research>
+		<research>
+			<groupname>Visualization and Graphics</groupname>
+			<professorname>Remco Chan</professorname>
+		</research>
+	</institution>

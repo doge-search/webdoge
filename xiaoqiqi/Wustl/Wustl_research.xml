@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 	<institution>
 		<research>
-			<groupname>Cyber-Physical Systems & Sensing</groupname>
+			<groupname>Cyber-Physical Systems &amp; Sensing</groupname>
 			<professorname>Kunal Agrawal</professorname>
 			<professorname>Shantanu Chakrabartty</professorname>
 			<professorname>Ron Cytron</professorname>
@@ -18,13 +18,13 @@
 			<professorname>Robert Pless</professorname>
 		</research>
 		<research>
-			<groupname>Graphics & Vision</groupname>
+			<groupname>Graphics &amp; Vision</groupname>
 			<professorname>Yasutaka Furukawa</professorname>
 			<professorname>Tao Ju</professorname>
 			<professorname>Robert Pless</professorname>
 		</research>
 		<research>
-			<groupname>Machine Learning & Artificial Intelligence</groupname>
+			<groupname>Machine Learning &amp; Artificial Intelligence</groupname>
 			<professorname>Yixin Chen</professorname>
 			<professorname>Sanmay Das</professorname>
 			<professorname>Yasutaka Furukawa</professorname>

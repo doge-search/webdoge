@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Algorithms</groupname>
+			<professorname>Harold S. Connamacher </professorname>
+			<professorname>Jing Li</professorname>
+			<professorname>Mehmet Koyuturk</professorname>
+		</research>
+		<research>
+			<groupname>Bioinformatics</groupname>
+			<professorname>Mehmet Koyuturk</professorname>
+			<professorname>Jing Li</professorname>
+			<professorname>Tekin Ozsoyoglu</professorname>
+			<professorname>Z. Meral Ozsoyoglu </professorname>
+		</research>
+		<research>
+			<groupname>Databases</groupname>
+			<professorname>Tekin Ozsoyoglu</professorname>
+			<professorname>Z. Meral Ozsoyoglu</professorname>
+		</research>
+		<research>
+			<groupname>Networking</groupname>
+			<professorname>Michael Rabinovich</professorname>
+			<professorname>Vincenzo Liberatore</professorname>
+		</research>
+		<research>
+			<groupname>Artificial Intelligence</groupname>
+			<professorname>Michael Lewicki</professorname>
+			<professorname>Chris Fietkiewicz</professorname>
+			<professorname>Soumya Ray</professorname>
+		</research>
+		<research>
+			<groupname>Software Engineering</groupname>
+			<professorname>Andy Podgurski </professorname>
+		</research>
+	</institution>

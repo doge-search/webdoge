@@ -1,12 +1,10 @@
 import os
 import xml.dom.minidom as minidom
 
-school = 'iastate'
+school = 'TUFTS'
 if(not os.path.exists('d:/PYPJ/webdoge/hehao/' + school)):
     os.mkdir('d:/PYPJ/webdoge/hehao/' + school)
-
 # for line in open('d:/PYPJ/webdoge/hehao/' + school + '.html'):  
-
 fout_xml = file('d:/PYPJ/webdoge/hehao/' + school + '/' + school + '_research.xml','w')
 doc = minidom.Document()
 institution = doc.createElement("institution")
