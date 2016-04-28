@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Artificial Intelligence</groupname>
+			<professorname>Serafim Batzoglou</professorname>
+			<professorname>Gill Bejerano</professorname>
+			<professorname>Stefano Ermon</professorname>
+			<professorname>Edward Feigenbaum</professorname>
+			<professorname>Richard Fikes</professorname>
+			<professorname>Mike Genesereth</professorname>
+			<professorname>Leonidas Guibas</professorname>
+			<professorname>Dan Jurafsky</professorname>
+			<professorname>Oussama Khatib</professorname>
+			<professorname>Jean-Claude Latombe</professorname>
+			<professorname>Fei-Fei Li</professorname>
+			<professorname>Percy Liang</professorname>
+			<professorname>Chris Manning</professorname>
+			<professorname>Andrew Ng</professorname>
+			<professorname>Nils Nilsson</professorname>
+			<professorname>Kenneth Salisbury</professorname>
+			<professorname>Silvio Savarese</professorname>
+			<professorname>Yoav Shoham</professorname>
+			<professorname>Sebastian Thrun</professorname>
+		</research>
+		<research>
+			<groupname>Computational Biology</groupname>
+			<professorname>Serafim Batzoglou</professorname>
+			<professorname>Gill Bejerano</professorname>
+			<professorname>David Dill</professorname>
+			<professorname>Ron Dror</professorname>
+			<professorname>Anshul Kundaje</professorname>
+		</research>
+		<research>
+			<groupname>Computer Vision</groupname>
+			<professorname>Fei-Fei Li</professorname>
+			<professorname>Silvio Savarese</professorname>
+		</research>
+		<research>
+			<groupname>Machine Learning</groupname>
+			<professorname>Stefano Ermon</professorname>
+			<professorname>Jure Leskovec</professorname>
+			<professorname>Fei-Fei Li</professorname>
+			<professorname>Percy Liang</professorname>
+			<professorname>Andrew Ng</professorname>
+			<professorname>Sebastian Thrun</professorname>
+		</research>
+		<research>
+			<groupname>Natural Language Processing</groupname>
+			<professorname>Dan Jurafsky</professorname>
+			<professorname>Percy Liang</professorname>
+			<professorname>Chris Manning</professorname>
+		</research>
+		<research>
+			<groupname>Robotics</groupname>
+			<professorname>Oussama Khatib</professorname>
+			<professorname>Jean-Claude Latombe</professorname>
+			<professorname>Andrew Ng</professorname>
+			<professorname>Kenneth Salisbury</professorname>
+			<professorname>Sebastian Thrun</professorname>
+		</research>
+		<research>
+			<groupname>Computer Graphics</groupname>
+			<professorname>Maneesh Agrawala</professorname>
+			<professorname>Ron Fedkiw</professorname>
+			<professorname>Leonidas Guibas</professorname>
+			<professorname>Patrick Hanrahan</professorname>
+			<professorname>Doug James</professorname>
+			<professorname>Marc Levoy</professorname>
+		</research>
+		<research>
+			<groupname>Human-Computer Interaction (HCI)</groupname>
+			<professorname>Maneesh Agrawala</professorname>
+			<professorname>Michael Bernstein</professorname>
+			<professorname>James Landay</professorname>
+			<professorname>Terry Winograd</professorname>
+		</research>
+		<research>
+			<groupname>Computer Systems</groupname>
+			<professorname>Alex Aiken</professorname>
+			<professorname>Peter Bailis</professorname>
+			<professorname>David Cheriton</professorname>
+			<professorname>Bill Dally</professorname>
+			<professorname>David Dill</professorname>
+			<professorname>Dawson Engler</professorname>
+			<professorname>Hector Garcia-Molina</professorname>
+			<professorname>Patrick Hanrahan</professorname>
+			<professorname>John Hennessy</professorname>
+			<professorname>Mark Horowitz</professorname>
+			<professorname>Sachin Katti</professorname>
+			<professorname>Christos Kozyrakis</professorname>
+			<professorname>Monica Lam</professorname>
+			<professorname>Philip Levis</professorname>
+			<professorname>David Mazières</professorname>
+			<professorname>Edward McCluskey</professorname>
+			<professorname>Nick McKeown</professorname>
+			<professorname>Teresa Meng</professorname>
+			<professorname>Subhasish Mitra</professorname>
+			<professorname>Kunle Olukotun</professorname>
+			<professorname>John Ousterhout</professorname>
+			<professorname>Balaji Prabhakar</professorname>
+			<professorname>Chris Ré</professorname>
+			<professorname>Mendel Rosenblum</professorname>
+			<professorname>Jennifer Widom</professorname>
+			<professorname>Gio Wiederhold</professorname>
+			<professorname>Keith Winstein</professorname>
+		</research>
+		<research>
+			<groupname>Architecture</groupname>
+			<professorname>Bill Dally</professorname>
+			<professorname>Mark Horowitz</professorname>
+			<professorname>Christos Kozyrakis</professorname>
+			<professorname>Subhasish Mitra</professorname>
+			<professorname>Kunle Olukotun</professorname>
+		</research>
+		<research>
+			<groupname>Computer Security</groupname>
+			<professorname>Dan Boneh</professorname>
+			<professorname>David Mazières</professorname>
+			<professorname>John Mitchell</professorname>
+		</research>
+		<research>
+			<groupname>Networking</groupname>
+			<professorname>Sachin Katti</professorname>
+			<professorname>Philip Levis</professorname>
+			<professorname>Nick McKeown</professorname>
+			<professorname>Balaji Prabhakar</professorname>
+			<professorname>Keith Winstein</professorname>
+		</research>
+		<research>
+			<groupname>Operating/Distributed Systems</groupname>
+			<professorname>Peter Bailis</professorname>
+			<professorname>David Cheriton</professorname>
+			<professorname>Christos Kozyrakis</professorname>
+			<professorname>David Mazières</professorname>
+			<professorname>John Ousterhout</professorname>
+			<professorname>Mendel Rosenblum</professorname>
+		</research>
+		<research>
+			<groupname>Programming Systems and Verification</groupname>
+			<professorname>Alex Aiken</professorname>
+			<professorname>Dawson Engler</professorname>
+			<professorname>Subhasish Mitra</professorname>
+			<professorname>Kunle Olukotun</professorname>
+		</research>
+		<research>
+			<groupname>Data Science</groupname>
+			<professorname>Peter Bailis</professorname>
+			<professorname>Hector Garcia-Molina</professorname>
+			<professorname>Jure Leskovec</professorname>
+			<professorname>Chris Ré</professorname>
+			<professorname>Jeff Ullman</professorname>
+			<professorname>Jennifer Widom</professorname>
+			<professorname>Gio Wiederhold</professorname>
+		</research>
+		<research>
+			<groupname>Theory</groupname>
+			<professorname>Dan Boneh</professorname>
+			<professorname>Moses Charikar</professorname>
+			<professorname>Don Knuth</professorname>
+			<professorname>Serge Plotkin</professorname>
+			<professorname>Vaughan Pratt</professorname>
+			<professorname>Tim Roughgarden</professorname>
+			<professorname>Jeff Ullman</professorname>
+			<professorname>Gregory Valiant</professorname>
+			<professorname>Ryan Williams</professorname>
+			<professorname>Virginia Williams</professorname>
+		</research>
+	</institution>

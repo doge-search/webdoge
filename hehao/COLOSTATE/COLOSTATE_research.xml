@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>ARTIFICIAL INTELLIGENCE</groupname>
+			<professorname>Darrell Whitley</professorname>
+			<professorname>Charles Anderson</professorname>
+			<professorname>Asa Ben-Hur</professorname>
+			<professorname>Adele Howe</professorname>
+			<professorname>Ross Beveridge</professorname>
+			<professorname>Bruce Draper</professorname>
+			<professorname>Hamid Reza Chitsaz</professorname>
+		</research>
+		<research>
+			<groupname>SOFTWARE ENGINEERING</groupname>
+			<professorname>James Bieman</professorname>
+			<professorname>Yashwant Malaiya</professorname>
+			<professorname>Sudipto Ghosh</professorname>
+			<professorname>Indrakshi Ray</professorname>
+		</research>
+		<research>
+			<groupname>COMPUTER NETWORKS</groupname>
+			<professorname>Daniel Massey</professorname>
+			<professorname>Christos Papadopoulos</professorname>
+			<professorname>Indrajit Ray</professorname>
+			<professorname>Indrakshi Ray</professorname>
+		</research>
+		<research>
+			<groupname>HIGH PERFORMANCE COMPUTATION</groupname>
+			<professorname>Wim Bohm</professorname>
+			<professorname>Sanjay Rajopadhye</professorname>
+			<professorname>Shrideep Pallickara</professorname>
+		</research>
+		<research>
+			<groupname>DATA SECURITY AND PRIVACY</groupname>
+			<professorname>Indrajit Ray</professorname>
+			<professorname>Indrakshi Ray</professorname>
+			<professorname>Yashwant Malaiya</professorname>
+		</research>
+		<research>
+			<groupname>BIOINFORMATICS</groupname>
+			<professorname>Asa Ben-Hur</professorname>
+			<professorname>Christina Boucher</professorname>
+			<professorname>Hamid Reza Chitsaz</professorname>
+		</research>
+		<research>
+			<groupname>COMPUTER VISION AND GRAPHICS</groupname>
+			<professorname>Ross Beveridge</professorname>
+			<professorname>Bruce Draper</professorname>
+		</research>
+		<research>
+			<groupname>DISTRIBUTED SYSTEMS</groupname>
+			<professorname>Shrideep Pallickara</professorname>
+			<professorname>Sangmi Pallickara</professorname>
+		</research>
+		<research>
+			<groupname>BIG DATA</groupname>
+			<professorname>Sangmi Pallickara</professorname>
+		</research>
+		<research>
+			<groupname>HUMAN-COMPUTER INTERACTION (HCI)</groupname>
+			<professorname>Jaime Ruiz</professorname>
+		</research>
+		<research>
+			<groupname>ALGORITHMS</groupname>
+			<professorname>Ross McConnell</professorname>
+			<professorname>Hamid Reza Chitsa</professorname>
+		</research>
+	</institution>

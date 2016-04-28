@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Computer Architecture</groupname>
+			<professorname>Hadi Esmaeilzadeh (assistant professor, School of Computer Science)</professorname>
+			<professorname>Hyesoon Kim (associate professor, School of Computer Science)</professorname>
+			<professorname>Milos Prvulovic (associate professor, School of Computer Science)</professorname>
+			<professorname>Moin Qureshi (associate professor, School of Electrical and Computer Engineering)</professorname>
+			<professorname>Sudhakar Yalamanchili (professor, School of Electrical and Computer Engineering)</professorname>
+		</research>
+		<research>
+			<groupname>Databases</groupname>
+			<professorname>Ling Liu</professorname>
+			<professorname>Leo Mark</professorname>
+			<professorname>Sham Navathe</professorname>
+			<professorname>Edward Omiecinski</professorname>
+			<professorname>Calton Pu</professorname>
+		</research>
+		<research>
+			<groupname>Information Security</groupname>
+			<professorname>Mustaque Ahamad</professorname>
+			<professorname>Adam Allred</professorname>
+			<professorname>Mostafa Ammar</professorname>
+			<professorname>Annie Anton</professorname>
+			<professorname>Sasha Boldyreva</professorname>
+			<professorname>Simon Chung</professorname>
+			<professorname>Richard DeMillo</professorname>
+			<professorname>Bill Harris</professorname>
+			<professorname>Taesoo Kim</professorname>
+			<professorname>Wenke Lee</professorname>
+			<professorname>Dick Lipton</professorname>
+			<professorname>Ling Liu</professorname>
+			<professorname>Mayur Naik</professorname>
+			<professorname>Alex Orso</professorname>
+			<professorname>Chris Peikert</professorname>
+			<professorname>Roberto Perdisci</professorname>
+			<professorname>Calton Pu</professorname>
+			<professorname>Tielei Wang</professorname>
+			<professorname>Saby Mitra</professorname>
+			<professorname>Peter Swire</professorname>
+			<professorname>Manos Antonakakis</professorname>
+			<professorname>Raheem Beyah</professorname>
+			<professorname>Doug Blough</professorname>
+			<professorname>John Copeland</professorname>
+			<professorname>Steve McLaughlin</professorname>
+			<professorname>A.P. &quot;Sakis&quot; Meliopoulos</professorname>
+			<professorname>Vincent Mooney</professorname>
+			<professorname>Sy Goodman</professorname>
+			<professorname>Hans Klein</professorname>
+			<professorname>Herb Baines</professorname>
+			<professorname>Jason Belford</professorname>
+			<professorname>Jimmy Lummis</professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages and Compilers</groupname>
+			<professorname>Bill Harris</professorname>
+			<professorname>Mayur Naik</professorname>
+			<professorname>Alessandro Orso</professorname>
+			<professorname>Santosh Pande</professorname>
+		</research>
+		<research>
+			<groupname>Networks</groupname>
+			<professorname>Mostafa Ammar</professorname>
+			<professorname>Russ Clark</professorname>
+			<professorname>Constantine Dovrolis</professorname>
+			<professorname>Jun (Jim) Xu</professorname>
+			<professorname>Ellen Zegura</professorname>
+		</research>
+		<research>
+			<groupname>Software Engineering</groupname>
+			<professorname>Bill Harris</professorname>
+			<professorname>Mayur Naik</professorname>
+			<professorname>Alessandro Orso</professorname>
+			<professorname>Santosh Pande</professorname>
+		</research>
+		<research>
+			<groupname>Systems</groupname>
+			<professorname>Ling Liu</professorname>
+			<professorname>Calton Pu</professorname>
+			<professorname>Kishore Ramachandran</professorname>
+			<professorname>Karsten Schwan</professorname>
+			<professorname>Doug Blough (adjunct)</professorname>
+			<professorname>Sudhakar Yalamanchili (adjunct)</professorname>
+			<professorname>Greg Eisenhauer (research faculty)</professorname>
+			<professorname>Ada Gavrilovska (research faculty)</professorname>
+			<professorname>Matthew Wolf (research faculty)</professorname>
+		</research>
+		<research>
+			<groupname>Theory</groupname>
+			<professorname>Complexity theory</professorname>
+			<professorname>Cryptography</professorname>
+			<professorname>Randomized algorithms and stochastic processes</professorname>
+			<professorname>Algorithmic game theory</professorname>
+			<professorname>Spectral methods</professorname>
+			<professorname>High-dimensional geometry and continuous optimization</professorname>
+			<professorname>Network models and algorithms</professorname>
+			<professorname>Learning theory</professorname>
+			<professorname>Lance Fortnow</professorname>
+			<professorname>Merrick Furst</professorname>
+			<professorname>Zvi Galil</professorname>
+			<professorname>Richard Lipton</professorname>
+			<professorname>Milena Mihail</professorname>
+			<professorname>Richard Peng (joining in Fall)</professorname>
+			<professorname>Christopher Peikert</professorname>
+			<professorname>Dana Randall</professorname>
+			<professorname>Prasad Tetali</professorname>
+			<professorname>Craig Tovey (ISYE)</professorname>
+			<professorname>Vijay Vazirani</professorname>
+			<professorname>Santosh Vempala,</professorname>
+			<professorname>H. Venkateshwaran</professorname>
+			<professorname>Eric Vigoda</professorname>
+		</research>
+	</institution>

@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+	<institution>
+		<research>
+			<groupname>Computer Graphics and Visualization Research Group</groupname>
+			<professorname>Nina Amenta</professorname>
+			<professorname>Bernd Hamann</professorname>
+			<professorname>Ken Joy</professorname>
+			<professorname>Yong Jae Lee</professorname>
+			<professorname>Kwan-Liu Ma</professorname>
+			<professorname>Nelson Max</professorname>
+			<professorname>Michael Neff</professorname>
+			<professorname>Gunther Weber</professorname>
+		</research>
+		<research>
+			<groupname>Computer Security Research Laboratory</groupname>
+			<professorname>Karl Levitt</professorname>
+			<professorname>Matt Bishop</professorname>
+			<professorname>Hao Chen</professorname>
+			<professorname>Felix Wu</professorname>
+		</research>
+		<research>
+			<groupname>Institute for Data Analysis and Visualization</groupname>
+			<professorname>Nina Amenta</professorname>
+			<professorname>Bernd Hamann</professorname>
+			<professorname>Ken Joy</professorname>   
+			<professorname>Nelson Max</professorname> 
+			<professorname>Michael Neff</professorname> 
+			<professorname>John D. Owens</professorname>
+			<professorname>Owen Carmichael</professorname> 
+			<professorname>Hans Hagen</professorname>
+			<professorname>Mauricio Hess-Flores</professorname>
+			<professorname>Oliver Kreylos</professorname>
+			<professorname>Harald Obermaier</professorname>
+		</research>
+		<research>
+			<groupname>Networks Laboratory</groupname>
+			<professorname>Chen-Nee-Chuah</professorname>
+			<professorname>Dipak Ghosal</professorname>
+			<professorname>Xin Liu</professorname>
+			<professorname>Prasant Mohapatra</professorname>
+			<professorname>Biswanath Mukherjee</professorname>
+		</research>
+		<research>
+			<groupname>Programming Languages and Software Engineering Laboratory</groupname>
+			<professorname>Premkumar T. Devanbu</professorname>
+			<professorname>Karl N. Levitt</professorname>
+			<professorname>Ronald A. Olsson</professorname>
+			<professorname>Raju Pandey</professorname>
+			<professorname>Zhendong Su</professorname>
+			<professorname>Cui Zhang</professorname>
+		</research>
+		<research>
+			<groupname>Software Engineering and Social Analytics Laboratory</groupname>
+			<professorname>Vladimir Filkov</professorname>
+			<professorname>Prem Devanbu</professorname>
+			<professorname>Raissa D’Souza</professorname>
+			<professorname>Cindy Rubio Gonzalez</professorname>
+			<professorname>Raul Aranovich</professorname>
+			<professorname>Zhendong Su</professorname>
+		</research>
+		<research>
+			<groupname>Theory Laboratory</groupname>
+			<professorname>Nina Amenta</professorname>
+			<professorname>Zhaojun Bai</professorname>
+			<professorname>Vladimir Filkov</professorname>
+			<professorname>Matt Franklin</professorname>
+			<professorname>Dan Gusfield</professorname>
+			<professorname>Patrice Koehl</professorname>
+			<professorname>Chip Martel</professorname>
+			<professorname>Phil Rogaway</professorname>
+		</research>
+		<research>
+			<groupname>Visualization and Interface Design Innovation</groupname>
+			<professorname>Kwan-Liu Ma</professorname>
+		</research>
+	</institution>
