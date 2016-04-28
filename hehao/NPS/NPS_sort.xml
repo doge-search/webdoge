@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Bruce Allen</name>
+			<papers>0.72619047619</papers>
+		</professor>
+		<professor>
+			<name>Mikhail Auguston</name>
+			<papers>32.630952381</papers>
+		</professor>
+		<professor>
+			<name>Eric Bachmann</name>
+			<papers>16.5</papers>
+		</professor>
+		<professor>
+			<name>Valdis Berzins</name>
+			<papers>39.0</papers>
+		</professor>
+		<professor>
+			<name>Robert Beverly</name>
+			<papers>18.25</papers>
+		</professor>
+		<professor>
+			<name>Karen Burke</name>
+			<papers>0.2</papers>
+		</professor>
+		<professor>
+			<name>Paul Clark</name>
+			<papers>6.0</papers>
+		</professor>
+		<professor>
+			<name>Scott Coté</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Chris Darken</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Rudy Darken</name>
+			<papers>4.33333333333</papers>
+		</professor>
+		<professor>
+			<name>Arijit Das</name>
+			<papers>1.83333333333</papers>
+		</professor>
+		<professor>
+			<name>Peter J. Denning</name>
+			<papers>177.033333333</papers>
+		</professor>
+		<professor>
+			<name>George Dinolt</name>
+			<papers>5.48333333333</papers>
+		</professor>
+		<professor>
+			<name>Doron Drusinsky</name>
+			<papers>40.0833333333</papers>
+		</professor>
+		<professor>
+			<name>Chris Eagle</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>John D. (JD) Fulp</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>John H. Gibson</name>
+			<papers>2.66666666667</papers>
+		</professor>
+		<professor>
+			<name>Mark Gondree</name>
+			<papers>9.95833333333</papers>
+		</professor>
+		<professor>
+			<name>Ted Huffmire</name>
+			<papers>11.9</papers>
+		</professor>
+		<professor>
+			<name>Cynthia Irvine</name>
+			<papers>41.8202380952</papers>
+		</professor>
+		<professor>
+			<name>Jean Khosalim</name>
+			<papers>0.533333333333</papers>
+		</professor>
+		<professor>
+			<name>Mathias Kölsch</name>
+			<papers>13.5333333333</papers>
+		</professor>
+		<professor>
+			<name>Luqi</name>
+			<papers>62.2</papers>
+		</professor>
+		<professor>
+			<name>Michael McCarrin</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Eric McMullen</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Bret Michael</name>
+			<papers>0</papers>
+		</professor>
+		<professor>
+			<name>Thuy Nguyen</name>
+			<papers>6.83333333333</papers>
+		</professor>
+		<professor>
+			<name>Thomas Otani</name>
+			<papers>0.142857142857</papers>
+		</professor>
+		<professor>
+			<name>Loren Peitso</name>
+			<papers>1.2</papers>
+		</professor>
+		<professor>
+			<name>Charles Prince</name>
+			<papers>1.41666666667</papers>
+		</professor>
+		<professor>
+			<name>Justin Rohrer</name>
+			<papers>9.43333333333</papers>
+		</professor>
+		<professor>
+			<name>Neil Rowe</name>
+			<papers>60.9166666667</papers>
+		</professor>
+		<professor>
+			<name>David Shifflett</name>
+			<papers>2.08333333333</papers>
+		</professor>
+		<professor>
+			<name>Man-Tak Shing</name>
+			<papers>0.333333333333</papers>
+		</professor>
+		<professor>
+			<name>Gurminder Singh</name>
+			<papers>26.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Michael Thompson</name>
+			<papers>5.16666666667</papers>
+		</professor>
+		<professor>
+			<name>Dennis Volpano</name>
+			<papers>30.0</papers>
+		</professor>
+		<professor>
+			<name>Geoffrey Xi</name>
+			<papers>0.833333333333</papers>
+		</professor>
+	</institution>

@@ -189,7 +189,7 @@ import os
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
-schools = ['UIUC', 'WM', 'USCS'] 
+schools = ['NPS'] 
 def search(ini_name):
 	name = ini_name.strip()
 	nname = name.split(',')

@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+	<institution>
+		<professor>
+			<name>Bhattacharya, Amiya</name>
+			<papers>10.5088235294</papers>
+		</professor>
+		<professor>
+			<name>Davis, Tim</name>
+			<papers>2.0</papers>
+		</professor>
+		<professor>
+			<name>Deverick, James</name>
+			<papers>1.0</papers>
+		</professor>
+		<professor>
+			<name>Jiao, Shuyin</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Jog, Adwait</name>
+			<papers>6.75</papers>
+		</professor>
+		<professor>
+			<name>Kearns, Phil</name>
+			<papers>19.6666666667</papers>
+		</professor>
+		<professor>
+			<name>Kemper, Peter</name>
+			<papers>38.2595238095</papers>
+		</professor>
+		<professor>
+			<name>Lewis, Robert Michael</name>
+			<papers>12.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Li, Qun</name>
+			<papers>9.0</papers>
+		</professor>
+		<professor>
+			<name>Liu, Xu</name>
+			<papers>3.0</papers>
+		</professor>
+		<professor>
+			<name>Mao, Weizhen</name>
+			<papers>18.2333333333</papers>
+		</professor>
+		<professor>
+			<name>Meier, Eric</name>
+			<papers>12.3333333333</papers>
+		</professor>
+		<professor>
+			<name>Mordijck, Saskia</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Noonan, Deborah</name>
+			<papers>-1</papers>
+		</professor>
+		<professor>
+			<name>Peers, Pieter</name>
+			<papers>20.95</papers>
+		</professor>
+		<professor>
+			<name>Poshyvanyk, Denys</name>
+			<papers>43.4873015873</papers>
+		</professor>
+		<professor>
+			<name>Shen, Xipeng</name>
+			<papers>38.4</papers>
+		</professor>
+		<professor>
+			<name>Smirni, Evgenia</name>
+			<papers>49.5261904762</papers>
+		</professor>
+		<professor>
+			<name>Stathopoulos, Andreas</name>
+			<papers>23.6666666667</papers>
+		</professor>
+		<professor>
+			<name>Sun, Kun</name>
+			<papers>0.5</papers>
+		</professor>
+		<professor>
+			<name>Torczon, Virginia</name>
+			<papers>7.74358974359</papers>
+		</professor>
+		<professor>
+			<name>Wang, Haining</name>
+			<papers>59.9666666667</papers>
+		</professor>
+		<professor>
+			<name>Zhou, Gan</name>
+			<papers>0.75</papers>
+		</professor>
+	</institution>
