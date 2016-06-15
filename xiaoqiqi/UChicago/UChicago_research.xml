@@ -57,6 +57,7 @@
 			<professorname>Anne Rogers</professorname>
 			<professorname>Rick Stevens</professorname>
 		</research>
+		<research>
 			<groupname>Theoretical Computer Science</groupname>
 			<professorname>László Babai</professorname>
 			<professorname>Andrew Drucker</professorname>
@@ -66,5 +67,5 @@
 			<professorname>Ketan Mulmuley</professorname>
 			<professorname>Alexander Razborov</professorname>
 			<professorname>Janos Simon</professorname>
-		<research>
+		</research>
 	</institution>
